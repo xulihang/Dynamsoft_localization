@@ -1,0 +1,2097 @@
+{
+    "filename": "mobile-document-scanning-in-html5.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Build a Mobile Document Scanning and Capture App in HTML5",
+                    "构建一个文档扫描HTML5移动应用",
+                    "Build a Mobile Document Scanning and Capture App in HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "creator": "admin",
+                        "createdTime": 1614058166047,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-02-18 14:32:53 +0800",
+                    "",
+                    "2021-02-18 14:32:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-02-18 22:32:53 +0800",
+                    "",
+                    "2021-02-18 22:32:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614058023610,
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Mobile",
+                    "",
+                    "Mobile",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to use the latest version of web TWAIN to build a mobile web document scanner",
+                    "",
+                    "The article shares how to use the latest version of web TWAIN to build a mobile web document scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/dwt-mobile.jpg",
+                    "",
+                    ".\/img\/2021\/dwt-mobile.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "https:\/\/www.dynamsoft.com\/codepool\/mobile-document-scanning-in-html5.html",
+                    "",
+                    "https:\/\/www.dynamsoft.com\/codepool\/mobile-document-scanning-in-html5.html",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN 16 has added some exciting features related to the mobile platform.",
+                    "Dynamic Web TWAIN 16添加了一系列针对移动平台的新功能。",
+                    "Dynamic Web TWAIN 16 has added some exciting features related to the mobile platform.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614058184839,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Document capturing via mobile cameras, 16.0",
+                    "通过移动设备的摄像头捕获文档，16.0",
+                    "Document capturing via mobile cameras, 16.0",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050408560,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "PDF Rasterizer mobile edition, 16.0",
+                    "PDF Rasterizer移动版，16.0",
+                    "PDF Rasterizer mobile edition, 16.0",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050413529,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "LoadImageEx supports mobile platform, 16.1",
+                    "LoadImageEx支持移动平台，16.1",
+                    "LoadImageEx supports mobile platform, 16.1",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050437032,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Acquiring images from a remote scanner, 16.1",
+                    "从远程扫描仪获取图像，16.1",
+                    "Acquiring images from a remote scanner, 16.1",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050472487,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "All of these make it possible to build a mobile document scanning and capture app in HTML5 with ease.",
+                    "有了以上功能，我们可以很容易地构建一个移动端的HTML5文档扫描应用，",
+                    "All of these make it possible to build a mobile document scanning and capture app in HTML5 with ease.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614058680831,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Such a mobile document scanner can not only utilize high-resolution cameras equipped on modern mobile devices but also interact with connected scanners.",
+                    "不仅可以利用现代移动设备上配备的高分辨率摄像头，还可以远程调用扫描仪。",
+                    " Such a mobile document scanner can not only utilize high-resolution cameras equipped on modern mobile devices but also interact with connected scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050663362,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Your phone can be the hub of the entire document scanning process.",
+                    "这样通过手机就可以完成整个文档扫描过程。",
+                    " Your phone can be the hub of the entire document scanning process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050695456,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Requirements",
+                    "需求",
+                    "Requirements",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050702385,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN SDK",
+                    "",
+                    "<g1>Dynamic Web TWAIN SDK<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<g1>Virtual Scanner for Windows<\/g1>.",
+                    "<g1>适用于Windows的虚拟扫描仪<\/g1>​​。",
+                    "<g1>Virtual Scanner for Windows<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050774258,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "If you don’t have a document scanner, you can install the virtual scanner app for tests on Windows.",
+                    "如果手头没有扫描仪，可以在Windows上安装虚拟扫描仪应用进行测试。",
+                    " If you don’t have a document scanner, you can install the virtual scanner app for tests on Windows.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050763577,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Implementation",
+                    "实现",
+                    "Implementation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050782768,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Let's implement the scanner in steps.",
+                    "下面是分步实现过程。",
+                    "Let's implement the scanner in steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050804494,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Preview",
+                    "预览",
+                    "Preview",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050807778,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Our goal is to build a web document scanner that mobile devices can use.",
+                    "我们的目标是构建一个移动设备可以使用的文档扫描Web应用。",
+                    "Our goal is to build a web document scanner that mobile devices can use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050835957,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "The layout should be optimized.",
+                    "布局要针对移动设备进行优化。",
+                    " The layout should be optimized.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050857682,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Here is a preview of the final result:",
+                    "以下是最终的效果预览：",
+                    " Here is a preview of the final result:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050896346,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<x1\/>Scanner Preview<x2\/>",
+                    "<x1\/>扫描应用预览<x2\/>",
+                    "<x1\/>Scanner Preview<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050922266,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "On the top is a viewer of scanned documents.",
+                    "顶部是一个已扫描文档的查看器。",
+                    "On the top is a viewer of scanned documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050946022,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Below the viewer, there is an actions tab.",
+                    "查看器下方是一个操作Tab选项卡。",
+                    " Below the viewer, there is an actions tab.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614058744814,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Since there is not much screen space for mobile devices, using a tab is a good choice if there are many actions available.",
+                    "由于移动设备的屏幕空间不多，操作很多的话，使用Tab选项卡是一个可行的选择。",
+                    " Since there is not much screen space for mobile devices, using a tab is a good choice if there are many actions available.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057041191,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "A Minimum Implementation",
+                    "实现一个基础版本",
+                    "A Minimum Implementation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614051097050,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Here, we first create a minimum version which captures images with the camera and save them to image or PDF files.",
+                    "我们首先做一个基础版本，支持用相机捕获图像并将结果保存到图像或PDF文件中。",
+                    "Here, we first create a minimum version which captures images with the camera and save them to image or PDF files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057055805,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "The entire HTML file is as below.",
+                    "整个HTML文件如下。",
+                    " The entire HTML file is as below.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614051137785,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN Mobile Sample",
+                    "",
+                    "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <title>Dynamic Web TWAIN Mobile Sample<\/title>\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614058768384,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "    <script type=\"text\/javascript\" src=\"Resources\/dynamsoft.webtwain.initiate.js\"><\/script>\r\n    <script type=\"text\/javascript\" src=\"Resources\/dynamsoft.webtwain.config.js\"><\/script>\r\n    <script type=\"text\/javascript\" src=\"Resources\/addon\/dynamsoft.webtwain.addon.camera.js\"><\/script>\r\n    <script type=\"text\/javascript\" src=\"Resources\/addon\/dynamsoft.webtwain.addon.pdf.js\"><\/script>\r\n    <script type=\"text\/javascript\" src=\"common.js\"><\/script>\r\n    <script type=\"text\/javascript\" src=\"tabs.js\"><\/script>\r\n    <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0\" \/>\r\n    <link rel=\"stylesheet\" href=\"css\/normalize.css\">\r\n    <link rel=\"stylesheet\" href=\"css\/skeleton.css\">\r\n    <link rel=\"stylesheet\" href=\"css\/tabs.css\">\r\n<\/head>\r\n<body>\r\n    <div class=\"container\">\r\n        <div class=\"row\">\r\n            <div class=\"six columns\">\r\n                <div id=\"dwtcontrolContainer\" style=\"float:left;width:100%\"><\/div>\r\n            <\/div>\r\n            <div class=\"six columns\">\r\n                <div class=\"tab\" style=\"display:flex;overflow-x:auto\">\r\n                    <button class=\"tablinks\" onclick=\"switchTab(event, 'camera')\">Camera<\/button>\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614058765359,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Save",
+                    "",
+                    "                    <button class=\"tablinks\" onclick=\"switchTab(event, 'save')\">Save<\/button>\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614058765359,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Default Filename:",
+                    "",
+                    "                <\/div>        \r\n                <div>\r\n                    <div id=\"camera\" class=\"tabcontent\">\r\n                        <select id=\"camerasource\"><\/select>\r\n                        <input id=\"captureButton\" type=\"button\" value=\"Capture Images\" onclick=\"CaptureImages();\" \/>\r\n                        <input id=\"switchButton\" type=\"button\" value=\"Hide Video\" onclick=\"SwitchViews();\" \/>\r\n                    <\/div>\r\n                    <div id=\"save\"  class=\"tabcontent\">\r\n                        Default Filename:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614058765359,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "JPEG",
+                    "",
+                    " <input type=\"text\" id=\"filename\" value=\"DynamicWebTWAIN\"\/>\r\n                        <input onclick=\"SaveWithFileDialog();\" type=\"button\" value=\"Save\">\r\n                        <div>\r\n                            <label>\r\n                                <input type=\"radio\" value=\"jpg\" name=\"ImageType\" id=\"imgTypejpeg\" \/>JPEG<\/label>\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "TIFF",
+                    "",
+                    "                            <label>\r\n                                <input type=\"radio\" value=\"tif\" name=\"ImageType\" id=\"imgTypetiff\" \/>TIFF<\/label>\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "PDF",
+                    "",
+                    "                            <label>\r\n                                <input type=\"radio\" value=\"pdf\" name=\"ImageType\" id=\"imgTypepdf\" checked=\"checked\" \/>PDF<\/label>\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "var console = window['console'] ? window['console'] :",
+                    "",
+                    "                        <\/div>\r\n                    <\/div>                \r\n               <\/div>\r\n            <\/div>\r\n        <\/div>\r\n    <\/div>        \r\n    <script type=\"text\/javascript\">\r\n        var console = window['console'] ? window['console'] :",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "{ 'log': function () { } };",
+                    "",
+                    " { 'log': function () { } };\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Dynamsoft.WebTwainEnv.RegisterEvent('OnWebTwainReady', Dynamsoft_OnReady); \/\/ Register OnWebTwainReady event.",
+                    "",
+                    "        Dynamsoft.WebTwainEnv.RegisterEvent('OnWebTwainReady', Dynamsoft_OnReady); \/\/ Register OnWebTwainReady event.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "This event fires as soon as Dynamic Web TWAIN is initialized and ready to be used",
+                    "",
+                    " This event fires as soon as Dynamic Web TWAIN is initialized and ready to be used\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "var DWObject;",
+                    "",
+                    "        var DWObject;\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "switchTab(null, 'camera')",
+                    "",
+                    "        switchTab(null, 'camera')\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "function Dynamsoft_OnReady() {",
+                    "",
+                    "        \r\n        function Dynamsoft_OnReady() {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject = Dynamsoft.WebTwainEnv.GetWebTwain('dwtcontrolContainer'); \/\/ Get the Dynamic Web TWAIN object that is embeded in the div with id 'dwtcontrolContainer'",
+                    "",
+                    "            DWObject = Dynamsoft.WebTwainEnv.GetWebTwain('dwtcontrolContainer'); \/\/ Get the Dynamic Web TWAIN object that is embeded in the div with id 'dwtcontrolContainer'\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "if (DWObject) {",
+                    "",
+                    "            if (DWObject) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.Viewer.width=\"100%\";",
+                    "",
+                    "                DWObject.Viewer.width=\"100%\";\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.SetViewMode(2, 2);",
+                    "",
+                    "                DWObject.SetViewMode(2, 2);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "SetIfWebcamPlayVideo(false);",
+                    "",
+                    "   \r\n                SetIfWebcamPlayVideo(false);    \r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.Addon.Camera.getSourceList().then(function (sourceName) {",
+                    "",
+                    "                DWObject.Addon.Camera.getSourceList().then(function (sourceName) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "var iCount = sourceName.length;",
+                    "",
+                    "                    var iCount = sourceName.length;\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "for (var i = 0; i < iCount; i++) {",
+                    "",
+                    "                    for (var i = 0; i < iCount; i++) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "document.getElementById(\"camerasource\").options.add(new Option(sourceName[i].label, sourceName[i].deviceId));",
+                    "",
+                    "                        document.getElementById(\"camerasource\").options.add(new Option(sourceName[i].label, sourceName[i].deviceId));\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "                    }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "});",
+                    "",
+                    "                });\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "document.getElementById('camerasource').onchange = function () {",
+                    "",
+                    "                document.getElementById('camerasource').onchange = function () {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "var deviceId = document.getElementById(\"camerasource\").options[document.getElementById(\"camerasource\").selectedIndex].value;",
+                    "",
+                    "                    var deviceId = document.getElementById(\"camerasource\").options[document.getElementById(\"camerasource\").selectedIndex].value;\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.Addon.Camera.selectSource(deviceId).then(function () {",
+                    "",
+                    "                    DWObject.Addon.Camera.selectSource(deviceId).then(function () {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "SetIfWebcamPlayVideo(true);",
+                    "",
+                    "                        SetIfWebcamPlayVideo(true);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "document.getElementById(\"switchButton\").style.display = '';",
+                    "",
+                    "                        document.getElementById(\"switchButton\").style.display = '';\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "document.getElementById(\"captureButton\").disabled = \"\";",
+                    "",
+                    "                        document.getElementById(\"captureButton\").disabled = \"\";\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}, function (ex) { console.log(ex.message); });",
+                    "",
+                    "                    }, function (ex) { console.log(ex.message); });\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "                }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "            }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "        }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "function CaptureImages() {",
+                    "",
+                    "        \r\n        function CaptureImages() {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "if (DWObject) {",
+                    "",
+                    "            if (DWObject) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.Addon.Camera.capture().then(function () {",
+                    "",
+                    "                DWObject.Addon.Camera.capture().then(function () {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.Viewer.render();",
+                    "",
+                    "                    DWObject.Viewer.render();\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "SetIfWebcamPlayVideo(false);",
+                    "",
+                    "                    SetIfWebcamPlayVideo(false);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}, function (ex) {",
+                    "",
+                    "                }, function (ex) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "console.log(ex.message);",
+                    "",
+                    "                    console.log(ex.message);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "SetIfWebcamPlayVideo(false);",
+                    "",
+                    "                    SetIfWebcamPlayVideo(false);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "});",
+                    "",
+                    "                });\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "            }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "        }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "function SetIfWebcamPlayVideo(bShow) {",
+                    "",
+                    "\r\n        function SetIfWebcamPlayVideo(bShow) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "if (bShow) {",
+                    "",
+                    "            if (bShow) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.Addon.Camera.play(null, { width:",
+                    "",
+                    "                DWObject.Addon.Camera.play(null, { width:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "2560, height:",
+                    "",
+                    " 2560, height:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "1440 },true).then(function (r) {",
+                    "",
+                    " 1440 },true).then(function (r) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "isVideoOn = true;",
+                    "",
+                    "                    isVideoOn = true;\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "document.getElementById(\"captureButton\").style.backgroundColor = \"\";",
+                    "",
+                    "                    document.getElementById(\"captureButton\").style.backgroundColor = \"\";\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "document.getElementById(\"captureButton\").disabled = \"\";",
+                    "",
+                    "                    document.getElementById(\"captureButton\").disabled = \"\";\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "document.getElementById(\"switchButton\").value = \"Hide Video\";",
+                    "",
+                    "                    document.getElementById(\"switchButton\").value = \"Hide Video\";\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}, function (ex) {",
+                    "",
+                    "                }, function (ex) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "console.log(ex.message);",
+                    "",
+                    "                    console.log(ex.message);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.Addon.Camera.stop();",
+                    "",
+                    "                    DWObject.Addon.Camera.stop();\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "});",
+                    "",
+                    "                });\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "            }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "else {",
+                    "",
+                    "            else {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.Addon.Camera.stop();",
+                    "",
+                    "                DWObject.Addon.Camera.stop();\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "isVideoOn = false;",
+                    "",
+                    "                isVideoOn = false;\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "document.getElementById(\"captureButton\").style.backgroundColor = \"#aaa\";",
+                    "",
+                    "                document.getElementById(\"captureButton\").style.backgroundColor = \"#aaa\";\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "document.getElementById(\"captureButton\").disabled = \"disabled\";",
+                    "",
+                    "                document.getElementById(\"captureButton\").disabled = \"disabled\";\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "document.getElementById(\"switchButton\").value = \"Show Video\";",
+                    "",
+                    "                document.getElementById(\"switchButton\").value = \"Show Video\";\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "\r\n            }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "        }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "function SwitchViews() {",
+                    "",
+                    "\r\n        function SwitchViews() {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "if (isVideoOn == false) {",
+                    "",
+                    "            if (isVideoOn == false) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "\/\/ continue the video",
+                    "",
+                    "                \/\/ continue the video\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "SetIfWebcamPlayVideo(true);",
+                    "",
+                    "                SetIfWebcamPlayVideo(true);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "} else {",
+                    "",
+                    "            } else {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "\/\/ stop the video",
+                    "",
+                    "                \/\/ stop the video\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "SetIfWebcamPlayVideo(false);",
+                    "",
+                    "                SetIfWebcamPlayVideo(false);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "            }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "        }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "\/\/Callback functions for async APIs",
+                    "",
+                    "\r\n        \/\/Callback functions for async APIs\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "function OnSuccess() {",
+                    "",
+                    "        function OnSuccess() {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "console.log('successful');",
+                    "",
+                    "            console.log('successful');\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "        }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "function OnFailure(errorCode, errorString) {",
+                    "",
+                    "\r\n        function OnFailure(errorCode, errorString) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "alert(errorString);",
+                    "",
+                    "            alert(errorString);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "        }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "function SaveWithFileDialog() {",
+                    "",
+                    "\r\n        function SaveWithFileDialog() {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "if (DWObject) {",
+                    "",
+                    "            if (DWObject) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "if (DWObject.HowManyImagesInBuffer > 0) {",
+                    "",
+                    "                if (DWObject.HowManyImagesInBuffer > 0) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.IfShowFileDialog = true;",
+                    "",
+                    "                    DWObject.IfShowFileDialog = true;\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "var filename=document.getElementById(\"filename\").value;",
+                    "",
+                    "                    var filename=document.getElementById(\"filename\").value;\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "if (document.getElementById(\"imgTypejpeg\").checked == true) {",
+                    "",
+                    "                    if (document.getElementById(\"imgTypejpeg\").checked == true) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "\/\/If the current image is B&W",
+                    "",
+                    "                        \/\/If the current image is B&W\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "\/\/1 is B&W, 8 is Gray, 24 is RGB",
+                    "",
+                    "                        \/\/1 is B&W, 8 is Gray, 24 is RGB\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "if (DWObject.GetImageBitDepth(DWObject.CurrentImageIndexInBuffer) == 1)",
+                    "",
+                    "                        if (DWObject.GetImageBitDepth(DWObject.CurrentImageIndexInBuffer) == 1)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "\/\/If so, convert the image to Gray",
+                    "",
+                    "                            \/\/If so, convert the image to Gray\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.ConvertToGrayScale(DWObject.CurrentImageIndexInBuffer);",
+                    "",
+                    "                            DWObject.ConvertToGrayScale(DWObject.CurrentImageIndexInBuffer);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "\/\/Save image in JPEG",
+                    "",
+                    "                        \/\/Save image in JPEG\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.SaveAsJPEG(filename+\".jpg\", DWObject.CurrentImageIndexInBuffer);",
+                    "",
+                    "                        DWObject.SaveAsJPEG(filename+\".jpg\", DWObject.CurrentImageIndexInBuffer);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "                    }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "else if (document.getElementById(\"imgTypetiff\").checked == true)",
+                    "",
+                    "                    else if (document.getElementById(\"imgTypetiff\").checked == true)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.SaveAllAsMultiPageTIFF(filename+\".tiff\", OnSuccess, OnFailure);",
+                    "",
+                    "                        DWObject.SaveAllAsMultiPageTIFF(filename+\".tiff\", OnSuccess, OnFailure);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "else if (document.getElementById(\"imgTypepdf\").checked == true)",
+                    "",
+                    "                    else if (document.getElementById(\"imgTypepdf\").checked == true)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DWObject.SaveAllAsPDF(filename+\".pdf\", OnSuccess, OnFailure);",
+                    "",
+                    "                        DWObject.SaveAllAsPDF(filename+\".pdf\", OnSuccess, OnFailure);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "                }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "            }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "        }\r\n    <\/script>\r\n<\/body>\r\n<\/html>\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "We use the <g1>Skeleton CSS framework<\/g1> and add the <g2>viewport<\/g2> meta to make the page responsive and suitable for mobile devices.",
+                    "我们使用<g1>Skeleton CSS框架<\/g1>​​，并添加<g2>viewport<\/g2>元数据，以使页面支持响应式设计。",
+                    "We use the <g1>Skeleton CSS framework<\/g1> and add the <g2>viewport<\/g2> meta to make the page responsive and suitable for mobile devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614056962119,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "The tabs are created according to <g1>How To Create Tabs<\/g1>.",
+                    "根据<g1>How To Create Tabs<\/g1>这篇文章创建Tab。",
+                    "The tabs are created according to <g1>How To Create Tabs<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057004302,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "The tab's style is modified so that the tab is horizontally scrollable.",
+                    "Tab的样式有做修改，可以水平滚动。",
+                    " The tab's style is modified so that the tab is horizontally scrollable.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057101869,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "The camera addon is used to access mobile cameras which is through <g1>MediaDevices<\/g1>.",
+                    "摄像头组件通过<g1>MediaDevices<\/g1>访问移动摄像头。",
+                    "The camera addon is used to access mobile cameras which is through <g1>MediaDevices<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057147277,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "MediaDevices requires HTTPS.",
+                    "MediaDevices需要HTTPS。",
+                    " MediaDevices requires HTTPS.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057151300,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "If you don't have an HTTPS server, you can create a local server using Python 3 following this <g2>post<\/g2>.",
+                    "如果没有HTTPS服务器，可以根据这个<g2>帖子<\/g2>使用Python 3运行本地服务器。",
+                    " If you don't have an HTTPS server, you can create a local server using Python 3 following this <g2>post<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057187614,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "You also need to copy the Resources folder from <g1>Dynamsoft\\Dynamic Web TWAIN SDK <version>\\Resources<\/g1> to the project's root directory.",
+                    "另外还需要将Resources文件夹从<g1>Dynamsoft\\Dynamic Web TWAIN SDK <version>\\Resources<\/g1>复制到项目的根目录。",
+                    "You also need to copy the Resources folder from <g1>Dynamsoft\\Dynamic Web TWAIN SDK <version>\\Resources<\/g1> to the project's root directory.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057245315,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Build the Muscle",
+                    "添加功能",
+                    "Build the Muscle",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057283606,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Now we can add new functions based on the minimum implementation.",
+                    "我们可以给基础版本添加更多功能。",
+                    "Now we can add new functions based on the minimum implementation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057312530,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Add More Input",
+                    "添加更多输入方式",
+                    "Add More Input",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057320110,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Basically, there are three input sources: scanner, camera, local files.",
+                    "Web TWAIN主要有三种输入来源：扫描仪、摄像头、本地文件。",
+                    "Basically, there are three input sources: scanner, camera, local files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057357734,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Loading local files is very simple with the <g1>LoadImageEx<\/g1> method.",
+                    "加载本地文件十分简单，调用<g1>LoadImageEx<\/g1>即可。",
+                    "Loading local files is very simple with the <g1>LoadImageEx<\/g1> method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057388341,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "It can load images as well as PDFs.",
+                    "它可以加载图片以及PDF文件。",
+                    " It can load images as well as PDFs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057402835,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "\/\/Callback functions for async APIs",
+                    "",
+                    "\/\/Callback functions for async APIs\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "function OnSuccess() {",
+                    "",
+                    "function OnSuccess() {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "console.log('successful');",
+                    "",
+                    "    console.log('successful');\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "}\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "function OnFailure(errorCode, errorString) {",
+                    "",
+                    "\r\nfunction OnFailure(errorCode, errorString) {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "alert(errorString);",
+                    "",
+                    "    alert(errorString);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "}\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "function LoadLocal(){",
+                    "",
+                    "\r\nfunction LoadLocal(){\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "DWObject.IfShowFileDialog = true;",
+                    "",
+                    "    DWObject.IfShowFileDialog = true;\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "\/\/ PDF Rasterizer Addon is used here to ensure PDF support",
+                    "",
+                    "    \/\/ PDF Rasterizer Addon is used here to ensure PDF support\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "DWObject.Addon.PDF.SetResolution(200);",
+                    "",
+                    "    DWObject.Addon.PDF.SetResolution(200);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "DWObject.Addon.PDF.SetConvertMode(Dynamsoft.EnumDWT_ConvertMode.CM_RENDERALL);",
+                    "",
+                    "    DWObject.Addon.PDF.SetConvertMode(Dynamsoft.EnumDWT_ConvertMode.CM_RENDERALL);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "DWObject.LoadImageEx(\"\", Dynamsoft.EnumDWT_ImageType.IT_ALL, OnSuccess, OnFailure);",
+                    "",
+                    "    DWObject.LoadImageEx(\"\", Dynamsoft.EnumDWT_ImageType.IT_ALL, OnSuccess, OnFailure);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Local",
+                    "",
+                    "<button class=\"tablinks\" onclick=\"switchTab(event, 'local')\">Local<\/button>\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "......",
+                    "",
+                    "......<div id=\"local\" class=\"tabcontent\">            \r\n    <input onclick=\"LoadLocal();\" type=\"button\" value=\"Load Images\">                \r\n<\/div>\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Since mobiles devices normally cannot connect to scanners physically, we can only use the RemoteScan capability.",
+                    "由于移动设备无法物理连接到扫描仪，因此我们只能使用远程扫描功能。",
+                    "Since mobiles devices normally cannot connect to scanners physically, we can only use the RemoteScan capability.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057436219,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "<g1>How to Build a Universal Document Scanning App in HTML5<\/g1> explains how to do this in detail.",
+                    "<g1>如何用HTML5构建一个通用文档扫描应用程序<\/g1>一文有具体的说明。",
+                    " <g1>How to Build a Universal Document Scanning App in HTML5<\/g1> explains how to do this in detail.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057526091,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Add More Actions",
+                    "添加更多操作",
+                    "Add More Actions",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057532684,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "The viewer should be adjustable and we may also need to remove, reorder and edit images.",
+                    "视图模式应该是可调整的。此外，我们还需要删除，重新排序和编辑图像。",
+                    "The viewer should be adjustable and we may also need to remove, reorder and edit images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057659959,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN provides rich APIs to do this.",
+                    "我们可以用Dynamic Web TWAIN提供的丰富的API来做到这些。",
+                    " Dynamic Web TWAIN provides rich APIs to do this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057715867,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "It also has a powerful image editor which can adapt to mobile devices.",
+                    "它还内置了一个移动设备友好的图像编辑器，",
+                    "It also has a powerful image editor which can adapt to mobile devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057798214,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Functions like rotation, deskewing, flipping, mirroring, cropping and cutting are supported.",
+                    "支持旋转、倾斜、翻转、镜像、裁剪和剪切等功能。",
+                    " Functions like rotation, deskewing, flipping, mirroring, cropping and cutting are supported.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057803590,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "<x1\/>Image Editor<x2\/>",
+                    "<x1\/>图像编辑器<x2\/>",
+                    "<x1\/>Image Editor<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057827472,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "function ShowImageEditor(){",
+                    "",
+                    "function ShowImageEditor(){\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "var editorSettings = {",
+                    "",
+                    "    var editorSettings = {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "\/*element: document.getElementById(\"imageEditor\"),",
+                    "",
+                    "        \/*element: document.getElementById(\"imageEditor\"),\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "width:",
+                    "",
+                    "        width:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "600,",
+                    "",
+                    " 600,\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "height:",
+                    "",
+                    "        height:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "400,*\/",
+                    "",
+                    " 400,*\/\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "border:",
+                    "",
+                    "        border:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "'1px solid rgb(204, 204, 204);',",
+                    "",
+                    " '1px solid rgb(204, 204, 204);',\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "topMenuBorder:",
+                    "",
+                    "        topMenuBorder:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "'',",
+                    "",
+                    " '',\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "innerBorder:",
+                    "",
+                    "        innerBorder:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "'',",
+                    "",
+                    " '',\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "background:",
+                    "",
+                    "        background:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "\"rgb(255, 255, 255)\",",
+                    "",
+                    " \"rgb(255, 255, 255)\",\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "promptToSaveChange: true",
+                    "",
+                    "        promptToSaveChange: true\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "};",
+                    "",
+                    "    };\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "var imageEditor = DWObject.Viewer.createImageEditor(editorSettings);",
+                    "",
+                    "    var imageEditor = DWObject.Viewer.createImageEditor(editorSettings);\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "imageEditor.show();",
+                    "",
+                    "    imageEditor.show();\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Edit",
+                    "",
+                    "<button class=\"tablinks\" onclick=\"switchTab(event, 'edit')\">Edit<\/button>\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "......",
+                    "",
+                    "......<div id=\"edit\" class=\"tabcontent\">\r\n    <input onclick=\"ShowImageEditor()\" type=\"button\" value=\"Show Editor\" \/>\r\n<\/div>\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Get the source code and have a try!",
+                    "欢迎下载源代码并尝试使用。",
+                    "Get the source code and have a try!",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057900558,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "The final version can run on both desktop and mobile.",
+                    "最终版本可以在桌面和移动设备上运行。",
+                    " The final version can run on both desktop and mobile.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057875259,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "https:\/\/github.com\/xulihang\/dynamsoft-samples\/tree\/main\/dwt",
+                    "",
+                    "<g1>https:\/\/github.com\/xulihang\/dynamsoft-samples\/tree\/main\/dwt<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-document-scanning-in-html5.md",
+                    {
+                        "id": "tu43"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
