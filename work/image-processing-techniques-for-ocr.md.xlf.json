@@ -1,0 +1,1054 @@
+{
+    "filename": "image-processing-techniques-for-ocr.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Image Processing Techniques for OCR",
+                    "",
+                    "Image Processing Techniques for OCR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-04-05 14:09:53 +0800",
+                    "",
+                    "2021-04-05 14:09:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-04-05 14:09:53 +0800",
+                    "",
+                    "2021-04-05 14:09:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "OCR",
+                    "",
+                    "OCR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Image Processing",
+                    "",
+                    "Image Processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Label Recognition",
+                    "",
+                    "Label Recognition",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "OCR",
+                    "",
+                    "OCR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article talks about what image processing techniques we can use to achieve a better OCR result.",
+                    "",
+                    "The article talks about what image processing techniques we can use to achieve a better OCR result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/image-processing\/light_text_inverted.png",
+                    "",
+                    ".\/img\/2021\/image-processing\/light_text_inverted.png",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "https:\/\/www.dynamsoft.com\/codepool\/image-processing-techniques-for-ocr.html",
+                    "",
+                    "https:\/\/www.dynamsoft.com\/codepool\/image-processing-techniques-for-ocr.html",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "We need to use OCR in various scenarios, whether we want to scan the credit card number with our phone or extract text from documents.",
+                    "",
+                    "We need to use OCR in various scenarios, whether we want to scan the credit card number with our phone or extract text from documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Dynamsoft Label Recognition (DLR) and Dynamic Web TWAIN (DWT) have the OCR ability to accurately read text.",
+                    "",
+                    " Dynamsoft Label Recognition (DLR) and Dynamic Web TWAIN (DWT) have the OCR ability to accurately read text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Although generally they can do a good job, we can use various image processing techniques to improve the result.",
+                    "",
+                    "Although generally they can do a good job, we can use various image processing techniques to improve the result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Whiten Up\/Remove Shadows",
+                    "",
+                    "Whiten Up\/Remove Shadows",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Bad lighting may affect the OCR result.",
+                    "",
+                    "Bad lighting may affect the OCR result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "We can whiten up images or remove shadows from images to improve the result.",
+                    "",
+                    " We can whiten up images or remove shadows from images to improve the result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Invert",
+                    "",
+                    "Invert",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Text with a light color can be difficult to locate and recognize as the OCR engine is generally trained against text with a dark color.",
+                    "",
+                    "Text with a light color can be difficult to locate and recognize as the OCR engine is generally trained against text with a dark color.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<x1\/>light text<x2\/>",
+                    "",
+                    "<x1\/>light text<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "It will be easier to recognize if we invert its color.",
+                    "",
+                    "It will be easier to recognize if we invert its color.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<x1\/>light text inverted<x2\/>",
+                    "",
+                    "<x1\/>light text inverted<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "In DLR, there is a <g1>GrayscaleTransformationModes<\/g1> parameter which we can use to do the inversion.",
+                    "",
+                    "In DLR, there is a <g1>GrayscaleTransformationModes<\/g1> parameter which we can use to do the inversion.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Here are the settings in JSON:",
+                    "",
+                    "Here are the settings in JSON:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "\"GrayscaleTransformationModes\":",
+                    "",
+                    "\"GrayscaleTransformationModes\":",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "[",
+                    "",
+                    " [\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "{",
+                    "",
+                    "    {\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "\"Mode\":",
+                    "",
+                    "        \"Mode\":",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "\"DLR_GTM_INVERTED\"",
+                    "",
+                    " \"DLR_GTM_INVERTED\"\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "}",
+                    "",
+                    "    }\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "]",
+                    "",
+                    "]\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<g1>DLR .net<\/g1>'s reading result:",
+                    "",
+                    "<g1>DLR .net<\/g1>'s reading result:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<x1\/>light text result<x2\/>",
+                    "",
+                    "<x1\/>light text result<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Rescale",
+                    "",
+                    "Rescale",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "If the height of letters is too low, the OCR engine may not give a good result.",
+                    "",
+                    "If the height of letters is too low, the OCR engine may not give a good result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Generally the image should better have a DPI of at least 300.",
+                    "",
+                    " Generally the image should better have a DPI of at least 300.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Starting from DLR 1.1, there is a <g1>ScaleUpModes<\/g1> parameter to scale up letters.",
+                    "",
+                    "Starting from DLR 1.1, there is a <g1>ScaleUpModes<\/g1> parameter to scale up letters.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Of course, we can also scale the image by ourselves.",
+                    "",
+                    " Of course, we can also scale the image by ourselves.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Directly reading the image gives a wrong result:",
+                    "",
+                    "Directly reading the image gives a wrong result:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "<x1\/>1x image<x2\/>",
+                    "",
+                    "<x1\/>1x image<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "After scaling up the image by 2 times, the result is correct:",
+                    "",
+                    "After scaling up the image by 2 times, the result is correct:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "<x1\/>2x image<x2\/>",
+                    "",
+                    "<x1\/>2x image<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Deskew",
+                    "",
+                    "Deskew",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "It is okay if the text is a bit skewed.",
+                    "",
+                    "It is okay if the text is a bit skewed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "But if it is too skewed, the result will be impacted significantly.",
+                    "",
+                    " But if it is too skewed, the result will be impacted significantly.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "We need to deskew the image to improve the result.",
+                    "",
+                    " We need to deskew the image to improve the result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "We can use <g1>Hough Line Transform in OpenCV<\/g1> to do this.",
+                    "",
+                    "We can use <g1>Hough Line Transform in OpenCV<\/g1> to do this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "<x1\/>Skewed Image<x2\/>",
+                    "",
+                    "<x1\/>Skewed Image<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Here is the code to deskew the image above.",
+                    "",
+                    "Here is the code to deskew the image above.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "#coding=utf-8",
+                    "",
+                    "#coding=utf-8\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "import numpy as np",
+                    "",
+                    "import numpy as np\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "import cv2",
+                    "",
+                    "import cv2\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "import math",
+                    "",
+                    "import math\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "from PIL import Image",
+                    "",
+                    "from PIL import Image\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "def deskew():",
+                    "",
+                    "\r\n\r\ndef deskew():\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "src = cv2.imread(\"neg.jpg\",cv2.IMREAD_COLOR)",
+                    "",
+                    "    src = cv2.imread(\"neg.jpg\",cv2.IMREAD_COLOR)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "gray = cv2.cvtColor(src, cv2.COLOR_BGR2GRAY)",
+                    "",
+                    "    gray = cv2.cvtColor(src, cv2.COLOR_BGR2GRAY)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "kernel = np.ones((5,5),np.uint8)",
+                    "",
+                    "    kernel = np.ones((5,5),np.uint8)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "erode_Img = cv2.erode(gray,kernel)",
+                    "",
+                    "    erode_Img = cv2.erode(gray,kernel)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "eroDil = cv2.dilate(erode_Img,kernel) # erode and dilate",
+                    "",
+                    "    eroDil = cv2.dilate(erode_Img,kernel) # erode and dilate\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "showAndWaitKey(\"eroDil\",eroDil)",
+                    "",
+                    "    showAndWaitKey(\"eroDil\",eroDil)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "canny = cv2.Canny(eroDil,50,150) # edge detection",
+                    "",
+                    "\r\n    canny = cv2.Canny(eroDil,50,150) # edge detection\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "showAndWaitKey(\"canny\",canny)",
+                    "",
+                    "    showAndWaitKey(\"canny\",canny)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "lines = cv2.HoughLinesP(canny, 0.8, np.pi \/ 180, 90,minLineLength=100,maxLineGap=10) # Hough Lines Transform",
+                    "",
+                    "\r\n    lines = cv2.HoughLinesP(canny, 0.8, np.pi \/ 180, 90,minLineLength=100,maxLineGap=10) # Hough Lines Transform\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "drawing = np.zeros(src.shape[:], dtype=np.uint8)",
+                    "",
+                    "    drawing = np.zeros(src.shape[:], dtype=np.uint8)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "maxY=0",
+                    "",
+                    "\r\n    maxY=0\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "degree_of_bottomline=0",
+                    "",
+                    "    degree_of_bottomline=0\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "index=0",
+                    "",
+                    "    index=0\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "for line in lines:",
+                    "",
+                    "    for line in lines:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "x1, y1, x2, y2 = line[0]",
+                    "",
+                    "        \r\n        x1, y1, x2, y2 = line[0]            \r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "cv2.line(drawing, (x1, y1), (x2, y2), (0, 255, 0), 1, lineType=cv2.LINE_AA)",
+                    "",
+                    "        cv2.line(drawing, (x1, y1), (x2, y2), (0, 255, 0), 1, lineType=cv2.LINE_AA)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "k = float(y1-y2)\/(x1-x2)",
+                    "",
+                    "        k = float(y1-y2)\/(x1-x2)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "degree = np.degrees(math.atan(k))",
+                    "",
+                    "        degree = np.degrees(math.atan(k))\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "if index==0:",
+                    "",
+                    "        if index==0:\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "maxY=y1",
+                    "",
+                    "            maxY=y1\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "degree_of_bottomline=degree # take the degree of the line at the bottom",
+                    "",
+                    "            degree_of_bottomline=degree # take the degree of the line at the bottom\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "else:",
+                    "",
+                    "        else:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "if y1>maxY:",
+                    "",
+                    "        \r\n            if y1>maxY:\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "maxY=y1",
+                    "",
+                    "                maxY=y1\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "degree_of_bottomline=degree",
+                    "",
+                    "                degree_of_bottomline=degree\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "index=index+1",
+                    "",
+                    "        index=index+1\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "showAndWaitKey(\"houghP\",drawing)",
+                    "",
+                    "    showAndWaitKey(\"houghP\",drawing)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "img=Image.fromarray(src)",
+                    "",
+                    "\r\n    img=Image.fromarray(src)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "rotateImg = img.rotate(degree_of_bottomline)",
+                    "",
+                    "    rotateImg = img.rotate(degree_of_bottomline)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "rotateImg_cv = np.array(rotateImg)",
+                    "",
+                    "    rotateImg_cv = np.array(rotateImg) \r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "cv2.imshow(\"rotateImg\",rotateImg_cv)",
+                    "",
+                    "    cv2.imshow(\"rotateImg\",rotateImg_cv)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "cv2.imwrite(\"deskewed.jpg\",rotateImg_cv)",
+                    "",
+                    "    cv2.imwrite(\"deskewed.jpg\",rotateImg_cv)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "cv2.waitKey()",
+                    "",
+                    "    cv2.waitKey()\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "def showAndWaitKey(winName,img):",
+                    "",
+                    "\r\ndef showAndWaitKey(winName,img):\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "cv2.imshow(winName,img)",
+                    "",
+                    "    cv2.imshow(winName,img)\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "cv2.waitKey()",
+                    "",
+                    "    cv2.waitKey()\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "if __name__ == \"__main__\":",
+                    "",
+                    "\r\nif __name__ == \"__main__\":",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "deskew()",
+                    "",
+                    "              \r\n    deskew()",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Lines detected:",
+                    "",
+                    "Lines detected:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "<x1\/>Lines<x2\/>",
+                    "",
+                    "<x1\/>Lines<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Deskewed:",
+                    "",
+                    "Deskewed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "<x1\/>Deskewed<x2\/>",
+                    "",
+                    "<x1\/>Deskewed<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "But for the image below, it is difficult to decide whether the degree to rotate should be plus 180 or not.",
+                    "",
+                    "But for the image below, it is difficult to decide whether the degree to rotate should be plus 180 or not.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "<x1\/>Skewed Image 2<x2\/>",
+                    "",
+                    "<x1\/>Skewed Image 2<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "The default rotated result:",
+                    "",
+                    "The default rotated result:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "<x1\/>Rotated flip needed<x2\/>",
+                    "",
+                    "<x1\/>Rotated flip needed<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Since the text is aligned with a barcode, we can use Dynamsoft Barcode Reader to read the barcode and get the correct rotation degree.",
+                    "",
+                    "Since the text is aligned with a barcode, we can use Dynamsoft Barcode Reader to read the barcode and get the correct rotation degree.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Using the <g1>online barcode reader<\/g1>, we can see that the barcode reading result contains the detected angel.",
+                    "",
+                    "Using the <g1>online barcode reader<\/g1>, we can see that the barcode reading result contains the detected angel.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "<x1\/>Skewed Image 2 Barcode Reading Result<x2\/>",
+                    "",
+                    "<x1\/>Skewed Image 2 Barcode Reading Result<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Then we can correctly rotate the image.",
+                    "",
+                    "Then we can correctly rotate the image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "<x1\/>Deskewed 2<x2\/>",
+                    "",
+                    "<x1\/>Deskewed 2<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "We can use DLR to read the text with the help of DBR.",
+                    "",
+                    "We can use DLR to read the text with the help of DBR.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "This <g1>article<\/g1> shares how to combine DBR and DLR to read text near barcodes.",
+                    "",
+                    " This <g1>article<\/g1> shares how to combine DBR and DLR to read text near barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Result:",
+                    "",
+                    "Result:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "<x1\/>Skewed result<x2\/>",
+                    "",
+                    "<x1\/>Skewed result<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Contact Support",
+                    "",
+                    "Contact Support",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "If you still have problems after trying these techniques, you can <g1>contact us<\/g1> for help.",
+                    "",
+                    "If you still have problems after trying these techniques, you can <g1>contact us<\/g1> for help.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/image-processing-techniques-for-ocr.md",
+                    {
+                        "id": "tu45"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

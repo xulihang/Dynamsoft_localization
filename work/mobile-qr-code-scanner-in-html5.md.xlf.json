@@ -1,0 +1,874 @@
+{
+    "filename": "mobile-qr-code-scanner-in-html5.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Mobile QR Code Scanner in HTML5",
+                    "",
+                    "Mobile QR Code Scanner in HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-03-03 14:36:53 +0800",
+                    "",
+                    "2021-03-03 14:36:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-03-03 06:36:53 +0800",
+                    "",
+                    "2021-03-03 06:36:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Mobile",
+                    "",
+                    "Mobile",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to use Dynamsoft Barcode Reader to build a mobile QR code scanner",
+                    "",
+                    "The article shares how to use Dynamsoft Barcode Reader to build a mobile QR code scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/specific-region.jpg",
+                    "",
+                    ".\/img\/2021\/specific-region.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "https:\/\/www.dynamsoft.com\/codepool\/mobile-qr-code-scanner-in-html5.html",
+                    "",
+                    "https:\/\/www.dynamsoft.com\/codepool\/mobile-qr-code-scanner-in-html5.html",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Originally designed for the automotive industry<x1\/>^wiki<x2\/>, QR code (abbreviated from Quick Response code) has become popular in various usage scenarios.",
+                    "",
+                    "Originally designed for the automotive industry<x1\/>^wiki<x2\/>, QR code (abbreviated from Quick Response code) has become popular in various usage scenarios.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "QR codes can encode richer content than 1D barcodes, from website URLs to even a small image.",
+                    "",
+                    " QR codes can encode richer content than 1D barcodes, from website URLs to even a small image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "They can be displayed on screens and printed on posters, package boxes, etc.",
+                    "",
+                    " They can be displayed on screens and printed on posters, package boxes, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "People can easily scan them with their mobile phones.",
+                    "",
+                    " People can easily scan them with their mobile phones.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "dynamsoft qr code scanner",
+                    "",
+                    "dynamsoft qr code scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf1_tu2"
+                    }
+                ],
+                [
+                    "Dynamsoft Barcode Reader (DBR) has good support for QR code.",
+                    "",
+                    "Dynamsoft Barcode Reader (DBR) has good support for QR code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "It has a JavaScript package since <g1>May 25th, 2017<\/g1>.",
+                    "",
+                    " It has a JavaScript package since <g1>May 25th, 2017<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "It is easy to use DBR to create a mobile QR code scanner with high speed and accuracy.",
+                    "",
+                    " It is easy to use DBR to create a mobile QR code scanner with high speed and accuracy.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Since it is HTML5-based, users don’t have to download and install apps and it’s easy to integrate it into your applications to work on different platforms.",
+                    "",
+                    " Since it is HTML5-based, users don’t have to download and install apps and it’s easy to integrate it into your applications to work on different platforms.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "There is an out-of-the-box <g1>online mobile demo<\/g1> that runs purely on the client side.",
+                    "",
+                    "There is an out-of-the-box <g1>online mobile demo<\/g1> that runs purely on the client side.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "It can scan with the built-in camera or read barcodes from the image gallery.",
+                    "",
+                    " It can scan with the built-in camera or read barcodes from the image gallery.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Creating your own mobile scanner is simple.",
+                    "",
+                    "Creating your own mobile scanner is simple.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "There are many samples on <g1>GitHub<\/g1>.",
+                    "",
+                    " There are many samples on <g1>GitHub<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Some samples demonstrate how to use DBR with Vue, React and Angular.",
+                    "",
+                    " Some samples demonstrate how to use DBR with Vue, React and Angular.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Some are designed as PWA or hybrid apps.",
+                    "",
+                    " Some are designed as PWA or hybrid apps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "You can start with the basic sample:",
+                    "",
+                    " You can start with the basic sample:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<g2>helloworld.html<\/g2>.",
+                    "",
+                    " <g2>helloworld.html<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Let's explore it in more detail.",
+                    "",
+                    "Let's explore it in more detail.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "The Hello World Example - An Online QR Code Scanner",
+                    "",
+                    "The Hello World Example - An Online QR Code Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "It first loads DBR by loading its JS file.",
+                    "",
+                    "It first loads DBR by loading its JS file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "The page contains a button to show the scanner and a button to choose local images to decode.",
+                    "",
+                    "The page contains a button to show the scanner and a button to choose local images to decode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "The UI of the scanner is defined in <g1>dist\/dbr.scanner.html<\/g1><x1\/>^ui<x2\/>:",
+                    "",
+                    "The UI of the scanner is defined in <g1>dist\/dbr.scanner.html<\/g1><x1\/>^ui<x2\/>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "You can copy its content to your HTML file, customize it and load it with this line of code:",
+                    "",
+                    "You can copy its content to your HTML file, customize it and load it with this line of code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "You can try the helloworld online demo <g1>here<\/g1>.",
+                    "",
+                    "You can try the helloworld online demo <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Runtime Settings for Decoding QR Codes",
+                    "",
+                    "Runtime Settings for Decoding QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "You can modify runtime settings<x1\/>^doc<x2\/> for different scenarios.",
+                    "",
+                    "You can modify runtime settings<x1\/>^doc<x2\/> for different scenarios.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "For example, if we only want to scan one single QR code, we can modify the settings with the <g1>updateRuntimeSettings<\/g1> method:",
+                    "",
+                    " For example, if we only want to scan one single QR code, we can modify the settings with the <g1>updateRuntimeSettings<\/g1> method:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "By using these settings, only QR codes will be recognized.",
+                    "",
+                    "By using these settings, only QR codes will be recognized.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "This will improve the decoding speed as well.",
+                    "",
+                    " This will improve the decoding speed as well.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Decoding speed is very important for real-time video stream scanning.",
+                    "",
+                    " Decoding speed is very important for real-time video stream scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "In some cases, the QR code might be incomplete or deformed.",
+                    "",
+                    "In some cases, the QR code might be incomplete or deformed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "These kinds of codes can be found on plastic bags, ripped receipt, etc.",
+                    "",
+                    " These kinds of codes can be found on plastic bags, ripped receipt, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "DBR has built-in <g1>code complement<\/g1> and <g2>deform-resist algorithms<\/g2> to restore these QR codes.",
+                    "",
+                    " DBR has built-in <g1>code complement<\/g1> and <g2>deform-resist algorithms<\/g2> to restore these QR codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Incomplete QR Codes",
+                    "",
+                    "Incomplete QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "DBR offers the capability to auto-restore missing portions of a QR code from poor printing or damage.",
+                    "",
+                    "DBR offers the capability to auto-restore missing portions of a QR code from poor printing or damage.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Incomplete QR Code",
+                    "",
+                    "Incomplete QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf2_tu2"
+                    }
+                ],
+                [
+                    "For the incomplete QR code above, we can add the <g1>BarcodeComplementModes<\/g1> parameter to the template to successfully decode the barcode.",
+                    "",
+                    "For the incomplete QR code above, we can add the <g1>BarcodeComplementModes<\/g1> parameter to the template to successfully decode the barcode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Scan Deformed QR Codes",
+                    "",
+                    "Scan Deformed QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "DBR comes with a sophisticated algorithm to improve the decoding success rate for wrinkled and deformed QR codes.",
+                    "",
+                    "DBR comes with a sophisticated algorithm to improve the decoding success rate for wrinkled and deformed QR codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "<x1\/>Deformed QR Code<x2\/>",
+                    "",
+                    "<x1\/>Deformed QR Code<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "For the deformed QR code above, we can include the <g1>DeformationResistingModes<\/g1> parameter in the template.",
+                    "",
+                    "For the deformed QR code above, we can include the <g1>DeformationResistingModes<\/g1> parameter in the template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Read QR Codes from a Specific Region",
+                    "",
+                    "Read QR Codes from a Specific Region",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Another useful setting is to specify an area\/region to read:",
+                    "",
+                    "Another useful setting is to specify an area\/region to read:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "A viewfinder box would appear on the video stream and users can then align the QR code within the box to read it.",
+                    "",
+                    "A viewfinder box would appear on the video stream and users can then align the QR code within the box to read it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "A better alignment would also speed up the decoding process.",
+                    "",
+                    " A better alignment would also speed up the decoding process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "<x1\/>Specific region<x2\/>",
+                    "",
+                    "<x1\/>Specific region<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Scan Multiple QR Codes in One Shot",
+                    "",
+                    "Scan Multiple QR Codes in One Shot",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "DBR has the ability to read a large number of QR codes in one shot.",
+                    "",
+                    "DBR has the ability to read a large number of QR codes in one shot.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Multiple QR Codes",
+                    "",
+                    "Multiple QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "sd1_sf3_tu2"
+                    }
+                ],
+                [
+                    "Variations of QR Codes",
+                    "",
+                    "Variations of QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Other variations of QR code (Micro QR Code and Model 1) are also supported.",
+                    "",
+                    "Other variations of QR code (Micro QR Code and Model 1) are also supported.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "<x1\/>Micro QR code (demo created by the author)<x2\/>",
+                    "",
+                    "<x1\/>Micro QR code (demo created by the author)<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "More about Dynamsoft Barcode Reader",
+                    "",
+                    "More about Dynamsoft Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Built-in Templates",
+                    "",
+                    "Built-in Templates",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "DBR JS has four built-in templates:",
+                    "",
+                    "DBR JS has four built-in templates:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "<g1>speed<\/g1>, <g2>balance<\/g2>, <g3>coverage<\/g3> and <g4>single<\/g4>.",
+                    "",
+                    " <g1>speed<\/g1>, <g2>balance<\/g2>, <g3>coverage<\/g3> and <g4>single<\/g4>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "The <g1>speed<\/g1> template is a good fit if you want to do a live scan.",
+                    "",
+                    "The <g1>speed<\/g1> template is a good fit if you want to do a live scan.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "But if there are many QR codes to decode or the image is complex, it may miss some of them.",
+                    "",
+                    " But if there are many QR codes to decode or the image is complex, it may miss some of them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Then the <g1>coverage<\/g1> template is a better choice, though it needs more time computing.",
+                    "",
+                    "Then the <g1>coverage<\/g1> template is a better choice, though it needs more time computing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "The <g1>balance<\/g1> template takes both speed and coverage into consideration.",
+                    "",
+                    "The <g1>balance<\/g1> template takes both speed and coverage into consideration.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "The <g1>single<\/g1> template is optimized for scanning one barcode.",
+                    "",
+                    "The <g1>single<\/g1> template is optimized for scanning one barcode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "To use one of the built-in templates, use this line of code:",
+                    "",
+                    "To use one of the built-in templates, use this line of code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Create Your Own Templates",
+                    "",
+                    "Create Your Own Templates",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "You can create your own template for your specific use cases.",
+                    "",
+                    "You can create your own template for your specific use cases.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Our <g1>online demo<\/g1> is convenient to try out the different parameters.",
+                    "",
+                    " Our <g1>online demo<\/g1> is convenient to try out the different parameters.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "A JSON template looks like this:",
+                    "",
+                    "A JSON template looks like this:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "We can load it with the following code (template can be stored in a textarea e.g.):",
+                    "",
+                    "We can load it with the following code (template can be stored in a textarea e.g.):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Please note that <g1>initRuntimeSettingsWithString<\/g1> is only available in the full edition(<g2>differences between compact and full editions<\/g2>).",
+                    "",
+                    "Please note that <g1>initRuntimeSettingsWithString<\/g1> is only available in the full edition(<g2>differences between compact and full editions<\/g2>).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "To enable full features, set the <g1>_bUseFullFeature<\/g1> property to true:",
+                    "",
+                    "To enable full features, set the <g1>_bUseFullFeature<\/g1> property to true:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Getting Started",
+                    "",
+                    "Getting Started",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Download <g1>Dynamsoft Barcode Reader SDK<\/g1> to try it on your own.",
+                    "",
+                    "Download <g1>Dynamsoft Barcode Reader SDK<\/g1> to try it on your own.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Official GitHub repo of the JavaScript Barcode Reader",
+                    "",
+                    "<g1>Official GitHub repo of the JavaScript Barcode Reader<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Demo created by the author of this article",
+                    "",
+                    "<g1>Demo created by the author of this article<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "References",
+                    "",
+                    "References",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "^wiki",
+                    "",
+                    "^wiki",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "^ui",
+                    "",
+                    "^ui",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "^doc",
+                    "",
+                    "^doc",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
+                    {
+                        "id": "tu56"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
