@@ -32,10 +32,12 @@
                 ],
                 [
                     "Mobile QR Code Scanner in HTML5",
-                    "",
+                    "网页版二维码扫描器",
                     "Mobile QR Code Scanner in HTML5",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619144782220,
                         "id": "sd1_sf1_sg1_sf4_tu1"
                     }
                 ],
@@ -149,415 +151,512 @@
                 ],
                 [
                     "Originally designed for the automotive industry<x1\/>^wiki<x2\/>, QR code (abbreviated from Quick Response code) has become popular in various usage scenarios.",
-                    "",
+                    "QR码是最常见的一种二维码，最初应用于汽车行业<x1\/>^wiki<x2\/>，到现在已经被应用于各种使用场景。",
                     "Originally designed for the automotive industry<x1\/>^wiki<x2\/>, QR code (abbreviated from Quick Response code) has become popular in various usage scenarios.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619144992216,
                         "id": "tu1"
                     }
                 ],
                 [
                     "QR codes can encode richer content than 1D barcodes, from website URLs to even a small image.",
-                    "",
+                    "QR码可以编码比1D条形码更丰富的内容，比如网站URL、一张小图片。",
                     " QR codes can encode richer content than 1D barcodes, from website URLs to even a small image.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145029920,
                         "id": "tu1"
                     }
                 ],
                 [
                     "They can be displayed on screens and printed on posters, package boxes, etc.",
-                    "",
+                    "它们可以显示在屏幕上，也可以印刷在海报、包装盒等上。",
                     " They can be displayed on screens and printed on posters, package boxes, etc.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145037080,
                         "id": "tu1"
                     }
                 ],
                 [
                     "People can easily scan them with their mobile phones.",
-                    "",
+                    "人们可以使用手机轻松地对其进行扫描。",
                     " People can easily scan them with their mobile phones.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145048768,
                         "id": "tu1"
                     }
                 ],
                 [
                     "dynamsoft qr code scanner",
-                    "",
+                    "Dynamsoft二维码扫描器",
                     "dynamsoft qr code scanner",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145064240,
                         "id": "sd1_sf1_tu2"
                     }
                 ],
                 [
                     "Dynamsoft Barcode Reader (DBR) has good support for QR code.",
-                    "",
+                    "Dynamsoft Barcode Reader（DBR）对二维码有很好的支持。",
                     "Dynamsoft Barcode Reader (DBR) has good support for QR code.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145084410,
                         "id": "tu2"
                     }
                 ],
                 [
                     "It has a JavaScript package since <g1>May 25th, 2017<\/g1>.",
-                    "",
+                    "<g1>2017年5月25日<\/g1>，它添加了对JavaScript的支持。",
                     " It has a JavaScript package since <g1>May 25th, 2017<\/g1>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145182544,
                         "id": "tu2"
                     }
                 ],
                 [
                     "It is easy to use DBR to create a mobile QR code scanner with high speed and accuracy.",
-                    "",
+                    "使用DBR可以轻松、快速、准确地创建一个移动版二维码扫描网页应用。",
                     " It is easy to use DBR to create a mobile QR code scanner with high speed and accuracy.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146330179,
                         "id": "tu2"
                     }
                 ],
                 [
                     "Since it is HTML5-based, users don’t have to download and install apps and it’s easy to integrate it into your applications to work on different platforms.",
-                    "",
+                    "由于它是基于HTML5的，用户不必下载和安装应用程序，而且可以很容易地将其集成到用户的应用中，在不同的平台上运行。",
                     " Since it is HTML5-based, users don’t have to download and install apps and it’s easy to integrate it into your applications to work on different platforms.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145266183,
                         "id": "tu2"
                     }
                 ],
                 [
                     "There is an out-of-the-box <g1>online mobile demo<\/g1> that runs purely on the client side.",
-                    "",
+                    "有一个<g1>在线版移动扫描demo<\/g1>可供试用。这是个纯前端应用，完全依赖于终端设备进行计算。",
                     "There is an out-of-the-box <g1>online mobile demo<\/g1> that runs purely on the client side.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145416957,
                         "id": "tu3"
                     }
                 ],
                 [
                     "It can scan with the built-in camera or read barcodes from the image gallery.",
-                    "",
+                    "它可以使用内置相机进行扫描或从图库中读取条形码。",
                     " It can scan with the built-in camera or read barcodes from the image gallery.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145444118,
                         "id": "tu3"
                     }
                 ],
                 [
                     "Creating your own mobile scanner is simple.",
-                    "",
+                    "可以很容易地创建自己的移动扫描应用。",
                     "Creating your own mobile scanner is simple.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145478871,
                         "id": "tu4"
                     }
                 ],
                 [
                     "There are many samples on <g1>GitHub<\/g1>.",
-                    "",
+                    "<g1>GitHub<\/g1>​​上有很多示例。",
                     " There are many samples on <g1>GitHub<\/g1>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145487227,
                         "id": "tu4"
                     }
                 ],
                 [
                     "Some samples demonstrate how to use DBR with Vue, React and Angular.",
-                    "",
+                    "有些示例演示了如何将DBR与Vue、React和Angular结合使用。",
                     " Some samples demonstrate how to use DBR with Vue, React and Angular.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145505300,
                         "id": "tu4"
                     }
                 ],
                 [
                     "Some are designed as PWA or hybrid apps.",
-                    "",
+                    "有些被设计成PWA或混合应用程序。",
                     " Some are designed as PWA or hybrid apps.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145500711,
                         "id": "tu4"
                     }
                 ],
                 [
                     "You can start with the basic sample:",
-                    "",
+                    "您可以从基础示例开始：",
                     " You can start with the basic sample:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145517547,
                         "id": "tu4"
                     }
                 ],
                 [
                     "<g2>helloworld.html<\/g2>.",
-                    "",
+                    "<g2>helloworld.html<\/g2>。",
                     " <g2>helloworld.html<\/g2>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145520680,
                         "id": "tu4"
                     }
                 ],
                 [
                     "Let's explore it in more detail.",
-                    "",
+                    "让我们更详细地分析一下这个示例。",
                     "Let's explore it in more detail.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145548079,
                         "id": "tu5"
                     }
                 ],
                 [
                     "The Hello World Example - An Online QR Code Scanner",
-                    "",
+                    "Helloworld示例",
                     "The Hello World Example - An Online QR Code Scanner",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145767527,
                         "id": "tu6"
                     }
                 ],
                 [
                     "It first loads DBR by loading its JS file.",
-                    "",
+                    "首先引入DBR的JS文件。",
                     "It first loads DBR by loading its JS file.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145596983,
                         "id": "tu7"
                     }
                 ],
                 [
                     "The page contains a button to show the scanner and a button to choose local images to decode.",
-                    "",
+                    "该页面包含一个显示扫描界面的按钮和一个解码本地图像的按钮。",
                     "The page contains a button to show the scanner and a button to choose local images to decode.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145617987,
                         "id": "tu8"
                     }
                 ],
                 [
                     "HTML:",
-                    "",
+                    "HTML：",
                     "HTML:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
                         "id": "tu9"
                     }
                 ],
                 [
                     "JavaScript:",
-                    "",
+                    "JavaScript：",
                     "JavaScript:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
                         "id": "tu10"
                     }
                 ],
                 [
                     "The UI of the scanner is defined in <g1>dist\/dbr.scanner.html<\/g1><x1\/>^ui<x2\/>:",
-                    "",
+                    "扫描界面的代码存在于<g1>dist\/dbr.scanner.html<\/g1><x1\/>^ui<x2\/>：",
                     "The UI of the scanner is defined in <g1>dist\/dbr.scanner.html<\/g1><x1\/>^ui<x2\/>:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145672913,
                         "id": "tu11"
                     }
                 ],
                 [
                     "You can copy its content to your HTML file, customize it and load it with this line of code:",
-                    "",
+                    "您可以将其内容复制到你的HTML文件中，对其进行自定义并使用以下代码加载：",
                     "You can copy its content to your HTML file, customize it and load it with this line of code:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145689427,
                         "id": "tu12"
                     }
                 ],
                 [
                     "You can try the helloworld online demo <g1>here<\/g1>.",
-                    "",
+                    "<g1>在线Helloworld demo<\/g1>。",
                     "You can try the helloworld online demo <g1>here<\/g1>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145761756,
                         "id": "tu13"
                     }
                 ],
                 [
                     "Runtime Settings for Decoding QR Codes",
-                    "",
+                    "解码QR码的运行时设置",
                     "Runtime Settings for Decoding QR Codes",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145776438,
                         "id": "tu14"
                     }
                 ],
                 [
                     "You can modify runtime settings<x1\/>^doc<x2\/> for different scenarios.",
-                    "",
+                    "可以为不同的场景修改运行时设置<x1\/>^doc<x2\/>。",
                     "You can modify runtime settings<x1\/>^doc<x2\/> for different scenarios.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145815551,
                         "id": "tu15"
                     }
                 ],
                 [
                     "For example, if we only want to scan one single QR code, we can modify the settings with the <g1>updateRuntimeSettings<\/g1> method:",
-                    "",
+                    "例如，如果我们只想扫描一个二维码，我们可以使用<g1>updateRuntimeSettings<\/g1>方法修改设置：",
                     " For example, if we only want to scan one single QR code, we can modify the settings with the <g1>updateRuntimeSettings<\/g1> method:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145828358,
                         "id": "tu15"
                     }
                 ],
                 [
                     "By using these settings, only QR codes will be recognized.",
-                    "",
+                    "这样只能二维码会被识别。",
                     "By using these settings, only QR codes will be recognized.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145856586,
                         "id": "tu16"
                     }
                 ],
                 [
                     "This will improve the decoding speed as well.",
-                    "",
+                    "这也将提高解码速度。",
                     " This will improve the decoding speed as well.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145867649,
                         "id": "tu16"
                     }
                 ],
                 [
                     "Decoding speed is very important for real-time video stream scanning.",
-                    "",
+                    "解码速度对实时视频流扫码至关重要。",
                     " Decoding speed is very important for real-time video stream scanning.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619145884703,
                         "id": "tu16"
                     }
                 ],
                 [
                     "In some cases, the QR code might be incomplete or deformed.",
-                    "",
+                    "在某些情况下，二维码可能不完整或变形。",
                     "In some cases, the QR code might be incomplete or deformed.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145889712,
                         "id": "tu17"
                     }
                 ],
                 [
                     "These kinds of codes can be found on plastic bags, ripped receipt, etc.",
-                    "",
+                    "比如打印在塑料袋、撕坏收据上的二维码。",
                     " These kinds of codes can be found on plastic bags, ripped receipt, etc.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145932050,
                         "id": "tu17"
                     }
                 ],
                 [
                     "DBR has built-in <g1>code complement<\/g1> and <g2>deform-resist algorithms<\/g2> to restore these QR codes.",
-                    "",
+                    "DBR内置了<g1>条码补全<\/g1>​​和<g2>抗形变算法<\/g2>来恢复这些​​二维码。",
                     " DBR has built-in <g1>code complement<\/g1> and <g2>deform-resist algorithms<\/g2> to restore these QR codes.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146126599,
                         "id": "tu17"
                     }
                 ],
                 [
                     "Incomplete QR Codes",
-                    "",
+                    "不完整的​​二维码",
                     "Incomplete QR Codes",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146116561,
                         "id": "tu18"
                     }
                 ],
                 [
                     "DBR offers the capability to auto-restore missing portions of a QR code from poor printing or damage.",
-                    "",
+                    "DBR能够智能地补全二维码缺失的部分。",
                     "DBR offers the capability to auto-restore missing portions of a QR code from poor printing or damage.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146006127,
                         "id": "tu19"
                     }
                 ],
                 [
                     "Incomplete QR Code",
-                    "",
+                    "不完整的​​二维码",
                     "Incomplete QR Code",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146116561,
                         "id": "sd1_sf2_tu2"
                     }
                 ],
                 [
                     "For the incomplete QR code above, we can add the <g1>BarcodeComplementModes<\/g1> parameter to the template to successfully decode the barcode.",
-                    "",
+                    "对于上面这一不完整的二维码，我们可以在模板中添加<g1>BarcodeComplementModes<\/g1>参数来解码。",
                     "For the incomplete QR code above, we can add the <g1>BarcodeComplementModes<\/g1> parameter to the template to successfully decode the barcode.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146041359,
                         "id": "tu20"
                     }
                 ],
                 [
                     "Scan Deformed QR Codes",
-                    "",
+                    "变形的​​二维码",
                     "Scan Deformed QR Codes",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146116561,
                         "id": "tu21"
                     }
                 ],
                 [
                     "DBR comes with a sophisticated algorithm to improve the decoding success rate for wrinkled and deformed QR codes.",
-                    "",
+                    "DBR的图像处理算法可以提高褶皱和变形的​​二维码的解码成功率。",
                     "DBR comes with a sophisticated algorithm to improve the decoding success rate for wrinkled and deformed QR codes.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146105595,
                         "id": "tu22"
                     }
                 ],
                 [
                     "<x1\/>Deformed QR Code<x2\/>",
-                    "",
+                    "<x1\/>变形的​​二维码<x2\/>",
                     "<x1\/>Deformed QR Code<x2\/>",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619146134383,
                         "id": "tu23"
                     }
                 ],
                 [
                     "For the deformed QR code above, we can include the <g1>DeformationResistingModes<\/g1> parameter in the template.",
-                    "",
+                    "对于上面这一变形的二维码，我们可以在模板中包含<g1>DeformationResistingModes<\/g1>参数来解码。",
                     "For the deformed QR code above, we can include the <g1>DeformationResistingModes<\/g1> parameter in the template.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146151734,
                         "id": "tu24"
                     }
                 ],
                 [
                     "Read QR Codes from a Specific Region",
-                    "",
+                    "读取特定区域的二维码",
                     "Read QR Codes from a Specific Region",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146155170,
                         "id": "tu25"
                     }
                 ],
                 [
                     "Another useful setting is to specify an area\/region to read:",
-                    "",
+                    "另一个有用的设置是指定要读取的区域：",
                     "Another useful setting is to specify an area\/region to read:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146158018,
                         "id": "tu26"
                     }
                 ],
                 [
                     "A viewfinder box would appear on the video stream and users can then align the QR code within the box to read it.",
-                    "",
+                    "一个取景框将出现在视频流上方，用户可以将其对准二维码以进行读码。",
                     "A viewfinder box would appear on the video stream and users can then align the QR code within the box to read it.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146221198,
                         "id": "tu27"
                     }
                 ],
@@ -567,303 +666,372 @@
                     " A better alignment would also speed up the decoding process.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "neglected": "yes",
                         "id": "tu27"
                     }
                 ],
                 [
                     "<x1\/>Specific region<x2\/>",
-                    "",
+                    "<x1\/>特定区域<x2\/>",
                     "<x1\/>Specific region<x2\/>",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146237654,
                         "id": "tu28"
                     }
                 ],
                 [
                     "Scan Multiple QR Codes in One Shot",
-                    "",
+                    "一次扫描多个二维码",
                     "Scan Multiple QR Codes in One Shot",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146242134,
                         "id": "tu29"
                     }
                 ],
                 [
                     "DBR has the ability to read a large number of QR codes in one shot.",
-                    "",
+                    "DBR能够一次读取多个二维码。",
                     "DBR has the ability to read a large number of QR codes in one shot.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146254426,
                         "id": "tu30"
                     }
                 ],
                 [
                     "Multiple QR Codes",
-                    "",
+                    "多个二维码",
                     "Multiple QR Codes",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146259806,
                         "id": "sd1_sf3_tu2"
                     }
                 ],
                 [
                     "Variations of QR Codes",
-                    "",
+                    "二维码的变体",
                     "Variations of QR Codes",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146266886,
                         "id": "tu31"
                     }
                 ],
                 [
                     "Other variations of QR code (Micro QR Code and Model 1) are also supported.",
-                    "",
+                    "DBR还支持QR二维码的其他变体（Micro QR码和型号1）。",
                     "Other variations of QR code (Micro QR Code and Model 1) are also supported.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146296355,
                         "id": "tu32"
                     }
                 ],
                 [
                     "<x1\/>Micro QR code (demo created by the author)<x2\/>",
-                    "",
+                    "<x1\/>Micro QR码（作者创建的示例应用）<x2\/>",
                     "<x1\/>Micro QR code (demo created by the author)<x2\/>",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146358339,
                         "id": "tu33"
                     }
                 ],
                 [
                     "More about Dynamsoft Barcode Reader",
-                    "",
+                    "补充内容",
                     "More about Dynamsoft Barcode Reader",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146386047,
                         "id": "tu34"
                     }
                 ],
                 [
                     "Built-in Templates",
-                    "",
+                    "内置模板",
                     "Built-in Templates",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146376289,
                         "id": "tu35"
                     }
                 ],
                 [
                     "DBR JS has four built-in templates:",
-                    "",
+                    "DBR JS有四个内置模板：",
                     "DBR JS has four built-in templates:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146379745,
                         "id": "tu36"
                     }
                 ],
                 [
                     "<g1>speed<\/g1>, <g2>balance<\/g2>, <g3>coverage<\/g3> and <g4>single<\/g4>.",
-                    "",
+                    "<g1>速度（speed）<\/g1>、<g2>平衡（balance）<\/g2>、<g3>最大覆盖（coverage）<\/g3>和<g4>单码（single）<\/g4>。",
                     " <g1>speed<\/g1>, <g2>balance<\/g2>, <g3>coverage<\/g3> and <g4>single<\/g4>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146422675,
                         "id": "tu36"
                     }
                 ],
                 [
                     "The <g1>speed<\/g1> template is a good fit if you want to do a live scan.",
-                    "",
+                    "如果要进行实时扫描，<g1>速度<\/g1>模板非常适合。",
                     "The <g1>speed<\/g1> template is a good fit if you want to do a live scan.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146430545,
                         "id": "tu37"
                     }
                 ],
                 [
                     "But if there are many QR codes to decode or the image is complex, it may miss some of them.",
-                    "",
+                    "但是如果要解码的二维码太多或者图像很复杂，它可能会漏掉其中的一些。",
                     " But if there are many QR codes to decode or the image is complex, it may miss some of them.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146436209,
                         "id": "tu37"
                     }
                 ],
                 [
                     "Then the <g1>coverage<\/g1> template is a better choice, though it needs more time computing.",
-                    "",
+                    "那么<g1>最大覆盖<\/g1>模板是一个更好的选择，尽管它需要更多的计算时间。",
                     "Then the <g1>coverage<\/g1> template is a better choice, though it needs more time computing.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146448811,
                         "id": "tu38"
                     }
                 ],
                 [
                     "The <g1>balance<\/g1> template takes both speed and coverage into consideration.",
-                    "",
+                    "<g1>平衡<\/g1>模板同时考虑了速度和覆盖率。",
                     "The <g1>balance<\/g1> template takes both speed and coverage into consideration.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146453985,
                         "id": "tu39"
                     }
                 ],
                 [
                     "The <g1>single<\/g1> template is optimized for scanning one barcode.",
-                    "",
+                    "<g1>单码<\/g1>模板针对扫描一个条形码进行了优化。",
                     "The <g1>single<\/g1> template is optimized for scanning one barcode.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146465311,
                         "id": "tu40"
                     }
                 ],
                 [
                     "To use one of the built-in templates, use this line of code:",
-                    "",
+                    "要使用其中一个内置模板，请使用以下代码：",
                     "To use one of the built-in templates, use this line of code:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146475224,
                         "id": "tu41"
                     }
                 ],
                 [
                     "Create Your Own Templates",
-                    "",
+                    "创建自己的模板",
                     "Create Your Own Templates",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146479170,
                         "id": "tu42"
                     }
                 ],
                 [
                     "You can create your own template for your specific use cases.",
-                    "",
+                    "你可以为你的特定用例创建自己的模板。",
                     "You can create your own template for your specific use cases.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146491575,
                         "id": "tu43"
                     }
                 ],
                 [
                     "Our <g1>online demo<\/g1> is convenient to try out the different parameters.",
-                    "",
+                    "可以用我们的<g1>在线演示<\/g1>尝试不同的参数。",
                     " Our <g1>online demo<\/g1> is convenient to try out the different parameters.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146507855,
                         "id": "tu43"
                     }
                 ],
                 [
                     "A JSON template looks like this:",
-                    "",
+                    "一个JSON模板如下所示：",
                     "A JSON template looks like this:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146516131,
                         "id": "tu44"
                     }
                 ],
                 [
                     "We can load it with the following code (template can be stored in a textarea e.g.):",
-                    "",
+                    "我们可以用以下代码加载它：",
                     "We can load it with the following code (template can be stored in a textarea e.g.):",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146529682,
                         "id": "tu45"
                     }
                 ],
                 [
                     "Please note that <g1>initRuntimeSettingsWithString<\/g1> is only available in the full edition(<g2>differences between compact and full editions<\/g2>).",
-                    "",
+                    "请注意，<g1>initRuntimeSettingsWithString<\/g1>仅在完整版中可用（<g2>紧凑版和完整版之间的差异<\/g2>）。",
                     "Please note that <g1>initRuntimeSettingsWithString<\/g1> is only available in the full edition(<g2>differences between compact and full editions<\/g2>).",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146532310,
                         "id": "tu46"
                     }
                 ],
                 [
                     "To enable full features, set the <g1>_bUseFullFeature<\/g1> property to true:",
-                    "",
+                    "要启用完整功能，请将<g1>_bUseFullFeature<\/g1>属性设置为true：",
                     "To enable full features, set the <g1>_bUseFullFeature<\/g1> property to true:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146554306,
                         "id": "tu47"
                     }
                 ],
                 [
                     "Getting Started",
-                    "",
+                    "入门",
                     "Getting Started",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146565014,
                         "id": "tu48"
                     }
                 ],
                 [
                     "Download <g1>Dynamsoft Barcode Reader SDK<\/g1> to try it on your own.",
-                    "",
+                    "下载<g1>Dynamsoft Barcode Reader SDK<\/g1>并开始试用。",
                     "Download <g1>Dynamsoft Barcode Reader SDK<\/g1> to try it on your own.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146587654,
                         "id": "tu49"
                     }
                 ],
                 [
                     "Source Code",
-                    "",
+                    "源代码",
                     "Source Code",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
                         "id": "tu50"
                     }
                 ],
                 [
                     "Official GitHub repo of the JavaScript Barcode Reader",
-                    "",
+                    "JavaScript条形码扫描器的官方GitHub仓库",
                     "<g1>Official GitHub repo of the JavaScript Barcode Reader<\/g1>",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146602852,
                         "id": "tu51"
                     }
                 ],
                 [
                     "Demo created by the author of this article",
-                    "",
+                    "本文作者创建的示例应用",
                     "<g1>Demo created by the author of this article<\/g1>",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619146610934,
                         "id": "tu52"
                     }
                 ],
                 [
                     "References",
-                    "",
+                    "参考文献",
                     "References",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146617758,
                         "id": "tu53"
                     }
                 ],
                 [
                     "^wiki",
-                    "",
+                    "^wiki",
                     "^wiki",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146619118,
                         "id": "tu54"
                     }
                 ],
                 [
                     "^ui",
-                    "",
+                    "^ui",
                     "^ui",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146619935,
                         "id": "tu55"
                     }
                 ],
                 [
                     "^doc",
-                    "",
+                    "^doc",
                     "^doc",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/mobile-qr-code-scanner-in-html5.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619146620663,
                         "id": "tu56"
                     }
                 ]
