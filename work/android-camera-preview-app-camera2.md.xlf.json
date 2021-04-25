@@ -1,0 +1,564 @@
+{
+    "filename": "android-camera-preview-app-camera2.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Android Camera Preview App:",
+                    "Android相机预览应用：",
+                    "Android Camera Preview App:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619319887901,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Camera vs. Camera2",
+                    "Camera vs. Camera2",
+                    " Camera vs. Camera2",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619319892275,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Xiao Ling",
+                    "",
+                    "Xiao Ling",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "lingxiao1002@gmail.com",
+                    "",
+                    "lingxiao1002@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2019-05-20 00:22:48 +0800",
+                    "",
+                    "2019-05-20 00:22:48 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2019-05-20 08:22:48 +0800",
+                    "",
+                    "2019-05-20 08:22:48 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Camera2",
+                    "",
+                    "Camera2",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Java",
+                    "",
+                    "Java",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Create the simplest Android camera preview app from scratch.",
+                    "",
+                    "Create the simplest Android camera preview app from scratch.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "Compare the difference between the Android Camera and Android Camera2 APIs.",
+                    "",
+                    " Compare the difference between the Android Camera and Android Camera2 APIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2019\/05\/android-camera-preview-camera2.jpg",
+                    "",
+                    ".\/img\/2019\/05\/android-camera-preview-camera2.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "https:\/\/www.dynamsoft.com\/codepool\/android-camera-preview-app-camera2.html",
+                    "",
+                    "https:\/\/www.dynamsoft.com\/codepool\/android-camera-preview-app-camera2.html",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Building Android camera apps is much more complicated than building iOS camera apps due to the different vendors and hardware specs.",
+                    "由于供应商和硬件规格的不同，构建Android相机应用比构建iOS相机应用要复杂得多。",
+                    "Building Android camera apps is much more complicated than building iOS camera apps due to the different vendors and hardware specs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619319925227,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Since from API level 21, the old Camera class was deprecated and a brand-new Camera2 class was born.",
+                    "谷歌在Android 5中推出了Camera2，该接口比原来的Camera具有更丰富的控制功能。",
+                    " Since from API level 21, the old Camera class was deprecated and a brand-new Camera2 class was born.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320033715,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this post, I want to use the least code to create Android camera preview apps with Camera and Camera2 respectively and compare the usage difference between the two sets of APIs.",
+                    "在本文中，我想用最少的代码分别用Camera和Camera2创建Android相机预览应用，并比较这两套API的使用差异。",
+                    " In this post, I want to use the least code to create Android camera preview apps with Camera and Camera2 respectively and compare the usage difference between the two sets of APIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320069794,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Building Android Camera Preview App with Least Code",
+                    "用最少的代码构建Android相机预览应用",
+                    "Building Android Camera Preview App with Least Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320094162,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Create a new project with <g1>Empty Activity<\/g1> template.",
+                    "用<g1>Empty Activity<\/g1>​​模板创建一个新项目。",
+                    "Create a new project with <g1>Empty Activity<\/g1> template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320115251,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Declare the camera-related use permissions in <g1>AndroidManifest.xml<\/g1>:",
+                    "在<g1>AndroidManifest.xml<\/g1>中声明与相机相关的使用权限：",
+                    "Declare the camera-related use permissions in <g1>AndroidManifest.xml<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320140226,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "If you want to make the app displayed as full screen, modify <g1>values\/styles.xml<\/g1>:",
+                    "如果要使应用程序显示为全屏，需要修改<g1>values\/styles.xml<\/g1>：",
+                    "If you want to make the app displayed as full screen, modify <g1>values\/styles.xml<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320164514,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "I want to make the code as simple as possible, so there is no XML UI layout file needed.",
+                    "我希望使代码尽可能简单，因此这里没有使用XML UI布局文件。",
+                    "I want to make the code as simple as possible, so there is no XML UI layout file needed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320180116,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Both <g1>TextureView<\/g1> and <g2>SurfaceView<\/g2> can be rendered as the camera preview.",
+                    "<g1>TextureView<\/g1>​​和<g2>SurfaceView<\/g2>都可以用于预览相机。",
+                    " Both <g1>TextureView<\/g1> and <g2>SurfaceView<\/g2> can be rendered as the camera preview.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320211003,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Here I use TextureView as the content view.",
+                    "这里我使用TextureView。",
+                    " Here I use TextureView as the content view.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320223073,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "The code is pretty simple according to the <g1>TextureView API Documentation<\/g1>:",
+                    "根据<g1>TextureView API文档<\/g1>，使用它的代码非常简单：",
+                    "The code is pretty simple according to the <g1>TextureView API Documentation<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320268514,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Register <g1>TextureView.SurfaceTextureListener<\/g1> to monitor the surface events:",
+                    "注册<g1>TextureView.SurfaceTextureListener<\/g1>​​来监视有关事件：",
+                    "Register <g1>TextureView.SurfaceTextureListener<\/g1> to monitor the surface events:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320261010,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Once the surface is available, we can open a camera, set some parameters and start the camera preview:",
+                    "一旦它可用，我们就可以打开相机，设置参数并开始相机预览：",
+                    "Once the surface is available, we can open a camera, set some parameters and start the camera preview:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320289234,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Build and run the app:",
+                    "生成并运行应用程序：",
+                    "Build and run the app:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619320295153,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<x1\/>android camera preview distortion<x2\/>",
+                    "<x1\/>Android相机预览扭曲<x2\/>",
+                    "<x1\/>android camera preview distortion<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320315728,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Anything wrong?",
+                    "看出哪里不对了吗？",
+                    "Anything wrong?",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320335097,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "It seems the preview image is distorted when rotating my smartphone.",
+                    "预览图像似乎被扭曲了。",
+                    " It seems the preview image is distorted when rotating my smartphone.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320350377,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "To fix the issue, we can use <g1>AutoFitTextureView<\/g1> instead.",
+                    "为了解决这个问题，我们可以改用AutoFitTextureView。",
+                    " To fix the issue, we can use <g1>AutoFitTextureView<\/g1> instead.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320356290,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "However, the code provided by Google does not support full screen.",
+                    "不过，谷歌提供的代码不支持全屏显示。",
+                    " However, the code provided by Google does not support full screen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320366001,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "An answer from <g2>StackOverflow<\/g2> can perfectly solve the issue:",
+                    "<g2>StackOverflow<\/g2>的答案可以完美地解决这个问题：",
+                    " An answer from <g2>StackOverflow<\/g2> can perfectly solve the issue:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320371762,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "So far, I’ve finished the MainActivity.java, which has approximately 118 lines of code.",
+                    "好的，我已经完成了MainActivity.java，大约有118行代码。",
+                    "So far, I’ve finished the MainActivity.java, which has approximately 118 lines of code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320385922,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "The Android camera preview app can run perfectly.",
+                    "这一Android相机预览应用可以正常运行。",
+                    " The Android camera preview app can run perfectly.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320407305,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<x1\/>Android camera preview <x2\/>",
+                    "<x1\/>Android相机预览<x2\/>",
+                    "<x1\/>Android camera preview <x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619320419337,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Next, I will replace Camera class with Camera2 class based on Google’s sample <g1>android-Camera2Basic<\/g1>.",
+                    "接下来，我将基于Google的示例<g1>android-Camera2Basic<\/g1>用Camera2类替换Camera类。",
+                    "Next, I will replace Camera class with Camera2 class based on Google’s sample <g1>android-Camera2Basic<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320435554,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Open the camera with <g1>CameraManager<\/g1>:",
+                    "用<g1>CameraManager<\/g1>​​打开相机：",
+                    "Open the camera with <g1>CameraManager<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320448977,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Get the camera id and calculate the aspect ratio of TextureView.",
+                    "获取相机id并计算TextureView的纵横比。",
+                    "Get the camera id and calculate the aspect ratio of TextureView.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320452154,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "The calculation code is complex:",
+                    "计算代码比较复杂：",
+                    " The calculation code is complex:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320463026,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "When the camera is opened, create a capture session to start the preview:",
+                    "打开相机后，创建捕获会话以开始预览：",
+                    "When the camera is opened, create a capture session to start the preview:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320467593,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Using Camera2, the total lines of code increased to 337.",
+                    "使用Camera2，代码行总数增加到337行。",
+                    "Using Camera2, the total lines of code increased to 337.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320473465,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Should We Migrate from Camera to Camera2?",
+                    "我们应该从Camera迁移到Camera2吗？",
+                    "Should We Migrate from Camera to Camera2?",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320490073,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "It is obvious Camera2 is not compatible with Camera and much more complicated.",
+                    "很明显，Camera2与Camera不兼容，而且要复杂得多。",
+                    "It is obvious Camera2 is not compatible with Camera and much more complicated.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320498418,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "If you do not need too many camera functionalities besides Android camera preview, the Camera class is enough.",
+                    "如果你不需要太多的相机功能，Camera就足够了。",
+                    " If you do not need too many camera functionalities besides Android camera preview, the Camera class is enough.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320516545,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "If you want to empower your app with advanced camera features, such as shutter speed control, it is worth migrating APIs from Camera to Camera2.",
+                    "如果你想让你的应用拥有先进的相机功能，比如快门速度控制，那么将API从Camera迁移到Camera2是值得的。",
+                    " If you want to empower your app with advanced camera features, such as shutter speed control, it is worth migrating APIs from Camera to Camera2.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320529265,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "https:\/\/github.com\/yushulx\/android-camera-preview",
+                    "https:\/\/github.com\/yushulx\/android-camera-preview",
+                    "<g1>https:\/\/github.com\/yushulx\/android-camera-preview<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-camera-preview-app-camera2.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1619320535154,
+                        "id": "tu23"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

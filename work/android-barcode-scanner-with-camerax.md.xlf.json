@@ -1,0 +1,703 @@
+{
+    "filename": "android-barcode-scanner-with-camerax.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Android Barcode Scanner with CameraX",
+                    "",
+                    "Android Barcode Scanner with CameraX",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-04-20 15:16:53 +0800",
+                    "",
+                    "2021-04-20 15:16:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-04-20 15:16:53 +0800",
+                    "",
+                    "2021-04-20 15:16:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Mobile",
+                    "",
+                    "Mobile",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "This article shares about how to create a barcode scanner with CameraX.",
+                    "",
+                    "This article shares about how to create a barcode scanner with CameraX.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/camerax\/screenshot.jpg",
+                    "",
+                    ".\/img\/2021\/camerax\/screenshot.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "https:\/\/www.dynamsoft.com\/codepool\/android-barcode-scanner-with-camerax.html",
+                    "",
+                    "https:\/\/www.dynamsoft.com\/codepool\/android-barcode-scanner-with-camerax.html",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "Camera control and barcode reading are two essential parts of a barcode scanner.",
+                    "",
+                    "Camera control and barcode reading are two essential parts of a barcode scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is an advanced barcode reader with an easy-to-use Android library.",
+                    "",
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is an advanced barcode reader with an easy-to-use Android library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "The implementation of the barcode reading function is simple and straightforward.",
+                    "",
+                    " The implementation of the barcode reading function is simple and straightforward.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Making a good camera app, however, is not easy.",
+                    "",
+                    "Making a good camera app, however, is not easy.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "In Android, there are three sets of Camera APIs to use:",
+                    "",
+                    " In Android, there are three sets of Camera APIs to use:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<g1>Camera<\/g1>, <g2>Camera2<\/g2> and <g3>CameraX<\/g3>.",
+                    "",
+                    " <g1>Camera<\/g1>, <g2>Camera2<\/g2> and <g3>CameraX<\/g3>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<g1>Camera<\/g1> can take photos and record videos.",
+                    "",
+                    "<g1>Camera<\/g1> can take photos and record videos.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "But it has limited camera controls.",
+                    "",
+                    " But it has limited camera controls.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<g2>Camera2<\/g2> provides in-depth controls for complex use cases but requires you to manage device-specific configurations.<x1\/>^camera2<x2\/> Its usage is complex (The two are compared in a <g3>previous post<\/g3>).",
+                    "",
+                    " <g2>Camera2<\/g2> provides in-depth controls for complex use cases but requires you to manage device-specific configurations.<x1\/>^camera2<x2\/> Its usage is complex (The two are compared in a <g3>previous post<\/g3>).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "CameraX is a newer one.",
+                    "",
+                    "CameraX is a newer one.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Here is the description from Google<x1\/>^camerax<x2\/>:",
+                    "",
+                    " Here is the description from Google<x1\/>^camerax<x2\/>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "CameraX is a Jetpack support library, built to help you make camera app development easier.",
+                    "",
+                    "CameraX is a Jetpack support library, built to help you make camera app development easier.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "It provides a consistent and easy-to-use API surface that works across most Android devices, with backward-compatibility to Android 5.0 (API level 21).",
+                    "",
+                    " It provides a consistent and easy-to-use API surface that works across most Android devices, with backward-compatibility to Android 5.0 (API level 21).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "While CameraX leverages the capabilities of camera2, it uses a simpler approach that is lifecycle-aware and is based on use cases.",
+                    "",
+                    "While CameraX leverages the capabilities of camera2, it uses a simpler approach that is lifecycle-aware and is based on use cases.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "It also resolves device compatibility issues for you so that you don't have to include device-specific code in your code base.",
+                    "",
+                    " It also resolves device compatibility issues for you so that you don't have to include device-specific code in your code base.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "These features reduce the amount of code you need to write when adding camera capabilities to your app.",
+                    "",
+                    " These features reduce the amount of code you need to write when adding camera capabilities to your app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "CameraX has three basic use cases: preview, image analysis and image capture.",
+                    "",
+                    "CameraX has three basic use cases: preview, image analysis and image capture.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Image analysis is designed to facilitate using technologies like ML Kit to analyse buffered images, which is also useful for barcode reading.",
+                    "",
+                    "Image analysis is designed to facilitate using technologies like ML Kit to analyse buffered images, which is also useful for barcode reading.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "We don't have to worry about concurrency as CameraX takes care of this for us.",
+                    "",
+                    " We don't have to worry about concurrency as CameraX takes care of this for us.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "In this article, we will talk about how to build a barcode scanner with CameraX as shown below.",
+                    "",
+                    "In this article, we will talk about how to build a barcode scanner with CameraX as shown below.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<x1\/>screenshot<x2\/>",
+                    "",
+                    "<x1\/>screenshot<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Create a New Project",
+                    "",
+                    "Create a New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Open Android Studio, create a new project.",
+                    "",
+                    "Open Android Studio, create a new project.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Choose <g1>Empty Activity<\/g1>.",
+                    "",
+                    " Choose <g1>Empty Activity<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Use Java as the language and set the minimum sdk to 21 since CameraX requires at least Android 5.0.",
+                    "",
+                    " Use Java as the language and set the minimum sdk to 21 since CameraX requires at least Android 5.0.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Add Dynamsoft Barcode Reader by following <g1>this guide<\/g1>.",
+                    "",
+                    "Add Dynamsoft Barcode Reader by following <g1>this guide<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Add CameraX by following <g1>this guide<\/g1>.",
+                    "",
+                    "Add CameraX by following <g1>this guide<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Layout Design",
+                    "",
+                    "Layout Design",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Here is the content of activity_main.xml which defines the layout of the MainActivity.",
+                    "",
+                    "Here is the content of activity_main.xml which defines the layout of the MainActivity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "A Button is used to open the camera activity.",
+                    "",
+                    " A Button is used to open the camera activity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Create a new activity named CameraActivity to show camera preview and barcode reading results.",
+                    "",
+                    "Create a new activity named CameraActivity to show camera preview and barcode reading results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "The following is its layout.",
+                    "",
+                    " The following is its layout.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Use CameraX to Preview and Analyse Images",
+                    "",
+                    "Use CameraX to Preview and Analyse Images",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Set event listener for the open camera button.",
+                    "",
+                    "Set event listener for the open camera button.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Camera permission is required.",
+                    "",
+                    "Camera permission is required.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "It will ask the user to grant permission when the camera is needed.",
+                    "",
+                    "It will ask the user to grant permission when the camera is needed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Here is the relevant code:",
+                    "",
+                    " Here is the relevant code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "The following has to be added to <g1>AndroidManifest.xml<\/g1>:",
+                    "",
+                    "The following has to be added to <g1>AndroidManifest.xml<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Init and enable preview and image analysis use cases",
+                    "",
+                    "Init and enable preview and image analysis use cases",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Dynamsoft Barcode Reader is used to read barcodes from the image buffer.",
+                    "",
+                    "Dynamsoft Barcode Reader is used to read barcodes from the image buffer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Here are some things to notice:",
+                    "",
+                    "Here are some things to notice:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Preview and ImageAnalysis should share the same target resolution.",
+                    "",
+                    "Preview and ImageAnalysis should share the same target resolution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "The default image format is YUV which consumes less computing.",
+                    "",
+                    "The default image format is YUV which consumes less computing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "You may need to convert it to a RGB bitmap if you need to perform other operations.",
+                    "",
+                    " You may need to convert it to a RGB bitmap if you need to perform other operations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "You can find a converter in Google's <g1>camera samples repo<\/g1>.",
+                    "",
+                    " You can find a converter in Google's <g1>camera samples repo<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "More Camera Controls",
+                    "",
+                    "More Camera Controls",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "The <g1>CameraControl<\/g1> API offers some basic camera control capabilities.",
+                    "",
+                    "The <g1>CameraControl<\/g1> API offers some basic camera control capabilities.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Torch control:",
+                    "",
+                    "Torch control:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Zoom in:",
+                    "",
+                    "Zoom in:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Focus at a point:",
+                    "",
+                    "Focus at a point:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "We can also use <g1>Camera2Interop.Extender<\/g1> to have access to more controls using Camera2's CaptureRequest.",
+                    "",
+                    "We can also use <g1>Camera2Interop.Extender<\/g1> to have access to more controls using Camera2's CaptureRequest.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "For example, the following code will make the image negative.",
+                    "",
+                    " For example, the following code will make the image negative.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Make the App More Usable",
+                    "",
+                    "Make the App More Usable",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "More functions can be added like preferences, view finder, scan history, and making a beep if a barcode is found.",
+                    "",
+                    "More functions can be added like preferences, view finder, scan history, and making a beep if a barcode is found.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "You can find an example <g1>here<\/g1>.",
+                    "",
+                    " You can find an example <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "We will not discuss these in this post.",
+                    "",
+                    " We will not discuss these in this post.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "References",
+                    "",
+                    "References",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "^camera2",
+                    "",
+                    "^camera2",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "^camerax",
+                    "",
+                    "^camerax",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
+                    {
+                        "id": "tu40"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

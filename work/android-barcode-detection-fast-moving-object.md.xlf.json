@@ -1,0 +1,361 @@
+{
+    "filename": "android-barcode-detection-fast-moving-object.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Android Barcode Detection from Fast Moving Objects",
+                    "",
+                    "Android Barcode Detection from Fast Moving Objects",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Xiao Ling",
+                    "",
+                    "Xiao Ling",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "lingxiao1002@gmail.com",
+                    "",
+                    "lingxiao1002@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2019-05-27 00:06:51 +0800",
+                    "",
+                    "2019-05-27 00:06:51 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2019-05-27 08:06:51 +0800",
+                    "",
+                    "2019-05-27 08:06:51 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Java",
+                    "",
+                    "Java",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Create a simple Android barcode reader app to read barcodes from fast moving objects by adjusting the camera shutter speed with Android Camera2 APIs.",
+                    "",
+                    "Create a simple Android barcode reader app to read barcodes from fast moving objects by adjusting the camera shutter speed with Android Camera2 APIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2019\/05\/android-barcode-camera2.gif",
+                    "",
+                    ".\/img\/2019\/05\/android-barcode-camera2.gif",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "https:\/\/www.dynamsoft.com\/codepool\/android-barcode-detection-fast-moving-object.html",
+                    "",
+                    "https:\/\/www.dynamsoft.com\/codepool\/android-barcode-detection-fast-moving-object.html",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Assume you apply barcode technology to the logistics conveyor belt for scanning parcels.",
+                    "",
+                    "Assume you apply barcode technology to the logistics conveyor belt for scanning parcels.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "A problem you may face is how to recognize barcodes from blurred images.",
+                    "",
+                    " A problem you may face is how to recognize barcodes from blurred images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Although we can use advanced algorithms to deal with this complicated case, we'd better improve the image quality as possible as we can.",
+                    "",
+                    " Although we can use advanced algorithms to deal with this complicated case, we'd better improve the image quality as possible as we can.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "A simple way is to adjust the camera shutter speed which is also known as exposure time.",
+                    "",
+                    " A simple way is to adjust the camera shutter speed which is also known as exposure time.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Faster shutter speed can avoid motion blur.",
+                    "",
+                    " Faster shutter speed can avoid motion blur.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this post, I will share how to invoke Android Camera2 APIs to change the shutter speed, as well as how to build a simple Android barcode reader to decode barcodes from fast-moving objects",
+                    "",
+                    " In this post, I will share how to invoke Android Camera2 APIs to change the shutter speed, as well as how to build a simple Android barcode reader to decode barcodes from fast-moving objects",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Android Barcode Reader with Camera2 API",
+                    "",
+                    "Android Barcode Reader with Camera2 API",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "To build a basic Android Camera2 app, we don’t need to reinvent the wheel.",
+                    "",
+                    "To build a basic Android Camera2 app, we don’t need to reinvent the wheel.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Just download or fork the source code of <g1>android-Camera2Basic<\/g1> provided by Google.",
+                    "",
+                    " Just download or fork the source code of <g1>android-Camera2Basic<\/g1> provided by Google.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Create an <g1>AlertDialog<\/g1> with a list view for selecting shutter speed:",
+                    "",
+                    "Create an <g1>AlertDialog<\/g1> with a list view for selecting shutter speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Get a list of sizes compatible with the requested image format <g1>YUV\\_420\\_888<\/g1> and instantiate <g2>ImageReader<\/g2> with the opted image size:",
+                    "",
+                    "Get a list of sizes compatible with the requested image format <g1>YUV\\_420\\_888<\/g1> and instantiate <g2>ImageReader<\/g2> with the opted image size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "In the ImageReader callback function <g1>onImageAvailable()<\/g1>, get the image buffer and call the decodeBuffer() function for barcode detection:",
+                    "",
+                    "In the ImageReader callback function <g1>onImageAvailable()<\/g1>, get the image buffer and call the decodeBuffer() function for barcode detection:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Because the listener is invoked on a thread handler, we can not update the UI directly.",
+                    "",
+                    "Because the listener is invoked on a thread handler, we can not update the UI directly.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    " We can send an update request via the main thread handler:",
+                    "",
+                    "  We can send an update request via the main thread handler:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Add the ImageReader surface to the <g1>CaptureRequest.Builder<\/g1>:",
+                    "",
+                    "Add the ImageReader surface to the <g1>CaptureRequest.Builder<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Start the preview when the camera capture session is ready.",
+                    "",
+                    "Start the preview when the camera capture session is ready.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "To control the shutter speed, turn off the auto-exposure mode:",
+                    "",
+                    " To control the shutter speed, turn off the auto-exposure mode:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Now build and run the simple Android barcode reader.",
+                    "",
+                    "Now build and run the simple Android barcode reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "If the barcodes cannot be read from the fast-moving objects, you just need to change the shutter speed:",
+                    "",
+                    " If the barcodes cannot be read from the fast-moving objects, you just need to change the shutter speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<x1\/>Android barcode reader with Camera2 API<x2\/>",
+                    "",
+                    "<x1\/>Android barcode reader with Camera2 API<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Note: due to the hardware specs, you may get low-quality preview images on some cheap phones when changing the shutter speed to 1\/500 seconds or faster.",
+                    "",
+                    "Note: due to the hardware specs, you may get low-quality preview images on some cheap phones when changing the shutter speed to 1\/500 seconds or faster.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "https:\/\/github.com\/yushulx\/android-camera2-barcode",
+                    "",
+                    "<g1>https:\/\/github.com\/yushulx\/android-camera2-barcode<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
+                    {
+                        "id": "tu14"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
