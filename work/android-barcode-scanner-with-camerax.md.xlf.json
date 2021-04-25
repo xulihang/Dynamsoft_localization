@@ -32,10 +32,12 @@
                 ],
                 [
                     "Android Barcode Scanner with CameraX",
-                    "",
+                    "基于CameraX的Android条码扫描应用",
                     "Android Barcode Scanner with CameraX",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328413806,
                         "id": "sd1_sf1_sg1_sf4_tu1"
                     }
                 ],
@@ -158,541 +160,665 @@
                 ],
                 [
                     "Camera control and barcode reading are two essential parts of a barcode scanner.",
-                    "",
+                    "相机控制和条码识别是条形扫描应用的两个重要组成部分。",
                     "Camera control and barcode reading are two essential parts of a barcode scanner.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328431156,
                         "id": "tu1"
                     }
                 ],
                 [
                     "<g1>Dynamsoft Barcode Reader<\/g1> is an advanced barcode reader with an easy-to-use Android library.",
-                    "",
+                    "<g1>Dynamsoft Barcode Reader<\/g1>是一个高级的条码识别SDK，包含一个易于使用的Android类库。",
                     "<g1>Dynamsoft Barcode Reader<\/g1> is an advanced barcode reader with an easy-to-use Android library.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328498599,
                         "id": "tu2"
                     }
                 ],
                 [
                     "The implementation of the barcode reading function is simple and straightforward.",
-                    "",
+                    "我们不需花太多工夫就能集成条码识别功能。",
                     " The implementation of the barcode reading function is simple and straightforward.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328544022,
                         "id": "tu2"
                     }
                 ],
                 [
                     "Making a good camera app, however, is not easy.",
-                    "",
+                    "而制作一个好的相机应用程序则并不容易。",
                     "Making a good camera app, however, is not easy.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328641663,
                         "id": "tu3"
                     }
                 ],
                 [
                     "In Android, there are three sets of Camera APIs to use:",
-                    "",
+                    "在Android中，有三套相机API可供使用：",
                     " In Android, there are three sets of Camera APIs to use:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328652156,
                         "id": "tu3"
                     }
                 ],
                 [
                     "<g1>Camera<\/g1>, <g2>Camera2<\/g2> and <g3>CameraX<\/g3>.",
-                    "",
+                    "<g1>Camera<\/g1>、<g2>Camera2<\/g2>和<g3>CameraX<\/g3>。",
                     " <g1>Camera<\/g1>, <g2>Camera2<\/g2> and <g3>CameraX<\/g3>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328665318,
                         "id": "tu3"
                     }
                 ],
                 [
                     "<g1>Camera<\/g1> can take photos and record videos.",
-                    "",
+                    "<g1>Camera<\/g1>可以拍照和录制视频。",
                     "<g1>Camera<\/g1> can take photos and record videos.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328675974,
                         "id": "tu4"
                     }
                 ],
                 [
                     "But it has limited camera controls.",
-                    "",
+                    "但它的摄像头控制功能有限。",
                     " But it has limited camera controls.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328688686,
                         "id": "tu4"
                     }
                 ],
                 [
                     "<g2>Camera2<\/g2> provides in-depth controls for complex use cases but requires you to manage device-specific configurations.<x1\/>^camera2<x2\/> Its usage is complex (The two are compared in a <g3>previous post<\/g3>).",
-                    "",
+                    "<g2>Camera2<\/g2>为复杂的用例提供了深入的控制功能，但要求针对特定设备管理配置。<x1\/>^Camera2<x2\/>它的用法也很复杂（<g3>之前的文章<\/g3>有对两者进行比较）。",
                     " <g2>Camera2<\/g2> provides in-depth controls for complex use cases but requires you to manage device-specific configurations.<x1\/>^camera2<x2\/> Its usage is complex (The two are compared in a <g3>previous post<\/g3>).",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328773028,
                         "id": "tu4"
                     }
                 ],
                 [
                     "CameraX is a newer one.",
-                    "",
+                    "CameraX则是最新的一套API。",
                     "CameraX is a newer one.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328794573,
                         "id": "tu5"
                     }
                 ],
                 [
                     "Here is the description from Google<x1\/>^camerax<x2\/>:",
-                    "",
+                    "以下是来自Google<x1\/>^camerax<x2\/>的描述：",
                     " Here is the description from Google<x1\/>^camerax<x2\/>:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328797901,
                         "id": "tu5"
                     }
                 ],
                 [
                     "CameraX is a Jetpack support library, built to help you make camera app development easier.",
-                    "",
+                    "CameraX 是一个 Jetpack 支持库，旨在帮助您简化相机应用的开发工作。",
                     "CameraX is a Jetpack support library, built to help you make camera app development easier.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328821693,
                         "id": "tu6"
                     }
                 ],
                 [
                     "It provides a consistent and easy-to-use API surface that works across most Android devices, with backward-compatibility to Android 5.0 (API level 21).",
-                    "",
+                    "它提供一致且易用的 API 接口，适用于大多数 Android 设备，并可向后兼容至 Android 5.0（API 级别 21）。",
                     " It provides a consistent and easy-to-use API surface that works across most Android devices, with backward-compatibility to Android 5.0 (API level 21).",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328821693,
                         "id": "tu6"
                     }
                 ],
                 [
                     "While CameraX leverages the capabilities of camera2, it uses a simpler approach that is lifecycle-aware and is based on use cases.",
-                    "",
+                    "虽然 CameraX 利用了 camera2 的功能，但采取了一种具有生命周期感知能力且基于用例的更简单方式。",
                     "While CameraX leverages the capabilities of camera2, it uses a simpler approach that is lifecycle-aware and is based on use cases.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328829717,
                         "id": "tu7"
                     }
                 ],
                 [
                     "It also resolves device compatibility issues for you so that you don't have to include device-specific code in your code base.",
-                    "",
+                    "它还解决了设备兼容性问题，因此您无需在代码库中添加设备专属代码。",
                     " It also resolves device compatibility issues for you so that you don't have to include device-specific code in your code base.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328840365,
                         "id": "tu7"
                     }
                 ],
                 [
                     "These features reduce the amount of code you need to write when adding camera capabilities to your app.",
-                    "",
+                    "这些功能减少了将相机功能添加到应用时需要编写的代码量。",
                     " These features reduce the amount of code you need to write when adding camera capabilities to your app.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328843308,
                         "id": "tu7"
                     }
                 ],
                 [
                     "CameraX has three basic use cases: preview, image analysis and image capture.",
-                    "",
+                    "CameraX有三个基本用例：预览、图像分析和图像拍摄。",
                     "CameraX has three basic use cases: preview, image analysis and image capture.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328863275,
                         "id": "tu8"
                     }
                 ],
                 [
                     "Image analysis is designed to facilitate using technologies like ML Kit to analyse buffered images, which is also useful for barcode reading.",
-                    "",
+                    "图像分析能方便地使用像ML Kit这样的技术来分析缓存的图像，这对于条形码读取也很有用。",
                     "Image analysis is designed to facilitate using technologies like ML Kit to analyse buffered images, which is also useful for barcode reading.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328894897,
                         "id": "tu9"
                     }
                 ],
                 [
                     "We don't have to worry about concurrency as CameraX takes care of this for us.",
-                    "",
+                    "我们也不必担心并发，因为CameraX会为我们解决这个问题。",
                     " We don't have to worry about concurrency as CameraX takes care of this for us.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328903813,
                         "id": "tu9"
                     }
                 ],
                 [
                     "In this article, we will talk about how to build a barcode scanner with CameraX as shown below.",
-                    "",
+                    "在本文中，我们将讨论如何用CameraX构建一个条码扫描应用，如下所示。",
                     "In this article, we will talk about how to build a barcode scanner with CameraX as shown below.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328920772,
                         "id": "tu10"
                     }
                 ],
                 [
                     "<x1\/>screenshot<x2\/>",
-                    "",
+                    "<x1\/>屏幕截图<x2\/>",
                     "<x1\/>screenshot<x2\/>",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328925925,
                         "id": "tu11"
                     }
                 ],
                 [
                     "Create a New Project",
-                    "",
+                    "创建一个新项目",
                     "Create a New Project",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328933100,
                         "id": "tu12"
                     }
                 ],
                 [
                     "Open Android Studio, create a new project.",
-                    "",
+                    "打开Android Studio，创建一个新项目。",
                     "Open Android Studio, create a new project.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328937021,
                         "id": "tu13"
                     }
                 ],
                 [
                     "Choose <g1>Empty Activity<\/g1>.",
-                    "",
+                    "选择<g1>Empty Activity<\/g1>。",
                     " Choose <g1>Empty Activity<\/g1>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328953814,
                         "id": "tu13"
                     }
                 ],
                 [
                     "Use Java as the language and set the minimum sdk to 21 since CameraX requires at least Android 5.0.",
-                    "",
+                    "使用Java作为编程语言，并将最小sdk设置为21，因为CameraX至少需要Android 5.0。",
                     " Use Java as the language and set the minimum sdk to 21 since CameraX requires at least Android 5.0.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328969404,
                         "id": "tu13"
                     }
                 ],
                 [
                     "Add Dynamsoft Barcode Reader by following <g1>this guide<\/g1>.",
-                    "",
+                    "按照<g1>这一指南<\/g1>添加Dynamsoft Barcode Reader。",
                     "Add Dynamsoft Barcode Reader by following <g1>this guide<\/g1>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328992851,
                         "id": "tu14"
                     }
                 ],
                 [
                     "Add CameraX by following <g1>this guide<\/g1>.",
-                    "",
+                    "按照<g1>这一指南<\/g1>添加CameraX。",
                     "Add CameraX by following <g1>this guide<\/g1>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329004312,
                         "id": "tu15"
                     }
                 ],
                 [
                     "Layout Design",
-                    "",
+                    "布局设计",
                     "Layout Design",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329007597,
                         "id": "tu16"
                     }
                 ],
                 [
                     "Here is the content of activity_main.xml which defines the layout of the MainActivity.",
-                    "",
+                    "以下是activity_main.xml的内容，它定义了MainActivity的布局。",
                     "Here is the content of activity_main.xml which defines the layout of the MainActivity.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329026445,
                         "id": "tu17"
                     }
                 ],
                 [
                     "A Button is used to open the camera activity.",
-                    "",
+                    "有一个按钮用于打开相机的Activity。",
                     " A Button is used to open the camera activity.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329047949,
                         "id": "tu17"
                     }
                 ],
                 [
                     "Create a new activity named CameraActivity to show camera preview and barcode reading results.",
-                    "",
+                    "创建一个新的Camera Activity，以显示相机预览和条码读取结果。",
                     "Create a new activity named CameraActivity to show camera preview and barcode reading results.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329073262,
                         "id": "tu18"
                     }
                 ],
                 [
                     "The following is its layout.",
-                    "",
+                    "下面是它的布局。",
                     " The following is its layout.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329076924,
                         "id": "tu18"
                     }
                 ],
                 [
                     "Use CameraX to Preview and Analyse Images",
-                    "",
+                    "使用CameraX预览和分析图像",
                     "Use CameraX to Preview and Analyse Images",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329081091,
                         "id": "tu19"
                     }
                 ],
                 [
                     "Set event listener for the open camera button.",
-                    "",
+                    "为“打开相机”按钮设置事件侦听器。",
                     "Set event listener for the open camera button.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329092311,
                         "id": "tu20"
                     }
                 ],
                 [
                     "Camera permission is required.",
-                    "",
+                    "需要请求摄像头权限。",
                     "Camera permission is required.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329113883,
                         "id": "tu21"
                     }
                 ],
                 [
                     "It will ask the user to grant permission when the camera is needed.",
-                    "",
+                    "当需要使用摄像头时，它会请求用户授予权限。",
                     "It will ask the user to grant permission when the camera is needed.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329117715,
                         "id": "tu22"
                     }
                 ],
                 [
                     "Here is the relevant code:",
-                    "",
+                    "以下是相关代码：",
                     " Here is the relevant code:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329122587,
                         "id": "tu22"
                     }
                 ],
                 [
                     "The following has to be added to <g1>AndroidManifest.xml<\/g1>:",
-                    "",
+                    "添加以下内容到<g1>AndroidManifest.xml<\/g1>：",
                     "The following has to be added to <g1>AndroidManifest.xml<\/g1>:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329139694,
                         "id": "tu23"
                     }
                 ],
                 [
                     "Init and enable preview and image analysis use cases",
-                    "",
+                    "初始化并启用预览和图像分析用例",
                     "Init and enable preview and image analysis use cases",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329143236,
                         "id": "tu24"
                     }
                 ],
                 [
                     "Dynamsoft Barcode Reader is used to read barcodes from the image buffer.",
-                    "",
+                    "Dynamsoft Barcode Reader被用于从图像缓冲区识别条形码。",
                     "Dynamsoft Barcode Reader is used to read barcodes from the image buffer.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329163547,
                         "id": "tu25"
                     }
                 ],
                 [
                     "Here are some things to notice:",
-                    "",
+                    "这里有一些注意事项：",
                     "Here are some things to notice:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329168739,
                         "id": "tu26"
                     }
                 ],
                 [
                     "Preview and ImageAnalysis should share the same target resolution.",
-                    "",
+                    "预览和图像分析应该共享相同的目标分辨率。",
                     "Preview and ImageAnalysis should share the same target resolution.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329172219,
                         "id": "tu27"
                     }
                 ],
                 [
                     "The default image format is YUV which consumes less computing.",
-                    "",
+                    "默认的图像格式是YUV，使用这一格式运算速度会比较快。",
                     "The default image format is YUV which consumes less computing.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329202467,
                         "id": "tu28"
                     }
                 ],
                 [
                     "You may need to convert it to a RGB bitmap if you need to perform other operations.",
-                    "",
+                    "如果需要执行其他操作，可能需要将其转换为RGB位图。",
                     " You may need to convert it to a RGB bitmap if you need to perform other operations.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329205419,
                         "id": "tu28"
                     }
                 ],
                 [
                     "You can find a converter in Google's <g1>camera samples repo<\/g1>.",
-                    "",
+                    "你可以在Google的<g1>相机示例仓库<\/g1>中找到有关的转换代码。",
                     " You can find a converter in Google's <g1>camera samples repo<\/g1>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619329232309,
                         "id": "tu28"
                     }
                 ],
                 [
                     "More Camera Controls",
-                    "",
+                    "更多相机控制",
                     "More Camera Controls",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329234898,
                         "id": "tu29"
                     }
                 ],
                 [
                     "The <g1>CameraControl<\/g1> API offers some basic camera control capabilities.",
-                    "",
+                    "<g1>CameraControl<\/g1>API提供了一些基本的摄像头控制功能。",
                     "The <g1>CameraControl<\/g1> API offers some basic camera control capabilities.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619329247491,
                         "id": "tu30"
                     }
                 ],
                 [
                     "Torch control:",
-                    "",
+                    "闪光灯控制：",
                     "Torch control:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329256884,
                         "id": "tu31"
                     }
                 ],
                 [
                     "Zoom in:",
-                    "",
+                    "数码变焦：",
                     "Zoom in:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329264339,
                         "id": "tu32"
                     }
                 ],
                 [
                     "Focus at a point:",
-                    "",
+                    "对焦在一个点上：",
                     "Focus at a point:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329274414,
                         "id": "tu33"
                     }
                 ],
                 [
                     "We can also use <g1>Camera2Interop.Extender<\/g1> to have access to more controls using Camera2's CaptureRequest.",
-                    "",
+                    "我们也可以使用<g1>Camera2Interop.Extender<\/g1>使用Camera2的CaptureRequest做更多的操控。",
                     "We can also use <g1>Camera2Interop.Extender<\/g1> to have access to more controls using Camera2's CaptureRequest.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329307869,
                         "id": "tu34"
                     }
                 ],
                 [
                     "For example, the following code will make the image negative.",
-                    "",
+                    "例如，下面的代码将使图像变为负片。",
                     " For example, the following code will make the image negative.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329318957,
                         "id": "tu34"
                     }
                 ],
                 [
                     "Make the App More Usable",
-                    "",
+                    "使应用更可用",
                     "Make the App More Usable",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329328243,
                         "id": "tu35"
                     }
                 ],
                 [
                     "More functions can be added like preferences, view finder, scan history, and making a beep if a barcode is found.",
-                    "",
+                    "可以添加更多功能，如偏好设置、取景器、扫描历史记录以及在找到条形码时发出哔哔声。",
                     "More functions can be added like preferences, view finder, scan history, and making a beep if a barcode is found.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329347596,
                         "id": "tu36"
                     }
                 ],
                 [
                     "You can find an example <g1>here<\/g1>.",
-                    "",
+                    "你可以在<g1>这里<\/g1>找到一个例子。",
                     " You can find an example <g1>here<\/g1>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329359291,
                         "id": "tu36"
                     }
                 ],
                 [
                     "We will not discuss these in this post.",
-                    "",
+                    "这篇文章就不具体讨论这些了。",
                     " We will not discuss these in this post.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329424995,
                         "id": "tu36"
                     }
                 ],
                 [
                     "Source Code",
-                    "",
+                    "源代码",
                     "Source Code",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
                         "id": "tu37"
                     }
                 ],
                 [
                     "References",
-                    "",
+                    "参考文献",
                     "References",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619146617758,
                         "id": "tu38"
                     }
                 ],
                 [
                     "^camera2",
-                    "",
+                    "^camera2",
                     "^camera2",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329393741,
                         "id": "tu39"
                     }
                 ],
                 [
                     "^camerax",
-                    "",
+                    "^camerax",
                     "^camerax",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-scanner-with-camerax.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619329396491,
                         "id": "tu40"
                     }
                 ]

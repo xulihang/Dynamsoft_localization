@@ -32,10 +32,12 @@
                 ],
                 [
                     "Android Barcode Detection from Fast Moving Objects",
-                    "",
+                    "针对快速移动物体的条码检测安卓应用",
                     "Android Barcode Detection from Fast Moving Objects",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328057479,
                         "id": "sd1_sf1_sg1_sf4_tu1"
                     }
                 ],
@@ -149,208 +151,257 @@
                 ],
                 [
                     "Assume you apply barcode technology to the logistics conveyor belt for scanning parcels.",
-                    "",
+                    "如果你想将条形码技术应用于物流传送带以扫描包裹。",
                     "Assume you apply barcode technology to the logistics conveyor belt for scanning parcels.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327590142,
                         "id": "tu1"
                     }
                 ],
                 [
                     "A problem you may face is how to recognize barcodes from blurred images.",
-                    "",
+                    "你可能面临的一个问题是如何从模糊图像中识别条形码。",
                     " A problem you may face is how to recognize barcodes from blurred images.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327600918,
                         "id": "tu1"
                     }
                 ],
                 [
                     "Although we can use advanced algorithms to deal with this complicated case, we'd better improve the image quality as possible as we can.",
-                    "",
+                    "虽然我们可以使用先进的算法来处理这种复杂的情况，但我们最好尽可能提高图像质量。",
                     " Although we can use advanced algorithms to deal with this complicated case, we'd better improve the image quality as possible as we can.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327608758,
                         "id": "tu1"
                     }
                 ],
                 [
                     "A simple way is to adjust the camera shutter speed which is also known as exposure time.",
-                    "",
+                    "一个简单的方法是调整相机快门速度，或者说曝光时间。",
                     " A simple way is to adjust the camera shutter speed which is also known as exposure time.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327630141,
                         "id": "tu1"
                     }
                 ],
                 [
                     "Faster shutter speed can avoid motion blur.",
-                    "",
+                    "更快的快门速度可以避免运动模糊。",
                     " Faster shutter speed can avoid motion blur.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327633957,
                         "id": "tu1"
                     }
                 ],
                 [
                     "In this post, I will share how to invoke Android Camera2 APIs to change the shutter speed, as well as how to build a simple Android barcode reader to decode barcodes from fast-moving objects",
-                    "",
+                    "在这篇文章中，我将分享如何调用Android的Camera2 API来改变快门速度，以及如何构建一个简单的Android条形码读取器来识别快速移动物体上的条形码",
                     " In this post, I will share how to invoke Android Camera2 APIs to change the shutter speed, as well as how to build a simple Android barcode reader to decode barcodes from fast-moving objects",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327718238,
                         "id": "tu1"
                     }
                 ],
                 [
                     "Android Barcode Reader with Camera2 API",
-                    "",
+                    "基于Camera2 API的Android条码读取器",
                     "Android Barcode Reader with Camera2 API",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327708782,
                         "id": "tu2"
                     }
                 ],
                 [
                     "To build a basic Android Camera2 app, we don’t need to reinvent the wheel.",
-                    "",
+                    "要构建一个基本的Android Camera2应用程序，我们不需要重新发明轮子。",
                     "To build a basic Android Camera2 app, we don’t need to reinvent the wheel.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327724622,
                         "id": "tu3"
                     }
                 ],
                 [
                     "Just download or fork the source code of <g1>android-Camera2Basic<\/g1> provided by Google.",
-                    "",
+                    "只需下载谷歌提供的<g1>android-Camera2Basic<\/g1>的源代码。",
                     " Just download or fork the source code of <g1>android-Camera2Basic<\/g1> provided by Google.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327737591,
                         "id": "tu3"
                     }
                 ],
                 [
                     "Create an <g1>AlertDialog<\/g1> with a list view for selecting shutter speed:",
-                    "",
+                    "创建一个带有列表视图的<g1>报警对话框(AlertDialog)<\/g1>，用于选择快门速度：",
                     "Create an <g1>AlertDialog<\/g1> with a list view for selecting shutter speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327763960,
                         "id": "tu4"
                     }
                 ],
                 [
                     "Get a list of sizes compatible with the requested image format <g1>YUV\\_420\\_888<\/g1> and instantiate <g2>ImageReader<\/g2> with the opted image size:",
-                    "",
+                    "获取与请求的<g1>YUV\\_420\\_888<\/g1>图像格式兼容的图像大小列表并用所选图像大小实例化<g2>ImageReader<\/g2>：",
                     "Get a list of sizes compatible with the requested image format <g1>YUV\\_420\\_888<\/g1> and instantiate <g2>ImageReader<\/g2> with the opted image size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327847949,
                         "id": "tu5"
                     }
                 ],
                 [
                     "In the ImageReader callback function <g1>onImageAvailable()<\/g1>, get the image buffer and call the decodeBuffer() function for barcode detection:",
-                    "",
+                    "在ImageReader的回调函数<g1>onImageAvailable()<\/g1>中，获取图像缓存并调用decodeBuffer()函数进行条形码检测：",
                     "In the ImageReader callback function <g1>onImageAvailable()<\/g1>, get the image buffer and call the decodeBuffer() function for barcode detection:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327907573,
                         "id": "tu6"
                     }
                 ],
                 [
                     "Because the listener is invoked on a thread handler, we can not update the UI directly.",
-                    "",
+                    "因为侦听器是在一个线程处理程序上调用的，所以我们不能直接更新UI。",
                     "Because the listener is invoked on a thread handler, we can not update the UI directly.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327929582,
                         "id": "tu7"
                     }
                 ],
                 [
                     " We can send an update request via the main thread handler:",
-                    "",
+                    " 我们可以通过主线程处理程序发送更新请求：",
                     "  We can send an update request via the main thread handler:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327936125,
                         "id": "tu7"
                     }
                 ],
                 [
                     "Add the ImageReader surface to the <g1>CaptureRequest.Builder<\/g1>:",
-                    "",
+                    "将ImageReader的surface添加到<g1>CaptureRequest.Builder<\/g1>：",
                     "Add the ImageReader surface to the <g1>CaptureRequest.Builder<\/g1>:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327951149,
                         "id": "tu8"
                     }
                 ],
                 [
                     "Start the preview when the camera capture session is ready.",
-                    "",
+                    "当相机捕获会话就绪时，开始预览。",
                     "Start the preview when the camera capture session is ready.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327962302,
                         "id": "tu9"
                     }
                 ],
                 [
                     "To control the shutter speed, turn off the auto-exposure mode:",
-                    "",
+                    "要控制快门速度，需要先关闭自动曝光模式：",
                     " To control the shutter speed, turn off the auto-exposure mode:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619327974590,
                         "id": "tu9"
                     }
                 ],
                 [
                     "Now build and run the simple Android barcode reader.",
-                    "",
+                    "我们构建并运行这个简单的Android条形码阅读器。",
                     "Now build and run the simple Android barcode reader.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619327995247,
                         "id": "tu10"
                     }
                 ],
                 [
                     "If the barcodes cannot be read from the fast-moving objects, you just need to change the shutter speed:",
-                    "",
+                    "如果无法从快速移动的物体上读取条形码，则只需更改快门速度：",
                     " If the barcodes cannot be read from the fast-moving objects, you just need to change the shutter speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328000855,
                         "id": "tu10"
                     }
                 ],
                 [
                     "<x1\/>Android barcode reader with Camera2 API<x2\/>",
-                    "",
+                    "<x1\/>基于Camera2 API的Android条码读取器<x2\/>",
                     "<x1\/>Android barcode reader with Camera2 API<x2\/>",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619328015734,
                         "id": "tu11"
                     }
                 ],
                 [
                     "Note: due to the hardware specs, you may get low-quality preview images on some cheap phones when changing the shutter speed to 1\/500 seconds or faster.",
-                    "",
+                    "注意：由于硬件规格不同的原因，当您将快门速度更改为1\/500秒或更快时，在一些便宜的手机上可能会获得低质量的预览图像。",
                     "Note: due to the hardware specs, you may get low-quality preview images on some cheap phones when changing the shutter speed to 1\/500 seconds or faster.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328027743,
                         "id": "tu12"
                     }
                 ],
                 [
                     "Source Code",
-                    "",
+                    "源代码",
                     "Source Code",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
                         "id": "tu13"
                     }
                 ],
                 [
                     "https:\/\/github.com\/yushulx\/android-camera2-barcode",
-                    "",
+                    "https:\/\/github.com\/yushulx\/android-camera2-barcode",
                     "<g1>https:\/\/github.com\/yushulx\/android-camera2-barcode<\/g1>",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/android-barcode-detection-fast-moving-object.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1619328044863,
                         "id": "tu14"
                     }
                 ]
