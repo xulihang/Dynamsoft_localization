@@ -301,12 +301,12 @@
                 ],
                 [
                     "<g1>Dynamsoft Barcode Reader (DBR)<\/g1> is a barcode SDK written in C++ and provides JavaScript, Java and Objective-C packages.",
-                    "<1>Dynamsoft Barcode Reader (DBR)<\/G1>是一种用C++编写的条码SDK，提供JavaScript、Java和Objective-C的封装。",
+                    "<g1>Dynamsoft Barcode Reader (DBR)<\/g1>是一种用C++编写的条码SDK，提供JavaScript、Java和Objective-C的封装。",
                     "<g1>Dynamsoft Barcode Reader (DBR)<\/g1> is a barcode SDK written in C++ and provides JavaScript, Java and Objective-C packages.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1621927471410,
+                        "createdTime": 1621933909661,
                         "id": "tu8"
                     }
                 ],
@@ -338,6 +338,7 @@
                     "{% include cta.md %}",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
                     {
+                        "neglected": "yes",
                         "id": "tu10"
                     }
                 ],
@@ -1313,12 +1314,12 @@
                 ],
                 [
                     "The library is published on the <g1>B4X forum<\/g1>.",
-                    "该库已经在<g1> B4X论坛<\/ g1>​​上发布。",
+                    "该库已经在<g1> B4X论坛<\/g1>​​上发布。",
                     "The library is published on the <g1>B4X forum<\/g1>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1621932900285,
+                        "createdTime": 1621934368380,
                         "id": "tu81"
                     }
                 ],
