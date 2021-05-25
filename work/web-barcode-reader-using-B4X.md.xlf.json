@@ -1,0 +1,532 @@
+{
+    "filename": "web-barcode-reader-using-B4X.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Web Barcode Reader using B4X",
+                    "",
+                    "Web Barcode Reader using B4X",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-05-24 10:48:53 +0800",
+                    "",
+                    "2021-05-24 10:48:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-05-24 10:48:53 +0800",
+                    "",
+                    "2021-05-24 10:48:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Cross-Platform",
+                    "",
+                    "Cross-Platform",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Desktop",
+                    "",
+                    "Desktop",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to create a web barcode reader with B4X, specifically B4J+BANano.",
+                    "",
+                    "The article talks about how to create a web barcode reader with B4X, specifically B4J+BANano.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/B4X\/web.jpg",
+                    "",
+                    ".\/img\/2021\/B4X\/web.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "https:\/\/www.dynamsoft.com\/codepool\/web-barcode-reader-using-B4X.html",
+                    "",
+                    "https:\/\/www.dynamsoft.com\/codepool\/web-barcode-reader-using-B4X.html",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf18_tu1"
+                    }
+                ],
+                [
+                    "In the B4X developing suite, B4J is used to develop desktop apps based on JavaFX or server apps based on Jetty.",
+                    "",
+                    "In the B4X developing suite, B4J is used to develop desktop apps based on JavaFX or server apps based on Jetty.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "By default, it cannot be used to create web applications without a server.",
+                    "",
+                    " By default, it cannot be used to create web applications without a server.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "A third-party library, <g1>BANano<\/g1>, makes this possible.",
+                    "",
+                    " A third-party library, <g1>BANano<\/g1>, makes this possible.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It can transpile everything you write in B4J to Javascript, HTML and CSS.",
+                    "",
+                    " It can transpile everything you write in B4J to Javascript, HTML and CSS.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "The project can run purely in the browser.",
+                    "",
+                    " The project can run purely in the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is written in C++.",
+                    "",
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is written in C++.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "It provides a JavaScript version which uses WebAssembly.",
+                    "",
+                    " It provides a JavaScript version which uses WebAssembly.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "The barcode decoding can be done on the client-side which is a good match for BANano.",
+                    "",
+                    " The barcode decoding can be done on the client-side which is a good match for BANano.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Let's try building a web barcode reader using BANano and Dynamsoft Barcode Reader.",
+                    "",
+                    "Let's try building a web barcode reader using BANano and Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "First, we create the basic UI and then we integrate Dynamsoft Barcode Reader to decode local images and video stream.",
+                    "",
+                    "First, we create the basic UI and then we integrate Dynamsoft Barcode Reader to decode local images and video stream.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "We can learn about the usage of the JavaScript version of Dynamsoft Barocde Reader by looking at <g1>the helloworld example<\/g1>.",
+                    "",
+                    " We can learn about the usage of the JavaScript version of Dynamsoft Barocde Reader by looking at <g1>the helloworld example<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "We may need to translate the HTML and JavaScript to B4J code.",
+                    "",
+                    " We may need to translate the HTML and JavaScript to B4J code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Create a BANano Project for the Web Barcode Reader",
+                    "",
+                    "Create a BANano Project for the Web Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Download <g1>BANano<\/g1> and extract the Skeleton demo.",
+                    "",
+                    "Download <g1>BANano<\/g1> and extract the Skeleton demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Use this project as the base and redesign the layout using the Abstract Designer as below.",
+                    "",
+                    " Use this project as the base and redesign the layout using the Abstract Designer as below.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<x1\/>Designer<x2\/>",
+                    "",
+                    "<x1\/>Designer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "By clicking the <g1>Load Image<\/g1> button, <g2>BANanoFiles<\/g2> is used to pick a local image and load it onto the page by converting it to base64.",
+                    "",
+                    "By clicking the <g1>Load Image<\/g1> button, <g2>BANanoFiles<\/g2> is used to pick a local image and load it onto the page by converting it to base64.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Include the JavaScript library",
+                    "",
+                    "Include the JavaScript library",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Original HTML:",
+                    "",
+                    "Original HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "B4J:",
+                    "",
+                    "B4J:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "A global Dynamsoft instance is created to call the APIs.",
+                    "",
+                    "A global Dynamsoft instance is created to call the APIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "The <g1>productKeys<\/g1> is set using this instance.",
+                    "",
+                    "The <g1>productKeys<\/g1> is set using this instance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Create a Barcode Reader to Decode Local Images",
+                    "",
+                    "Create a Barcode Reader to Decode Local Images",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Original JavaScript:",
+                    "",
+                    "Original JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "We have to wrap relevant JavaScipt classes to B4J classes.",
+                    "",
+                    "We have to wrap relevant JavaScipt classes to B4J classes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "We need to use BANanoObject, which is similar to JavaObject in B4A\/B4J.",
+                    "",
+                    " We need to use BANanoObject, which is similar to JavaObject in B4A\/B4J.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Create a BarcodeReader class and a TextResult class.",
+                    "",
+                    "Create a BarcodeReader class and a TextResult class.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "BarcodeReader:",
+                    "",
+                    "BarcodeReader:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "TextResult:",
+                    "",
+                    "TextResult:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Decode an image using the Barcode Reader (the image is preloaded and converted to base64).",
+                    "",
+                    "Decode an image using the Barcode Reader (the image is preloaded and converted to base64).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Create a Barcode Scanner for Live Scan",
+                    "",
+                    "Create a Barcode Scanner for Live Scan",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Original JavaScript:",
+                    "",
+                    "Original JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Here, we create a BarcodeScanner class.",
+                    "",
+                    "Here, we create a BarcodeScanner class.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "The scanner uses callbacks to pass decoding results.",
+                    "",
+                    "The scanner uses callbacks to pass decoding results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "In BANano, the event listener is added using <g1>AddEventListenerOpen<\/g1>.",
+                    "",
+                    " In BANano, the event listener is added using <g1>AddEventListenerOpen<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "The events will be raised in the Main module if they are defined.",
+                    "",
+                    "The events will be raised in the Main module if they are defined.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "The final result:",
+                    "",
+                    "The final result:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "<x1\/>GIF<x2\/>",
+                    "",
+                    "<x1\/>GIF<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "{% include cta.md %}",
+                    "",
+                    "{% include cta.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-barcode-reader-using-B4X.md",
+                    {
+                        "id": "tu29"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

@@ -1,0 +1,1428 @@
+{
+    "filename": "cross-platform-barcode-reader-with-B4X.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Cross-Platform Barcode Reader with B4X",
+                    "B4X跨平台扫码应用",
+                    "Cross-Platform Barcode Reader with B4X",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621926922122,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-05-19 10:08:53 +0800",
+                    "",
+                    "2021-05-19 10:08:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-05-19 10:08:53 +0800",
+                    "",
+                    "2021-05-19 10:08:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Cross-Platform",
+                    "",
+                    "Cross-Platform",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Desktop",
+                    "",
+                    "Desktop",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to create a cross-platform barcode reader with the B4X rapid development tool.",
+                    "",
+                    "The article talks about how to create a cross-platform barcode reader with the B4X rapid development tool.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/B4X\/cover.jpg",
+                    "",
+                    ".\/img\/2021\/B4X\/cover.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "https:\/\/www.dynamsoft.com\/codepool\/cross-platform-barcode-reader-with-B4X.html",
+                    "",
+                    "https:\/\/www.dynamsoft.com\/codepool\/cross-platform-barcode-reader-with-B4X.html",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf18_tu1"
+                    }
+                ],
+                [
+                    "<g1>B4X<\/g1> is a set of rapid development tools which can be used to develop apps for all the major mobile and desktop platforms.",
+                    "<g1>B4X<\/g1>是一套快速应用开发（RAD）工具，可用于为主流的移动和桌面平台开发应用。",
+                    "<g1>B4X<\/g1> is a set of rapid development tools which can be used to develop apps for all the major mobile and desktop platforms.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927023266,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It has four products:",
+                    "它包含四个产品：",
+                    "It has four products:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927032643,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "B4A, B4i, B4J and B4R, which aim at Android, iOS, Java (desktop with JavaFX, server and Raspberry Pi) and Arduino development.",
+                    "B4A、B4i、B4J和B4R，分别用于Android、iOS、Java（带有JavaFX、服务器和树莓Pi的桌面）和Arduino开发。",
+                    " B4A, B4i, B4J and B4R, which aim at Android, iOS, Java (desktop with JavaFX, server and Raspberry Pi) and Arduino development.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927211723,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Apart from multi-platform support, it has the following features:",
+                    "除了多平台支持外，B4X还具有以下特点：",
+                    "Apart from multi-platform support, it has the following features:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927222841,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "An easy-to-use programming language.",
+                    "易于使用的编程语言",
+                    "An easy-to-use programming language.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927067305,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "A full-featured dedicated IDE.",
+                    "功能齐全的专用IDE",
+                    "A full-featured dedicated IDE.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927084121,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "An active and friendly community.",
+                    "活跃而友好的社区",
+                    "An active and friendly community.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927094609,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "B4X can create native apps for Android and iOS.",
+                    "B4X可以创建Android和iOS原生应用。",
+                    "B4X can create native apps for Android and iOS.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927247546,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "The B4X programming language is a modern version of Visual Basic.",
+                    "B4X编程语言是一种Visual Basic的现代版本。",
+                    " The B4X programming language is a modern version of Visual Basic.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927266898,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "It will be compiled to Java for Android and Objective-C for iOS.",
+                    "它会被编译成Android的Java和iOS的Objective-C代码。",
+                    " It will be compiled to Java for Android and Objective-C for iOS.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927293074,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "This feature makes it easy to integrate Java\/Objective-C libraries into B4X projects.",
+                    "因为这个特点，将Java\/Objective-C的类库集成到B4X项目中是很容易的事情。",
+                    " This feature makes it easy to integrate Java\/Objective-C libraries into B4X projects.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927350185,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "The code can be shared across platforms, although we still have to write the platform-specific parts like Camera and file picker.",
+                    "B4X代码可以跨平台共享。不过我们仍然需要编写平台专属的部分代码，比如控制摄像头和选择文件。",
+                    " The code can be shared across platforms, although we still have to write the platform-specific parts like Camera and file picker.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927411578,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader (DBR)<\/g1> is a barcode SDK written in C++ and provides JavaScript, Java and Objective-C packages.",
+                    "<1>Dynamsoft Barcode Reader (DBR)<\/G1>是一种用C++编写的条码SDK，提供JavaScript、Java和Objective-C的封装。",
+                    "<g1>Dynamsoft Barcode Reader (DBR)<\/g1> is a barcode SDK written in C++ and provides JavaScript, Java and Objective-C packages.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927471410,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "So it is easy to wrap it into a B4X library to develop Android, iOS and desktop barcode reader apps with B4X.",
+                    "我们可以很容易地将其封装为一个B4X库，便于用B4X开发Android、iOS和桌面端的条码读取软件。",
+                    " So it is easy to wrap it into a B4X library to develop Android, iOS and desktop barcode reader apps with B4X.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927529441,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "In this article, we are going to create a B4X wrapper and create demo apps for Andoid, iOS and desktop.",
+                    "在本文中，我们将完成B4X库的封装，并创建Android、iOS和桌面平台上的演示应用。",
+                    "In this article, we are going to create a B4X wrapper and create demo apps for Andoid, iOS and desktop.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927616182,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "{% include cta.md %}",
+                    "",
+                    "{% include cta.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Create a Test Project",
+                    "创建一个新项目",
+                    "Create a Test Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619328933100,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Let's first create a new B4J project to create and test the barcode library.",
+                    "我们首先建立一个新的B4J项目来创建和测试这个扫码库。",
+                    "Let's first create a new B4J project to create and test the barcode library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927675612,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Create a new B4XPages project with B4J.",
+                    "在B4J中创建一个新的B4XPages项目。",
+                    "Create a new B4XPages project with B4J.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927690733,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<x1\/>new project<x2\/>",
+                    "<x1\/>新项目<x2\/>",
+                    "<x1\/>new project<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927697786,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Open the UI designer.",
+                    "打开UI设计器。",
+                    "Open the UI designer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927703817,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Add a button to pick images, a button to decode, a panel to display the image and a label to show the results.",
+                    "添加一个选择图像按钮，一个解码按钮，一个面板用于显示图像，一个标签用于显示结果。",
+                    " Add a button to pick images, a button to decode, a panel to display the image and a label to show the results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927739899,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "<x1\/>designer<x2\/>",
+                    "<x1\/>设计器<x2\/>",
+                    "<x1\/>designer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927753249,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "After that, we click generate members to declare these controls and add event subs in the code.",
+                    "之后，我们单击生成成员以在代码中声明这些控件并添加事件子程序。",
+                    "After that, we click generate members to declare these controls and add event subs in the code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927775002,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "<x1\/>generate members<x2\/>",
+                    "<x1\/>生成成员<x2\/>",
+                    "<x1\/>generate members<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927784010,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Implement the image picker.",
+                    "实现图像选择器。",
+                    "Implement the image picker.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927868097,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Draw the image on the Panel with B4XCanvas.",
+                    "用B4XCanvas在面板上绘制所选图像。",
+                    " Draw the image on the Panel with B4XCanvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927880770,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Now, we have to implement the decoding part.",
+                    "现在，我们要实现解码部分。",
+                    "Now, we have to implement the decoding part.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927885513,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Wrap the Dynamsoft Barcode SDK",
+                    "封装Dynamsoft Barcode SDK",
+                    "Wrap the Dynamsoft Barcode SDK",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927899953,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Let's first write the wrapper.",
+                    "让我们先完成封装。",
+                    "Let's first write the wrapper.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927911528,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Add Dependency",
+                    "添加依赖项",
+                    "Add Dependency",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927914520,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Download Dynamsoft Barcode Reader's jar file from <g1>its website<\/g1>.",
+                    "从<g1>官网<\/g1>下载Dynamsoft Barcode Reader的jar文件。",
+                    "Download Dynamsoft Barcode Reader's jar file from <g1>its website<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927937451,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Config the path of the folder of additional libraries.",
+                    "配置额外类库文件夹的路径。",
+                    "Config the path of the folder of additional libraries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927946803,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "<x1\/>Lib path<x2\/>",
+                    "<x1\/>库的路径<x2\/>",
+                    "<x1\/>Lib path<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927963073,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Put the jar in the additional libraries folder.",
+                    "将jar放在额外类库文件夹中。",
+                    "Put the jar in the additional libraries folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621927978923,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Reference the jar in <g1>Main<\/g1> by adding this line of code:",
+                    "在<g1>Main<\/g1>中添加以下代码行导入jar：",
+                    "Reference the jar in <g1>Main<\/g1> by adding this line of code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928013073,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "How a Wrapper is Made",
+                    "封装第三方库的方法",
+                    "How a Wrapper is Made",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928034060,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Basically, there are two ways to create a wrapper.",
+                    "封装库主要有两种方法。",
+                    "Basically, there are two ways to create a wrapper.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928054872,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "One is directly writing in Java, which is illustrated <g1>here<\/g1>.",
+                    "一种是直接用Java编写（<g1>详细说明<\/g1>）。",
+                    "One is directly writing in Java, which is illustrated <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928084864,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Creating an iOS library is a bit harder which uses Objective-C.",
+                    "使用Objective-C创建iOS库会稍微困难一点。",
+                    " Creating an iOS library is a bit harder which uses Objective-C.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928102633,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "The other is using <g1>JavaObject<\/g1> to directly call Java APIs using B4X based on Java's reflection feature.",
+                    "另一种是使用<g1>JavaObject<\/g1>，基于Java反射特性直接调用Java API。",
+                    "The other is using <g1>JavaObject<\/g1> to directly call Java APIs using B4X based on Java's reflection feature.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928150353,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "<g2>NativeObject<\/g2> is the equivalence of JavaObject in B4i.",
+                    "B4i中和JavaObject对应的是<g2>NativeObject<\/g2>。",
+                    " <g2>NativeObject<\/g2> is the equivalence of JavaObject in B4i.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928206777,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "It can be used with the <g1>inline java code<\/g1> feature.",
+                    "它可以与<g1>内联Java代码<\/g1>一起使用。",
+                    "It can be used with the <g1>inline java code<\/g1> feature.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928218492,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Java code can be directly included in B4X's source code, as shown below.",
+                    "Java代码可以直接包含在B4X的源代码中，如下所示。",
+                    " Java code can be directly included in B4X's source code, as shown below.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928222145,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Then it can be called using JavaObject.",
+                    "然后可以使用JavaObject调用它。",
+                    "Then it can be called using JavaObject.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928226704,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Here, we choose JavaObject to create the wrapper.",
+                    "这里，我们选择使用JavaObject来进行封装。",
+                    "Here, we choose JavaObject to create the wrapper.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928243002,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Write the Wrapper",
+                    "实现封装",
+                    "Write the Wrapper",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928260629,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Create a class and name it DBR.",
+                    "创建一个类并将其命名为DBR。",
+                    "Create a class and name it DBR.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928266960,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "It is implemented as below.",
+                    "具体代码如下。",
+                    " It is implemented as below.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928274114,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "A TextResult class is created to represent the decoding result.",
+                    "创建一个TextResult类来表示解码结果。",
+                    "A TextResult class is created to represent the decoding result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928277336,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Here we just parse the text and localization result.",
+                    "这里我们只解析文本和定位结果。",
+                    " Here we just parse the text and localization result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928294557,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Use the Wrapper",
+                    "封装后的使用",
+                    "Use the Wrapper",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928326610,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Now, we can implement the decoding part with the wrapper.",
+                    "现在，我们可以用做好的封装来实现解码部分。",
+                    "Now, we can implement the decoding part with the wrapper.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928352964,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Initialize the reader.",
+                    "初始化一个DBR的实例，命名为reader。",
+                    "Initialize the reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928388426,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Decode the image and display the result.",
+                    "解码图像并显示结果。",
+                    "Decode the image and display the result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928391976,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Here is a snapshot of the completed app:",
+                    "下图是最后实现的应用：",
+                    "Here is a snapshot of the completed app:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928409322,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "<x1\/>Reader B4J<x2\/>",
+                    "<x1\/>条码读取器B4J<x2\/>",
+                    "<x1\/>Reader B4J<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928417634,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Make it Cross-Platform",
+                    "跨平台的实现",
+                    "Make it Cross-Platform",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928429485,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "We have finished the B4J application.",
+                    "我们已经完成了应用的B4J版本。",
+                    "We have finished the B4J application.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928621066,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Now, let's modify it to make it work on Android and iOS.",
+                    "接下来我们稍作修改，使其能够在Android和iOS上工作。",
+                    " Now, let's modify it to make it work on Android and iOS.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621928789862,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Share Class Files and Layouts",
+                    "共享类和布局",
+                    "Share Class Files and Layouts",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932074204,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Upon creation of a B4Xpage project, it will create three folders containing the platform-specific files and a <g1>Shared Files<\/g1> folder for shared asset files.",
+                    "在建立B4XPages项目时，会创建包含平台特定的文件的三个文件夹和一个共享资产文件的<g1>Shared Files<\/g1>文件夹。",
+                    "Upon creation of a B4Xpage project, it will create three folders containing the platform-specific files and a <g1>Shared Files<\/g1> folder for shared asset files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932136436,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Shared class files are stored in the root.",
+                    "共享的类文件存储在根目录中。",
+                    " Shared class files are stored in the root.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932146865,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Open the previous project folder.",
+                    "打开之前建立的项目的文件夹。",
+                    "Open the previous project folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932163893,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "We can see a folder structure like this:",
+                    "我们可以看到这样的文件夹结构：",
+                    " We can see a folder structure like this:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932169092,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Now we want to share the files we just created in the three platforms' projects.",
+                    "现在我们想让我们刚建立的文件在三个平台的项目中共享。",
+                    "Now we want to share the files we just created in the three platforms' projects.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932246033,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Move the <g1>DBR.bas<\/g1> and <g2>TextResult.bas<\/g2> to the root.",
+                    "将<g1>DBR.bas<\/g1>和<g2>TextResult.bas<\/g2>移到根目录。",
+                    "Move the <g1>DBR.bas<\/g1> and <g2>TextResult.bas<\/g2> to the root.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932252028,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Open the B4A, B4J and B4i projects and re-add them as new modules using relative path.",
+                    "打开B4A、B4J和B4i项目，使用相对路径导入这两个文件。",
+                    " Open the B4A, B4J and B4i projects and re-add them as new modules using relative path.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932301657,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "<x1\/>Link Modules<x2\/>",
+                    "<x1\/>链接模块<x2\/>",
+                    "<x1\/>Link Modules<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932304712,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "In B4J, open the designer.",
+                    "在B4J中，打开设计器。",
+                    "In B4J, open the designer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932311353,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "Select and copy all the controls.",
+                    "选择并复制所有控件。",
+                    " Select and copy all the controls.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932314924,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "Open the layout files for B4i and B4A with their designer and paste.",
+                    "用设计器打开B4i和B4A的布局文件并粘贴。",
+                    " Open the layout files for B4i and B4A with their designer and paste.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932326108,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "<x1\/>Paste Layout<x2\/>",
+                    "<x1\/>粘贴布局<x2\/>",
+                    "<x1\/>Paste Layout<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932332572,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "Add Platform-Specific Code",
+                    "添加特定于平台的代码",
+                    "Add Platform-Specific Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932336512,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "Platform-specific code can exist in one source file using the #if statement.",
+                    "特定于平台的代码可以使用#if语句存在于一个源文件中。",
+                    "Platform-specific code can exist in one source file using the #if statement.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932346137,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Let's see it in practice.",
+                    "让我们具体来看一下。",
+                    " Let's see it in practice.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932365465,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Code for B4A",
+                    "B4A代码",
+                    "Code for B4A",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932372065,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Use aar instead of jar.",
+                    "使用aar。",
+                    "Use aar instead of jar.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932388712,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Download the aar file from Dynamsoft, put it in the additional libraries folder and add the following line of code in Main:",
+                    "从Dynamsoft下载aar文件，将其放入额外类库文件夹，并在Main中添加以下代码行：",
+                    "Download the aar file from Dynamsoft, put it in the additional libraries folder and add the following line of code in Main:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932400121,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "The image picker is platform-specific.",
+                    "图像选择器是特定于平台的。",
+                    "The image picker is platform-specific.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932408527,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "We add the code in the <g1>if b4a<\/g1> statement to use <g2>ContentChooser<\/g2> to pick images.",
+                    "我们在<g1>if b4a<\/g1>语句中添加代码，使用<g2>ContentChooser<\/g2>来拾取图像。",
+                    " We add the code in the <g1>if b4a<\/g1> statement to use <g2>ContentChooser<\/g2> to pick images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932423104,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Dynamsoft Barcode Reader for Mobile can have a 7-day public trial by connecting to the License Tracking Server (LTS).",
+                    "Dynamsoft Barcode Reader移动版可以通过连接到许可证跟踪服务器（LTS）进行为期7天的公共试用。",
+                    "Dynamsoft Barcode Reader for Mobile can have a 7-day public trial by connecting to the License Tracking Server (LTS).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932478537,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "Add the following inline java code to <g1>DBR.bas<\/g1>:",
+                    "将以下Java代码添加到<g1>DBR.bas<\/g1>中：",
+                    "Add the following inline java code to <g1>DBR.bas<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932494408,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "Add a new sub to init license from LTS:",
+                    "添加下列Sub以从LTS初始化许可证。",
+                    "Add a new sub to init license from LTS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932577109,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "In <g1>B4XMainPage.bas<\/g1>, use <g2>initLicenseFromLTS<\/g2> if the platform is mobile.",
+                    "在<g1>B4XMainPage.bas<\/g1>中，如果是移动平台，则使用<g2>initLicenseFromLTS<\/g2>。",
+                    "In <g1>B4XMainPage.bas<\/g1>, use <g2>initLicenseFromLTS<\/g2> if the platform is mobile.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932624268,
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "In B4J, the image has to be converted while the bitmap on Android can be directly used.",
+                    "在B4J中，图像需要转换为BufferedImage，而Android上的位图可以直接使用。",
+                    "In B4J, the image has to be converted while the bitmap on Android can be directly used.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932642827,
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "That's it.",
+                    "完成了。",
+                    "That's it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932655040,
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "We can now run the app on Android.",
+                    "我们现在可以在Android上运行这个应用了。",
+                    " We can now run the app on Android.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932657366,
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "<x1\/>Android<x2\/>",
+                    "",
+                    "<x1\/>Android<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "Code for B4i",
+                    "B4i代码",
+                    "Code for B4i",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1621932666761,
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "Use framework instead of aar\/jar.",
+                    "使用Framework。",
+                    "Use framework instead of aar\/jar.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932676557,
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "Download the Dynamsoft Barcode Reader framework from Dynamsoft, put it in the local mac builder's library folder and add the following line of code in Main:",
+                    "从Dynamsoft网站下载Dynamsoft Barcode Reader的iOS框架，将其放入本地Mac构建器的库文件夹中，并在Main中添加以下代码行：",
+                    "Download the Dynamsoft Barcode Reader framework from Dynamsoft, put it in the local mac builder's library folder and add the following line of code in Main:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932729668,
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "Use the Camera class to pick images.",
+                    "使用Camera类选择图像。",
+                    "Use the Camera class to pick images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932743768,
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "Here, the image taken in iOS has to be normalized or the image may be rotated.",
+                    "iOS中拍摄的图像需要进行处理，否则图像可能会被旋转。",
+                    "Here, the image taken in iOS has to be normalized or the image may be rotated.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932771576,
+                        "id": "tu72"
+                    }
+                ],
+                [
+                    "The following Objective-C code is used to do this:",
+                    "以下Objective-C代码用于执行此操作：",
+                    "The following Objective-C code is used to do this:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932782247,
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "It is a bit different using NativeObject from JavaObject.",
+                    "使用NativeObject和JavaObject存在不同。",
+                    "It is a bit different using NativeObject from JavaObject.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932803060,
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "We use inline Objective-C code to directly call DBR's APIs and relevant B4X subs have to be modified a little.",
+                    "我们使用内嵌Objective-C代码直接调用DBR的api，相关的B4X Sub需要稍加修改。",
+                    " We use inline Objective-C code to directly call DBR's APIs and relevant B4X subs have to be modified a little.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932825305,
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "The entire decodeImage method:",
+                    "整个decodeImage方法：",
+                    "The entire decodeImage method:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1621932830665,
+                        "id": "tu75"
+                    }
+                ],
+                [
+                    "Now, we can run the barcode reader on iOS.",
+                    "现在，我们可以在iOS上运行条码阅读器了。",
+                    "Now, we can run the barcode reader on iOS.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932863657,
+                        "id": "tu76"
+                    }
+                ],
+                [
+                    "<x1\/>iOS<x2\/>",
+                    "<x1\/>iOS<x2\/>",
+                    "<x1\/>iOS<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932840488,
+                        "id": "tu77"
+                    }
+                ],
+                [
+                    "Conclusion",
+                    "结论",
+                    "Conclusion",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932842323,
+                        "id": "tu78"
+                    }
+                ],
+                [
+                    "It is easy to use B4X to create a cross-platform barcode reader.",
+                    "使用B4X可以很容易地创建跨平台条码阅读器。",
+                    "It is easy to use B4X to create a cross-platform barcode reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932860441,
+                        "id": "tu79"
+                    }
+                ],
+                [
+                    "The code and UI can be shared across platforms though we still need to know a bit about native development.",
+                    "代码和UI可以跨平台共享。不过我们还是需要了解一些原生开发。",
+                    " The code and UI can be shared across platforms though we still need to know a bit about native development.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932888536,
+                        "id": "tu79"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu80"
+                    }
+                ],
+                [
+                    "The library is published on the <g1>B4X forum<\/g1>.",
+                    "该库已经在<g1> B4X论坛<\/ g1>​​上发布。",
+                    "The library is published on the <g1>B4X forum<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932900285,
+                        "id": "tu81"
+                    }
+                ],
+                [
+                    "More",
+                    "更多",
+                    "More",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621932902574,
+                        "id": "tu82"
+                    }
+                ],
+                [
+                    "A live scanner is also implemented:",
+                    "另外还实现了视频流扫码应用：",
+                    "A live scanner is also implemented:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621933464628,
+                        "id": "tu83"
+                    }
+                ],
+                [
+                    "<x1\/>Barcode Scanner<x2\/>",
+                    "<x1\/>条形码扫描器<x2\/>",
+                    "<x1\/>Barcode Scanner<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621933473728,
+                        "id": "tu84"
+                    }
+                ],
+                [
+                    "Source code",
+                    "源代码",
+                    "<g1>Source code<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu85"
+                    }
+                ],
+                [
+                    "A web application is created using B4J+BANano:",
+                    "使用B4J+BANano创建了一个Web应用程序：",
+                    "A web application is created using B4J+BANano:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621933485797,
+                        "id": "tu86"
+                    }
+                ],
+                [
+                    "<x1\/>Web<x2\/>",
+                    "",
+                    "<x1\/>Web<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "id": "tu87"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线演示",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621933492366,
+                        "id": "tu88"
+                    }
+                ],
+                [
+                    "Source code",
+                    "源代码",
+                    "<g1>Source code<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu89"
+                    }
+                ],
+                [
+                    "They will be discussed in following articles.",
+                    "以后文章里会介绍开发的细节。",
+                    "They will be discussed in following articles.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/cross-platform-barcode-reader-with-B4X.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1621933558019,
+                        "id": "tu90"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
