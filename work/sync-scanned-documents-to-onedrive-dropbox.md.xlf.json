@@ -1,0 +1,899 @@
+{
+    "filename": "sync-scanned-documents-to-onedrive-dropbox.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Sync Scanned Documents across Multiple Devices",
+                    "在多个设备间同步扫描文档",
+                    "Sync Scanned Documents across Multiple Devices",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625471765794,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-07-01 10:43:53 +0800",
+                    "",
+                    "2021-07-01 10:43:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-07-01 10:43:53 +0800",
+                    "",
+                    "2021-07-01 10:43:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Cloud",
+                    "",
+                    "Cloud",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "P2P",
+                    "",
+                    "P2P",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "OAuth",
+                    "",
+                    "OAuth",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Onedrive",
+                    "",
+                    "Onedrive",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Dropbox",
+                    "",
+                    "Dropbox",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to sync scanned documents across multiple devices using synchronization services like Onedrive and Dropbox.",
+                    "",
+                    "The article talks about how to sync scanned documents across multiple devices using synchronization services like Onedrive and Dropbox.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/sync\/cover.png",
+                    "",
+                    ".\/img\/2021\/sync\/cover.png",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "https:\/\/www.dynamsoft.com\/codepool\/sync-scanned-documents-to-onedrive-dropbox.html",
+                    "",
+                    "https:\/\/www.dynamsoft.com\/codepool\/sync-scanned-documents-to-onedrive-dropbox.html",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "Continuous file synchronization programs synchronize files between two or more devices in real time.",
+                    "持续文件同步程序能实时同步两个或多个设备之间的文件。",
+                    "Continuous file synchronization programs synchronize files between two or more devices in real time.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625471789852,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can use them to sync scanned documents so that we can access the files on multiple devices.",
+                    "我们可以使用它们来同步扫描的文档，这样我们就可以在多个设备上访问这些文件。",
+                    " We can use them to sync scanned documents so that we can access the files on multiple devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625471834200,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "There are many cloud storage services which do the job, like Box, Dropbox, Onedrive and Google Drive.",
+                    "有很多云存储服务可以完成这项工作，比如坚果云、百度网盘、Box、Dropbox、Onedrive和Google Drive。",
+                    "There are many cloud storage services which do the job, like Box, Dropbox, Onedrive and Google Drive.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625471868881,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "There are also programs like Syncthing and Resilio Sync which use a decentralized P2P system.",
+                    "还有像Syncthing和Resilio Sync这样的程序，它们使用去中心化的P2P系统。",
+                    " There are also programs like Syncthing and Resilio Sync which use a decentralized P2P system.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625471884563,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "These services or programs are easy to use.",
+                    "这些服务或程序用法比较简单。",
+                    "These services or programs are easy to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625471900233,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Add or rename a file and these changes are instantly synchronized.",
+                    "添加或重命名一个文件，变动会立即得到同步。",
+                    " Add or rename a file and these changes are instantly synchronized.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625471922165,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Sync Documents Scanned with Dynamic Web TWAIN",
+                    "同步使用Dynamic Web TWAIN扫描的文档",
+                    "Sync Documents Scanned with Dynamic Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625471958690,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<g1>Dynamic Web TWAIN (DWT)<\/g1> is an SDK to build web document scanning applications (<g2>online demo<\/g2>).",
+                    "<g1>Dynamic Web TWAIN (DWT)<\/g1> 是用于构建 Web 文档扫描应用程序的 SDK（<g2>在线演示<\/g2>）。",
+                    "<g1>Dynamic Web TWAIN (DWT)<\/g1> is an SDK to build web document scanning applications (<g2>online demo<\/g2>).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625471973495,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "We can scan documents with DWT on browsers and then save them to synced folders.",
+                    "我们可以在浏览器上用DWT扫描文档，然后将它们保存到同步文件夹中。",
+                    "We can scan documents with DWT on browsers and then save them to synced folders.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625471987289,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "There are two ways to sync scanned documents to file synchronization services like Onedrive and Dropbox.",
+                    "有两种方法可以将扫描的文档同步到如Onedrive和Dropbox这样的文件同步服务。",
+                    "There are two ways to sync scanned documents to file synchronization services like Onedrive and Dropbox.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472008007,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "One is saving the files to the service's local folder and let the background program discover the changes and sync automatically.",
+                    "一种是将文件保存到这些服务的本地文件夹中，让后台程序自动发现更改并同步。",
+                    " One is saving the files to the service's local folder and let the background program discover the changes and sync automatically.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472025768,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "The other is directly uploading the documents using their APIs.",
+                    "另一种方法是使用API直接上传文档。",
+                    " The other is directly uploading the documents using their APIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472036818,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Save Scanned Documents to Local Folders",
+                    "将扫描的文档保存到本地文件夹",
+                    "Save Scanned Documents to Local Folders",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472042183,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "In DWT, we can save the scanned documents into a specified folder with its <g1>Save<\/g1> methods:",
+                    "在DWT中，我们可以使用其<g1>保存<\/g1>功能将扫描的文档保存到指定的文件夹中：",
+                    "In DWT, we can save the scanned documents into a specified folder with its <g1>Save<\/g1> methods:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472069673,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "We can name the file with a formatted date:",
+                    "我们可以用格式化日期命名文件：",
+                    "We can name the file with a formatted date:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472082670,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "After the file is saved, the synchronization program will sync the new file to any connected devices.",
+                    "文件保存后，同步程序会将新文件同步到连接的设备。",
+                    "After the file is saved, the synchronization program will sync the new file to any connected devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472101248,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "But this does not work on mobile devices, since we cannot specify where the downloaded files should be saved.",
+                    "但这不适用于移动设备，因为移动系统中我们无法指定下载文件的保存位置。",
+                    "But this does not work on mobile devices, since we cannot specify where the downloaded files should be saved.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472113792,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Upload Files using APIs",
+                    "使用API上传文件",
+                    "Upload Files using APIs",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472129441,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Most of the file synchronization services provide APIs so that we can directly upload documents.",
+                    "大多数文件同步服务都提供了API，以便我们可以直接上传文档。",
+                    "Most of the file synchronization services provide APIs so that we can directly upload documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472136470,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Although this needs extra work, it works on both desktop and mobile devices.",
+                    "尽管这需要额外的工作，但这种方式同时适用于桌面和移动设备。",
+                    " Although this needs extra work, it works on both desktop and mobile devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472172231,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Here, we are going to integrate Dropbox and Onedrive to our web scanning application.",
+                    "本文中，我们将把Dropbox和Onedrive集成到一个文档扫描Web应用程序中。",
+                    "Here, we are going to integrate Dropbox and Onedrive to our web scanning application.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472263281,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "The flows of uploading to Dropbox and Onedrive are similar.",
+                    "上传到Dropbox和Onedrive的流程是类似的。",
+                    "The flows of uploading to Dropbox and Onedrive are similar.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472273081,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "First, we redirect users to an authorization page (OAuth).",
+                    "首先，我们将用户重定向到一个授权页（OAuth）。",
+                    "First, we redirect users to an authorization page (OAuth).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472280367,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Users are asked to log in and authorize our app to have access to their files.",
+                    "用户需要登录并授权我们的应用程序访问他们的文件。",
+                    " Users are asked to log in and authorize our app to have access to their files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472283814,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "A token will be generated for further operations.",
+                    "一个令牌会生成以供进一步操作。",
+                    " A token will be generated for further operations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472343904,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Then, we can upload scanned documents.",
+                    "然后，我们可以上传扫描文件。",
+                    " Then, we can upload scanned documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472350070,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Upload to Dropbox",
+                    "上传到Dropbox",
+                    "Upload to Dropbox",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472356302,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "We use <g1>the official Dropbox SDK for Javascript<\/g1> to upload files.",
+                    "我们使用官方的<g1>Dropbox SDK for Javascript<\/g1>上传文件。",
+                    "We use <g1>the official Dropbox SDK for Javascript<\/g1> to upload files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472367000,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Create an application on the <g1>DBX platform<\/g1>.",
+                    "在<g1>DBX平台<\/g1>上创建应用程序。",
+                    "Create an application on the <g1>DBX platform<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472374479,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "<x1\/>New dropbox app<x2\/>",
+                    "<x1\/>新的Dropbox应用程序<x2\/>",
+                    "<x1\/>New dropbox app<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472384332,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Enable the File Write permission.",
+                    "启用文件写入（File Write）权限。",
+                    "Enable the File Write permission.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472395600,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "<x1\/>Dropbox permission<x2\/>",
+                    "<x1\/>Dropbox权限<x2\/>",
+                    "<x1\/>Dropbox permission<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472398646,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "In the HTML file, add authorization-related code.",
+                    "在HTML文件中，添加与授权相关的代码。",
+                    "In the HTML file, add authorization-related code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472402166,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472408432,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Javascript:",
+                    "JavaScript：",
+                    "Javascript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "The code will generate the href to the authorization page.",
+                    "该代码将生成到授权页面的 href。",
+                    "The code will generate the href to the authorization page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472428718,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "The client id is just another name of your app key which we can find on the DBX platform.",
+                    "client id只是app key的另一个名称，我们可以在 DBX 平台上找到它。",
+                    " The client id is just another name of your app key which we can find on the DBX platform.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472451105,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Create a new file for redirection: auth.html.",
+                    "为重定向创建一个新文件：auth.html。",
+                    "Create a new file for redirection: auth.html.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472459038,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "After the user has granted access on the authorization page, he will be redirected to a predefined redirect URI where we can retrieve the access token.",
+                    "在用户授予访问权限之后，他将被重定向到预定义的重定向URI，我们可以根据这个URL获得访问令牌。",
+                    "After the user has granted access on the authorization page, he will be redirected to a predefined redirect URI where we can retrieve the access token.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472490176,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "The auth.html we create can parse the URL and save the token in the cookie.",
+                    "我们创建的auth.html可以解析URL并将令牌保存在cookie中。",
+                    " The auth.html we create can parse the URL and save the token in the cookie.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472502534,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "The following is its content:",
+                    "其内容如下：",
+                    " The following is its content:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472510358,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "We need to define the redirect uri in the DBX platform:",
+                    "我们需要在DBX平台中定义重定向URI：",
+                    "We need to define the redirect uri in the DBX platform:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472523495,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "<x1\/>Dropbox redirect uri<x2\/>",
+                    "<x1\/>Dropbox重定向uri<x2\/>",
+                    "<x1\/>Dropbox redirect uri<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472526238,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Upload the documents.",
+                    "上传文件。",
+                    "Upload the documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472530742,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Convert the scanned documents to a PDF file and upload it to Dropbox.",
+                    "将扫描的文档转换为PDF文件并上传到Dropbox。",
+                    "Convert the scanned documents to a PDF file and upload it to Dropbox.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472544871,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "If there is no valid access token, users will be asked to authorize.",
+                    "如果没有有效的访问令牌，将要求用户进行授权。",
+                    "If there is no valid access token, users will be asked to authorize.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472555839,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Upload to Onedrive",
+                    "上传到Onedrive",
+                    "Upload to Onedrive",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472560310,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "We use <g1>the Microsoft Graph API<\/g1> to upload files.",
+                    "我们使用<g1>Microsoft Graph API<\/g1>上传文件。",
+                    "We use <g1>the Microsoft Graph API<\/g1> to upload files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472568270,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Create an app on <g1>the Azure App registrations page<\/g1>.",
+                    "在<g1>Azure应用程序注册页面<\/g1>上创建应用程序。",
+                    "Create an app on <g1>the Azure App registrations page<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472579338,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "It also needs a redirect URI.",
+                    "它也需要一个重定向URI。",
+                    "It also needs a redirect URI.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472586030,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Here, we set the URI as <x1\/>.",
+                    "这里，我们将URI设置为<x1\/>。",
+                    " Here, we set the URI as <x1\/>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472590897,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "<x1\/>New Azure app<x2\/>",
+                    "<x1\/>新的Azure应用程序<x2\/>",
+                    "<x1\/>New Azure app<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472596774,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Go to Platform configurations.",
+                    "转到平台配置（Platform configurations）。",
+                    "Go to Platform configurations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472608467,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Enable access token.",
+                    "启用访问令牌。",
+                    " Enable access token.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472611197,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "<x1\/>Enable access token.jpg<x2\/>",
+                    "<x1\/>启用访问令牌.jpg<x2\/>",
+                    "<x1\/>Enable access token.jpg<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472614231,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "In the HTML file, add authorization-related code.",
+                    "在HTML文件中，添加与授权相关的代码。",
+                    "In the HTML file, add authorization-related code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472617446,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Javascript:",
+                    "JavaScript：",
+                    "Javascript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Create a new file for redirection: auth_onedrive.html.",
+                    "为重定向创建一个新文件：auth_onedrive.html。",
+                    "Create a new file for redirection: auth_onedrive.html.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1625472636176,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "The content is much the same as Dropbox's version.",
+                    "内容与Dropbox的版本大致相同。",
+                    " The content is much the same as Dropbox's version.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472639184,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Upload the documents.",
+                    "上传文件。",
+                    "Upload the documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472642622,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "To upload large files, we need to create an upload session first and then upload them.",
+                    "要上传大文件，我们需要先创建一个上传会话，然后再上传它们。",
+                    "To upload large files, we need to create an upload session first and then upload them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625472657784,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Try out Dynamic Web TWAIN",
+                    "",
+                    "Try out Dynamic Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Download a trial version of Dynamic Web TWAIN to have a try on your own:",
+                    "",
+                    "Download a trial version of Dynamic Web TWAIN to have a try on your own:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "<g1>Download Free Trial<\/g1>.",
+                    "",
+                    " <g1>Download Free Trial<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "{% include cta_dwt.md %}",
+                    "",
+                    "{% include cta_dwt.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/sync-scanned-documents-to-onedrive-dropbox.md",
+                    {
+                        "id": "tu51"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

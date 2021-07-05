@@ -1,0 +1,961 @@
+{
+    "filename": "web-document-scanner-with-blazor.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a Web Document Scanner with Blazor",
+                    "基于Blazor构建文档扫描Web应用",
+                    "How to Build a Web Document Scanner with Blazor",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310271327,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-06-04 13:16:53 +0800",
+                    "",
+                    "2021-06-04 13:16:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-06-04 13:16:53 +0800",
+                    "",
+                    "2021-06-04 13:16:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Management",
+                    "",
+                    "Document Management",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Blazor",
+                    "",
+                    "Blazor",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a web document scanner with Blazor.",
+                    "",
+                    "The article talks about how to build a web document scanner with Blazor.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/Blazor\/app.jpg",
+                    "",
+                    ".\/img\/2021\/Blazor\/app.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "https:\/\/www.dynamsoft.com\/codepool\/web-document-scanner-with-blazor.html",
+                    "",
+                    "https:\/\/www.dynamsoft.com\/codepool\/web-document-scanner-with-blazor.html",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Blazor is a framework for building interactive client-side web UI with .NET<x1\/>^doc<x2\/>.",
+                    "Blazor是一个使用.NET构建交互式客户端Web UI的框架<x1\/>^doc<x2\/>。",
+                    "Blazor is a framework for building interactive client-side web UI with .NET<x1\/>^doc<x2\/>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310334943,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Users can create interactive UIs in C# instead of JavaScript.",
+                    "用户可以用C#创建交互式UI，而无需使用JavaScript。",
+                    " Users can create interactive UIs in C# instead of JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310369703,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Server-side and client-side app logic can both be written in .NET.",
+                    "服务器端和客户端应用程序逻辑都可以使用.NET编写。",
+                    " Server-side and client-side app logic can both be written in .NET.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310392526,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In the <g1>previous article<\/g1>, we've created a barcode reader with Blazor using <g2>Dynamsoft Barcode Reader<\/g2>.",
+                    "在<g1>上一篇文章<\/g1>中，我们使用<g2>Dynamsoft Barcode Reader<\/g2>和Blazor制作了一个条码阅读器。",
+                    "In the <g1>previous article<\/g1>, we've created a barcode reader with Blazor using <g2>Dynamsoft Barcode Reader<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310440055,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a web document scanner using <g3>Dynamic Web TWAIN (DWT)<\/g3>.",
+                    "在本文中，我们将使用<g3>Dynamic Web TWAIN（DWT）<\/g3>构建一个文档扫描Web应用。",
+                    " In this article, we are going to build a web document scanner using <g3>Dynamic Web TWAIN (DWT)<\/g3>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310474631,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN is a JavaScript library designed for document scanning and document management.",
+                    "Dynamic Web TWAIN是一个用于文档扫描和文档管理的JavaScript库。",
+                    " Dynamic Web TWAIN is a JavaScript library designed for document scanning and document management.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310500231,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "We can easily integrate it in a Blazor app.",
+                    "我们可以轻松地将其集成到Blazor应用程序中。",
+                    " We can easily integrate it in a Blazor app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310505557,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "{% include cta_dwt.md %}",
+                    "",
+                    "{% include cta_dwt.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "neglected": "yes",
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Build a Web Document Scanner with Blazor",
+                    "使用Blazor构建文档扫描Web应用",
+                    "Build a Web Document Scanner with Blazor",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310544119,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "There are two kinds of Blazor applications:",
+                    "Blazor应用有两种类别：",
+                    "There are two kinds of Blazor applications:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310558142,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Blazor WebAssembly and Blazor Server.",
+                    "Blazor WebAssembly和Blazor Server。",
+                    " Blazor WebAssembly and Blazor Server.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310569176,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Blazor WebAssembly applications run purely on the client side.",
+                    "Blazor WebAssembly应用可以完全运行在客户端。",
+                    "Blazor WebAssembly applications run purely on the client side.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310597526,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "C# code files and Razor files are compiled into .NET assemblies.",
+                    "C#代码文件和Razor文件会被编译成.NET程序集。",
+                    " C# code files and Razor files are compiled into .NET assemblies.\r\n",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310628263,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "The assemblies and the .NET runtime are downloaded to the browser.",
+                    "程序集和.NET运行时将下载到浏览器。",
+                    "The assemblies and the .NET runtime are downloaded to the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310613767,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Blazor Server applications have a real-time connection (<g1>SignalR<\/g1>) to the server.",
+                    "Blazor Server应用与服务器具有实时连接（<g1>SignalR<\/g1>）。",
+                    "Blazor Server applications have a real-time connection (<g1>SignalR<\/g1>) to the server.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310653718,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "The server executes the app's C# code and updates the UI on the client side.",
+                    "服务器执行应用程序的C#代码并更新客户端的UI。",
+                    " The server executes the app's C# code and updates the UI on the client side.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310665374,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "You can learn about the pros and cons of Blazor Server and Blazor WebAssembly at <g1>Blazor University<\/g1>.",
+                    "访问<g1>Blazor 大学<\/g1>了解Blazor Server和Blazor WebAssembly的优缺点。",
+                    "You can learn about the pros and cons of Blazor Server and Blazor WebAssembly at <g1>Blazor University<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310701742,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "In this article, we are going to create a WebAssembly version as well as a Server version.",
+                    "在本文中，我们将创建一个WebAssembly版本和一个Server版本。",
+                    "In this article, we are going to create a WebAssembly version as well as a Server version.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310714606,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Web Document Scanner with Blazor WebAssembly",
+                    "基于Blazor WebAssembly的文档扫描Web应用",
+                    "Web Document Scanner with Blazor WebAssembly",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623310731045,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Open Visual Studio, create a Blazor WebAssembly project.",
+                    "打开 Visual Studio，创建一个 Blazor WebAssembly 项目。",
+                    "Open Visual Studio, create a Blazor WebAssembly project.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311476644,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Remember to select .NET 5.",
+                    "记得选择.NET 5。",
+                    " Remember to select .NET 5.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311517061,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<x1\/>New Blazor project<x2\/>",
+                    "<x1\/>新Blazor项目<x2\/>",
+                    "<x1\/>New Blazor project<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1623311524788,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Download and install <g1>Dynamic Web TWAIN<\/g1>.",
+                    "下载并安装 <g1>Dynamic Web TWAIN<\/g1>。",
+                    "Download and install <g1>Dynamic Web TWAIN<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311530036,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Copy the <g2>Resources<\/g2> folder to the <g3>wwwroot<\/g3> folder.",
+                    "将<g2>Resources<\/g2>文件夹复制到<g3>wwwroot<\/g3>文件夹。",
+                    " Copy the <g2>Resources<\/g2> folder to the <g3>wwwroot<\/g3> folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311544621,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Modify <g1>dynamsoft.webtwain.config.js<\/g1> in the <g2>Resources<\/g2> folder.",
+                    "修改<g2>Resources<\/g2>文件夹中的<g1>dynamsoft.webtwain.config.js<\/g1>。",
+                    "Modify <g1>dynamsoft.webtwain.config.js<\/g1> in the <g2>Resources<\/g2> folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311564230,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Set up <g3>ProductKey<\/g3> and change <g4>Dynamsoft.DWT.AutoLoad<\/g4> to false as we want to load DWT manually.",
+                    "设置<g3>ProductKey<\/g3>，将<g4>Dynamsoft.DWT.AutoLoad<\/g4>更改为false，因为我们要手动加载DWT。",
+                    " Set up <g3>ProductKey<\/g3> and change <g4>Dynamsoft.DWT.AutoLoad<\/g4> to false as we want to load DWT manually.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311579181,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Modify <g1>wwwroot\/index.html<\/g1>.",
+                    "修改 <g1>wwwroot\/index.html<\/g1>。",
+                    "Modify <g1>wwwroot\/index.html<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311586804,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Include DWT's JavaScript files in head:",
+                    "在head中包含DWT的JavaScript文件：",
+                    "Include DWT's JavaScript files in head:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311591516,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Add the following JavaScript for interoperation with C# code in body (learn more about JavaScript interoperability <g1>here<\/g1>):",
+                    "在body添加以下JavaScript以实现与C#代码的互操作（在<g1>此处<\/g1>了解有关JavaScript互操作的更多信息）：",
+                    "Add the following JavaScript for interoperation with C# code in body (learn more about JavaScript interoperability <g1>here<\/g1>):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311623229,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Add a new Razor component <g1>Scanner.razor<\/g1> with the following code:",
+                    "新建一个Razor组件<g1>Scanner.razor<\/g1>，其内容如下：",
+                    "Add a new Razor component <g1>Scanner.razor<\/g1> with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311676439,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Add the component to <g1>Index.razor<\/g1>:",
+                    "将组件添加到<g1>Index.razor<\/g1>：",
+                    "Add the component to <g1>Index.razor<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311693589,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Run the app and see the result.",
+                    "运行应用程序并查看结果。",
+                    "Run the app and see the result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311699604,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "While the app is running, any changes made to the source code will be detected and the app will be updated.",
+                    "应用运行时，将检测对源代码所做的任何更改，并进行更新。",
+                    " While the app is running, any changes made to the source code will be detected and the app will be updated.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311718566,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "<x1\/>App<x2\/>",
+                    "<x1\/>应用<x2\/>",
+                    "<x1\/>App<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311728652,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "The app can capture documents from a scanner as well as load local images.",
+                    "应用可以从扫描仪捕获文档，也可以加载本地图像。",
+                    "The app can capture documents from a scanner as well as load local images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311749711,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "It can generate a PDF output to save the result.",
+                    "它可以输出PDF以保存结果。",
+                    " It can generate a PDF output to save the result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311764677,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "We can also run the app using the following command:",
+                    "我们还可以使用以下命令运行应用：",
+                    "We can also run the app using the following command:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311776412,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "We can access the app on our mobile phones if the phone and the server are on the same network.",
+                    "如果手机和服务器在同一个网络上，我们可以在手机上访问该应用程序。",
+                    "We can access the app on our mobile phones if the phone and the server are on the same network.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311778404,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "We may also have to modify <g1>Properties\/launchSettings.json<\/g1> so that the app is accessible not only in the local network.",
+                    "我们可能还需要修改<g1>Properties\/launchSettings.json<\/g1>，这样应用不会被限制在本地网络中。",
+                    "We may also have to modify <g1>Properties\/launchSettings.json<\/g1> so that the app is accessible not only in the local network.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311813358,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Change this line:",
+                    "更改此行：",
+                    "Change this line:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311819814,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "To this:",
+                    "更改为：",
+                    "To this:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311829396,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "<x1\/>Mobile<x2\/>",
+                    "<x1\/>移动设备上<x2\/>",
+                    "<x1\/>Mobile<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311838973,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Since mobile phones cannot directly control scanners, the scan button is not loaded.",
+                    "由于移动设备不能直接控制扫描仪，不显示扫描按钮。",
+                    "Since mobile phones cannot directly control scanners, the scan button is not loaded.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311857668,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Whether the device is mobile is detected using <g1>Dynamsoft.Lib.env.bMobile<\/g1>.",
+                    "可以使用<g1>Dynamsoft.Lib.env.bMobile<\/g1>检测设备是否是移动设备。",
+                    " Whether the device is mobile is detected using <g1>Dynamsoft.Lib.env.bMobile<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311870212,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Web Document Scanner with Blazor Server",
+                    "基于Blazor Server的文档扫描Web应用",
+                    "Web Document Scanner with Blazor Server",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1623311879453,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Creating a Blazor server version is much the same.",
+                    "创建Blazor Server服务器版本的步骤大致相同。",
+                    "Creating a Blazor server version is much the same.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311907333,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "The difference is that there is no <g1>Index.html<\/g1> and instead, there is <g2>_Host.cshtml<\/g2>.",
+                    "区别在于Server版没有<g1>Index.html<\/g1>，但存在<g2>_Host.cshtml<\/g2>。",
+                    "The difference is that there is no <g1>Index.html<\/g1> and instead, there is <g2>_Host.cshtml<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311938998,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "We need to add the DWT JavaScript to this file.",
+                    "我们需要将DWT的JavaScript文件添加到此文件中。",
+                    " We need to add the DWT JavaScript to this file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311955557,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "The web page is connected to the server.",
+                    "网页需要与服务器保持连接。",
+                    "The web page is connected to the server.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311975157,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "If it loses connection to the server, a modal will appear and the page will not be functional.",
+                    "如果失去服务器连接，页面将无法正常工作。",
+                    " If it loses connection to the server, a modal will appear and the page will not be functional.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311990517,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "<x1\/>Reconnect<x2\/>",
+                    "<x1\/>重新连接<x2\/>",
+                    "<x1\/>Reconnect<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623311995165,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "JavaScript Isolation",
+                    "JavaScript隔离",
+                    "JavaScript Isolation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312037245,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    ".NET 5 has a new feature called JavaScript isolation.",
+                    ".NET 5有一个叫做JavaScript隔离（JavaScript Isolation）的新特性。",
+                    ".NET 5 has a new feature called JavaScript isolation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312052405,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "JS isolation provides the following benefits<x1\/>^js_isolation<x2\/>:",
+                    "JS隔离提供以下好处<x1\/>^js_isolation<x2\/>：",
+                    "JS isolation provides the following benefits<x1\/>^js_isolation<x2\/>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312063621,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Imported JS no longer pollutes the global namespace.",
+                    "导入的JS不再污染全局命名空间。",
+                    "Imported JS no longer pollutes the global namespace.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312083203,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Consumers of a library and components aren't required to import the related JS.",
+                    "库和组件的使用者不需要导入相关的JS。",
+                    "Consumers of a library and components aren't required to import the related JS.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312089971,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "PS:",
+                    "PS：",
+                    "PS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312096500,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Using JavaScript isolation may cause the web page not functional on old browsers.",
+                    "使用JavaScript隔离可能会导致网页在旧浏览器上无法正常工作。",
+                    " Using JavaScript isolation may cause the web page not functional on old browsers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312100388,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Let's use JavaScript isolation in the WebAssembly project we just made.",
+                    "让我们在刚刚创建的WebAssembly项目中使用JavaScript隔离。",
+                    "Let's use JavaScript isolation in the WebAssembly project we just made.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312108124,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Create a new JS file named <g1>DWT.js<\/g1> under <g2>wwwroot\/js<\/g2> with the following content:",
+                    "在<g2>wwwroot\/js<\/g2>下创建一个名为<g1>DWT.JS<\/g1>的JS文件，其内容如下：",
+                    "Create a new JS file named <g1>DWT.js<\/g1> under <g2>wwwroot\/js<\/g2> with the following content:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312125454,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "The JavaScript we added in the <g1>wwwroot\/index.html<\/g1> can now be removed.",
+                    "现在可以删除我们在 <g1>wwwroot\/index.html<\/g1> 中添加的 JavaScript。",
+                    "The JavaScript we added in the <g1>wwwroot\/index.html<\/g1> can now be removed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312132891,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Modify <g1>Scanner.razor<\/g1> to use the JS file.",
+                    "修改 <g1>Scanner.razor<\/g1> 以使用 JS 文件。",
+                    "Modify <g1>Scanner.razor<\/g1> to use the JS file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312143004,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Create a C# Wrapper",
+                    "创建 C# 封装",
+                    "Create a C# Wrapper",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312162430,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "We can take a step further by creating a wrapper to make the usage easier.",
+                    "我们可以更进一步，对DWT进行封装来简化使用。",
+                    "We can take a step further by creating a wrapper to make the usage easier.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312184923,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Create a C# class file called <g1>DWT<\/g1>.",
+                    "创建一个名为<g1>DWT<\/g1>的C#类文件。",
+                    "Create a C# class file called <g1>DWT<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312193004,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Add the following code to the class file:",
+                    "将以下代码添加到类文件：",
+                    "Add the following code to the class file:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312196508,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Since the constructor cannot be asynchronous, we create a <g1>CreateAsync<\/g1> method to create instances<x1\/>^async_constructor<x2\/>.",
+                    "因为构造函数不能是异步的，所以我们创建一个<g1>CreateAsync<\/g1>方法来创建实例<x1\/>^async_constructor<x2\/>。",
+                    "Since the constructor cannot be asynchronous, we create a <g1>CreateAsync<\/g1> method to create instances<x1\/>^async_constructor<x2\/>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312212144,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Update <g1>Scanner.razor<\/g1> to use the <g2>DWT<\/g2> class:",
+                    "更新 <g1>Scanner.razor<\/g1> 以使用 <g2>DWT<\/g2> 类：",
+                    "Update <g1>Scanner.razor<\/g1> to use the <g2>DWT<\/g2> class:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312219163,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "References",
+                    "参考",
+                    "References",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312225963,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "^doc",
+                    "^doc",
+                    "^doc",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312228716,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "^js_isolation",
+                    "^js_isolation",
+                    "^js_isolation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312229300,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "^async_constructor",
+                    "^async_constructor",
+                    "^async_constructor",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/web-document-scanner-with-blazor.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1623312231029,
+                        "id": "tu55"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
