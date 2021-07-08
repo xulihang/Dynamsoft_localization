@@ -1,0 +1,711 @@
+{
+    "filename": "scan-to-email-web-twain.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Email Documents Scanned with Dynamic Web TWAIN",
+                    "邮件发送使用Dynamic Web TWAIN扫描的文档",
+                    "Email Documents Scanned with Dynamic Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625736843338,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-07-06 16:52:53 +0800",
+                    "",
+                    "2021-07-06 16:52:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-07-06 16:52:53 +0800",
+                    "",
+                    "2021-07-06 16:52:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Email",
+                    "",
+                    "Email",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Dropbox",
+                    "",
+                    "Dropbox",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Python",
+                    "",
+                    "Python",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Flask",
+                    "",
+                    "Flask",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to email documents scanned with Dynamic Web TWAIN.",
+                    "",
+                    "The article talks about how to email documents scanned with Dynamic Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/email\/mail_info.jpg",
+                    "",
+                    ".\/img\/2021\/email\/mail_info.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Email is a convenient way to send scanned documents.",
+                    "电子邮件是一种发送扫描文档的便捷方式。",
+                    "Email is a convenient way to send scanned documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625736869344,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "The ability to send emails is built into many network scanners.",
+                    "许多网络扫描仪都内置了发送电子邮件的功能。",
+                    " The ability to send emails is built into many network scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1625736875208,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "For example, HP All-in-One devices have a <g1>Scan-to-Email<\/g1> app.",
+                    "比如HP多功能一体机有一个<g1>扫描到电子邮件<\/g1>的应用程序。",
+                    " For example, HP All-in-One devices have a <g1>Scan-to-Email<\/g1> app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625736889842,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "However, we cannot use these devices' built-in email-sending ability if we want to control the scanning process in a web scanning app based on <g1>Dynamic Web TWAIN (DWT)<\/g1>.",
+                    "但是，如果我们想在基于<g1>Dynamic Web TWAIN (DWT)<\/g1>的文档扫描Web应用完成扫描，则无法使用这些设备的内置电子邮件发送功能。",
+                    "However, we cannot use these devices' built-in email-sending ability if we want to control the scanning process in a web scanning app based on <g1>Dynamic Web TWAIN (DWT)<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625736974579,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "We have to implement our own mechanism to send emails.",
+                    "我们需要实现自己的电子邮件发送机制。",
+                    " We have to implement our own mechanism to send emails.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625736994137,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "There are many ways to add scan-to-email function to a web scanning app.",
+                    "将扫描到电子邮件的功能添加到Web扫描应用程序中有多种方法。",
+                    "There are many ways to add scan-to-email function to a web scanning app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737052816,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Using a third-party service like <g1>SMTPjs<\/g1>.",
+                    "使用<g1>SMTPjs<\/g1>这样的第三方服务。",
+                    "Using a third-party service like <g1>SMTPjs<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737076630,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "It is simple to use and does not require a backend server.",
+                    "它使用简单，不需要后端服务器。",
+                    " It is simple to use and does not require a backend server.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737080855,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "However, we have to expose our password to them.",
+                    "但是我们需要把密码泄露给第三方服务。",
+                    " However, we have to expose our password to them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737113451,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Using email services' APIs.",
+                    "使用电子邮件服务的API。",
+                    "Using email services' APIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737117510,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Both <g1>Outlook<\/g1> and <g2>Gmail<\/g2> provide APIs to send emails and support large files uploading.",
+                    "<g1>Outlook<\/g1>和<g2>Gmail<\/g2>都提供了发送电子邮件的API，并支持上传大文件。",
+                    " Both <g1>Outlook<\/g1> and <g2>Gmail<\/g2> provide APIs to send emails and support large files uploading.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737127689,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "But we have to implement the APIs for every mail service.",
+                    "但是我们需要适配不同的邮件服务API。",
+                    " But we have to implement the APIs for every mail service.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737167062,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Creating a server application which receives scanned documents and sends them using the SMTP protocol.",
+                    "创建一个服务器应用程序，该应用程序接收扫描的文档并使用SMTP协议发送它们。",
+                    "Creating a server application which receives scanned documents and sends them using the SMTP protocol.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737172054,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "If the documents are too large (over 10MB), then we can provide a download link.",
+                    "如果文档太大（超过10MB），那么我们可以提供一个下载链接。",
+                    " If the documents are too large (over 10MB), then we can provide a download link.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737180119,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "In this article, we are going to add a scan-to-email function following the third way.",
+                    "在本文中，我们将按照第三种方式添加电子邮件扫描功能。",
+                    "In this article, we are going to add a scan-to-email function following the third way.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737185315,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "If the scanned documents are less than 10MB, the user will get such an email with attachments:",
+                    "如果扫描的文档小于10MB，用户将收到这样一封带有附件的电子邮件：",
+                    "If the scanned documents are less than 10MB, the user will get such an email with attachments:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737189340,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Or the user will get the following email with a dropbox link:",
+                    "如果大于10MB，用户将收到以下带有dropbox链接的电子邮件：",
+                    "Or the user will get the following email with a dropbox link:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737207595,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Technologies we are going to use:",
+                    "用到的一些：",
+                    "Technologies we are going to use:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737223294,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN to scan documents in the browser",
+                    "Dynamic Web TWAIN，用于在浏览器中扫描文档",
+                    "Dynamic Web TWAIN to scan documents in the browser",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737270164,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Python+Flask to create the backend",
+                    "Python+Flask，用于创建后端",
+                    "Python+Flask to create the backend",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737277194,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Dropbox to store large files",
+                    "Dropbox，用于存储大文件",
+                    "Dropbox to store large files",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737285118,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "{% include cta_dwt.md %}",
+                    "{% include cta_dwt.md %}",
+                    "{% include cta_dwt.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737288022,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Environment Setup",
+                    "环境配置",
+                    "Environment Setup",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737295686,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Install Python 3",
+                    "安装Python 3",
+                    "Install Python 3",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737297568,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Install required Python packages:",
+                    "安装所需的Python软件包：",
+                    "Install required Python packages:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737299567,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Implement the Email Sending Flask Backend",
+                    "实现电子邮件发送Flask后端",
+                    "Implement the Email Sending Flask Backend",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737323202,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "We choose the Python+Flask combination to create the backend.",
+                    "我们选择Python+Flask组合来创建后端。",
+                    "We choose the Python+Flask combination to create the backend.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737311927,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Three Python files are created:",
+                    "创建了三个Python文件：",
+                    "Three Python files are created:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737325876,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "In <g1>app.py<\/g1>, import required packages and create the Flask application.",
+                    "在<g1>app.py<\/g1>中，导入所需的包并创建Flask应用。",
+                    "In <g1>app.py<\/g1>, import required packages and create the Flask application.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737356672,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Use <g1>route<\/g1> to bind a URL to the function which receives scanned documents and sends emails:",
+                    "使用<g1>route<\/g1>绑定一个URL到接收扫描文档和发送电子邮件的函数：",
+                    "Use <g1>route<\/g1> to bind a URL to the function which receives scanned documents and sends emails:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737378358,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "The content of the <g1>email_utils.py<\/g1>:",
+                    "<g1>email_utils.py<\/g1>的内容：",
+                    "The content of the <g1>email_utils.py<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737392021,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Account info is stored in a plain text file where the first line stores the emali account, the second line the password and the third line the smtp server address.",
+                    "帐户信息存储在一个纯文本文件中，第一行存储emali帐户，第二行存储密码，第三行存储SMTP服务器地址。",
+                    "Account info is stored in a plain text file where the first line stores the emali account, the second line the password and the third line the smtp server address.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737410145,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "The content of the <g1>dropbox_helper<\/g1> (The <g2>Dropbox Python SDK<\/g2> is used):",
+                    "<g1>dropbox_helper<\/g1> 的内容（使用了 <g2>Dropbox Python SDK<\/g2>）：",
+                    "The content of the <g1>dropbox_helper<\/g1> (The <g2>Dropbox Python SDK<\/g2> is used):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737414107,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "We can also set the password and expires but this is not available for a free account.",
+                    "我们也可以设置密码和过期时间，但这些设置免费账户不能使用。",
+                    "We can also set the password and expires but this is not available for a free account.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737439191,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Implement the Document Scanning HTML5 Frontend",
+                    "实现文档扫描HTML5前端",
+                    "Implement the Document Scanning HTML5 Frontend",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737442747,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Several elements are created:",
+                    "创建了几个元素：",
+                    "Several elements are created:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737450868,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "A button to acquire scanned documents.",
+                    "获取扫描文档的按钮。",
+                    "A button to acquire scanned documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737455147,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "A button to load local images.",
+                    "加载本地图像的按钮。",
+                    "A button to load local images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737457435,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "A button to email scanned documents.",
+                    "通过电子邮件发送扫描文档的按钮。",
+                    "A button to email scanned documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737460387,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "An input for users to enter their email account.",
+                    "让用户输入电子邮件帐户的输入控件。",
+                    "An input for users to enter their email account.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737473189,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Radios to select output type.",
+                    "用于选择输出类型的Radio按钮。",
+                    "Radios to select output type.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737486397,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Here, we use DWT's <g1>HTTPUpload<\/g1> methods to upload scanned documents and use the <g2>SetHTTPFormField<\/g2> method to add an email form field.",
+                    "这里，我们使用DWT的<g1>HTTPUpload<\/g1>方法上载扫描的文档，并使用<g2>SetHTTPFormField<\/g2>方法添加电子邮件表单字段。",
+                    "Here, we use DWT's <g1>HTTPUpload<\/g1> methods to upload scanned documents and use the <g2>SetHTTPFormField<\/g2> method to add an email form field.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737493891,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "There are two callbacks of the upload method.",
+                    "upload方法有两个回调。",
+                    "There are two callbacks of the upload method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737502547,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "We can parse the returned JSON result to examine whether the backend has sent the email in success.",
+                    "我们可以解析返回的JSON结果来检查后端是否成功发送了电子邮件。",
+                    "We can parse the returned JSON result to examine whether the backend has sent the email in success.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737506699,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Deploy to Azure Web App Service",
+                    "部署到Azure Web App服务",
+                    "Deploy to Azure Web App Service",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737512107,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "We can deploy the app to Azure.",
+                    "我们可以将应用程序部署到Azure。",
+                    "We can deploy the app to Azure.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737515860,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "There is a guide about how to do this:",
+                    "操作指南：",
+                    " There is a guide about how to do this:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737543305,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "<g1>Quickstart: Create a Python app using Azure App Service on Linux (Azure portal)<\/g1>.",
+                    "<g1>Quickstart: Create a Python app using Azure App Service on Linux (Azure portal)<\/g1>。",
+                    " <g1>Quickstart: Create a Python app using Azure App Service on Linux (Azure portal)<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737563397,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/cloud and db\/scan-to-email-web-twain.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1625737565669,
+                        "id": "tu41"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
