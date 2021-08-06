@@ -1,0 +1,699 @@
+{
+    "filename": "overview-of-scanning-over-shared-network.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "An Overview of Scanning Over a Shared Network",
+                    "网络文档扫描概述",
+                    "An Overview of Scanning Over a Shared Network",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628214075329,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-08-04 15:10:53 +0800",
+                    "",
+                    "2021-08-04 15:10:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-08-04 15:10:53 +0800",
+                    "",
+                    "2021-08-04 15:10:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Network Scanner",
+                    "",
+                    "Network Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "TWAIN",
+                    "",
+                    "TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "SANE",
+                    "",
+                    "SANE",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article gives a brief overview of document scanning over a shared network.",
+                    "",
+                    "The article gives a brief overview of document scanning over a shared network.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/network-scanning\/RemoteScan.jpg",
+                    "",
+                    ".\/img\/2021\/network-scanning\/RemoteScan.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "https:\/\/www.dynamsoft.com\/codepool\/overview-of-scanning-over-shared-network.html",
+                    "",
+                    "https:\/\/www.dynamsoft.com\/codepool\/overview-of-scanning-over-shared-network.html",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamic Web TWAIN (DWT)<\/g1>'s <g2>Remote Scan<\/g2> feature makes it possible to scan documents from your scanner or multi-function printer (MFP) directly to any device.",
+                    "<g1>Dynamic Web TWAIN (DWT)<\/g1>的<g2>远程扫描<\/g2>功能可以让用户通过网络在手机、电脑等设备上从扫描仪或者多功能一体机获取扫描文档。",
+                    "<g1>Dynamic Web TWAIN (DWT)<\/g1>'s <g2>Remote Scan<\/g2> feature makes it possible to scan documents from your scanner or multi-function printer (MFP) directly to any device.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217405246,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "You may wonder what other network scanning options exist.",
+                    "那有没有其它的网络文档扫描方案呢？",
+                    "You may wonder what other network scanning options exist.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217473556,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "This article is going to give a brief overview of scanning over the network and why DWT's solution is a better option.",
+                    "本文将对网络文档扫描做一个简单的概述，并分析DWT的远程扫描方案的优点。",
+                    " This article is going to give a brief overview of scanning over the network and why DWT's solution is a better option.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217516317,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Existing Options",
+                    "现有方案",
+                    "Existing Options",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217527485,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "The Operating System's Sharing Function",
+                    "操作系统的共享功能",
+                    "The Operating System's Sharing Function",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217530133,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "It is possible to share a printer on Windows.",
+                    "在Windows系统中，我们可以共享打印机。",
+                    "It is possible to share a printer on Windows.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217545820,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "However, it is not possible to share a document scanner.",
+                    "但共享扫描仪是不被支持的。",
+                    " However, it is not possible to share a document scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217556445,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "A multi-function device can be shared but we cannot use its scanning ability.",
+                    "多功能一体机设备能够被共享，但也只能当做打印机被共享。",
+                    " A multi-function device can be shared but we cannot use its scanning ability.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217631639,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Saned",
+                    "Saned",
+                    "Saned",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217602829,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "On Linux, we can share USB-connected scanners through an Intranet using saned.",
+                    "在Linux上，我们可以使用Saned在内网共享USB连接的扫描仪。",
+                    "On Linux, we can share USB-connected scanners through an Intranet using saned.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217656420,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "You can learn about how to set it up by seeing Debian's <g1>wiki<\/g1>.",
+                    "具体的配置参见Debian的<g1>wiki<\/g1>。",
+                    "You can learn about how to set it up by seeing Debian's <g1>wiki<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217685464,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "After the setup, we can scan on any devices with sane installed like mobile scanning on Android devices using SANEDroid.",
+                    "设置完成后，我们可以在任何安装了Sane的设备上进行扫描，例如使用 SANEDroid在Android手机上连接扫描仪进行扫描。",
+                    "After the setup, we can scan on any devices with sane installed like mobile scanning on Android devices using SANEDroid.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217714597,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Cons:",
+                    "缺点：",
+                    "Cons:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217719181,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "It requires running sane on the client.",
+                    "需要在客户端上运行Sane。",
+                    "It requires running sane on the client.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1628217750379,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "It only supports USB-connected scanners.",
+                    "只支持USB连接的扫描仪。",
+                    "It only supports USB-connected scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217751853,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "It does not support auto-discovery.",
+                    "不支持自动发现。",
+                    "It does not support auto-discovery.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217747468,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Users have to input the IP of the server manually.",
+                    "用户需要手动输入服务器的IP。",
+                    " Users have to input the IP of the server manually.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217763510,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "eSCL",
+                    "eSCL",
+                    "eSCL",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217766458,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Many scanners now support a protocol called eSCL.",
+                    "许多扫描仪现在都支持一种叫做eSCL的协议。",
+                    "Many scanners now support a protocol called eSCL.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217781012,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "It is a vendor-neutral network protocol that allows driverless scanning via ethernet, wireless and USB connected devices.",
+                    "它是一种通用的网络协议，允许通过以太网、WIFI和USB连接设备进行扫描，且不需要安装驱动。",
+                    " It is a vendor-neutral network protocol that allows driverless scanning via ethernet, wireless and USB connected devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1628217840036,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "It uses Bonjour for auto-discovery.",
+                    "它使用Bonjour进行自动发现。",
+                    " It uses Bonjour for auto-discovery.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217849155,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "eSCL is also known as Apple AirScan which is promoted by Apple.",
+                    "苹果公司推广的AirScan使用的便是eSCL协议。",
+                    "eSCL is also known as Apple AirScan which is promoted by Apple.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217892728,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "eSCL is a simple XML and HTTP based protocol.",
+                    "eSCL是一个简单的基于XML和HTTP的协议。",
+                    "eSCL is a simple XML and HTTP based protocol.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217899682,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "You can find its full specification on <g1>Mopria.org<\/g1>.",
+                    "可以在<g1>Mopria.org<\/g1>上找到它的完整标准。",
+                    " You can find its full specification on <g1>Mopria.org<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217910420,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Here is a simple Python script that creates a scanning job and saves the scanned document using the eSCL protocol (This works for HP Officejet Pro 6970):",
+                    "下面是一个简单的Python脚本，能利用eSCL协议创建扫描作业并保存扫描的文档（在HP Officejet Pro 6970上测试可用）：",
+                    "Here is a simple Python script that creates a scanning job and saves the scanned document using the eSCL protocol (This works for HP Officejet Pro 6970):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628217966037,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Due to the CORS policy, it is not possible to directly use eSCL in JavaScript.",
+                    "由于CORS跨域限制，没办法直接用JavaScript来使用eSCL协议。",
+                    "Due to the CORS policy, it is not possible to directly use eSCL in JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218056931,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "eSCL is supported by macOS and Linux with the <g1>sane-airscan<\/g1> backend.",
+                    "macOS和安装了<g1>sane-airscan<\/g1>的Linux能支持eSCL协议。",
+                    "eSCL is supported by macOS and Linux with the <g1>sane-airscan<\/g1> backend.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218103888,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "WSD",
+                    "WSD",
+                    "WSD",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218105412,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Another vendor-neutral network protocol similar to eSCL is based on Microsoft's Web Services for Devices framework.",
+                    "另一个类似于eSCL的网络协议基于微软的设备Web服务框架。",
+                    "Another vendor-neutral network protocol similar to eSCL is based on Microsoft's Web Services for Devices framework.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218119454,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "This protocol is called WSD.",
+                    "该协议叫做WSD。",
+                    " This protocol is called WSD.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218143036,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "WSD is supported by Windows and Linux with the <g1>sane-airscan<\/g1> backend.",
+                    "Windows和安装了<g1>sane-airscan<\/g1>的Linux能支持WSD协议。",
+                    "WSD is supported by Windows and Linux with the <g1>sane-airscan<\/g1> backend.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218159354,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Not all scanners support both WSD and eSCL.",
+                    "并非所有扫描仪都支持WSD和eSCL。",
+                    "Not all scanners support both WSD and eSCL.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218166090,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Some may only support WSD and some may only support eSCL.",
+                    "有些可能只支持WSD，有些可能只支持eSCL。",
+                    " Some may only support WSD and some may only support eSCL.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218168970,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "DWT's Remote Scan Solution",
+                    "DWT的远程扫描解决方案",
+                    "DWT's Remote Scan Solution",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218173171,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN runs a local service called Dynamsoft Service to interact with scanners and web clients.",
+                    "Dynamic Web TWAIN运行一个名为Dynamsoft Service的本地服务，以与扫描仪和Web客户端交互。",
+                    "Dynamic Web TWAIN runs a local service called Dynamsoft Service to interact with scanners and web clients.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218184460,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "The service can run on Windows, Linux and macOS and supports scanner APIs like TWAIN, ICA and SANE.",
+                    "该服务可以在Windows、Linux和macOS上运行，支持TWAIN、ICA和SANE等文档扫描API。",
+                    " The service can run on Windows, Linux and macOS and supports scanner APIs like TWAIN, ICA and SANE.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218206515,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "When the remote scan feature is enabled, other devices on the Intranet can contact the service to scan documents.",
+                    "启用远程扫描功能后，内网的其他设备可以与该服务通讯以扫描文档。",
+                    "When the remote scan feature is enabled, other devices on the Intranet can contact the service to scan documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218226830,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN provides an easy-to-use web SDK to implement a web document scanner.",
+                    "Dynamic Web TWAIN提供了一个易于使用的Web SDK，可以用它来制作一个网页远程文档扫描应用。",
+                    " Dynamic Web TWAIN provides an easy-to-use web SDK to implement a web document scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218265301,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Here are the pros of DWT's remote scan:",
+                    "以下是DWT的远程扫描功能的优点：",
+                    "Here are the pros of DWT's remote scan:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218276502,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "It is a driverless scanning solution.",
+                    "它是一种无驱动扫描解决方案。",
+                    "It is a driverless scanning solution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218279786,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "It runs on end-users' web browsers on any device with no extra software required.",
+                    "它在终端用户的Web浏览器上运行，支持大多数终端设备，不需要安装额外软件。",
+                    "It runs on end-users' web browsers on any device with no extra software required.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218323220,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "It supports USB-connected scanners as well as network scanners.",
+                    "它支持USB连接的扫描仪以及网络扫描仪。",
+                    "It supports USB-connected scanners as well as network scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218327026,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Easy setup.",
+                    "配置简单。",
+                    "Easy setup.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218335226,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "You only need to specify which Intranet IP to use.",
+                    "只需要指定使用哪个内网IP。",
+                    " You only need to specify which Intranet IP to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218341796,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "<x1\/>Remote Scan<x2\/>",
+                    "<x1\/>远程扫描<x2\/>",
+                    "<x1\/>Remote Scan<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218344810,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Download <g1>Dynamic Web TWAIN<\/g1> to have a try on your own.",
+                    "下载<g1>Dynamic Web TWAIN<\/g1>，尝试在你的手机上完成扫描吧。",
+                    "Download <g1>Dynamic Web TWAIN<\/g1> to have a try on your own.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218389181,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Related Articles",
+                    "相关文章",
+                    "Related Articles",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218393239,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "How to Set up Remote Document Scanning on Raspberry Pi",
+                    "如何在树莓派上设置远程文档扫描",
+                    "<g1>How to Set up Remote Document Scanning on Raspberry Pi<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218404641,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "How “Remote Scan” Works in Dynamic Web TWAIN 16.2",
+                    "Dynamic Web TWAIN 16.2的“远程扫描”功能是如何运作的",
+                    "<g1>How “Remote Scan” Works in Dynamic Web TWAIN 16.2<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218457852,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "How to Build a Universal Document Scanning App in HTML5",
+                    "如何用HTML5构建一个通用文档扫描应用程序",
+                    "<g1>How to Build a Universal Document Scanning App in HTML5<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/overview-of-scanning-over-shared-network.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1628218446712,
+                        "id": "tu40"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
