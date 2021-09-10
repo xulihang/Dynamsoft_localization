@@ -1,0 +1,3556 @@
+{
+    "filename": "qr-code-reading-benchmark-and-comparison.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "QR Code Reading Benchmark and Comparison",
+                    "二维码识别SDK性能测试与比较",
+                    "QR Code Reading Benchmark and Comparison",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252030749,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-09-06 14:20:53 +0800",
+                    "",
+                    "2021-09-06 14:20:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-09-06 14:20:53 +0800",
+                    "",
+                    "2021-09-06 14:20:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Benchmark",
+                    "",
+                    "Benchmark",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article shares the result of a QR code reading benchmark on a QR code image dataset.",
+                    "",
+                    "The article shares the result of a QR code reading benchmark on a QR code image dataset.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/qr_code_benchmark\/results.jpg",
+                    "",
+                    ".\/img\/2021\/qr_code_benchmark\/results.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "https:\/\/www.dynamsoft.com\/codepool\/qr-code-reading-benchmark-and-comparison.html",
+                    "",
+                    "https:\/\/www.dynamsoft.com\/codepool\/qr-code-reading-benchmark-and-comparison.html",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "QR Code is widely used in our everyday life.",
+                    "二维码广泛应用于我们的日常生活中。常见的二维码类型有QR Code、PDF417和DataMatrix。",
+                    "QR Code is widely used in our everyday life.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252075135,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "As a two-dimensional barcode, it can store more data than 1D barcodes.",
+                    "二维码可以存储比一维条码更多的数据。",
+                    " As a two-dimensional barcode, it can store more data than 1D barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252087247,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It can be captured using a camera and then be decoded using image processing methods.",
+                    "它通常需要使用相机捕获，然后用图像处理方法解码。",
+                    " It can be captured using a camera and then be decoded using image processing methods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252113520,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "The structure of QR Code:",
+                    "QR码的结构：",
+                    "The structure of QR Code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252130406,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<x1\/>QR Code Structure<x2\/>",
+                    "<x1\/>QR码的结构：<x2\/>",
+                    "<x1\/>QR Code Structure<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631252167551,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Reading QR codes in the real world is a challenging job.",
+                    "在现实世界中阅读二维码是很有挑战性的。",
+                    "Reading QR codes in the real world is a challenging job.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252193143,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "For example, the following QR code is damaged and wrinkled, which is difficult to read.",
+                    "例如下图中的二维码，它存在损坏、起皱，读取的难度会大大提高。",
+                    " For example, the following QR code is damaged and wrinkled, which is difficult to read.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252227015,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Damaged QR code",
+                    "损坏的二维码",
+                    "Damaged QR code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252233399,
+                        "id": "sd1_sf1_tu2"
+                    }
+                ],
+                [
+                    "There are many open-source and commercial libraries or SDKs which can read QR codes.",
+                    "有许多可以读取二维码的开源和商业的类库或 SDK。",
+                    "There are many open-source and commercial libraries or SDKs which can read QR codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252246793,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "A benchmark is needed to evaluate which one is more robust or suitable for a specific use case.",
+                    "我们需要进行基准测试来对它们进行评估以找到适合的SDK。",
+                    " A benchmark is needed to evaluate which one is more robust or suitable for a specific use case.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252288063,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "There aren't many QR codes reading benchmarks.",
+                    "读取二维码基准测试不多。",
+                    "There aren't many QR codes reading benchmarks.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252307163,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<g1>A comprehensive one<\/g1> is made by the author of the open-source computer vision library Boofcv.",
+                    "开源计算机视觉库Boofcv的作者做了一个较为全面的<g1>测试<\/g1>。",
+                    " <g1>A comprehensive one<\/g1> is made by the author of the open-source computer vision library Boofcv.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252334240,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "The author collected a dataset of QR code images and put them into categories.",
+                    "他收集了一个QR图片集，并对它们做了分类。",
+                    " The author collected a dataset of QR code images and put them into categories.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252356343,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "A performance test is then made on the dataset to evaluate 5 open-source libraries.",
+                    "在这个图片集上进行性能测试，评估了五个开源类库。",
+                    " A performance test is then made on the dataset to evaluate 5 open-source libraries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252379230,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "The dataset has 536 images containing 1232 QR codes and has 16 categories: blurred, bright_spots, brightness, close, curved, damaged, glare, high_version, lots, monitor, nominal, noncompliant, pathological, perspective, rotations and shadows.",
+                    "该数据集有536幅图像，包含1232个二维码，共有16个类别：模糊、亮点、亮度变化、近距离、弯曲、损坏、反光、高版本、多码、屏幕上显示、日常生活中、不标准、缺损、倾斜、旋转和阴影。",
+                    "The dataset has 536 images containing 1232 QR codes and has 16 categories: blurred, bright_spots, brightness, close, curved, damaged, glare, high_version, lots, monitor, nominal, noncompliant, pathological, perspective, rotations and shadows.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253269696,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "In this article, we are going to do a QR code reading benchmark using this dataset.",
+                    "在本文中，我们将使用此数据集进行QR码的读取基准测试。",
+                    " In this article, we are going to do a QR code reading benchmark using this dataset.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252616407,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Performance Test Tool",
+                    "性能测试工具",
+                    "Performance Test Tool",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252620349,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "In order to run the benchmark, a performance test tool is written.",
+                    "为了运行基准测试，编写了一个性能测试工具。",
+                    "In order to run the benchmark, a performance test tool is written.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252622925,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "The tool uses Python to run the test and provides a web interface.",
+                    "该工具使用Python编写，并提供一个网页界面。",
+                    "The tool uses Python to run the test and provides a web interface.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252640199,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "The Flask web framework is used.",
+                    "使用了Flask Web框架。",
+                    " The Flask web framework is used.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252650248,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "You can find its code <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>找到它的代码。",
+                    "You can find its code <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252668543,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Evaluation Metrics",
+                    "评价指标",
+                    "Evaluation Metrics",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252670694,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "The performance is evaluated by accuracy and runtime.",
+                    "性能由准确性和运行时间来评估。",
+                    "The performance is evaluated by accuracy and runtime.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252674261,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "We can get the accuracy by dividing detected barcodes by total barcodes in images.",
+                    "通过将检测到的二维码数除以图像中的总二维码数，可以得到准确性。",
+                    "We can get the accuracy by dividing detected barcodes by total barcodes in images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252743792,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "How to infer that a barcode is detected?",
+                    "如何判断正确检测到了二维码？",
+                    "How to infer that a barcode is detected?",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252768192,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "If the value of IoU (Intersection over Union) between the detected barcode's polygon and the ground truth's is over 0, then the barcode is considered detected.",
+                    "如果检测到的二维码的多边形和标注中的多边形区域的IoU值大于0，则可以判断该结果为正确。",
+                    " If the value of IoU (Intersection over Union) between the detected barcode's polygon and the ground truth's is over 0, then the barcode is considered detected.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252814737,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Here is the simplified code:",
+                    "以下是简化的代码：",
+                    "Here is the simplified code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252824496,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "The IoU is calculated using the following code:",
+                    "IoU使用以下代码计算：",
+                    "The IoU is calculated using the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252827685,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "The barcode result is not considered since the libraries all have 100% precision.",
+                    "由于所有库都能正确读取二维码的文本，因此这里不考虑二维码文本结果。",
+                    "The barcode result is not considered since the libraries all have 100% precision.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252855590,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "The runtime is calculated using the following code.",
+                    "运行时间使用以下代码计算的：",
+                    "The runtime is calculated using the following code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252877614,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Evaluated Libraries",
+                    "评估的类库",
+                    "Evaluated Libraries",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252885496,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "We are going to evaluate 6 libraries and SDKs:",
+                    "我们将评估 6 个类库和SDK：",
+                    "We are going to evaluate 6 libraries and SDKs:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252892982,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Dynamsoft Barcode Reader (DBR, version: 8.6, commercial)",
+                    "Dynamsoft Barcode Reader （DBR，版本：8.6，商业软件）",
+                    "Dynamsoft Barcode Reader (DBR, version: 8.6, commercial)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252928407,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Scandit (version: Windows 5.19.3.10, commercial)",
+                    "Scandit（版本：Windows 5.19.3.10，商业软件）",
+                    "Scandit (version: Windows 5.19.3.10, commercial)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252923890,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "BoofCV (version: pyboof 0.36.1, open-source)",
+                    "BoofCV（版本：pyboof 0.36.1，开源软件）",
+                    "BoofCV (version: pyboof 0.36.1, open-source)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252936801,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Zxing (version: 3.4.1, open-source)",
+                    "Zxing（版本：3.4.1，开源软件）",
+                    "Zxing (version: 3.4.1, open-source)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252945279,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Zbar (version: pyzbar 0.1.8, open-source)",
+                    "Zbar（版本：pyzbar 0.1.8，开源软件）",
+                    "Zbar (version: pyzbar 0.1.8, open-source)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252956337,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "WeChat QR code detector in OpenCV (version: OpenCV 4.5.3, open-source)",
+                    "OpenCV中的微信二维码检测器（版本：OpenCV 4.5.3，开源软件）",
+                    "WeChat QR code detector in OpenCV (version: OpenCV 4.5.3, open-source)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631252976215,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Note:",
+                    "注:",
+                    "Note:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252979645,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Zxing only returns the three points of the position patterns in a QR code.",
+                    "Zxing仅返回二维码中位置模式的三个点的坐标。",
+                    "Zxing only returns the three points of the position patterns in a QR code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252989543,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Postprocessing is done to convert the three points to a polygon.",
+                    "测试时会将三个点转换为多边形。",
+                    " Postprocessing is done to convert the three points to a polygon.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253011872,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Since the IoU threshold is low, this works okay.",
+                    "由于本测试的IoU阈值较低，因此对结果基本没有影响。",
+                    " Since the IoU threshold is low, this works okay.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253037390,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "<x1\/>Zxing detection result<x2\/>",
+                    "<x1\/>Zxing检测结果<x2\/>",
+                    "<x1\/>Zxing detection result<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253040029,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Detection Results",
+                    "检测结果",
+                    "Detection Results",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253041877,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Accuracy in percent:",
+                    "准确性（百分比）：",
+                    "Accuracy in percent:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253053144,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Categories",
+                    "类别",
+                    "Categories",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253047653,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "DBR",
+                    "",
+                    "DBR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Boofcv",
+                    "",
+                    "Boofcv",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "OpenCV Wechat",
+                    "",
+                    "OpenCV Wechat",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Scandit",
+                    "",
+                    "Scandit",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Zbar",
+                    "",
+                    "Zbar",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Zxing",
+                    "",
+                    "Zxing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "blurred",
+                    "模糊（blurred）",
+                    "blurred",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253074231,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "69.23",
+                    "",
+                    "69.23",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "40",
+                    "",
+                    "40",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "55.38",
+                    "",
+                    "55.38",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "26.15",
+                    "",
+                    "26.15",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "38.46",
+                    "",
+                    "38.46",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "23.08",
+                    "",
+                    "23.08",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "bright_spots",
+                    "亮点（bright_spots）",
+                    "bright_spots",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253079431,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "38.14",
+                    "",
+                    "38.14",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "23.71",
+                    "",
+                    "23.71",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "30.93",
+                    "",
+                    "30.93",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "6.19",
+                    "",
+                    "6.19",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "19.59",
+                    "",
+                    "19.59",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "21.65",
+                    "",
+                    "21.65",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "brightness",
+                    "亮度变化（brightness）",
+                    "brightness",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253087552,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "81.18",
+                    "",
+                    "81.18",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "78.82",
+                    "",
+                    "78.82",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "68.24",
+                    "",
+                    "68.24",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "32.94",
+                    "",
+                    "32.94",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "51.76",
+                    "",
+                    "51.76",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "54.12",
+                    "",
+                    "54.12",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "close",
+                    "近距离（close）",
+                    "close",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253093993,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "92.5",
+                    "",
+                    "92.5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "77.5",
+                    "",
+                    "77.5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "65",
+                    "",
+                    "65",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "35",
+                    "",
+                    "35",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "12.5",
+                    "",
+                    "12.5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "5",
+                    "",
+                    "5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "curved",
+                    "弯曲（curved）",
+                    "curved",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253101006,
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "73.33",
+                    "",
+                    "73.33",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "50",
+                    "",
+                    "50",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "43.33",
+                    "",
+                    "43.33",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "33.33",
+                    "",
+                    "33.33",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu72"
+                    }
+                ],
+                [
+                    "35",
+                    "",
+                    "35",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "30",
+                    "",
+                    "30",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "damaged",
+                    "损坏（damaged）",
+                    "damaged",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253109478,
+                        "id": "tu75"
+                    }
+                ],
+                [
+                    "53.49",
+                    "",
+                    "53.49",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu76"
+                    }
+                ],
+                [
+                    "16.28",
+                    "",
+                    "16.28",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu77"
+                    }
+                ],
+                [
+                    "48.84",
+                    "",
+                    "48.84",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu78"
+                    }
+                ],
+                [
+                    "23.26",
+                    "",
+                    "23.26",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu79"
+                    }
+                ],
+                [
+                    "25.58",
+                    "",
+                    "25.58",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu80"
+                    }
+                ],
+                [
+                    "20.93",
+                    "",
+                    "20.93",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu81"
+                    }
+                ],
+                [
+                    "glare",
+                    "反光（glare）",
+                    "glare",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253117885,
+                        "id": "tu82"
+                    }
+                ],
+                [
+                    "86.79",
+                    "",
+                    "86.79",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu83"
+                    }
+                ],
+                [
+                    "32.08",
+                    "",
+                    "32.08",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu84"
+                    }
+                ],
+                [
+                    "64.15",
+                    "",
+                    "64.15",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu85"
+                    }
+                ],
+                [
+                    "22.64",
+                    "",
+                    "22.64",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu86"
+                    }
+                ],
+                [
+                    "35.85",
+                    "",
+                    "35.85",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu87"
+                    }
+                ],
+                [
+                    "20.75",
+                    "",
+                    "20.75",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu88"
+                    }
+                ],
+                [
+                    "high_version",
+                    "高版本（high_version）",
+                    "high_version",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253135055,
+                        "id": "tu89"
+                    }
+                ],
+                [
+                    "97.3",
+                    "",
+                    "97.3",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu90"
+                    }
+                ],
+                [
+                    "40.54",
+                    "",
+                    "40.54",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu91"
+                    }
+                ],
+                [
+                    "18.92",
+                    "",
+                    "18.92",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu92"
+                    }
+                ],
+                [
+                    "59.46",
+                    "",
+                    "59.46",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu93"
+                    }
+                ],
+                [
+                    "27.03",
+                    "",
+                    "27.03",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu94"
+                    }
+                ],
+                [
+                    "5.41",
+                    "",
+                    "5.41",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu95"
+                    }
+                ],
+                [
+                    "lots",
+                    "多码（lots）",
+                    "lots",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253146142,
+                        "id": "tu96"
+                    }
+                ],
+                [
+                    "60.48",
+                    "",
+                    "60.48",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu97"
+                    }
+                ],
+                [
+                    "99.76",
+                    "",
+                    "99.76",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu98"
+                    }
+                ],
+                [
+                    "0",
+                    "",
+                    "0",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu99"
+                    }
+                ],
+                [
+                    "1.9",
+                    "",
+                    "1.9",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu100"
+                    }
+                ],
+                [
+                    "18.1",
+                    "",
+                    "18.1",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu101"
+                    }
+                ],
+                [
+                    "82.86",
+                    "",
+                    "82.86",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu102"
+                    }
+                ],
+                [
+                    "monitor",
+                    "屏幕上显示（monitor）",
+                    "monitor",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253302527,
+                        "id": "tu103"
+                    }
+                ],
+                [
+                    "100",
+                    "",
+                    "100",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu104"
+                    }
+                ],
+                [
+                    "64.71",
+                    "",
+                    "64.71",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu105"
+                    }
+                ],
+                [
+                    "94.12",
+                    "",
+                    "94.12",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu106"
+                    }
+                ],
+                [
+                    "5.88",
+                    "",
+                    "5.88",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu107"
+                    }
+                ],
+                [
+                    "0",
+                    "",
+                    "0",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu108"
+                    }
+                ],
+                [
+                    "0",
+                    "",
+                    "0",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu109"
+                    }
+                ],
+                [
+                    "nominal",
+                    "日常生活中（nominal）",
+                    "nominal",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253307903,
+                        "id": "tu110"
+                    }
+                ],
+                [
+                    "91.03",
+                    "",
+                    "91.03",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu111"
+                    }
+                ],
+                [
+                    "89.74",
+                    "",
+                    "89.74",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu112"
+                    }
+                ],
+                [
+                    "80.77",
+                    "",
+                    "80.77",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu113"
+                    }
+                ],
+                [
+                    "51.28",
+                    "",
+                    "51.28",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu114"
+                    }
+                ],
+                [
+                    "66.67",
+                    "",
+                    "66.67",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu115"
+                    }
+                ],
+                [
+                    "51.28",
+                    "",
+                    "51.28",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu116"
+                    }
+                ],
+                [
+                    "noncompliant",
+                    "不标准（noncompliant）",
+                    "noncompliant",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253183765,
+                        "id": "tu117"
+                    }
+                ],
+                [
+                    "88.46",
+                    "",
+                    "88.46",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu118"
+                    }
+                ],
+                [
+                    "3.85",
+                    "",
+                    "3.85",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu119"
+                    }
+                ],
+                [
+                    "92.31",
+                    "",
+                    "92.31",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu120"
+                    }
+                ],
+                [
+                    "15.38",
+                    "",
+                    "15.38",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu121"
+                    }
+                ],
+                [
+                    "50",
+                    "",
+                    "50",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu122"
+                    }
+                ],
+                [
+                    "19.23",
+                    "",
+                    "19.23",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu123"
+                    }
+                ],
+                [
+                    "pathological",
+                    "缺损（pathological）",
+                    "pathological",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253206824,
+                        "id": "tu124"
+                    }
+                ],
+                [
+                    "100",
+                    "",
+                    "100",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu125"
+                    }
+                ],
+                [
+                    "43.48",
+                    "",
+                    "43.48",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu126"
+                    }
+                ],
+                [
+                    "91.3",
+                    "",
+                    "91.3",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu127"
+                    }
+                ],
+                [
+                    "78.26",
+                    "",
+                    "78.26",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu128"
+                    }
+                ],
+                [
+                    "65.22",
+                    "",
+                    "65.22",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu129"
+                    }
+                ],
+                [
+                    "34.78",
+                    "",
+                    "34.78",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu130"
+                    }
+                ],
+                [
+                    "perspective",
+                    "倾斜（perspective）",
+                    "perspective",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253211594,
+                        "id": "tu131"
+                    }
+                ],
+                [
+                    "68.57",
+                    "",
+                    "68.57",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu132"
+                    }
+                ],
+                [
+                    "82.86",
+                    "",
+                    "82.86",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu133"
+                    }
+                ],
+                [
+                    "42.86",
+                    "",
+                    "42.86",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu134"
+                    }
+                ],
+                [
+                    "51.43",
+                    "",
+                    "51.43",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu135"
+                    }
+                ],
+                [
+                    "42.86",
+                    "",
+                    "42.86",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu136"
+                    }
+                ],
+                [
+                    "37.14",
+                    "",
+                    "37.14",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu137"
+                    }
+                ],
+                [
+                    "rotations",
+                    "旋转（rotations）",
+                    "rotations",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253219263,
+                        "id": "tu138"
+                    }
+                ],
+                [
+                    "99.25",
+                    "",
+                    "99.25",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu139"
+                    }
+                ],
+                [
+                    "96.99",
+                    "",
+                    "96.99",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu140"
+                    }
+                ],
+                [
+                    "82.71",
+                    "",
+                    "82.71",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu141"
+                    }
+                ],
+                [
+                    "63.91",
+                    "",
+                    "63.91",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu142"
+                    }
+                ],
+                [
+                    "49.62",
+                    "",
+                    "49.62",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu143"
+                    }
+                ],
+                [
+                    "42.86",
+                    "",
+                    "42.86",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu144"
+                    }
+                ],
+                [
+                    "shadows",
+                    "阴影（shadows）",
+                    "shadows",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253227301,
+                        "id": "tu145"
+                    }
+                ],
+                [
+                    "100",
+                    "",
+                    "100",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu146"
+                    }
+                ],
+                [
+                    "85",
+                    "",
+                    "85",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu147"
+                    }
+                ],
+                [
+                    "85",
+                    "",
+                    "85",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu148"
+                    }
+                ],
+                [
+                    "80",
+                    "",
+                    "80",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu149"
+                    }
+                ],
+                [
+                    "90",
+                    "",
+                    "90",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu150"
+                    }
+                ],
+                [
+                    "65",
+                    "",
+                    "65",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu151"
+                    }
+                ],
+                [
+                    "total average",
+                    "平均",
+                    "total average",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253233984,
+                        "id": "tu152"
+                    }
+                ],
+                [
+                    "81.23",
+                    "",
+                    "81.23",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu153"
+                    }
+                ],
+                [
+                    "57.83",
+                    "",
+                    "57.83",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu154"
+                    }
+                ],
+                [
+                    "60.24",
+                    "",
+                    "60.24",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu155"
+                    }
+                ],
+                [
+                    "36.69",
+                    "",
+                    "36.69",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu156"
+                    }
+                ],
+                [
+                    "39.27",
+                    "",
+                    "39.27",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu157"
+                    }
+                ],
+                [
+                    "32.13",
+                    "",
+                    "32.13",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu158"
+                    }
+                ],
+                [
+                    "<x1\/>Accuracy Chart<x2\/>",
+                    "<x1\/>准确性图标<x2\/>",
+                    "<x1\/>Accuracy Chart<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253248687,
+                        "id": "tu159"
+                    }
+                ],
+                [
+                    "We can see that the Dynamsoft Barcode Reader ranks 1st in most of the categories.",
+                    "我们可以看到，Dynamsoft Barcode Reader在大多数类别中排名第一。",
+                    "We can see that the Dynamsoft Barcode Reader ranks 1st in most of the categories.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253325719,
+                        "id": "tu160"
+                    }
+                ],
+                [
+                    "It ranks 2nd in the noncompliant and perspective categories and 3rd in the lots category.",
+                    "它在不标准和倾斜类别中排名第二，在多码类别中排名第三。",
+                    " It ranks 2nd in the noncompliant and perspective categories and 3rd in the lots category.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253342655,
+                        "id": "tu160"
+                    }
+                ],
+                [
+                    "Runtime Results",
+                    "运行时间结果",
+                    "Runtime Results",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253349791,
+                        "id": "tu161"
+                    }
+                ],
+                [
+                    "Runtime per image (in milliseconds):",
+                    "平均运行时间（毫秒，按图片）：",
+                    "Runtime per image (in milliseconds):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253479664,
+                        "id": "tu162"
+                    }
+                ],
+                [
+                    "Engine",
+                    "SDK",
+                    "Engine",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253491262,
+                        "id": "tu163"
+                    }
+                ],
+                [
+                    "Result",
+                    "结果",
+                    "Result",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253488895,
+                        "id": "tu164"
+                    }
+                ],
+                [
+                    "Boofcv",
+                    "",
+                    "Boofcv",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu165"
+                    }
+                ],
+                [
+                    "205.48",
+                    "",
+                    "205.48",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu166"
+                    }
+                ],
+                [
+                    "DBR",
+                    "",
+                    "DBR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu167"
+                    }
+                ],
+                [
+                    "128.64",
+                    "",
+                    "128.64",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu168"
+                    }
+                ],
+                [
+                    "OpenCV Wechat",
+                    "",
+                    "OpenCV Wechat",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu169"
+                    }
+                ],
+                [
+                    "175.06",
+                    "",
+                    "175.06",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu170"
+                    }
+                ],
+                [
+                    "Scandit",
+                    "",
+                    "Scandit",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu171"
+                    }
+                ],
+                [
+                    "48.31",
+                    "",
+                    "48.31",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu172"
+                    }
+                ],
+                [
+                    "Zbar",
+                    "",
+                    "Zbar",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu173"
+                    }
+                ],
+                [
+                    "199.26",
+                    "",
+                    "199.26",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu174"
+                    }
+                ],
+                [
+                    "Zxing",
+                    "",
+                    "Zxing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu175"
+                    }
+                ],
+                [
+                    "181.68",
+                    "",
+                    "181.68",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu176"
+                    }
+                ],
+                [
+                    "<x1\/>Times per Image Chart<x2\/>",
+                    "<x1\/>运行时间图表（按图片）<x2\/>",
+                    "<x1\/>Times per Image Chart<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253564514,
+                        "id": "tu177"
+                    }
+                ],
+                [
+                    "Runtime per image by categories (in milliseconds):",
+                    "各分类平均运行时间（毫秒，按图片）：",
+                    "Runtime per image by categories (in milliseconds):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253558767,
+                        "id": "tu178"
+                    }
+                ],
+                [
+                    "Categories",
+                    "类别",
+                    "Categories",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253047653,
+                        "id": "tu179"
+                    }
+                ],
+                [
+                    "DBR",
+                    "",
+                    "DBR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu180"
+                    }
+                ],
+                [
+                    "Boofcv",
+                    "",
+                    "Boofcv",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu181"
+                    }
+                ],
+                [
+                    "OpenCV Wechat",
+                    "",
+                    "OpenCV Wechat",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu182"
+                    }
+                ],
+                [
+                    "Scandit",
+                    "",
+                    "Scandit",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu183"
+                    }
+                ],
+                [
+                    "Zbar",
+                    "",
+                    "Zbar",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu184"
+                    }
+                ],
+                [
+                    "Zxing",
+                    "",
+                    "Zxing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu185"
+                    }
+                ],
+                [
+                    "blurred",
+                    "模糊（blurred）",
+                    "blurred",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253074231,
+                        "id": "tu186"
+                    }
+                ],
+                [
+                    "149.58",
+                    "",
+                    "149.58",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu187"
+                    }
+                ],
+                [
+                    "138.16",
+                    "",
+                    "138.16",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu188"
+                    }
+                ],
+                [
+                    "125.31",
+                    "",
+                    "125.31",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu189"
+                    }
+                ],
+                [
+                    "39.67",
+                    "",
+                    "39.67",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu190"
+                    }
+                ],
+                [
+                    "177.58",
+                    "",
+                    "177.58",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu191"
+                    }
+                ],
+                [
+                    "206.89",
+                    "",
+                    "206.89",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu192"
+                    }
+                ],
+                [
+                    "bright_spots",
+                    "亮点（bright_spots）",
+                    "bright_spots",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253079431,
+                        "id": "tu193"
+                    }
+                ],
+                [
+                    "252.84",
+                    "",
+                    "252.84",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu194"
+                    }
+                ],
+                [
+                    "221.81",
+                    "",
+                    "221.81",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu195"
+                    }
+                ],
+                [
+                    "112.25",
+                    "",
+                    "112.25",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu196"
+                    }
+                ],
+                [
+                    "47.56",
+                    "",
+                    "47.56",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu197"
+                    }
+                ],
+                [
+                    "319.81",
+                    "",
+                    "319.81",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu198"
+                    }
+                ],
+                [
+                    "311.59",
+                    "",
+                    "311.59",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu199"
+                    }
+                ],
+                [
+                    "brightness",
+                    "亮度变化（brightness）",
+                    "brightness",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253087552,
+                        "id": "tu200"
+                    }
+                ],
+                [
+                    "192.75",
+                    "",
+                    "192.75",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu201"
+                    }
+                ],
+                [
+                    "273.43",
+                    "",
+                    "273.43",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu202"
+                    }
+                ],
+                [
+                    "134.79",
+                    "",
+                    "134.79",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu203"
+                    }
+                ],
+                [
+                    "47.86",
+                    "",
+                    "47.86",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu204"
+                    }
+                ],
+                [
+                    "349.79",
+                    "",
+                    "349.79",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu205"
+                    }
+                ],
+                [
+                    "320.32",
+                    "",
+                    "320.32",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu206"
+                    }
+                ],
+                [
+                    "close",
+                    "近距离（close）",
+                    "close",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253093993,
+                        "id": "tu207"
+                    }
+                ],
+                [
+                    "169.4",
+                    "",
+                    "169.4",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu208"
+                    }
+                ],
+                [
+                    "150.7",
+                    "",
+                    "150.7",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu209"
+                    }
+                ],
+                [
+                    "676",
+                    "",
+                    "676",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu210"
+                    }
+                ],
+                [
+                    "80.08",
+                    "",
+                    "80.08",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu211"
+                    }
+                ],
+                [
+                    "381.65",
+                    "",
+                    "381.65",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu212"
+                    }
+                ],
+                [
+                    "295.18",
+                    "",
+                    "295.18",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu213"
+                    }
+                ],
+                [
+                    "curved",
+                    "弯曲（curved）",
+                    "curved",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253101006,
+                        "id": "tu214"
+                    }
+                ],
+                [
+                    "188.76",
+                    "",
+                    "188.76",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu215"
+                    }
+                ],
+                [
+                    "103.42",
+                    "",
+                    "103.42",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu216"
+                    }
+                ],
+                [
+                    "129.54",
+                    "",
+                    "129.54",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu217"
+                    }
+                ],
+                [
+                    "43.4",
+                    "",
+                    "43.4",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu218"
+                    }
+                ],
+                [
+                    "220.28",
+                    "",
+                    "220.28",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu219"
+                    }
+                ],
+                [
+                    "173.44",
+                    "",
+                    "173.44",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu220"
+                    }
+                ],
+                [
+                    "damaged",
+                    "损坏（damaged）",
+                    "damaged",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253109478,
+                        "id": "tu221"
+                    }
+                ],
+                [
+                    "200.03",
+                    "",
+                    "200.03",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu222"
+                    }
+                ],
+                [
+                    "46.14",
+                    "",
+                    "46.14",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu223"
+                    }
+                ],
+                [
+                    "138.35",
+                    "",
+                    "138.35",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu224"
+                    }
+                ],
+                [
+                    "42.05",
+                    "",
+                    "42.05",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu225"
+                    }
+                ],
+                [
+                    "96.76",
+                    "",
+                    "96.76",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu226"
+                    }
+                ],
+                [
+                    "84.41",
+                    "",
+                    "84.41",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu227"
+                    }
+                ],
+                [
+                    "glare",
+                    "反光（glare）",
+                    "glare",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253117885,
+                        "id": "tu228"
+                    }
+                ],
+                [
+                    "104.66",
+                    "",
+                    "104.66",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu229"
+                    }
+                ],
+                [
+                    "70.8",
+                    "",
+                    "70.8",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu230"
+                    }
+                ],
+                [
+                    "95.38",
+                    "",
+                    "95.38",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu231"
+                    }
+                ],
+                [
+                    "45.4",
+                    "",
+                    "45.4",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu232"
+                    }
+                ],
+                [
+                    "157.3",
+                    "",
+                    "157.3",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu233"
+                    }
+                ],
+                [
+                    "130.32",
+                    "",
+                    "130.32",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu234"
+                    }
+                ],
+                [
+                    "high_version",
+                    "高版本（high_version）",
+                    "high_version",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253135055,
+                        "id": "tu235"
+                    }
+                ],
+                [
+                    "106.06",
+                    "",
+                    "106.06",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu236"
+                    }
+                ],
+                [
+                    "268.36",
+                    "",
+                    "268.36",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu237"
+                    }
+                ],
+                [
+                    "566.03",
+                    "",
+                    "566.03",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu238"
+                    }
+                ],
+                [
+                    "79.88",
+                    "",
+                    "79.88",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu239"
+                    }
+                ],
+                [
+                    "141.7",
+                    "",
+                    "141.7",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu240"
+                    }
+                ],
+                [
+                    "294.97",
+                    "",
+                    "294.97",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu241"
+                    }
+                ],
+                [
+                    "lots",
+                    "多码（lots）",
+                    "lots",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253146142,
+                        "id": "tu242"
+                    }
+                ],
+                [
+                    "275.43",
+                    "",
+                    "275.43",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu243"
+                    }
+                ],
+                [
+                    "6149",
+                    "",
+                    "6149",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu244"
+                    }
+                ],
+                [
+                    "139.57",
+                    "",
+                    "139.57",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu245"
+                    }
+                ],
+                [
+                    "110.14",
+                    "",
+                    "110.14",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu246"
+                    }
+                ],
+                [
+                    "1477.57",
+                    "",
+                    "1477.57",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu247"
+                    }
+                ],
+                [
+                    "1073",
+                    "",
+                    "1073",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu248"
+                    }
+                ],
+                [
+                    "monitor",
+                    "屏幕上显示（monitor）",
+                    "monitor",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253302527,
+                        "id": "tu249"
+                    }
+                ],
+                [
+                    "176.59",
+                    "",
+                    "176.59",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu250"
+                    }
+                ],
+                [
+                    "142.47",
+                    "",
+                    "142.47",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu251"
+                    }
+                ],
+                [
+                    "422.76",
+                    "",
+                    "422.76",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu252"
+                    }
+                ],
+                [
+                    "105.88",
+                    "",
+                    "105.88",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu253"
+                    }
+                ],
+                [
+                    "515.47",
+                    "",
+                    "515.47",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu254"
+                    }
+                ],
+                [
+                    "233.29",
+                    "",
+                    "233.29",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu255"
+                    }
+                ],
+                [
+                    "nominal",
+                    "日常生活中（nominal）",
+                    "nominal",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253307903,
+                        "id": "tu256"
+                    }
+                ],
+                [
+                    "74.05",
+                    "",
+                    "74.05",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu257"
+                    }
+                ],
+                [
+                    "109.49",
+                    "",
+                    "109.49",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu258"
+                    }
+                ],
+                [
+                    "54.54",
+                    "",
+                    "54.54",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu259"
+                    }
+                ],
+                [
+                    "32.12",
+                    "",
+                    "32.12",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu260"
+                    }
+                ],
+                [
+                    "111.68",
+                    "",
+                    "111.68",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu261"
+                    }
+                ],
+                [
+                    "141.49",
+                    "",
+                    "141.49",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu262"
+                    }
+                ],
+                [
+                    "noncompliant",
+                    "不标准（noncompliant）",
+                    "noncompliant",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253183765,
+                        "id": "tu263"
+                    }
+                ],
+                [
+                    "58.88",
+                    "",
+                    "58.88",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu264"
+                    }
+                ],
+                [
+                    "31.94",
+                    "",
+                    "31.94",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu265"
+                    }
+                ],
+                [
+                    "43.31",
+                    "",
+                    "43.31",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu266"
+                    }
+                ],
+                [
+                    "34.44",
+                    "",
+                    "34.44",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu267"
+                    }
+                ],
+                [
+                    "57.06",
+                    "",
+                    "57.06",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu268"
+                    }
+                ],
+                [
+                    "47.81",
+                    "",
+                    "47.81",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu269"
+                    }
+                ],
+                [
+                    "pathological",
+                    "缺损（pathological）",
+                    "pathological",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253206824,
+                        "id": "tu270"
+                    }
+                ],
+                [
+                    "8.52",
+                    "",
+                    "8.52",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu271"
+                    }
+                ],
+                [
+                    "14.61",
+                    "",
+                    "14.61",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu272"
+                    }
+                ],
+                [
+                    "19.39",
+                    "",
+                    "19.39",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu273"
+                    }
+                ],
+                [
+                    "65.87",
+                    "",
+                    "65.87",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu274"
+                    }
+                ],
+                [
+                    "1.83",
+                    "",
+                    "1.83",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu275"
+                    }
+                ],
+                [
+                    "3",
+                    "",
+                    "3",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu276"
+                    }
+                ],
+                [
+                    "perspective",
+                    "倾斜（perspective）",
+                    "perspective",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253211594,
+                        "id": "tu277"
+                    }
+                ],
+                [
+                    "25.74",
+                    "",
+                    "25.74",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu278"
+                    }
+                ],
+                [
+                    "26.74",
+                    "",
+                    "26.74",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu279"
+                    }
+                ],
+                [
+                    "24.6",
+                    "",
+                    "24.6",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu280"
+                    }
+                ],
+                [
+                    "14.91",
+                    "",
+                    "14.91",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu281"
+                    }
+                ],
+                [
+                    "24.31",
+                    "",
+                    "24.31",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu282"
+                    }
+                ],
+                [
+                    "27.66",
+                    "",
+                    "27.66",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu283"
+                    }
+                ],
+                [
+                    "rotations",
+                    "旋转（rotations）",
+                    "rotations",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253219263,
+                        "id": "tu284"
+                    }
+                ],
+                [
+                    "72.11",
+                    "",
+                    "72.11",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu285"
+                    }
+                ],
+                [
+                    "178.45",
+                    "",
+                    "178.45",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu286"
+                    }
+                ],
+                [
+                    "86.91",
+                    "",
+                    "86.91",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu287"
+                    }
+                ],
+                [
+                    "35.8",
+                    "",
+                    "35.8",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu288"
+                    }
+                ],
+                [
+                    "134.66",
+                    "",
+                    "134.66",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu289"
+                    }
+                ],
+                [
+                    "106.84",
+                    "",
+                    "106.84",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu290"
+                    }
+                ],
+                [
+                    "shadows",
+                    "阴影（shadows）",
+                    "shadows",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253227301,
+                        "id": "tu291"
+                    }
+                ],
+                [
+                    "102.21",
+                    "",
+                    "102.21",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu292"
+                    }
+                ],
+                [
+                    "117.5",
+                    "",
+                    "117.5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu293"
+                    }
+                ],
+                [
+                    "86.36",
+                    "",
+                    "86.36",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu294"
+                    }
+                ],
+                [
+                    "42.29",
+                    "",
+                    "42.29",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu295"
+                    }
+                ],
+                [
+                    "163.29",
+                    "",
+                    "163.29",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu296"
+                    }
+                ],
+                [
+                    "150",
+                    "",
+                    "150",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu297"
+                    }
+                ],
+                [
+                    "total average",
+                    "平均",
+                    "total average",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253233984,
+                        "id": "tu298"
+                    }
+                ],
+                [
+                    "134.85",
+                    "",
+                    "134.85",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu299"
+                    }
+                ],
+                [
+                    "502.69",
+                    "",
+                    "502.69",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu300"
+                    }
+                ],
+                [
+                    "178.44",
+                    "",
+                    "178.44",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu301"
+                    }
+                ],
+                [
+                    "54.21",
+                    "",
+                    "54.21",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu302"
+                    }
+                ],
+                [
+                    "270.67",
+                    "",
+                    "270.67",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu303"
+                    }
+                ],
+                [
+                    "225.01",
+                    "",
+                    "225.01",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu304"
+                    }
+                ],
+                [
+                    "<x1\/>Times Chart 1<x2\/>",
+                    "<x1\/>时间图表1<x2\/>",
+                    "<x1\/>Times Chart 1<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253637081,
+                        "id": "tu305"
+                    }
+                ],
+                [
+                    "Because Boofcv spent a lot of time on decoding the lots category, here is the chart without the lots category.",
+                    "因为Boofcv花了很多时间来解多码类别，这里再给出没有多码类别的图表。",
+                    "Because Boofcv spent a lot of time on decoding the lots category, here is the chart without the lots category.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253669912,
+                        "id": "tu306"
+                    }
+                ],
+                [
+                    "<x1\/>Times Chart 2<x2\/>",
+                    "<x1\/>时间图表2<x2\/>",
+                    "<x1\/>Times Chart 2<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253679430,
+                        "id": "tu307"
+                    }
+                ],
+                [
+                    "Although Scandit has low accuracy on the dataset, it is the fastest.",
+                    "虽然Scandit在这一数据集上的准确性较低，但它是最快的。",
+                    "Although Scandit has low accuracy on the dataset, it is the fastest.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253691695,
+                        "id": "tu308"
+                    }
+                ],
+                [
+                    "The Dynamsoft Barcode Reader ranks second on average.",
+                    "Dynamsoft Barcode Reader 平均处理时间排名第二。",
+                    " The Dynamsoft Barcode Reader ranks second on average.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253706214,
+                        "id": "tu308"
+                    }
+                ],
+                [
+                    "Update Runtime Settings to Improve the Results",
+                    "更新运行时设置以改进结果",
+                    "Update Runtime Settings to Improve the Results",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253716356,
+                        "id": "tu309"
+                    }
+                ],
+                [
+                    "The benchmark is done without updating the SDKs' default settings.",
+                    "我们是在不改变SDK默认设置的情况下完成的基准测试。",
+                    "The benchmark is done without updating the SDKs' default settings.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253736554,
+                        "id": "tu310"
+                    }
+                ],
+                [
+                    "We can update the runtime settings to improve the reading accuracy or speed.",
+                    "我们可以更改SDK的运行时设置以提高读取的准确性或速度。",
+                    " We can update the runtime settings to improve the reading accuracy or speed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253755736,
+                        "id": "tu310"
+                    }
+                ],
+                [
+                    "Among the SDKs, only the Dynamsoft Barcode Reader provides rich parameters that users can customize and optimize for different usage scenarios for the best scanning performance.",
+                    "在测试的类库和SDK中，只有Dynamsoft Barcode Reader提供了丰富的参数设置选项，用户可以根据不同的使用场景进行自定义和优化，以获得最佳的扫描性能。",
+                    "Among the SDKs, only the Dynamsoft Barcode Reader provides rich parameters that users can customize and optimize for different usage scenarios for the best scanning performance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253993558,
+                        "id": "tu311"
+                    }
+                ],
+                [
+                    "DBR uses a JSON template to modify runtime settings.",
+                    "DBR使用JSON模板修改运行时设置。",
+                    "DBR uses a JSON template to modify runtime settings.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254002292,
+                        "id": "tu312"
+                    }
+                ],
+                [
+                    "The following is the default template used in DBR Python.",
+                    "以下是DBR Python中使用的默认模板。",
+                    " The following is the default template used in DBR Python.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254007324,
+                        "id": "tu312"
+                    }
+                ],
+                [
+                    "You can learn more about the parameters of DBR <g1>here<\/g1>.",
+                    "您可以在<g1>此处<\/g1>了解有关 DBR 参数的更多信息。",
+                    "You can learn more about the parameters of DBR <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254013302,
+                        "id": "tu313"
+                    }
+                ],
+                [
+                    "Modify the Template to Decode the Lots Category",
+                    "修改模板以处理多码类别",
+                    "Modify the Template to Decode the Lots Category",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254029089,
+                        "id": "tu314"
+                    }
+                ],
+                [
+                    "In the benchmark, there are several files in the lots category that DBR cannot detect all the QR codes.",
+                    "在上述基准测试中，DBR无法检测到多码类别中的几个文件的所有QR码。",
+                    "In the benchmark, there are several files in the lots category that DBR cannot detect all the QR codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254058870,
+                        "id": "tu315"
+                    }
+                ],
+                [
+                    "The reason is that the QR codes are relatively small and the image has a large resolution (3024x4032) while in DBR's template, there is a <g1>ScaleDownThreshold<\/g1> parameter which is set to <g2>2300<\/g2> so that the image will be scaled down for a better decoding speed.",
+                    "原因是这些图片中的QR码相对较小，图像分辨率较高（3024x4032），而在DBR的模板中，有一个<g1>ScaleDownThreshold<\/g1>参数，该参数设置为<g2>2300<\/g2>，图像会被缩小以获得更好的解码速度。",
+                    "The reason is that the QR codes are relatively small and the image has a large resolution (3024x4032) while in DBR's template, there is a <g1>ScaleDownThreshold<\/g1> parameter which is set to <g2>2300<\/g2> so that the image will be scaled down for a better decoding speed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254083631,
+                        "id": "tu316"
+                    }
+                ],
+                [
+                    "If we set the <g1>ScaleDownThreshold<\/g1> to 99999, we can decode all the QR codes.",
+                    "如果我们将<g1>ScaleDownThreshold<\/g1>设置为99999，所有二维码就都能被解出了。",
+                    "If we set the <g1>ScaleDownThreshold<\/g1> to 99999, we can decode all the QR codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254108183,
+                        "id": "tu317"
+                    }
+                ],
+                [
+                    "<x1\/>Lots category<x2\/>",
+                    "<x1\/>多码类别<x2\/>",
+                    "<x1\/>Lots category<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254115391,
+                        "id": "tu318"
+                    }
+                ],
+                [
+                    "The accuracy for the lots category can increase from 60.48 to 100 using the modified template.",
+                    "使用修改后的模板，多码类别的准确度可以从60.48提高到100。",
+                    "The accuracy for the lots category can increase from 60.48 to 100 using the modified template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254123394,
+                        "id": "tu319"
+                    }
+                ],
+                [
+                    "Modify the Template to Decode the Blurred Category",
+                    "修改模板以处理模糊类别",
+                    "Modify the Template to Decode the Blurred Category",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631254131342,
+                        "id": "tu320"
+                    }
+                ],
+                [
+                    "DBR comes with many image processing algorithms.",
+                    "DBR附带了许多图像处理算法。",
+                    "DBR comes with many image processing algorithms.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254134380,
+                        "id": "tu321"
+                    }
+                ],
+                [
+                    "For blurred QR codes as below, we can use the <g1>GRAY_SMOOTH<\/g1> image processing method.",
+                    "对于如下所示的模糊QR码，我们可以使用<g1>GRAY_SMOOTH<\/g1>这一图像处理方法。",
+                    "For blurred QR codes as below, we can use the <g1>GRAY_SMOOTH<\/g1> image processing method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254148329,
+                        "id": "tu322"
+                    }
+                ],
+                [
+                    "<x1\/>Blurred category<x2\/>",
+                    "<x1\/>模糊类别<x2\/>",
+                    "<x1\/>Blurred category<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254158399,
+                        "id": "tu323"
+                    }
+                ],
+                [
+                    "But if the QR codes are blurred too much, we cannot do much about this.",
+                    "但是如果二维码太模糊，还是没有办法识别。",
+                    "But if the QR codes are blurred too much, we cannot do much about this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254175339,
+                        "id": "tu324"
+                    }
+                ],
+                [
+                    "DBR can only decode one extra image after using the modified template in the blurred category.",
+                    "在模糊类别中使用修改后的模板后，DBR只能额外解出一张图像。",
+                    " DBR can only decode one extra image after using the modified template in the blurred category.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254189753,
+                        "id": "tu324"
+                    }
+                ],
+                [
+                    "We should try to capture clear QR code images in the first place.",
+                    "我们应该在图像获取时就尽量捕捉清晰的二维码图像。",
+                    " We should try to capture clear QR code images in the first place.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254217997,
+                        "id": "tu324"
+                    }
+                ],
+                [
+                    "SDKs like the <g1>Dynamsoft Camera Enhancer<\/g1> can help on this aspect.",
+                    "<g1>Dynamsoft Camera Enhancer<\/g1>可以在这方面提供帮助。",
+                    " SDKs like the <g1>Dynamsoft Camera Enhancer<\/g1> can help on this aspect.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254241169,
+                        "id": "tu324"
+                    }
+                ],
+                [
+                    "Conclusion",
+                    "结论",
+                    "Conclusion",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1621932842323,
+                        "id": "tu325"
+                    }
+                ],
+                [
+                    "The Dynamsoft Barcode Reader has the best QR code reading accuracy on the test set.",
+                    "Dynamsoft Barcode Reader在本文的测试集上具有最佳的 QR 码读取准确性。",
+                    "The Dynamsoft Barcode Reader has the best QR code reading accuracy on the test set.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631254264654,
+                        "id": "tu326"
+                    }
+                ],
+                [
+                    "Its speed is good and has rich runtime settings to adapt to different scenarios.",
+                    "它的速度表现亦可，并且有丰富的运行时设置以适应不同的场景。",
+                    " Its speed is good and has rich runtime settings to adapt to different scenarios.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254284943,
+                        "id": "tu326"
+                    }
+                ],
+                [
+                    "If conditions allow, it is better to choose DBR as the barcode reading SDK.",
+                    "如果条件允许，最好选择DBR作为二维码识别的SDK。",
+                    " If conditions allow, it is better to choose DBR as the barcode reading SDK.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631254298390,
+                        "id": "tu326"
+                    }
+                ],
+                [
+                    "{% include cta.md %}",
+                    "",
+                    "{% include cta.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "neglected": "yes",
+                        "id": "tu327"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
