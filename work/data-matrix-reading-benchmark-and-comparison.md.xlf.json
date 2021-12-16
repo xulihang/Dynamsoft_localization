@@ -1,0 +1,955 @@
+{
+    "filename": "data-matrix-reading-benchmark-and-comparison.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Data Matrix Reading Benchmark and Comparison",
+                    "",
+                    "Data Matrix Reading Benchmark and Comparison",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-12-01 14:20:53 +0800",
+                    "",
+                    "2021-12-01 14:20:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-12-06 14:20:53 +0800",
+                    "",
+                    "2021-12-06 14:20:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Data Matrix",
+                    "",
+                    "Data Matrix",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Benchmark",
+                    "",
+                    "Benchmark",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article shares the result of a Data Matrix reading benchmark on a public image dataset.",
+                    "",
+                    "The article shares the result of a Data Matrix reading benchmark on a public image dataset.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/datamatrix_benchmark\/results.jpg",
+                    "",
+                    ".\/img\/2021\/datamatrix_benchmark\/results.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "Data Matrix is a type of two-dimensional code.",
+                    "",
+                    "Data Matrix is a type of two-dimensional code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It is often used to mark small items like electronic components, due to the code's ability to encode fifty characters in a symbol that is readable at 2 or 3 mm<x1\/>2<x2\/> and the fact that the code can be read with only a 20% contrast ratio.",
+                    "",
+                    " It is often used to mark small items like electronic components, due to the code's ability to encode fifty characters in a symbol that is readable at 2 or 3 mm<x1\/>2<x2\/> and the fact that the code can be read with only a 20% contrast ratio.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<x3\/>^wiki<x4\/>",
+                    "",
+                    " <x3\/>^wiki<x4\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<x1\/>Circuit<x2\/>",
+                    "",
+                    "<x1\/>Circuit<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Data Matrix is the preferred code in Direct part marking (DPM).",
+                    "",
+                    "Data Matrix is the preferred code in Direct part marking (DPM).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "DPM is a process to permanently mark parts with product information including serial numbers, part numbers, date codes, and barcodes.<x1\/>^dpm<x2\/>",
+                    "",
+                    " DPM is a process to permanently mark parts with product information including serial numbers, part numbers, date codes, and barcodes.<x1\/>^dpm<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>Surface<x2\/>",
+                    "",
+                    "<x1\/>Surface<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Data Matrix codes are usually read by camera and special software.",
+                    "",
+                    "Data Matrix codes are usually read by camera and special software.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Reading Data Matrix codes is a challenging task.",
+                    "",
+                    " Reading Data Matrix codes is a challenging task.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "There are many studies about this and <g1>a recent study<\/g1> provides a public data set to test the performance of reading Data Matrix codes.",
+                    "",
+                    " There are many studies about this and <g1>a recent study<\/g1> provides a public data set to test the performance of reading Data Matrix codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "The data set has 57 valid images with 112 Data Matrix codes.",
+                    "",
+                    "The data set has 57 valid images with 112 Data Matrix codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "The images are put into three categories: synthetic, Internet and industrial.",
+                    "",
+                    " The images are put into three categories: synthetic, Internet and industrial.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<x1\/>Images in categories<x2\/>",
+                    "",
+                    "<x1\/>Images in categories<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "In this article, we are going to run a benchmark based on this image data set.",
+                    "",
+                    "In this article, we are going to run a benchmark based on this image data set.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "The test tool and evaluation metrics are the same as in <g1>the QR code benchmark article<\/g1>.",
+                    "",
+                    "The test tool and evaluation metrics are the same as in <g1>the QR code benchmark article<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "The test is run on a PC device with an Intel i5-10400 CPU and 16GB memory.",
+                    "",
+                    "The test is run on a PC device with an Intel i5-10400 CPU and 16GB memory.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Evaluated Libraries",
+                    "",
+                    "Evaluated Libraries",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "We are going to evaluate 5 libraries and SDKs:",
+                    "",
+                    "We are going to evaluate 5 libraries and SDKs:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1> (DBR, version:",
+                    "",
+                    "<g1>Dynamsoft Barcode Reader<\/g1> (DBR, version:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "8.8)",
+                    "",
+                    " 8.8)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<g1>Libdmtx<\/g1> (version: pylibdmtx 0.1.9)",
+                    "",
+                    "<g1>Libdmtx<\/g1> (version: pylibdmtx 0.1.9)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Google ML Kit",
+                    "",
+                    "<g1>Google ML Kit<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Apple Vision Framework",
+                    "",
+                    "<g1>Apple Vision Framework<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "<g1>Zxing CPP<\/g1> (version:",
+                    "",
+                    "<g1>Zxing CPP<\/g1> (version:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "1.2.0)",
+                    "",
+                    " 1.2.0)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "The runtime settings are optimized to decode only Data Matrix codes if needed.",
+                    "",
+                    "The runtime settings are optimized to decode only Data Matrix codes if needed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Here are the code snippets.",
+                    "",
+                    "Here are the code snippets.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "DBR:",
+                    "",
+                    "DBR:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Link of template.json",
+                    "",
+                    "<g1>Link of template.json<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "ML Kit:",
+                    "",
+                    "ML Kit:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Apple Vision:",
+                    "",
+                    "Apple Vision:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Zxing CPP:",
+                    "",
+                    "Zxing CPP:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Evaluation Results",
+                    "",
+                    "Evaluation Results",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Reading rate (detected codes number \/ total codes number) in percent:",
+                    "",
+                    "Reading rate (detected codes number \/ total codes number) in percent:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Engine",
+                    "",
+                    "Engine",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Reading Rate",
+                    "",
+                    "Reading Rate",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "DBR",
+                    "",
+                    "DBR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "100",
+                    "",
+                    "100",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "libdmtx",
+                    "",
+                    "libdmtx",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "86\\.61",
+                    "",
+                    "86\\.61",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "ML Kit",
+                    "",
+                    "ML Kit",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "71\\.43",
+                    "",
+                    "71\\.43",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Apple Vision",
+                    "",
+                    "Apple Vision",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "40\\.18",
+                    "",
+                    "40\\.18",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "ZxingCPP",
+                    "",
+                    "ZxingCPP",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "18\\.75",
+                    "",
+                    "18\\.75",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "<x1\/>Reading rate Chart<x2\/>",
+                    "",
+                    "<x1\/>Reading rate Chart<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Runtime per image (in milliseconds):",
+                    "",
+                    "Runtime per image (in milliseconds):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Engine",
+                    "",
+                    "Engine",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Result",
+                    "",
+                    "Result",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "DBR",
+                    "",
+                    "DBR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "229\\.14",
+                    "",
+                    "229\\.14",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "libdmtx",
+                    "",
+                    "libdmtx",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "3599\\.68",
+                    "",
+                    "3599\\.68",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "ML Kit",
+                    "",
+                    "ML Kit",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "35\\.56",
+                    "",
+                    "35\\.56",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Apple Vision",
+                    "",
+                    "Apple Vision",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "181\\.30",
+                    "",
+                    "181\\.30",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "ZxingCPP",
+                    "",
+                    "ZxingCPP",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "7\\.40",
+                    "",
+                    "7\\.40",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "<x1\/>Times per Image Chart<x2\/>",
+                    "",
+                    "<x1\/>Times per Image Chart<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "We can see that the Dynamsoft Barcode Reader can decode all the Data Matrix codes while other SDKs cannot.",
+                    "",
+                    "We can see that the Dynamsoft Barcode Reader can decode all the Data Matrix codes while other SDKs cannot.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "It also has a good balance of reading rate and runtime.",
+                    "",
+                    " It also has a good balance of reading rate and runtime.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "The libdmtx has a good reading rate but it spends too much time decoding.",
+                    "",
+                    " The libdmtx has a good reading rate but it spends too much time decoding.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "The ZxingCPP is very quick but it lacks accuracy.",
+                    "",
+                    " The ZxingCPP is very quick but it lacks accuracy.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "Runtime Settings of Dynamsoft Barcode Reader",
+                    "",
+                    "Runtime Settings of Dynamsoft Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "Dynamsoft Barcode Reader provides rich parameters that users can customize and optimize for different usage scenarios for the best scanning performance.<x1\/>^dbrdoc<x2\/>",
+                    "",
+                    "Dynamsoft Barcode Reader provides rich parameters that users can customize and optimize for different usage scenarios for the best scanning performance.<x1\/>^dbrdoc<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "There are some parameters related to decoding Data Matrix.",
+                    "",
+                    "There are some parameters related to decoding Data Matrix.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "BinarizationModes",
+                    "",
+                    "BinarizationModes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "As discussed in the paper which provides the public data set, adaptive thresholding achieves a better result.",
+                    "",
+                    "As discussed in the paper which provides the public data set, adaptive thresholding achieves a better result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "In DBR, we can use the <g1>LOCAL_BLOCK<\/g1> method to do adaptive thresholding.",
+                    "",
+                    " In DBR, we can use the <g1>LOCAL_BLOCK<\/g1> method to do adaptive thresholding.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "You can learn more about how to use it <g1>here<\/g1>.",
+                    "",
+                    "You can learn more about how to use it <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "DPMCodeReadingModes",
+                    "",
+                    "DPMCodeReadingModes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "We have to enable DPM mode if we need to decode DPM codes.",
+                    "",
+                    "We have to enable DPM mode if we need to decode DPM codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "Learn how to use it <g1>here<\/g1>.",
+                    "",
+                    " Learn how to use it <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "DeformationResistingModes",
+                    "",
+                    "DeformationResistingModes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "If Data Matrix codes are malformed, it is difficult to read them.",
+                    "",
+                    "If Data Matrix codes are malformed, it is difficult to read them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "We can enable deformation resisting in such cases.",
+                    "",
+                    " We can enable deformation resisting in such cases.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "Learn how to use it <g1>here<\/g1>.",
+                    "",
+                    " Learn how to use it <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "<x1\/>Malformed Data Matrix<x2\/>",
+                    "",
+                    "<x1\/>Malformed Data Matrix<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "ImagePreprocessingModes",
+                    "",
+                    "ImagePreprocessingModes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "DBR has some image preprocessing algorithms built-in.",
+                    "",
+                    "DBR has some image preprocessing algorithms built-in.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "For example, the following image has a low resolution and noise.",
+                    "",
+                    "For example, the following image has a low resolution and noise.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "We can smooth the image to decode all the codes.",
+                    "",
+                    " We can smooth the image to decode all the codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "<x1\/>Low-resolution image<x2\/>",
+                    "",
+                    "<x1\/>Low-resolution image<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "Learn how to use it <g1>here<\/g1>.",
+                    "",
+                    "Learn how to use it <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "{% include cta.md %}",
+                    "",
+                    "{% include cta.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "References",
+                    "",
+                    "References",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu72"
+                    }
+                ],
+                [
+                    "^wiki",
+                    "",
+                    "^wiki",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "^dpm",
+                    "",
+                    "^dpm",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "^dbrdoc",
+                    "",
+                    "^dbrdoc",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/data-matrix-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu75"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

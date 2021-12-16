@@ -1,0 +1,901 @@
+{
+    "filename": "pdf417-reading-benchmark-and-comparison.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "PDF417 Reading Benchmark and Comparison",
+                    "",
+                    "PDF417 Reading Benchmark and Comparison",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-12-15 14:20:53 +0800",
+                    "",
+                    "2021-12-15 14:20:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-12-15 14:20:53 +0800",
+                    "",
+                    "2021-12-15 14:20:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "PDF417",
+                    "",
+                    "PDF417",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Benchmark",
+                    "",
+                    "Benchmark",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article shares the result of a PDF417 reading benchmark on a public image dataset.",
+                    "",
+                    "The article shares the result of a PDF417 reading benchmark on a public image dataset.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/pdf417_benchmark\/results.jpg",
+                    "",
+                    ".\/img\/2021\/pdf417_benchmark\/results.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "PDF417 is a stacked linear barcode format used in a variety of applications such as transport, identification cards, and inventory management.<x1\/>^wiki<x2\/>",
+                    "",
+                    "PDF417 is a stacked linear barcode format used in a variety of applications such as transport, identification cards, and inventory management.<x1\/>^wiki<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can find it on a boarding pass, driver's license, patient wristband, etc.",
+                    "",
+                    "We can find it on a boarding pass, driver's license, patient wristband, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "PDF417 on a US driver's license:",
+                    "",
+                    "PDF417 on a US driver's license:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>driver's license<x2\/>",
+                    "",
+                    "<x1\/>driver's license<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "A PDF417 has five parts: start pattern, left row indicator, data codewords, right row indicator and stop pattern.",
+                    "",
+                    "A PDF417 has five parts: start pattern, left row indicator, data codewords, right row indicator and stop pattern.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "<x1\/>pdf417 example<x2\/>",
+                    "",
+                    "<x1\/>pdf417 example<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "PDF417 can be read with a laser scanner as well as a camera.",
+                    "",
+                    "PDF417 can be read with a laser scanner as well as a camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Reading a PDF417 code in the real world is not an easy job and there are several studies about this.",
+                    "",
+                    " Reading a PDF417 code in the real world is not an easy job and there are several studies about this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "<g1>A recent study<\/g1> uses semantic segmentation to detect barcodes and provides a public dataset.",
+                    "",
+                    " <g1>A recent study<\/g1> uses semantic segmentation to detect barcodes and provides a public dataset.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "The dataset has 921 real images and 30,000+ synthetic images.",
+                    "",
+                    "The dataset has 921 real images and 30,000+ synthetic images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "It contains a large number of different barcode types (Code128, EAN13, DataMatrix, Aztec, QR, PDF417, and many more).",
+                    "",
+                    " It contains a large number of different barcode types (Code128, EAN13, DataMatrix, Aztec, QR, PDF417, and many more).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "In this article, we are going to run a benchmark based on the real images which have readable PDF417 codes.",
+                    "",
+                    " In this article, we are going to run a benchmark based on the real images which have readable PDF417 codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "The final PDF417 subset has 78 images with 88 PDF417 codes on bottles, boarding passes and scanned documents.",
+                    "",
+                    " The final PDF417 subset has 78 images with 88 PDF417 codes on bottles, boarding passes and scanned documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<x1\/>pdf417 example<x2\/>",
+                    "",
+                    "<x1\/>pdf417 example<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "The test tool and evaluation metrics are the same as in <g1>the QR code benchmark article<\/g1>.",
+                    "",
+                    "The test tool and evaluation metrics are the same as in <g1>the QR code benchmark article<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "The test is run on an iOS simulator.",
+                    "",
+                    "The test is run on an iOS simulator.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "The host has an Intel i5-10400 CPU and 16GB memory.",
+                    "",
+                    " The host has an Intel i5-10400 CPU and 16GB memory.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Evaluated Libraries",
+                    "",
+                    "Evaluated Libraries",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "We are going to evaluate 5 libraries and SDKs:",
+                    "",
+                    "We are going to evaluate 5 libraries and SDKs:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1> (DBR iOS, version:",
+                    "",
+                    "<g1>Dynamsoft Barcode Reader<\/g1> (DBR iOS, version:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "8.8)",
+                    "",
+                    " 8.8)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Commercial SDK A (version:",
+                    "",
+                    "Commercial SDK A (version:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "6.10.0)",
+                    "",
+                    " 6.10.0)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Google ML Kit",
+                    "",
+                    "<g1>Google ML Kit<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Apple Vision Framework",
+                    "",
+                    "<g1>Apple Vision Framework<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "<g1>ZXing Objective-C<\/g1> (version:",
+                    "",
+                    "<g1>ZXing Objective-C<\/g1> (version:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "3.6.4)",
+                    "",
+                    " 3.6.4)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "The runtime settings are optimized to decode only PDF417 codes if needed.",
+                    "",
+                    "The runtime settings are optimized to decode only PDF417 codes if needed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Here are the code snippets.",
+                    "",
+                    "Here are the code snippets.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "DBR:",
+                    "",
+                    "DBR:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Commercial SDK A:",
+                    "",
+                    "Commercial SDK A:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "ML Kit:",
+                    "",
+                    "ML Kit:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Apple Vision:",
+                    "",
+                    "Apple Vision:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "ZXing Objective-C:",
+                    "",
+                    "ZXing Objective-C:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Evaluation Results",
+                    "",
+                    "Evaluation Results",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Reading rate (detected codes number \/ total codes number) in percent:",
+                    "",
+                    "Reading rate (detected codes number \/ total codes number) in percent:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Engine",
+                    "",
+                    "Engine",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Result",
+                    "",
+                    "Result",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "DBR",
+                    "",
+                    "DBR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "92\\.05",
+                    "",
+                    "92\\.05",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "ML Kit",
+                    "",
+                    "ML Kit",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "63\\.64",
+                    "",
+                    "63\\.64",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Commercial SDK A",
+                    "",
+                    "Commercial SDK A",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "52\\.27",
+                    "",
+                    "52\\.27",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Apple Vision",
+                    "",
+                    "Apple Vision",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "48\\.86",
+                    "",
+                    "48\\.86",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "ZXingObjC",
+                    "",
+                    "ZXingObjC",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "27\\.27",
+                    "",
+                    "27\\.27",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "<x1\/>Reading rate Chart<x2\/>",
+                    "",
+                    "<x1\/>Reading rate Chart<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Runtime per image (in milliseconds):",
+                    "",
+                    "Runtime per image (in milliseconds):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Engine",
+                    "",
+                    "Engine",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Result",
+                    "",
+                    "Result",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "DBR",
+                    "",
+                    "DBR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "466\\.29",
+                    "",
+                    "466\\.29",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "ML Kit",
+                    "",
+                    "ML Kit",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "126\\.44",
+                    "",
+                    "126\\.44",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Commercial SDK A",
+                    "",
+                    "Commercial SDK A",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "1380\\.24",
+                    "",
+                    "1380\\.24",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Apple Vision",
+                    "",
+                    "Apple Vision",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "349\\.85",
+                    "",
+                    "349\\.85",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "ZXingObjC",
+                    "",
+                    "ZXingObjC",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "302\\.18",
+                    "",
+                    "302\\.18",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "<x1\/>Times per Image Chart<x2\/>",
+                    "",
+                    "<x1\/>Times per Image Chart<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "We can see that the Dynamsoft Barcode Reader has the highest reading rate and its speed is fairly good.",
+                    "",
+                    "We can see that the Dynamsoft Barcode Reader has the highest reading rate and its speed is fairly good.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "Runtime Settings of Dynamsoft Barcode Reader",
+                    "",
+                    "Runtime Settings of Dynamsoft Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Dynamsoft Barcode Reader provides rich parameters that users can customize and optimize for different usage scenarios for the best scanning performance.<x1\/>^dbrdoc<x2\/>",
+                    "",
+                    "Dynamsoft Barcode Reader provides rich parameters that users can customize and optimize for different usage scenarios for the best scanning performance.<x1\/>^dbrdoc<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "There are some parameters we can use so that DBR can read the failed images in the benchmark.",
+                    "",
+                    "There are some parameters we can use so that DBR can read the failed images in the benchmark.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "ImagePreprocessingModes",
+                    "",
+                    "ImagePreprocessingModes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "Some images have a lot of noise.",
+                    "",
+                    "Some images have a lot of noise.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "We can use <g1>IPM_GRAY_SMOOTH<\/g1> to reduce noise.",
+                    "",
+                    " We can use <g1>IPM_GRAY_SMOOTH<\/g1> to reduce noise.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "This is similar to <g2>median blur<\/g2> in OpenCV.",
+                    "",
+                    " This is similar to <g2>median blur<\/g2> in OpenCV.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Example:",
+                    "",
+                    "Example:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "<x1\/>noise example<x2\/>",
+                    "",
+                    "<x1\/>noise example<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "Here is the JSON template to use this mode:",
+                    "",
+                    "Here is the JSON template to use this mode:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "Learn more about image preprocessing <g1>here<\/g1>.",
+                    "",
+                    "Learn more about image preprocessing <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "Scan Region",
+                    "",
+                    "Scan Region",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "Some images have low contrast and it is difficult to locate the barcodes.",
+                    "",
+                    "Some images have low contrast and it is difficult to locate the barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "We can set up a scan region so that DBR can locate the barcodes in an interactive scenario.",
+                    "",
+                    " We can set up a scan region so that DBR can locate the barcodes in an interactive scenario.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "Here, we use DBR JS for convenience.",
+                    "",
+                    " Here, we use DBR JS for convenience.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "<x1\/>scan region example<x2\/>",
+                    "",
+                    "<x1\/>scan region example<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "Learn more about how to set up a scan region <g1>here<\/g1>.",
+                    "",
+                    "Learn more about how to set up a scan region <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "{% include cta.md %}",
+                    "",
+                    "{% include cta.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "References",
+                    "",
+                    "References",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "^wiki",
+                    "",
+                    "^wiki",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "^dbrdoc",
+                    "",
+                    "^dbrdoc",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/benchmark\/pdf417-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu72"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
