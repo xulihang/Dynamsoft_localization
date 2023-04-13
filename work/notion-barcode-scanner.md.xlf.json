@@ -1,0 +1,589 @@
+{
+    "filename": "notion-barcode-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Scan Barcodes to Save Books to Notion",
+                    "如何扫描条码以导入图书信息到Notion",
+                    "How to Scan Barcodes to Save Books to Notion",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681365234571,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2023-04-12 17:16:53 +0800",
+                    "",
+                    "2023-04-12 17:16:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2023-04-12 17:16:53 +0800",
+                    "",
+                    "2023-04-12 17:16:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Notion",
+                    "",
+                    "Notion",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "ISBN",
+                    "",
+                    "ISBN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "Integration",
+                    "",
+                    "Integration",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf16_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to build a web app to scan barcodes to save books to Notion via APIs.",
+                    "这篇文章分享了如何构建一个Web应用程序来扫描图书条码，并通过API将书籍信息保存到Notion。",
+                    "The article shares how to build a web app to scan barcodes to save books to Notion via APIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681365174876,
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2023\/04\/notion\/gallery.jpg",
+                    "",
+                    ".\/img\/2023\/04\/notion\/gallery.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf18_tu1"
+                    }
+                ],
+                [
+                    "Notion is an all-in-one workspace for us to use the computer.",
+                    "Notion是一个一体化工作空间，能让我们充分使用计算机的能力。",
+                    "Notion is an all-in-one workspace for us to use the computer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681365288398,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It is basically  a note-taking app but it is more than that with great customizability.",
+                    "它是一个记笔记的应用程序，但它丰富的定制能力使它远不止一个笔记应用这么简单。",
+                    " It is basically  a note-taking app but it is more than that with great customizability.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366243031,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a web app to scan ISBN barcodes to get the info of books and save them to a Notion database via APIs.",
+                    "在本文中，我们将构建一个网页应用来扫描ISBN条码，通过API获取书籍的信息，并将其保存到Notion数据库中。",
+                    "In this article, we are going to build a web app to scan ISBN barcodes to get the info of books and save them to a Notion database via APIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366304160,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is used for barcode scanning.",
+                    "扫码使用了<g1>Dynamsoft的条码识别SDK<\/g1>。",
+                    " <g1>Dynamsoft Barcode Reader<\/g1> is used for barcode scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366356853,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Check out the demo video to see what it does:",
+                    "演示视频：",
+                    "Check out the demo video to see what it does:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366407299,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Scan Barcodes to Save Books to Notion",
+                    "扫描条码以保存图书到Notion",
+                    "Scan Barcodes to Save Books to Notion",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366479629,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Let's do this in steps.",
+                    "下面是分步实现过程。",
+                    "Let's do this in steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050804494,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Build an ISBN Web Barcode Scanner",
+                    "构建ISBN条码扫描Web应用",
+                    "Build an ISBN Web Barcode Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366504835,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "We need to build an ISBN web barcode scanner to get the ISBN of books and retrieve their detailed info via APIs like Google's book API.",
+                    "我们需要构建一个ISBN条码扫描Web应用来获取书籍的ISBN，并通过API，比如谷歌的Book API，获取书籍的详细信息。",
+                    "We need to build an ISBN web barcode scanner to get the ISBN of books and retrieve their detailed info via APIs like Google's book API.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366621175,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "We've talked about how to build one in the <g1>previous article<\/g1>.",
+                    "我们已经在<g1>上一篇文章<\/g1>中讨论了如何构建一个这样的应用。",
+                    " We've talked about how to build one in the <g1>previous article<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366645119,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "We can build our barcode scanner for Notion based on it.",
+                    "我们可以在此基础上为Notion构建条码扫描应用。",
+                    " We can build our barcode scanner for Notion based on it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366656490,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "In this article, we are going to focus more on the Notion integration.",
+                    "在本文中，我们将更多地关注如何与Notion集成起来。",
+                    " In this article, we are going to focus more on the Notion integration.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366728138,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Save the Book to Notion",
+                    "将书籍保存到Notion",
+                    "Save the Book to Notion",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366762072,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "We need to create an integration to access Notion via API.",
+                    "我们需要创建一个集成（Integration）来通过API访问Notion。",
+                    "We need to create an integration to access Notion via API.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366839089,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Create a New Integration",
+                    "创建新的集成",
+                    "Create a New Integration",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366850223,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Visit <g1>My integrations<\/g1> and create a new internal integration.",
+                    "访问<g1>我的集成<\/g1>，创建一个新的集成。",
+                    "Visit <g1>My integrations<\/g1> and create a new internal integration.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366874753,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<x1\/>Integrations<x2\/>",
+                    "<x1\/>集成<x2\/>",
+                    "<x1\/>Integrations<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366891482,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "We can then get the secret for accessing our Notion workspace via API.",
+                    "然后，我们可以得到一个密钥，用于访问Notion工作区。",
+                    "We can then get the secret for accessing our Notion workspace via API.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366920278,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "<x1\/>Get secret<x2\/>",
+                    "<x1\/>获取密钥<x2\/>",
+                    "<x1\/>Get secret<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366938679,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Create a New Database",
+                    "创建新的数据库",
+                    "Create a New Database",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366944609,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Create a new database for saving the books with properties like authors, page count and ISBN.",
+                    "创建一个新的数据库，用于保存图书信息，包含作者、页数和ISBN这样的属性。",
+                    "Create a new database for saving the books with properties like authors, page count and ISBN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681366970334,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "<x1\/>Database<x2\/>",
+                    "<x1\/>数据库<x2\/>",
+                    "<x1\/>Database<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366993414,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "We can get the database ID by checking its link.",
+                    "我们可以从数据库的链接知道它的ID。",
+                    "We can get the database ID by checking its link.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681367020023,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "<x1\/>Database ID<x2\/>",
+                    "<x1\/>数据库ID<x2\/>",
+                    "<x1\/>Database ID<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681367035395,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Connect the Integration to the Database",
+                    "将集成连接到数据库",
+                    "Connect the Integration to the Database",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681367039460,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Connect the integration to the database so that it can modify the database.",
+                    "将集成连接到数据库，这样它才能够修改数据库。",
+                    "Connect the integration to the database so that it can modify the database.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681367054610,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "<x1\/>Connection<x2\/>",
+                    "<x1\/>连接<x2\/>",
+                    "<x1\/>Connection<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681367058508,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Create a New Book via API",
+                    "通过API创建新的图书条目",
+                    "Create a New Book via API",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681367069861,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Next, we need to add a book to the database via the <g1>pages API<\/g1>.",
+                    "接下来，我们需要通过<g1>pages API<\/g1>添加图书条目到数据库中。",
+                    "Next, we need to add a book to the database via the <g1>pages API<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681367098770,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Because the API is not accessible from the browser due to CORS, we need to create a backend server to send the request.",
+                    "由于CORS的原因，无法从浏览器直接调用这一API，需要用后端服务来发送请求。",
+                    "Because the API is not accessible from the browser due to CORS, we need to create a backend server to send the request.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681367134722,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Here, we use Python Flask to do this:",
+                    "这里，我们使用Python Flask完成请求：",
+                    "Here, we use Python Flask to do this:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681367153422,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Then, in the web app, use <g1>XMLHttpRequest<\/g1> to send the request.",
+                    "然后，在Web应用里，使用<g1>XMLHttpRequest<\/g1>发送请求。",
+                    "Then, in the web app, use <g1>XMLHttpRequest<\/g1> to send the request.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681367192154,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "The JSON body is compiled in the web app.",
+                    "JSON请求内容是在Web应用中构建的。",
+                    " The JSON body is compiled in the web app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681367217717,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "The secret and database ID are input by the user.",
+                    "密钥和数据库ID由用户输入。",
+                    " The secret and database ID are input by the user.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1681367223098,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Get the source code of the demo to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demo to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/notion-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu30"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

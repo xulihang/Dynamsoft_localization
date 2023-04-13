@@ -1,0 +1,1386 @@
+{
+    "filename": "ionic-react-qr-code-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Ionic React QR Code Scanner with Capacitor",
+                    "基于Capacitor编写Ionic React二维码扫描应用",
+                    "Ionic React QR Code Scanner with Capacitor",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648024638907,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "xulihanghai@gmail.com",
+                    "",
+                    "xulihanghai@gmail.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2022-03-22 10:40:53 +0800",
+                    "",
+                    "2022-03-22 10:40:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2022-03-22 10:40:53 +0800",
+                    "",
+                    "2022-03-22 10:40:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Ionic",
+                    "",
+                    "Ionic",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Cross-Platform",
+                    "",
+                    "Cross-Platform",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "Mobile Framework",
+                    "",
+                    "Mobile Framework",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf16_tu1"
+                    }
+                ],
+                [
+                    "Capacitor",
+                    "",
+                    "Capacitor",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf17_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf18_tu1"
+                    }
+                ],
+                [
+                    "QR Code Scanner",
+                    "",
+                    "QR Code Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf19_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build an Ionic React QR Code Scanner with Capacitor using the Dynamsoft Barcode Reader plugin.",
+                    "本文讨论了如何使用Dynamsoft Barcode Reader的Capacitor插件构建一个Ionic React二维码扫描应用。",
+                    "The article talks about how to build an Ionic React QR Code Scanner with Capacitor using the Dynamsoft Barcode Reader plugin.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648024699789,
+                        "id": "sd1_sf1_sg1_sf20_tu1"
+                    }
+                ],
+                [
+                    "The app runs on Android, iOS devices and browsers.",
+                    "该应用程序可以在安卓、iOS设备和浏览器上运行。",
+                    " The app runs on Android, iOS devices and browsers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648024724651,
+                        "id": "sd1_sf1_sg1_sf20_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2022\/03\/ionic.jpg",
+                    "",
+                    ".\/img\/2022\/03\/ionic.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf21_tu1"
+                    }
+                ],
+                [
+                    "In the <g1>previous article<\/g1>, we've given a brief demonstration on how to use the <g2>capacitor-plugin-dynamsoft-barcode-reader<\/g2> to create a cross-platform QR code scanner using web technologies with Capacitor.",
+                    "在<g1>上一篇文章<\/g1>中，我们简要演示了如何使用<g2>capacitor-plugin-dynamsoft-barcode-reader<\/g2>构建跨平台二维码扫描应用。",
+                    "In the <g1>previous article<\/g1>, we've given a brief demonstration on how to use the <g2>capacitor-plugin-dynamsoft-barcode-reader<\/g2> to create a cross-platform QR code scanner using web technologies with Capacitor.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648024830893,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to take a step further to create an <g3>Ionic React<\/g3> QR Code Scanner.",
+                    "在本文中，我们将使用Ionic React来构建一个二维码扫描应用。",
+                    " In this article, we are going to take a step further to create an <g3>Ionic React<\/g3> QR Code Scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026302620,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "A preview of the final result:",
+                    "最终结果的预览：",
+                    "A preview of the final result:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026320417,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<x1\/>Preview<x2\/>",
+                    "<x1\/>预览<x2\/>",
+                    "<x1\/>Preview<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026331340,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "The app uses <g1>IonReactRouter<\/g1> to manage navigation.",
+                    "应用使用<g1>IonReactRouter<\/g1>管理导航。",
+                    "The app uses <g1>IonReactRouter<\/g1> to manage navigation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026344997,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "It has two pages: a home page and a scanning page.",
+                    "它有两个页面：主页和扫描页面。",
+                    " It has two pages: a home page and a scanning page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026355462,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "At the home page, users can copy the scanning result to the clipboard and configure whether to scan QR code only and whether to enable continuous scanning.",
+                    "在主页，用户可以将扫描结果复制到剪贴板，配置是否只扫描QR二维码，是否启用连续扫描。",
+                    " At the home page, users can copy the scanning result to the clipboard and configure whether to scan QR code only and whether to enable continuous scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026381869,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "At the scanning page, it can do the following:",
+                    "在扫描页面，它可以执行以下操作：",
+                    " At the scanning page, it can do the following:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026391703,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Select camera",
+                    "选择摄像头",
+                    "Select camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028565134,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Select camera resolution",
+                    "选择摄像头分辨率",
+                    "Select camera resolution",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028568671,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Set up a scan region",
+                    "设置扫描区域",
+                    "Set up a scan region",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026406106,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Touch to focus",
+                    "触摸对焦",
+                    "Touch to focus",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026408810,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Turn on torch",
+                    "打开闪光灯",
+                    "Turn on torch",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026416670,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Zoom in and zoom out",
+                    "放大和缩小",
+                    "Zoom in and zoom out",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026419729,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Display QR code overlays",
+                    "标注识别到的二维码",
+                    "Display QR code overlays",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026448868,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "The Capacitor plugin uses <g1>Dynamsoft Barcode Reader<\/g1> and <g2>Dynamsoft Camera Enhancer<\/g2> as its backend.",
+                    "这个Capacitor插件基于<g1>Dynamsoft Barcode Reader<\/g1>和<g2>Dynamsoft Camera Enhancer<\/g2>实现。",
+                    "The Capacitor plugin uses <g1>Dynamsoft Barcode Reader<\/g1> and <g2>Dynamsoft Camera Enhancer<\/g2> as its backend.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026507395,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "{% include cta.md %}",
+                    "",
+                    "{% include cta.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "neglected": "yes",
+                        "creator": "xulihang",
+                        "createdTime": 1648026516060,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Building an Ionic React QR Code Scanner",
+                    "编写Ionic React二维码扫描应用",
+                    "Building an Ionic React QR Code Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026539067,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Let's build an Ionic React QR code scanner in steps.",
+                    "下面是分步过程。",
+                    "Let's build an Ionic React QR code scanner in steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026559524,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "New project",
+                    "新建项目",
+                    "New project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Create a new Ionic React app:",
+                    "创建新的Ionic React应用：",
+                    "Create a new Ionic React app:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026579270,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "We can start a server to have a live test in browser:",
+                    "我们可以启动服务器在浏览器中进行实时测试：",
+                    "We can start a server to have a live test in browser:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026583337,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "To run it on Android:",
+                    "在Android上运行：",
+                    "To run it on Android:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026590114,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "To run it on iOS:",
+                    "在iOS上运行：",
+                    "To run it on iOS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026593612,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Add camera permission",
+                    "添加摄像机权限",
+                    "Add camera permission",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026596050,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "For iOS, add the following to <g1>ios\\App\\App\\Info.plist<\/g1>:",
+                    "对于iOS，将以下内容添加到<g1>ios\\App\\App\\Info.plist<\/g1>：",
+                    "For iOS, add the following to <g1>ios\\App\\App\\Info.plist<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026605926,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Install dependencies",
+                    "安装依赖项",
+                    "Install dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026742097,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "There are some extra packages we need to install for this project:",
+                    "我们需要为项目安装一些额外的包：",
+                    "There are some extra packages we need to install for this project:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026752811,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Create a QR code scanner component",
+                    "编写二维码扫描组件",
+                    "Create a QR code scanner component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026773332,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "React is declarative while the plugin only has imperative APIs.",
+                    "React是声明式的，但我们要用的插件只提供命令式API。",
+                    "React is declarative while the plugin only has imperative APIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026806790,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "We need to create a QR code scanner component so that we can use the plugin in a declarative manner.",
+                    "我们需要创建一个二维码扫描组件，以便以声明性的方式使用插件。",
+                    " We need to create a QR code scanner component so that we can use the plugin in a declarative manner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026880245,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Here is the complete code of the component (the file is saved as <g1>src\\components\\QRCodeScanner.tsx<\/g1>):",
+                    "以下是组件的完整代码（文件另存为<g1>src\\components\\ QRCodeScanner. tsx<\/g1>）：",
+                    "Here is the complete code of the component (the file is saved as <g1>src\\components\\QRCodeScanner.tsx<\/g1>):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026896524,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Here, we've created a functional component.",
+                    "在这里，我们创建了一个函数式组件。",
+                    "Here, we've created a functional component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026929918,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "There are some points to notice.",
+                    "有几个需要注意的点。",
+                    " There are some points to notice.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648026942805,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Since the plugin will create a native camera view behind the webview and set the background of the webview to transparent so that we can customize the UI, we only return <g1><div><\/div><\/g1> as a placeholder.",
+                    "由于该插件将在WebView下方创建一个原生的摄像头视图，并将WebView的背景设置为透明，以便我们可以自定义UI，因此我们只将<g1><div><\/div><\/g1>作为占位符返回。",
+                    "Since the plugin will create a native camera view behind the webview and set the background of the webview to transparent so that we can customize the UI, we only return <g1><div><\/div><\/g1> as a placeholder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027003036,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "<g1>useEffect<\/g1> is used to monitor whether the component is mounted or updated.",
+                    "<g1>useEffect<\/g1>用于监听组件是否挂载或更新。",
+                    "<g1>useEffect<\/g1> is used to monitor whether the component is mounted or updated.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027040231,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Some imperative APIs like <g1>setFocus<\/g1> are more suitable to be used in an imperative way, so they are not added as props of the component.",
+                    "一些命令式API，如<g1>setFocus<\/g1>更适合以命令式方式使用，因此它们不作为组件的属性添加。",
+                    "Some imperative APIs like <g1>setFocus<\/g1> are more suitable to be used in an imperative way, so they are not added as props of the component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027065214,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Create a Home page and a Scanner page",
+                    "创建主页和扫描页面",
+                    "Create a Home page and a Scanner page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027068419,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Create <g1>Home.tsx<\/g1> and <g2>Scanner.tsx<\/g2> under <g3>src\\pages<\/g3>.",
+                    "在<g3>src\\pages<\/g3>目录下创建<g1>Home.tsx<\/g1>和<g2>Scanner.tsx<\/g2>文件。",
+                    "Create <g1>Home.tsx<\/g1> and <g2>Scanner.tsx<\/g2> under <g3>src\\pages<\/g3>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027115894,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "The navigation is managed using <g1>IonReactRouter<\/g1> in <g2>App.tsx<\/g2>.",
+                    "在<g2>App.tsx<\/g2>中，用<g1>IonReactRouter<\/g1>管理导航。",
+                    "The navigation is managed using <g1>IonReactRouter<\/g1> in <g2>App.tsx<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027143101,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "We need to set <g1>z-index<\/g1> for the <g2>IonApp<\/g2> since the scanner will display a full screen camera preview with absolute position which covers other elements.",
+                    "我们需要为<g2>IonApp<\/g2>设置<g1>z-index<\/g1>，因为Web端的扫描界面将显示一个会覆盖其他元素的全屏元素，它是绝对位置定位的。",
+                    "We need to set <g1>z-index<\/g1> for the <g2>IonApp<\/g2> since the scanner will display a full screen camera preview with absolute position which covers other elements.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027275140,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Implement the Home page",
+                    "编写主页",
+                    "Implement the Home page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027285581,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "In the home page, create a <g1>Start Scanning<\/g1> button and two checkboxes.",
+                    "在主页中，创建一个<g1>Start Scanning<\/g1>按钮和两个复选框。",
+                    "In the home page, create a <g1>Start Scanning<\/g1> button and two checkboxes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027302933,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "When the <g1>Start Scanning<\/g1> button is pressed, it will navigate to the scanner page with the <g2>continuous scan<\/g2> and <g3>qrcodeonly<\/g3> props and an <g4>active<\/g4> property.",
+                    "按下<g1>Start Scanning<\/g1>按钮时，它将导航到扫描页面，并传递<g2>continuous scan<\/g2>，<g3>qrcodeonly<\/g3>和<g4>active<\/g4>属性。",
+                    "When the <g1>Start Scanning<\/g1> button is pressed, it will navigate to the scanner page with the <g2>continuous scan<\/g2> and <g3>qrcodeonly<\/g3> props and an <g4>active<\/g4> property.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027384011,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "If continuous scan is disabled, the scanner will return the barcode results to the home page if it detects barcodes.",
+                    "如果禁用连续扫描，扫描页面将在检测到二维码时将码的结果返回主页。",
+                    "If continuous scan is disabled, the scanner will return the barcode results to the home page if it detects barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027406525,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "We can display them in a list and make them copiable.",
+                    "我们可以将它们显示在列表中，并使其可复制。",
+                    " We can display them in a list and make them copiable.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027412722,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "<x1\/>Home<x2\/>",
+                    "<x1\/>主页<x2\/>",
+                    "<x1\/>Home<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027423410,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Implement the Scanner page",
+                    "编写扫描页面",
+                    "Implement the Scanner page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027431564,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Add the QR Code Scanner component",
+                    "添加二维码扫描组件",
+                    "Add the QR Code Scanner component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027437997,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Add the QR code scanner component in JSX:",
+                    "在JSX中添加二维码扫描组件：",
+                    "Add the QR code scanner component in JSX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027443922,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Initialize the plugin when the page is mounted and stop the scanner is the page is unmounted.",
+                    "在页面装载时初始化插件，并在页面卸载时停止扫描。",
+                    "Initialize the plugin when the page is mounted and stop the scanner is the page is unmounted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027470916,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "You may need to <g1>apply for a trial license<\/g1> to use it.",
+                    "这里需要<g1>申请试用许可证<\/g1>才能正常使用插件。",
+                    " You may need to <g1>apply for a trial license<\/g1> to use it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027518142,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Modify the runtime settings to scan QR Code only",
+                    "修改运行时设置以只扫描QR二维码",
+                    "Modify the runtime settings to scan QR Code only",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027541662,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Dynamsoft Barcode Reader provides rich parameters to adjust its behavior and it is very convenient to modify it with a JSON template.",
+                    "Dynamsoft Barcode Reader提供了丰富的参数来调整其行为。我们可以使用JSON模板，较方便地对其进行修改。",
+                    "Dynamsoft Barcode Reader provides rich parameters to adjust its behavior and it is very convenient to modify it with a JSON template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027574494,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "If the <g1>scan QR only<\/g1> option is enabled, we can do the following to modify the runtime settings:",
+                    "如果启用了<g1>仅扫描QR<\/g1>选项，我们可以执行以下操作来修改运行时设置：",
+                    "If the <g1>scan QR only<\/g1> option is enabled, we can do the following to modify the runtime settings:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027580115,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "You can learn more about runtime settings <g1>here<\/g1>.",
+                    "在<g1>此处<\/g1>了解有关运行时设置的更多信息。",
+                    "You can learn more about runtime settings <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027599564,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Add the onFrameRead and onPlayed listeners",
+                    "添加onFrameRead和onPlayed Listener监听器",
+                    "Add the onFrameRead and onPlayed listeners",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027830053,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Add the <g1>onFrameRead<\/g1> listener which is triggered when barcodes are found and add the <g2>onPlayed<\/g2> listener which is triggered when the camera is opened, switched or its resolution changed.",
+                    "添加读到条码时触发的<g1>onFrameRead<\/g1>监听器，以及摄像头状态切换时触发的<g2>onPlayed<\/g2>监听器。",
+                    "Add the <g1>onFrameRead<\/g1> listener which is triggered when barcodes are found and add the <g2>onPlayed<\/g2> listener which is triggered when the camera is opened, switched or its resolution changed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648027978764,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "The listeners have to be removed when the page is unmounted.",
+                    "注意在卸载页面时，需要移除监听器。",
+                    "The listeners have to be removed when the page is unmounted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028004404,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Draw QR code overlays",
+                    "绘制二维码高亮覆盖图",
+                    "Draw QR code overlays",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028023260,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "In <g1>continuous scan<\/g1> mode, we can draw QR code overlays to show which QR codes are detected.",
+                    "在<g1>连续扫描<\/g1>模式下，我们可以绘制二维码高亮覆盖图，以显示检测到的二维码。",
+                    "In <g1>continuous scan<\/g1> mode, we can draw QR code overlays to show which QR codes are detected.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028044885,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "We can do this using SVG which has been discussed in a <g1>previous article<\/g1>.",
+                    "我们可以使用SVG来实现这一功能，如何实现在<g1>之前一篇文章<\/g1>中有讨论过。",
+                    "We can do this using SVG which has been discussed in a <g1>previous article<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028322779,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "Add an SVG element in JSX:",
+                    "在JSX中添加SVG元素：",
+                    "Add an SVG element in JSX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028325738,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "The style of the SVG element:",
+                    "SVG元素的样式：",
+                    "The style of the SVG element:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028329260,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "The <g1>viewBox<\/g1> attribute should match the video frame size.",
+                    "<g1>viewBox<\/g1>属性应与视频帧大小匹配。",
+                    "The <g1>viewBox<\/g1> attribute should match the video frame size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028332946,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "We can get the size from the <g2>onPlayed<\/g2> event.",
+                    "我们可以从<g2>onPlayed<\/g2>事件获取大小。",
+                    " We can get the size from the <g2>onPlayed<\/g2> event.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028350541,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Add polygon and text SVG elements",
+                    "添加Polygon多边形和Text文本SVG元素",
+                    "Add polygon and text SVG elements",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028382708,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "The barcode result has the following localization attributes which we can use to determine the location of the polygon and text elements:",
+                    "插件返回的条码结果具有以下定位属性，可用于确定多边形和文本元素的位置：",
+                    "The barcode result has the following localization attributes which we can use to determine the location of the polygon and text elements:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028397638,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "<g1>x1<\/g1>, <g2>x2<\/g2>, <g3>x3<\/g3>, <g4>x4<\/g4>, <g5>y1<\/g5>, <g6>y2<\/g6>, <g7>y3<\/g7>, <g8>y4<\/g8>.",
+                    "<g1>x1<\/g1>、<g2>x2<\/g2>、 <g3>x3<\/g3>、<g4>x4<\/g4>、 <g5>y1<\/g5>、<g6>y2<\/g6>、 <g7>y3<\/g7>、<g8>y4<\/g8>。",
+                    " <g1>x1<\/g1>, <g2>x2<\/g2>, <g3>x3<\/g3>, <g4>x4<\/g4>, <g5>y1<\/g5>, <g6>y2<\/g6>, <g7>y3<\/g7>, <g8>y4<\/g8>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028434214,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "The <g1>getPointsData<\/g1> function:",
+                    "<g1>getPointsData<\/g1>函数：",
+                    "The <g1>getPointsData<\/g1> function:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028439994,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Handle rotation",
+                    "处理旋转",
+                    "Handle rotation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028447471,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "Another problem we need to handle is the rotation problem.",
+                    "我们需要处理的另一个问题是旋转。",
+                    "Another problem we need to handle is the rotation problem.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028453692,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "The natural image sensor's orientation is landscape while the device is often portrait.",
+                    "图像传感器的默认方向是横向的，而设备通常是纵向的。",
+                    " The natural image sensor's orientation is landscape while the device is often portrait.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028464908,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "The video frame is often rotated by 90 degress for display.",
+                    "为了在屏幕上显示，视频帧通常需要旋转90度。",
+                    " The video frame is often rotated by 90 degress for display.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028479615,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "The <g1>onFrameReadListener<\/g1> will return the barcode results as well as the orientation of the device and the rotation degrees of the frame.",
+                    "<g1>onFrameRead<\/g1>事件将返回条码结果、设备的方向和帧的旋转角度。",
+                    "The <g1>onFrameReadListener<\/g1> will return the barcode results as well as the orientation of the device and the rotation degrees of the frame.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028497708,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "We can use these info to handle rotatoin.",
+                    "我们可以用这些信息来处理旋转。",
+                    " We can use these info to handle rotatoin.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028504770,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "Switch viewBox's height and width if the device is portrait.",
+                    "如果设备是纵向的，则颠倒viewBox的高度和宽度。",
+                    "Switch viewBox's height and width if the device is portrait.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028524374,
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "Update the localization results based on frame orientation and device orientation.",
+                    "根据帧方向和设备方向更新定位结果。",
+                    "Update the localization results based on frame orientation and device orientation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028527562,
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "The above functions will be run in the <g1>onFrameRead<\/g1> event.",
+                    "上述函数在<g1>onFrameRead<\/g1>事件中执行。",
+                    "The above functions will be run in the <g1>onFrameRead<\/g1> event.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028545686,
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "Camera selection",
+                    "摄像头选择",
+                    "Camera selection",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028552213,
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "Add a camera select in JSX:",
+                    "在JSX中添加摄像头选择项：",
+                    "Add a camera select in JSX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028596810,
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "Load the camera list upon initialization:",
+                    "初始化插件后加载相机列表：",
+                    "Load the camera list upon initialization:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028611390,
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "Use the <g1>cameraID<\/g1> prop in the QR code scanner component to make it effective.",
+                    "使用二维码扫描组件的<g1>cameraID<\/g1>属性使其生效。",
+                    "Use the <g1>cameraID<\/g1> prop in the QR code scanner component to make it effective.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028627517,
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "Resolution selection",
+                    "分辨率选择",
+                    "Resolution selection",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028630482,
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "Add a resolution select in JSX:",
+                    "在JSX中添加分辨率选择项：",
+                    "Add a resolution select in JSX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028640444,
+                        "id": "tu72"
+                    }
+                ],
+                [
+                    "The select will display a preset resolution list with an \"ask\" label prefix and an option which shows the current resolution with a \"got\" label prefix.",
+                    "选择项将显示一个带有“ask”标签前缀的预设分辨率列表，以及一个带有“got”标签前缀的显示当前分辨率的选项。",
+                    "The select will display a preset resolution list with an \"ask\" label prefix and an option which shows the current resolution with a \"got\" label prefix.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028649150,
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "Update the current resolution label in the <g1>onPlayed<\/g1> event:",
+                    "在<g1>onPlayed<\/g1>事件中，更新当前分辨率：",
+                    "Update the current resolution label in the <g1>onPlayed<\/g1> event:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028677174,
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "Use the <g1>resolution<\/g1> prop in the QR code scanner component to make it effective.",
+                    "使用二维码扫描组件的<g1>resolution<\/g1>属性使其生效。",
+                    "Use the <g1>resolution<\/g1> prop in the QR code scanner component to make it effective.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648028729894,
+                        "id": "tu75"
+                    }
+                ],
+                [
+                    "Set up a scan region",
+                    "设置扫描区域",
+                    "Set up a scan region",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028735258,
+                        "id": "tu76"
+                    }
+                ],
+                [
+                    "We can set up a scan region (or recognition area) to guide the user to aim the camera to the QR code.",
+                    "我们可以设置扫描区域来引导用户将摄像头对准二维码。",
+                    "We can set up a scan region (or recognition area) to guide the user to aim the camera to the QR code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028747308,
+                        "id": "tu77"
+                    }
+                ],
+                [
+                    "It is fairly simple to use:",
+                    "下面是其用法：",
+                    "It is fairly simple to use:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028764216,
+                        "id": "tu78"
+                    }
+                ],
+                [
+                    "Tap to focus",
+                    "触摸对焦",
+                    "Tap to focus",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026408810,
+                        "id": "tu79"
+                    }
+                ],
+                [
+                    "The plugin also has an API to set focus.",
+                    "插件还有一个设置对焦的API。",
+                    "The plugin also has an API to set focus.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028777615,
+                        "id": "tu80"
+                    }
+                ],
+                [
+                    "The unit of x and y is percentage, ranging from 0.0 to 1.0.",
+                    "x和y的单位是百分比，范围从0.0到1.0。",
+                    " The unit of x and y is percentage, ranging from 0.0 to 1.0.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028788034,
+                        "id": "tu80"
+                    }
+                ],
+                [
+                    "We can set up an onClick event to the overlay SVG element to set focus.",
+                    "我们可以为SVG元素设置onClick事件来设置对焦的焦点。",
+                    "We can set up an onClick event to the overlay SVG element to set focus.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028813285,
+                        "id": "tu81"
+                    }
+                ],
+                [
+                    "If the user taps the screen, set focus, draw a polygon around the tapped point and delete it after 1.5 seconds.",
+                    "如果用户点击屏幕，设置焦点，围绕点击点画一个多边形，并在1.5秒后将其删除。",
+                    " If the user taps the screen, set focus, draw a polygon around the tapped point and delete it after 1.5 seconds.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028803433,
+                        "id": "tu81"
+                    }
+                ],
+                [
+                    "Other actions",
+                    "其他操作",
+                    "Other actions",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028829669,
+                        "id": "tu82"
+                    }
+                ],
+                [
+                    "There are other actions we can add to control the camera.",
+                    "我们还可以添加其他操作来控制摄像头。",
+                    "There are other actions we can add to control the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028832098,
+                        "id": "tu83"
+                    }
+                ],
+                [
+                    "We can use a floating action button to perform these actions.",
+                    "可以使用浮动操作按钮来执行这些操作。",
+                    "We can use a floating action button to perform these actions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028838284,
+                        "id": "tu84"
+                    }
+                ],
+                [
+                    "Add the elements in JSX:",
+                    "在JSX中添加元素：",
+                    "Add the elements in JSX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028842850,
+                        "id": "tu85"
+                    }
+                ],
+                [
+                    "Add the zoom and torch props to the QR code scanner component:",
+                    "将zoom和torch属性添加到二维码扫描组件：",
+                    "Add the zoom and torch props to the QR code scanner component:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028857725,
+                        "id": "tu86"
+                    }
+                ],
+                [
+                    "Update the torch status when the torch button is clicked",
+                    "单击闪光灯按钮时更新闪光灯状态",
+                    "Update the torch status when the torch button is clicked",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028870605,
+                        "id": "tu87"
+                    }
+                ],
+                [
+                    "Screenshot of the floating action button:",
+                    "浮动操作按钮的屏幕截图：",
+                    "Screenshot of the floating action button:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028875442,
+                        "id": "tu88"
+                    }
+                ],
+                [
+                    "<x1\/>ionic-floating-action-button<x2\/>",
+                    "<x1\/>ionic-floating-action-button<x2\/>",
+                    "<x1\/>ionic-floating-action-button<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1648028881294,
+                        "id": "tu89"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu90"
+                    }
+                ],
+                [
+                    "Check out the source code to have a try on your own:",
+                    "查看源代码并试用：",
+                    "Check out the source code to have a try on your own:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/Ionic\/ionic-react-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648028921829,
+                        "id": "tu91"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
