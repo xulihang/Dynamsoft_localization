@@ -1,6 +1,6 @@
 {
     "filename": "qr-code-reading-benchmark-and-comparison.md.xlf",
-    "creationTime": 1639620198585,
+    "creationTime": 1688719628876,
     "files": [
         {
             "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md": [
@@ -52,9 +52,9 @@
                     }
                 ],
                 [
-                    "xulihanghai@gmail.com",
+                    "tony@dynamsoft.com",
                     "",
-                    "xulihanghai@gmail.com",
+                    "tony@dynamsoft.com",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "sd1_sf1_sg2_sf6_tu1"
@@ -88,57 +88,66 @@
                     }
                 ],
                 [
-                    "Barcode",
+                    "Benchmark",
                     "",
-                    "Barcode",
+                    "Benchmark",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "id": "sd1_sf1_sg4_sf10_tu1"
+                        "id": "sd1_sf1_sg1_sf10_tu1"
                     }
                 ],
                 [
-                    "QR Code",
+                    "Barcode",
                     "",
-                    "QR Code",
+                    "Barcode",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "sd1_sf1_sg4_sf11_tu1"
                     }
                 ],
                 [
-                    "Benchmark",
+                    "QR Code",
                     "",
-                    "Benchmark",
+                    "QR Code",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "sd1_sf1_sg4_sf12_tu1"
                     }
                 ],
                 [
-                    "The article shares the result of a QR code reading benchmark on a QR code image dataset.",
+                    "Benchmark",
                     "",
-                    "The article shares the result of a QR code reading benchmark on a QR code image dataset.",
+                    "Benchmark",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "id": "sd1_sf1_sg1_sf13_tu1"
+                        "id": "sd1_sf1_sg4_sf13_tu1"
                     }
                 ],
                 [
-                    ".\/img\/2021\/qr_code_benchmark\/results.jpg",
+                    "The article shares the result of a QR code reading benchmark on a QR code image dataset.",
                     "",
-                    ".\/img\/2021\/qr_code_benchmark\/results.jpg",
+                    "The article shares the result of a QR code reading benchmark on a QR code image dataset.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "sd1_sf1_sg1_sf14_tu1"
                     }
                 ],
                 [
+                    ".\/img\/2021\/qr_code_benchmark\/results.jpg",
+                    "",
+                    ".\/img\/2021\/qr_code_benchmark\/results.jpg",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
                     "https:\/\/www.dynamsoft.com\/codepool\/qr-code-reading-benchmark-and-comparison.html",
                     "",
                     "https:\/\/www.dynamsoft.com\/codepool\/qr-code-reading-benchmark-and-comparison.html",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "id": "sd1_sf1_sg1_sf15_tu1"
+                        "id": "sd1_sf1_sg1_sf16_tu1"
                     }
                 ],
                 [
@@ -296,6 +305,62 @@
                     }
                 ],
                 [
+                    "{% include series.html %}",
+                    "",
+                    "{% include series.html %}",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Video:",
+                    "",
+                    "Video:",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "YouTube video player",
+                    "",
+                    "YouTube video player",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf2_tu2"
+                    }
+                ],
+                [
+                    "Note:",
+                    "注:",
+                    "Note:",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252979645,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "The article has been updated on 06\/26\/2023.",
+                    "",
+                    " The article has been updated on 06\/26\/2023.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "The results in the video may have some slight differences.",
+                    "",
+                    " The results in the video may have some slight differences.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
                     "Performance Test Tool",
                     "性能测试工具",
                     "Performance Test Tool",
@@ -303,7 +368,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1631252620349,
-                        "id": "tu6"
+                        "id": "tu9"
                     }
                 ],
                 [
@@ -314,29 +379,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1631252622925,
-                        "id": "tu7"
-                    }
-                ],
-                [
-                    "The tool uses Python to run the test and provides a web interface.",
-                    "该工具使用Python编写，并提供一个网页界面。",
-                    "The tool uses Python to run the test and provides a web interface.",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631252640199,
-                        "id": "tu8"
-                    }
-                ],
-                [
-                    "The Flask web framework is used.",
-                    "使用了Flask Web框架。",
-                    " The Flask web framework is used.",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631252650248,
-                        "id": "tu8"
+                        "id": "tu10"
                     }
                 ],
                 [
@@ -347,7 +390,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1631252668543,
-                        "id": "tu9"
+                        "id": "tu11"
                     }
                 ],
                 [
@@ -358,7 +401,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1639620234914,
-                        "id": "tu10"
+                        "id": "tu12"
                     }
                 ],
                 [
@@ -369,7 +412,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1631252885496,
-                        "id": "tu11"
+                        "id": "tu13"
                     }
                 ],
                 [
@@ -381,90 +424,169 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1639620254733,
-                        "id": "tu12"
-                    }
-                ],
-                [
-                    "<g1>Dynamsoft Barcode Reader<\/g1> (DBR, version: 8.6, commercial)",
-                    "<g1>Dynamsoft Barcode Reader<\/g1> （DBR，版本：8.6，商业软件）",
-                    "<g1>Dynamsoft Barcode Reader<\/g1> (DBR, version: 8.6, commercial)",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1639620273476,
-                        "id": "tu13"
-                    }
-                ],
-                [
-                    "Commercial SDK A (version: Java 13.5, commercial)",
-                    "Commercial SDK A（版本：Java 13.5，商业软件）",
-                    "Commercial SDK A (version: Java 13.5, commercial)",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1639620312888,
                         "id": "tu14"
                     }
                 ],
                 [
-                    "Commercial SDK B (version: Windows 5.19.3.10, commercial)",
-                    "Commercial SDK B（版本：Windows 5.19.3.10，商业软件）",
-                    "Commercial SDK B (version: Windows 5.19.3.10, commercial)",
+                    "<g1>Dynamsoft Barcode Reader<\/g1> (version:",
+                    "<g1>Dynamsoft Barcode Reader<\/g1> （版本：",
+                    "<g1>Dynamsoft Barcode Reader<\/g1> (version:",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1639620308041,
+                        "createdTime": 1688719690375,
                         "id": "tu15"
                     }
                 ],
                 [
-                    "<g1>BoofCV<\/g1> (version: pyboof 0.36.1, open-source)",
-                    "<g1>BoofCV<\/g1>（版本：pyboof 0.36.1，开源软件）",
-                    "<g1>BoofCV<\/g1> (version: pyboof 0.36.1, open-source)",
+                    "9.6.20, commercial)",
+                    "9.6.20，商业软件）",
+                    " 9.6.20, commercial)",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1688719694242,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Commercial SDK A (version:",
+                    "Commercial SDK A（版本：",
+                    "Commercial SDK A (version:",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1639620323831,
+                        "createdTime": 1688719705801,
                         "id": "tu16"
                     }
                 ],
                 [
-                    "<g1>Zxing<\/g1> (version: 3.4.1, open-source)",
-                    "<g1>Zxing<\/g1>（版本：3.4.1，开源软件）",
-                    "<g1>Zxing<\/g1> (version: 3.4.1, open-source)",
+                    "6.16, commercial)",
+                    "6.16，商业软件）",
+                    " 6.16, commercial)",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1688719766290,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Commercial SDK B (version:",
+                    "Commercial SDK B（版本：",
+                    "Commercial SDK B (version:",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1639620332276,
+                        "createdTime": 1688719719745,
                         "id": "tu17"
                     }
                 ],
                 [
-                    "<g1>Zbar<\/g1> (version: pyzbar 0.1.8, open-source)",
-                    "<g1>Zbar<\/g1>（版本：pyzbar 0.1.8，开源软件）",
-                    "<g1>Zbar<\/g1> (version: pyzbar 0.1.8, open-source)",
+                    "13.9, commercial)",
+                    "13.9，商业软件）",
+                    " 13.9, commercial)",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1639620341473,
+                        "createdTime": 1688719761554,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "<g1>BoofCV<\/g1> (version:",
+                    "<g1>BoofCV<\/g1>（版本：",
+                    "<g1>BoofCV<\/g1> (version:",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1688719744726,
                         "id": "tu18"
                     }
                 ],
                 [
-                    "<g1>WeChat QR code detector in OpenCV<\/g1> (version: OpenCV 4.5.3, open-source)",
-                    "<g1>OpenCV中的微信二维码检测器<\/g1>（版本：OpenCV 4.5.3，开源软件）",
-                    "<g1>WeChat QR code detector in OpenCV<\/g1> (version: OpenCV 4.5.3, open-source)",
+                    "0.43.1, open-source)",
+                    "0.43.1，开源软件）",
+                    " 0.43.1, open-source)",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1688719757274,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "<g1>ZXing<\/g1> (version:",
+                    "<g1>ZXing<\/g1>（版本：",
+                    "<g1>ZXing<\/g1> (version:",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1688719781064,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "3.5.1, open-source)",
+                    "3.5.1，开源软件）",
+                    " 3.5.1, open-source)",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1639620357123,
+                        "createdTime": 1688719801200,
                         "id": "tu19"
+                    }
+                ],
+                [
+                    "<g1>ZBar<\/g1> (version: pyzbar 0.1.9, open-source)",
+                    "<g1>ZBar<\/g1>（版本：pyzbar 0.1.9，开源软件）",
+                    "<g1>ZBar<\/g1> (version: pyzbar 0.1.9, open-source)",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1688719822639,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "<g1>WeChat QR code detector in OpenCV<\/g1> (version:",
+                    "<g1>OpenCV中的微信二维码检测器<\/g1>（版本：",
+                    "<g1>WeChat QR code detector in OpenCV<\/g1> (version:",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1688719833799,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "OpenCV 4.7.0.72, open-source)",
+                    "OpenCV 4.7.0.72，开源软件）",
+                    " OpenCV 4.7.0.72, open-source)",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1688719840809,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "If the SDK supports multiple barcode formats, its runtime settings are set to decode QR codes only.",
+                    "如果SDK支持多种条码格式，则修改其解码设置为仅解码QR码。",
+                    "If the SDK supports multiple barcode formats, its runtime settings are set to decode QR codes only.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1688719864528,
+                        "id": "tu22"
                     }
                 ],
                 [
@@ -475,7 +597,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1631252670694,
-                        "id": "tu20"
+                        "id": "tu23"
                     }
                 ],
                 [
@@ -487,7 +609,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1639620390171,
-                        "id": "tu21"
+                        "id": "tu24"
                     }
                 ],
                 [
@@ -499,7 +621,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1639620394144,
-                        "id": "tu22"
+                        "id": "tu25"
                     }
                 ],
                 [
@@ -511,41 +633,41 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631252768192,
-                        "id": "tu23"
+                        "id": "tu26"
                     }
                 ],
                 [
-                    "If the value of IoU (Intersection over Union) between the detected QR code's polygon and the ground truth's is over 0, then the QR code is considered detected.",
-                    "如果检测到的二维码的多边形和标注中的多边形区域的IoU值大于0，则可以判断该结果为正确。",
-                    " If the value of IoU (Intersection over Union) between the detected QR code's polygon and the ground truth's is over 0, then the QR code is considered detected.",
+                    "If there is a ground truth QR code which overlaps with the detected QR code, then it is considered detected.",
+                    "如果检测到的二维码的多边形和标注中的多边形区域的存在重叠，则可以判断该结果为正确。",
+                    " If there is a ground truth QR code which overlaps with the detected QR code, then it is considered detected.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1688719924058,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Here is the simplified code for doing this:",
+                    "以下是该操作的简要版代码：",
+                    "Here is the simplified code for doing this:",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1631252814737,
-                        "id": "tu23"
+                        "createdTime": 1688719944876,
+                        "id": "tu27"
                     }
                 ],
                 [
-                    "Here is the simplified code:",
-                    "以下是简化的代码：",
-                    "Here is the simplified code:",
+                    "The overlapping percent is calculated with the following code:",
+                    "重叠百分比使用以下代码计算：",
+                    "The overlapping percent is calculated with the following code:",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1631252824496,
-                        "id": "tu24"
-                    }
-                ],
-                [
-                    "The IoU is calculated using the following code:",
-                    "IoU使用以下代码计算：",
-                    "The IoU is calculated using the following code:",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631252827685,
-                        "id": "tu25"
+                        "createdTime": 1688719948814,
+                        "id": "tu28"
                     }
                 ],
                 [
@@ -557,7 +679,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631252855590,
-                        "id": "tu26"
+                        "id": "tu29"
                     }
                 ],
                 [
@@ -568,18 +690,19 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1631252979645,
-                        "id": "tu27"
+                        "id": "tu30"
                     }
                 ],
                 [
-                    "Zxing only returns the three points of the position patterns in a QR code.",
+                    "ZXing only returns the three points of the position patterns in a QR code.",
                     "Zxing仅返回二维码中位置模式的三个点的坐标。",
-                    "Zxing only returns the three points of the position patterns in a QR code.",
+                    "ZXing only returns the three points of the position patterns in a QR code.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631252989543,
-                        "id": "tu28"
+                        "id": "tu31"
                     }
                 ],
                 [
@@ -590,40 +713,31 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1631253011872,
-                        "id": "tu28"
+                        "id": "tu31"
                     }
                 ],
                 [
-                    "Since the IoU threshold is low, this works okay.",
-                    "由于本测试的IoU阈值较低，因此对结果基本没有影响。",
-                    " Since the IoU threshold is low, this works okay.",
+                    "<x1\/>ZXing detection result<x2\/>",
+                    "<x1\/>ZXing检测结果<x2\/>",
+                    "<x1\/>ZXing detection result<x2\/>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1631253037390,
-                        "id": "tu28"
+                        "createdTime": 1688719966506,
+                        "id": "tu32"
                     }
                 ],
                 [
-                    "<x1\/>Zxing detection result<x2\/>",
-                    "<x1\/>Zxing检测结果<x2\/>",
-                    "<x1\/>Zxing detection result<x2\/>",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631253040029,
-                        "id": "tu29"
-                    }
-                ],
-                [
-                    "The runtime is calculated using the following code.",
+                    "The runtime is calculated using the following code in a Python backend.",
                     "运行时间使用以下代码计算的：",
-                    "The runtime is calculated using the following code.",
+                    "The runtime is calculated using the following code in a Python backend.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631252877614,
-                        "id": "tu30"
+                        "id": "tu33"
                     }
                 ],
                 [
@@ -634,94 +748,93 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1631253041877,
-                        "id": "tu31"
-                    }
-                ],
-                [
-                    "Reading rate in percent:",
-                    "读取率（百分比）：",
-                    "Reading rate in percent:",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1639620427077,
-                        "id": "tu32"
-                    }
-                ],
-                [
-                    "Categories",
-                    "类别",
-                    "Categories",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1631253047653,
-                        "id": "tu33"
-                    }
-                ],
-                [
-                    "Dynamsoft",
-                    "",
-                    "Dynamsoft",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
                         "id": "tu34"
                     }
                 ],
                 [
-                    "Commercial SDK A",
-                    "",
-                    "Commercial SDK A",
+                    "Reading rate in percent in categories:",
+                    "不同分类的读取率（百分比）：",
+                    "Reading rate in percent in categories:",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1688719991625,
                         "id": "tu35"
                     }
                 ],
                 [
-                    "Commercial SDK B",
-                    "",
-                    "Commercial SDK B",
+                    "Category",
+                    "类别",
+                    "Category",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1688719994222,
                         "id": "tu36"
                     }
                 ],
                 [
-                    "Zxing",
+                    "Dynamsoft",
                     "",
-                    "Zxing",
+                    "Dynamsoft",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu37"
                     }
                 ],
                 [
-                    "Zbar",
+                    "BoofCV",
                     "",
-                    "Zbar",
+                    "BoofCV",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu38"
                     }
                 ],
                 [
-                    "BoofCV",
+                    "ZXing",
                     "",
-                    "BoofCV",
+                    "ZXing",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu39"
                     }
                 ],
                 [
-                    "OpenCV Wechat",
+                    "ZBar",
                     "",
-                    "OpenCV Wechat",
+                    "ZBar",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu40"
+                    }
+                ],
+                [
+                    "OpenCV WeChat",
+                    "",
+                    "OpenCV WeChat",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Commercial SDK A",
+                    "",
+                    "Commercial SDK A",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Commercial SDK B",
+                    "",
+                    "Commercial SDK B",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu43"
                     }
                 ],
                 [
@@ -733,40 +846,13 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253074231,
-                        "id": "tu41"
-                    }
-                ],
-                [
-                    "69.23",
-                    "",
-                    "69.23",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu42"
-                    }
-                ],
-                [
-                    "38.46",
-                    "",
-                    "38.46",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu43"
-                    }
-                ],
-                [
-                    "26.15",
-                    "",
-                    "26.15",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
                         "id": "tu44"
                     }
                 ],
                 [
-                    "23.08",
+                    "66.15",
                     "",
-                    "23.08",
+                    "<g1>66.15<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu45"
@@ -782,96 +868,48 @@
                     }
                 ],
                 [
-                    "40.00",
+                    "21.54",
                     "",
-                    "40.00",
+                    "21.54",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu47"
                     }
                 ],
                 [
-                    "55.38",
+                    "35.38",
                     "",
-                    "55.38",
+                    "35.38",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu48"
                     }
                 ],
                 [
-                    "bright_spots",
-                    "亮点（bright_spots）",
-                    "bright_spots",
+                    "46.15",
+                    "",
+                    "46.15",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1631253079431,
                         "id": "tu49"
                     }
                 ],
                 [
-                    "38.14",
+                    "33.85",
                     "",
-                    "38.14",
+                    "33.85",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu50"
                     }
                 ],
                 [
-                    "30.93",
+                    "36.92",
                     "",
-                    "30.93",
+                    "36.92",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu51"
-                    }
-                ],
-                [
-                    "6.19",
-                    "",
-                    "6.19",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu52"
-                    }
-                ],
-                [
-                    "21.65",
-                    "",
-                    "21.65",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu53"
-                    }
-                ],
-                [
-                    "19.59",
-                    "",
-                    "19.59",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu54"
-                    }
-                ],
-                [
-                    "23.71",
-                    "",
-                    "23.71",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu55"
-                    }
-                ],
-                [
-                    "30.93",
-                    "",
-                    "30.93",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu56"
                     }
                 ],
                 [
@@ -883,70 +921,145 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253087552,
-                        "id": "tu57"
+                        "id": "tu52"
                     }
                 ],
                 [
                     "81.18",
                     "",
-                    "81.18",
+                    "<g1>81.18<\/g1>",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "78.82",
+                    "",
+                    "78.82",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "52.94",
+                    "",
+                    "52.94",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "50.59",
+                    "",
+                    "50.59",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "23.53",
+                    "",
+                    "23.53",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "52.94",
+                    "",
+                    "52.94",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu58"
                     }
                 ],
                 [
-                    "52.94",
+                    "51.76",
                     "",
-                    "52.94",
+                    "51.76",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu59"
                     }
                 ],
                 [
-                    "32.94",
-                    "",
-                    "32.94",
+                    "bright_spots",
+                    "亮点（bright_spots）",
+                    "bright_spots",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253079431,
                         "id": "tu60"
                     }
                 ],
                 [
-                    "54.12",
+                    "43.3",
                     "",
-                    "54.12",
+                    "<g1>43.3<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu61"
                     }
                 ],
                 [
-                    "51.76",
+                    "27.84",
                     "",
-                    "51.76",
+                    "27.84",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu62"
                     }
                 ],
                 [
-                    "78.82",
+                    "20.62",
                     "",
-                    "78.82",
+                    "20.62",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu63"
                     }
                 ],
                 [
-                    "68.24",
+                    "19.59",
                     "",
-                    "68.24",
+                    "19.59",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu64"
+                    }
+                ],
+                [
+                    "24.74",
+                    "",
+                    "24.74",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "8.25",
+                    "",
+                    "8.25",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "29.9",
+                    "",
+                    "29.9",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu67"
                     }
                 ],
                 [
@@ -958,70 +1071,70 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253093993,
-                        "id": "tu65"
-                    }
-                ],
-                [
-                    "92.50",
-                    "",
-                    "92.50",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu66"
-                    }
-                ],
-                [
-                    "25.00",
-                    "",
-                    "25.00",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu67"
-                    }
-                ],
-                [
-                    "35.00",
-                    "",
-                    "35.00",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
                         "id": "tu68"
                     }
                 ],
                 [
-                    "5.00",
+                    "95",
                     "",
-                    "5.00",
+                    "95",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu69"
                     }
                 ],
                 [
-                    "12.50",
+                    "100",
                     "",
-                    "12.50",
+                    "<g1>100<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu70"
                     }
                 ],
                 [
-                    "77.50",
+                    "5",
                     "",
-                    "77.50",
+                    "5",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu71"
                     }
                 ],
                 [
-                    "65.00",
+                    "12.5",
                     "",
-                    "65.00",
+                    "12.5",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu72"
+                    }
+                ],
+                [
+                    "67.5",
+                    "",
+                    "67.5",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "22.5",
+                    "",
+                    "22.5",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "25",
+                    "",
+                    "25",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu75"
                     }
                 ],
                 [
@@ -1033,145 +1146,145 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253101006,
-                        "id": "tu73"
-                    }
-                ],
-                [
-                    "73.33",
-                    "",
-                    "73.33",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu74"
-                    }
-                ],
-                [
-                    "38.33",
-                    "",
-                    "38.33",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu75"
-                    }
-                ],
-                [
-                    "33.33",
-                    "",
-                    "33.33",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
                         "id": "tu76"
                     }
                 ],
                 [
-                    "30.00",
+                    "70",
                     "",
-                    "30.00",
+                    "<g1>70<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu77"
                     }
                 ],
                 [
-                    "35.00",
+                    "56.67",
                     "",
-                    "35.00",
+                    "56.67",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu78"
                     }
                 ],
                 [
-                    "50.00",
+                    "31.67",
                     "",
-                    "50.00",
+                    "31.67",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu79"
                     }
                 ],
                 [
-                    "43.33",
+                    "35",
                     "",
-                    "43.33",
+                    "35",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu80"
                     }
                 ],
                 [
-                    "damaged",
-                    "损坏（damaged）",
-                    "damaged",
+                    "43.33",
+                    "",
+                    "43.33",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1631253109478,
                         "id": "tu81"
                     }
                 ],
                 [
-                    "53.49",
+                    "31.67",
                     "",
-                    "53.49",
+                    "31.67",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu82"
                     }
                 ],
                 [
-                    "27.91",
+                    "36.67",
                     "",
-                    "27.91",
+                    "36.67",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu83"
                     }
                 ],
                 [
-                    "23.26",
-                    "",
-                    "23.26",
+                    "damaged <g1>*<\/g1>",
+                    "损坏（damaged）",
+                    "damaged <g1>*<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253109478,
                         "id": "tu84"
                     }
                 ],
                 [
-                    "20.93",
+                    "51.16",
                     "",
-                    "20.93",
+                    "<g1>51.16<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu85"
                     }
                 ],
                 [
-                    "25.58",
+                    "16.28",
                     "",
-                    "25.58",
+                    "16.28",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu86"
                     }
                 ],
                 [
-                    "16.28",
+                    "20.93",
                     "",
-                    "16.28",
+                    "20.93",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu87"
                     }
                 ],
                 [
-                    "48.84",
+                    "25.58",
                     "",
-                    "48.84",
+                    "25.58",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu88"
+                    }
+                ],
+                [
+                    "30.23",
+                    "",
+                    "30.23",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu89"
+                    }
+                ],
+                [
+                    "27.91",
+                    "",
+                    "27.91",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu90"
+                    }
+                ],
+                [
+                    "27.91",
+                    "",
+                    "27.91",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu91"
                     }
                 ],
                 [
@@ -1183,220 +1296,220 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253117885,
-                        "id": "tu89"
-                    }
-                ],
-                [
-                    "86.79",
-                    "",
-                    "86.79",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu90"
-                    }
-                ],
-                [
-                    "20.75",
-                    "",
-                    "20.75",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu91"
-                    }
-                ],
-                [
-                    "22.64",
-                    "",
-                    "22.64",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
                         "id": "tu92"
                     }
                 ],
                 [
-                    "20.75",
+                    "84.91",
                     "",
-                    "20.75",
+                    "<g1>84.91<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu93"
                     }
                 ],
                 [
-                    "35.85",
+                    "32.08",
                     "",
-                    "35.85",
+                    "32.08",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu94"
                     }
                 ],
                 [
-                    "32.08",
+                    "20.75",
                     "",
-                    "32.08",
+                    "20.75",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu95"
                     }
                 ],
                 [
-                    "64.15",
+                    "35.85",
                     "",
-                    "64.15",
+                    "35.85",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu96"
                     }
                 ],
                 [
-                    "high_version",
-                    "高版本（high_version）",
-                    "high_version",
+                    "58.49",
+                    "",
+                    "58.49",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1631253135055,
                         "id": "tu97"
                     }
                 ],
                 [
-                    "97.30",
+                    "43.4",
                     "",
-                    "97.30",
+                    "43.4",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu98"
                     }
                 ],
                 [
-                    "35.14",
+                    "20.75",
                     "",
-                    "35.14",
+                    "20.75",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu99"
                     }
                 ],
                 [
-                    "59.46",
-                    "",
-                    "59.46",
+                    "high_version <g1>*<\/g1>",
+                    "高版本（high_version）",
+                    "high_version <g1>*<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253135055,
                         "id": "tu100"
                     }
                 ],
                 [
-                    "5.41",
+                    "97.3",
                     "",
-                    "5.41",
+                    "<g1>97.3<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu101"
                     }
                 ],
                 [
-                    "27.03",
+                    "40.54",
                     "",
-                    "27.03",
+                    "40.54",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu102"
                     }
                 ],
                 [
-                    "40.54",
+                    "5.41",
                     "",
-                    "40.54",
+                    "5.41",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu103"
                     }
                 ],
                 [
-                    "18.92",
+                    "27.03",
                     "",
-                    "18.92",
+                    "27.03",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu104"
                     }
                 ],
                 [
-                    "lots",
-                    "多码（lots）",
-                    "lots",
+                    "18.92",
+                    "",
+                    "18.92",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1631253146142,
                         "id": "tu105"
                     }
                 ],
                 [
-                    "60.48",
+                    "78.38",
                     "",
-                    "60.48",
+                    "78.38",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu106"
                     }
                 ],
                 [
-                    "97.86",
+                    "35.14",
                     "",
-                    "97.86",
+                    "35.14",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu107"
                     }
                 ],
                 [
-                    "1.90",
-                    "",
-                    "1.90",
+                    "lots <g1>*<\/g1>",
+                    "多码（lots）",
+                    "lots <g1>*<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253146142,
                         "id": "tu108"
                     }
                 ],
                 [
-                    "82.86",
+                    "100",
                     "",
-                    "82.86",
+                    "<g1>100<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu109"
                     }
                 ],
                 [
-                    "18.10",
+                    "99.76",
                     "",
-                    "18.10",
+                    "99.76",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu110"
                     }
                 ],
                 [
-                    "99.76",
+                    "82.86",
                     "",
-                    "99.76",
+                    "82.86",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu111"
                     }
                 ],
                 [
-                    "0.00",
+                    "18.1",
                     "",
-                    "0.00",
+                    "18.1",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu112"
+                    }
+                ],
+                [
+                    "0",
+                    "",
+                    "0",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu113"
+                    }
+                ],
+                [
+                    "14.52",
+                    "",
+                    "14.52",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu114"
+                    }
+                ],
+                [
+                    "97.14",
+                    "",
+                    "97.14",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu115"
                     }
                 ],
                 [
@@ -1408,61 +1521,43 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253302527,
-                        "id": "tu113"
-                    }
-                ],
-                [
-                    "100",
-                    "",
-                    "100",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu114"
-                    }
-                ],
-                [
-                    "5.88",
-                    "",
-                    "5.88",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu115"
-                    }
-                ],
-                [
-                    "5.88",
-                    "",
-                    "5.88",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
                         "id": "tu116"
                     }
                 ],
                 [
-                    "0.00",
+                    "100",
                     "",
-                    "0.00",
+                    "<g1>100<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu117"
                     }
                 ],
                 [
-                    "0.00",
+                    "82.35",
                     "",
-                    "0.00",
+                    "82.35",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu118"
                     }
                 ],
                 [
-                    "64.71",
+                    "0",
                     "",
-                    "64.71",
+                    "0",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu119"
+                    }
+                ],
+                [
+                    "0",
+                    "",
+                    "0",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu120"
                     }
                 ],
                 [
@@ -1471,7 +1566,25 @@
                     "94.12",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "id": "tu120"
+                        "id": "tu121"
+                    }
+                ],
+                [
+                    "11.76",
+                    "",
+                    "11.76",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu122"
+                    }
+                ],
+                [
+                    "5.88",
+                    "",
+                    "5.88",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu123"
                     }
                 ],
                 [
@@ -1483,220 +1596,220 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253307903,
-                        "id": "tu121"
-                    }
-                ],
-                [
-                    "91.03",
-                    "",
-                    "91.03",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu122"
-                    }
-                ],
-                [
-                    "62.82",
-                    "",
-                    "62.82",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu123"
-                    }
-                ],
-                [
-                    "51.28",
-                    "",
-                    "51.28",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
                         "id": "tu124"
                     }
                 ],
                 [
-                    "51.28",
+                    "93.59",
                     "",
-                    "51.28",
+                    "<g1>93.59<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu125"
                     }
                 ],
                 [
-                    "66.67",
+                    "89.74",
                     "",
-                    "66.67",
+                    "89.74",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu126"
                     }
                 ],
                 [
-                    "89.74",
+                    "53.85",
                     "",
-                    "89.74",
+                    "53.85",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu127"
                     }
                 ],
                 [
-                    "80.77",
+                    "66.67",
                     "",
-                    "80.77",
+                    "66.67",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu128"
                     }
                 ],
                 [
-                    "noncompliant",
-                    "不标准（noncompliant）",
-                    "noncompliant",
+                    "71.79",
+                    "",
+                    "71.79",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1631253183765,
                         "id": "tu129"
                     }
                 ],
                 [
-                    "88.46",
+                    "64.1",
                     "",
-                    "88.46",
+                    "64.1",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu130"
                     }
                 ],
                 [
-                    "3.85",
+                    "65.38",
                     "",
-                    "3.85",
+                    "65.38",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu131"
                     }
                 ],
                 [
-                    "15.38",
-                    "",
-                    "15.38",
+                    "noncompliant <g1>*<\/g1>",
+                    "不标准（noncompliant）",
+                    "noncompliant <g1>*<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253183765,
                         "id": "tu132"
                     }
                 ],
                 [
-                    "19.23",
+                    "92.31",
                     "",
-                    "19.23",
+                    "<g1>92.31<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu133"
                     }
                 ],
                 [
-                    "50.00",
+                    "3.85",
                     "",
-                    "50.00",
+                    "3.85",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu134"
                     }
                 ],
                 [
-                    "3.85",
+                    "15.38",
                     "",
-                    "3.85",
+                    "15.38",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu135"
                     }
                 ],
                 [
-                    "92.31",
+                    "50",
                     "",
-                    "92.31",
+                    "50",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu136"
                     }
                 ],
                 [
-                    "pathological",
-                    "缺损（pathological）",
-                    "pathological",
+                    "76.92",
+                    "",
+                    "76.92",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1631253206824,
                         "id": "tu137"
                     }
                 ],
                 [
-                    "100",
+                    "61.54",
                     "",
-                    "100",
+                    "61.54",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu138"
                     }
                 ],
                 [
-                    "78.26",
+                    "11.54",
                     "",
-                    "78.26",
+                    "11.54",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu139"
                     }
                 ],
                 [
-                    "78.26",
-                    "",
-                    "78.26",
+                    "pathological <g1>*<\/g1>",
+                    "缺损（pathological）",
+                    "pathological <g1>*<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631253206824,
                         "id": "tu140"
                     }
                 ],
                 [
-                    "34.78",
+                    "95.65",
                     "",
-                    "34.78",
+                    "<g1>95.65<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu141"
                     }
                 ],
                 [
-                    "65.22",
+                    "43.48",
                     "",
-                    "65.22",
+                    "43.48",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu142"
                     }
                 ],
                 [
-                    "43.48",
+                    "34.78",
                     "",
-                    "43.48",
+                    "34.78",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu143"
                     }
                 ],
                 [
-                    "91.30",
+                    "65.22",
                     "",
-                    "91.30",
+                    "65.22",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu144"
+                    }
+                ],
+                [
+                    "91.3",
+                    "",
+                    "91.3",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu145"
+                    }
+                ],
+                [
+                    "0",
+                    "",
+                    "0",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu146"
+                    }
+                ],
+                [
+                    "78.26",
+                    "",
+                    "78.26",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu147"
                     }
                 ],
                 [
@@ -1708,58 +1821,31 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253211594,
-                        "id": "tu145"
-                    }
-                ],
-                [
-                    "68.57",
-                    "",
-                    "68.57",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu146"
-                    }
-                ],
-                [
-                    "34.29",
-                    "",
-                    "34.29",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu147"
-                    }
-                ],
-                [
-                    "51.43",
-                    "",
-                    "51.43",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
                         "id": "tu148"
                     }
                 ],
                 [
-                    "37.14",
+                    "62.86",
                     "",
-                    "37.14",
+                    "62.86",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu149"
                     }
                 ],
                 [
-                    "42.86",
+                    "80",
                     "",
-                    "42.86",
+                    "<g1>80<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu150"
                     }
                 ],
                 [
-                    "82.86",
+                    "37.14",
                     "",
-                    "82.86",
+                    "37.14",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu151"
@@ -1775,6 +1861,33 @@
                     }
                 ],
                 [
+                    "42.86",
+                    "",
+                    "42.86",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu153"
+                    }
+                ],
+                [
+                    "65.71",
+                    "",
+                    "65.71",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu154"
+                    }
+                ],
+                [
+                    "34.29",
+                    "",
+                    "34.29",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu155"
+                    }
+                ],
+                [
                     "rotations",
                     "旋转（rotations）",
                     "rotations",
@@ -1783,70 +1896,70 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253219263,
-                        "id": "tu153"
-                    }
-                ],
-                [
-                    "99.25",
-                    "",
-                    "99.25",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu154"
-                    }
-                ],
-                [
-                    "67.67",
-                    "",
-                    "67.67",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu155"
-                    }
-                ],
-                [
-                    "63.91",
-                    "",
-                    "63.91",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
                         "id": "tu156"
                     }
                 ],
                 [
-                    "42.86",
+                    "99.25",
                     "",
-                    "42.86",
+                    "<g1>99.25<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu157"
                     }
                 ],
                 [
-                    "49.62",
+                    "96.24",
                     "",
-                    "49.62",
+                    "96.24",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu158"
                     }
                 ],
                 [
-                    "96.99",
+                    "42.11",
                     "",
-                    "96.99",
+                    "42.11",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu159"
                     }
                 ],
                 [
-                    "82.71",
+                    "48.87",
                     "",
-                    "82.71",
+                    "48.87",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu160"
+                    }
+                ],
+                [
+                    "32.33",
+                    "",
+                    "32.33",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu161"
+                    }
+                ],
+                [
+                    "99.25",
+                    "",
+                    "99.25",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu162"
+                    }
+                ],
+                [
+                    "69.17",
+                    "",
+                    "69.17",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu163"
                     }
                 ],
                 [
@@ -1858,70 +1971,70 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253227301,
-                        "id": "tu161"
-                    }
-                ],
-                [
-                    "100",
-                    "",
-                    "100",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu162"
-                    }
-                ],
-                [
-                    "95.00",
-                    "",
-                    "95.00",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu163"
-                    }
-                ],
-                [
-                    "80.00",
-                    "",
-                    "80.00",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
                         "id": "tu164"
                     }
                 ],
                 [
-                    "65.00",
+                    "100",
                     "",
-                    "65.00",
+                    "<g1>100<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu165"
                     }
                 ],
                 [
-                    "90.00",
+                    "85",
                     "",
-                    "90.00",
+                    "85",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu166"
                     }
                 ],
                 [
-                    "85.00",
+                    "65",
                     "",
-                    "85.00",
+                    "65",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu167"
                     }
                 ],
                 [
-                    "85.00",
+                    "90",
                     "",
-                    "85.00",
+                    "90",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu168"
+                    }
+                ],
+                [
+                    "60",
+                    "",
+                    "60",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu169"
+                    }
+                ],
+                [
+                    "90",
+                    "",
+                    "90",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu170"
+                    }
+                ],
+                [
+                    "95",
+                    "",
+                    "95",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu171"
                     }
                 ],
                 [
@@ -1933,407 +2046,70 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253233984,
-                        "id": "tu169"
-                    }
-                ],
-                [
-                    "81.23",
-                    "",
-                    "81.23",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu170"
-                    }
-                ],
-                [
-                    "44.69",
-                    "",
-                    "44.69",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu171"
-                    }
-                ],
-                [
-                    "36.69",
-                    "",
-                    "36.69",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
                         "id": "tu172"
                     }
                 ],
                 [
-                    "32.13",
+                    "83.29",
                     "",
-                    "32.13",
+                    "<g1>83.29<\/g1>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu173"
                     }
                 ],
                 [
-                    "39.27",
+                    "60.69",
                     "",
-                    "39.27",
+                    "60.69",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu174"
                     }
                 ],
                 [
-                    "57.83",
+                    "31.87",
                     "",
-                    "57.83",
+                    "31.87",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu175"
                     }
                 ],
                 [
-                    "60.24",
+                    "38.95",
                     "",
-                    "60.24",
+                    "38.95",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "id": "tu176"
                     }
                 ],
                 [
-                    "<x1\/>Reading rate Chart<x2\/>",
-                    "<x1\/>读取率图表<x2\/>",
-                    "<x1\/>Reading rate Chart<x2\/>",
+                    "48.89",
+                    "",
+                    "48.89",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1639620453533,
                         "id": "tu177"
                     }
                 ],
                 [
-                    "<x1\/>Reading rate Chart<x2\/>",
-                    "<x1\/>读取率图表<x2\/>",
-                    "<x1\/>Reading rate Chart<x2\/>",
+                    "44.11",
+                    "",
+                    "44.11",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1639620453533,
                         "id": "tu178"
                     }
                 ],
                 [
-                    "We can see that the Dynamsoft Barcode Reader ranks 1st in most of the categories.",
-                    "我们可以看到，Dynamsoft Barcode Reader在大多数类别中排名第一。",
-                    "We can see that the Dynamsoft Barcode Reader ranks 1st in most of the categories.",
+                    "45.04",
+                    "",
+                    "45.04",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1631253325719,
                         "id": "tu179"
-                    }
-                ],
-                [
-                    "It ranks 2nd in the noncompliant and perspective categories and 4th in the lots category.",
-                    "它在不标准和倾斜类别中排名第二，在多码类别中排名第四。",
-                    " It ranks 2nd in the noncompliant and perspective categories and 4th in the lots category.",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1639620482740,
-                        "id": "tu179"
-                    }
-                ],
-                [
-                    "Note:",
-                    "注:",
-                    "Note:",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631252979645,
-                        "id": "tu180"
-                    }
-                ],
-                [
-                    "The reading rates of some categories are not very high, because the QR codes are in bad conditions and not readable.",
-                    "某些类别的读取率不是很高，因为里面的一些二维码本来就是不可读。",
-                    " The reading rates of some categories are not very high, because the QR codes are in bad conditions and not readable.",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1639620527584,
-                        "id": "tu180"
-                    }
-                ],
-                [
-                    "Runtime Results",
-                    "运行时间结果",
-                    "Runtime Results",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631253349791,
-                        "id": "tu181"
-                    }
-                ],
-                [
-                    "Runtime per image (in milliseconds):",
-                    "平均运行时间（毫秒，按图片）：",
-                    "Runtime per image (in milliseconds):",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631253479664,
-                        "id": "tu182"
-                    }
-                ],
-                [
-                    "Engine",
-                    "SDK",
-                    "Engine",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631253491262,
-                        "id": "tu183"
-                    }
-                ],
-                [
-                    "Result",
-                    "结果",
-                    "Result",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1631253488895,
-                        "id": "tu184"
-                    }
-                ],
-                [
-                    "DBR",
-                    "",
-                    "DBR",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu185"
-                    }
-                ],
-                [
-                    "141.10",
-                    "",
-                    "141.10",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu186"
-                    }
-                ],
-                [
-                    "Commercial SDK A",
-                    "",
-                    "Commercial SDK A",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu187"
-                    }
-                ],
-                [
-                    "314.04",
-                    "",
-                    "314.04",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu188"
-                    }
-                ],
-                [
-                    "Commercial SDK B",
-                    "",
-                    "Commercial SDK B",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu189"
-                    }
-                ],
-                [
-                    "48.31",
-                    "",
-                    "48.31",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu190"
-                    }
-                ],
-                [
-                    "Zxing",
-                    "",
-                    "Zxing",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu191"
-                    }
-                ],
-                [
-                    "181.68",
-                    "",
-                    "181.68",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu192"
-                    }
-                ],
-                [
-                    "Zbar",
-                    "",
-                    "Zbar",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu193"
-                    }
-                ],
-                [
-                    "199.26",
-                    "",
-                    "199.26",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu194"
-                    }
-                ],
-                [
-                    "BoofCV",
-                    "",
-                    "BoofCV",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu195"
-                    }
-                ],
-                [
-                    "205.48",
-                    "",
-                    "205.48",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu196"
-                    }
-                ],
-                [
-                    "OpenCV Wechat",
-                    "",
-                    "OpenCV Wechat",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu197"
-                    }
-                ],
-                [
-                    "175.06",
-                    "",
-                    "175.06",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu198"
-                    }
-                ],
-                [
-                    "<x1\/>Times per Image Chart<x2\/>",
-                    "<x1\/>运行时间图表（按图片）<x2\/>",
-                    "<x1\/>Times per Image Chart<x2\/>",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631253564514,
-                        "id": "tu199"
-                    }
-                ],
-                [
-                    "Runtime per image by categories (in milliseconds):",
-                    "各分类平均运行时间（毫秒，按图片）：",
-                    "Runtime per image by categories (in milliseconds):",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631253558767,
-                        "id": "tu200"
-                    }
-                ],
-                [
-                    "Categories",
-                    "类别",
-                    "Categories",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1631253047653,
-                        "id": "tu201"
-                    }
-                ],
-                [
-                    "Dynamsoft",
-                    "",
-                    "Dynamsoft",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu202"
-                    }
-                ],
-                [
-                    "Commercial SDK A",
-                    "",
-                    "Commercial SDK A",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu203"
-                    }
-                ],
-                [
-                    "Commercial SDK B",
-                    "",
-                    "Commercial SDK B",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu204"
-                    }
-                ],
-                [
-                    "Zxing",
-                    "",
-                    "Zxing",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu205"
-                    }
-                ],
-                [
-                    "Zbar",
-                    "",
-                    "Zbar",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu206"
-                    }
-                ],
-                [
-                    "BoofCV",
-                    "",
-                    "BoofCV",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu207"
-                    }
-                ],
-                [
-                    "OpenCV Wechat",
-                    "",
-                    "OpenCV Wechat",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu208"
                     }
                 ],
                 [
@@ -2345,70 +2121,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253074231,
-                        "id": "tu209"
-                    }
-                ],
-                [
-                    "298.00",
-                    "",
-                    "298.00",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu210"
-                    }
-                ],
-                [
-                    "335.16",
-                    "",
-                    "335.16",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu211"
-                    }
-                ],
-                [
-                    "39.67",
-                    "",
-                    "39.67",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu212"
-                    }
-                ],
-                [
-                    "206.89",
-                    "",
-                    "206.89",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu213"
-                    }
-                ],
-                [
-                    "177.58",
-                    "",
-                    "177.58",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu214"
-                    }
-                ],
-                [
-                    "138.16",
-                    "",
-                    "138.16",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu215"
-                    }
-                ],
-                [
-                    "125.31",
-                    "",
-                    "125.31",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu216"
+                        "id": "sd1_sf4_tu2"
                     }
                 ],
                 [
@@ -2420,70 +2133,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253079431,
-                        "id": "tu217"
-                    }
-                ],
-                [
-                    "252.84",
-                    "",
-                    "252.84",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu218"
-                    }
-                ],
-                [
-                    "625.47",
-                    "",
-                    "625.47",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu219"
-                    }
-                ],
-                [
-                    "47.56",
-                    "",
-                    "47.56",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu220"
-                    }
-                ],
-                [
-                    "311.59",
-                    "",
-                    "311.59",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu221"
-                    }
-                ],
-                [
-                    "319.81",
-                    "",
-                    "319.81",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu222"
-                    }
-                ],
-                [
-                    "221.81",
-                    "",
-                    "221.81",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu223"
-                    }
-                ],
-                [
-                    "112.25",
-                    "",
-                    "112.25",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu224"
+                        "id": "sd1_sf4_tu4"
                     }
                 ],
                 [
@@ -2495,70 +2145,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253087552,
-                        "id": "tu225"
-                    }
-                ],
-                [
-                    "192.75",
-                    "",
-                    "192.75",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu226"
-                    }
-                ],
-                [
-                    "600.14",
-                    "",
-                    "600.14",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu227"
-                    }
-                ],
-                [
-                    "47.86",
-                    "",
-                    "47.86",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu228"
-                    }
-                ],
-                [
-                    "320.32",
-                    "",
-                    "320.32",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu229"
-                    }
-                ],
-                [
-                    "349.79",
-                    "",
-                    "349.79",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu230"
-                    }
-                ],
-                [
-                    "273.43",
-                    "",
-                    "273.43",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu231"
-                    }
-                ],
-                [
-                    "134.79",
-                    "",
-                    "134.79",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu232"
+                        "id": "sd1_sf4_tu6"
                     }
                 ],
                 [
@@ -2570,70 +2157,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253093993,
-                        "id": "tu233"
-                    }
-                ],
-                [
-                    "169.40",
-                    "",
-                    "169.40",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu234"
-                    }
-                ],
-                [
-                    "607.27",
-                    "",
-                    "607.27",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu235"
-                    }
-                ],
-                [
-                    "80.08",
-                    "",
-                    "80.08",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu236"
-                    }
-                ],
-                [
-                    "295.18",
-                    "",
-                    "295.18",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu237"
-                    }
-                ],
-                [
-                    "381.65",
-                    "",
-                    "381.65",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu238"
-                    }
-                ],
-                [
-                    "150.70",
-                    "",
-                    "150.70",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu239"
-                    }
-                ],
-                [
-                    "676.00",
-                    "",
-                    "676.00",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu240"
+                        "id": "sd1_sf4_tu8"
                     }
                 ],
                 [
@@ -2645,70 +2169,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253101006,
-                        "id": "tu241"
-                    }
-                ],
-                [
-                    "188.76",
-                    "",
-                    "188.76",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu242"
-                    }
-                ],
-                [
-                    "300.82",
-                    "",
-                    "300.82",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu243"
-                    }
-                ],
-                [
-                    "43.40",
-                    "",
-                    "43.40",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu244"
-                    }
-                ],
-                [
-                    "173.44",
-                    "",
-                    "173.44",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu245"
-                    }
-                ],
-                [
-                    "220.28",
-                    "",
-                    "220.28",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu246"
-                    }
-                ],
-                [
-                    "103.42",
-                    "",
-                    "103.42",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu247"
-                    }
-                ],
-                [
-                    "129.54",
-                    "",
-                    "129.54",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu248"
+                        "id": "sd1_sf4_tu10"
                     }
                 ],
                 [
@@ -2720,70 +2181,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253109478,
-                        "id": "tu249"
-                    }
-                ],
-                [
-                    "200.03",
-                    "",
-                    "200.03",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu250"
-                    }
-                ],
-                [
-                    "205.49",
-                    "",
-                    "205.49",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu251"
-                    }
-                ],
-                [
-                    "42.05",
-                    "",
-                    "42.05",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu252"
-                    }
-                ],
-                [
-                    "84.41",
-                    "",
-                    "84.41",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu253"
-                    }
-                ],
-                [
-                    "96.76",
-                    "",
-                    "96.76",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu254"
-                    }
-                ],
-                [
-                    "46.14",
-                    "",
-                    "46.14",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu255"
-                    }
-                ],
-                [
-                    "138.35",
-                    "",
-                    "138.35",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu256"
+                        "id": "sd1_sf4_tu12"
                     }
                 ],
                 [
@@ -2795,70 +2193,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253117885,
-                        "id": "tu257"
-                    }
-                ],
-                [
-                    "104.66",
-                    "",
-                    "104.66",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu258"
-                    }
-                ],
-                [
-                    "217.60",
-                    "",
-                    "217.60",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu259"
-                    }
-                ],
-                [
-                    "45.40",
-                    "",
-                    "45.40",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu260"
-                    }
-                ],
-                [
-                    "130.32",
-                    "",
-                    "130.32",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu261"
-                    }
-                ],
-                [
-                    "157.30",
-                    "",
-                    "157.30",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu262"
-                    }
-                ],
-                [
-                    "70.80",
-                    "",
-                    "70.80",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu263"
-                    }
-                ],
-                [
-                    "95.38",
-                    "",
-                    "95.38",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu264"
+                        "id": "sd1_sf4_tu14"
                     }
                 ],
                 [
@@ -2870,70 +2205,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253135055,
-                        "id": "tu265"
-                    }
-                ],
-                [
-                    "106.06",
-                    "",
-                    "106.06",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu266"
-                    }
-                ],
-                [
-                    "349.21",
-                    "",
-                    "349.21",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu267"
-                    }
-                ],
-                [
-                    "79.88",
-                    "",
-                    "79.88",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu268"
-                    }
-                ],
-                [
-                    "294.97",
-                    "",
-                    "294.97",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu269"
-                    }
-                ],
-                [
-                    "141.70",
-                    "",
-                    "141.70",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu270"
-                    }
-                ],
-                [
-                    "268.36",
-                    "",
-                    "268.36",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu271"
-                    }
-                ],
-                [
-                    "566.03",
-                    "",
-                    "566.03",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu272"
+                        "id": "sd1_sf4_tu16"
                     }
                 ],
                 [
@@ -2945,70 +2217,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253146142,
-                        "id": "tu273"
-                    }
-                ],
-                [
-                    "275.43",
-                    "",
-                    "275.43",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu274"
-                    }
-                ],
-                [
-                    "851.14",
-                    "",
-                    "851.14",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu275"
-                    }
-                ],
-                [
-                    "110.14",
-                    "",
-                    "110.14",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu276"
-                    }
-                ],
-                [
-                    "1073.00",
-                    "",
-                    "1073.00",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu277"
-                    }
-                ],
-                [
-                    "1477.57",
-                    "",
-                    "1477.57",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu278"
-                    }
-                ],
-                [
-                    "6149.00",
-                    "",
-                    "6149.00",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu279"
-                    }
-                ],
-                [
-                    "139.57",
-                    "",
-                    "139.57",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu280"
+                        "id": "sd1_sf4_tu18"
                     }
                 ],
                 [
@@ -3020,70 +2229,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253302527,
-                        "id": "tu281"
-                    }
-                ],
-                [
-                    "176.59",
-                    "",
-                    "176.59",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu282"
-                    }
-                ],
-                [
-                    "812.53",
-                    "",
-                    "812.53",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu283"
-                    }
-                ],
-                [
-                    "105.88",
-                    "",
-                    "105.88",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu284"
-                    }
-                ],
-                [
-                    "233.29",
-                    "",
-                    "233.29",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu285"
-                    }
-                ],
-                [
-                    "515.47",
-                    "",
-                    "515.47",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu286"
-                    }
-                ],
-                [
-                    "142.47",
-                    "",
-                    "142.47",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu287"
-                    }
-                ],
-                [
-                    "422.76",
-                    "",
-                    "422.76",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu288"
+                        "id": "sd1_sf4_tu20"
                     }
                 ],
                 [
@@ -3095,70 +2241,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253307903,
-                        "id": "tu289"
-                    }
-                ],
-                [
-                    "74.05",
-                    "",
-                    "74.05",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu290"
-                    }
-                ],
-                [
-                    "203.65",
-                    "",
-                    "203.65",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu291"
-                    }
-                ],
-                [
-                    "32.12",
-                    "",
-                    "32.12",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu292"
-                    }
-                ],
-                [
-                    "141.49",
-                    "",
-                    "141.49",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu293"
-                    }
-                ],
-                [
-                    "111.68",
-                    "",
-                    "111.68",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu294"
-                    }
-                ],
-                [
-                    "109.49",
-                    "",
-                    "109.49",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu295"
-                    }
-                ],
-                [
-                    "54.54",
-                    "",
-                    "54.54",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu296"
+                        "id": "sd1_sf4_tu22"
                     }
                 ],
                 [
@@ -3170,70 +2253,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253183765,
-                        "id": "tu297"
-                    }
-                ],
-                [
-                    "58.88",
-                    "",
-                    "58.88",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu298"
-                    }
-                ],
-                [
-                    "81.63",
-                    "",
-                    "81.63",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu299"
-                    }
-                ],
-                [
-                    "34.44",
-                    "",
-                    "34.44",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu300"
-                    }
-                ],
-                [
-                    "47.81",
-                    "",
-                    "47.81",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu301"
-                    }
-                ],
-                [
-                    "57.06",
-                    "",
-                    "57.06",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu302"
-                    }
-                ],
-                [
-                    "31.94",
-                    "",
-                    "31.94",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu303"
-                    }
-                ],
-                [
-                    "43.31",
-                    "",
-                    "43.31",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu304"
+                        "id": "sd1_sf4_tu24"
                     }
                 ],
                 [
@@ -3245,70 +2265,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253206824,
-                        "id": "tu305"
-                    }
-                ],
-                [
-                    "8.52",
-                    "",
-                    "8.52",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu306"
-                    }
-                ],
-                [
-                    "4.09",
-                    "",
-                    "4.09",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu307"
-                    }
-                ],
-                [
-                    "65.87",
-                    "",
-                    "65.87",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu308"
-                    }
-                ],
-                [
-                    "3.00",
-                    "",
-                    "3.00",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu309"
-                    }
-                ],
-                [
-                    "1.83",
-                    "",
-                    "1.83",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu310"
-                    }
-                ],
-                [
-                    "14.61",
-                    "",
-                    "14.61",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu311"
-                    }
-                ],
-                [
-                    "19.39",
-                    "",
-                    "19.39",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu312"
+                        "id": "sd1_sf4_tu26"
                     }
                 ],
                 [
@@ -3320,70 +2277,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253211594,
-                        "id": "tu313"
-                    }
-                ],
-                [
-                    "25.74",
-                    "",
-                    "25.74",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu314"
-                    }
-                ],
-                [
-                    "46.34",
-                    "",
-                    "46.34",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu315"
-                    }
-                ],
-                [
-                    "14.91",
-                    "",
-                    "14.91",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu316"
-                    }
-                ],
-                [
-                    "27.66",
-                    "",
-                    "27.66",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu317"
-                    }
-                ],
-                [
-                    "24.31",
-                    "",
-                    "24.31",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu318"
-                    }
-                ],
-                [
-                    "26.74",
-                    "",
-                    "26.74",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu319"
-                    }
-                ],
-                [
-                    "24.60",
-                    "",
-                    "24.60",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu320"
+                        "id": "sd1_sf4_tu28"
                     }
                 ],
                 [
@@ -3395,70 +2289,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253219263,
-                        "id": "tu321"
-                    }
-                ],
-                [
-                    "72.11",
-                    "",
-                    "72.11",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu322"
-                    }
-                ],
-                [
-                    "173.84",
-                    "",
-                    "173.84",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu323"
-                    }
-                ],
-                [
-                    "35.80",
-                    "",
-                    "35.80",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu324"
-                    }
-                ],
-                [
-                    "106.84",
-                    "",
-                    "106.84",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu325"
-                    }
-                ],
-                [
-                    "134.66",
-                    "",
-                    "134.66",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu326"
-                    }
-                ],
-                [
-                    "178.45",
-                    "",
-                    "178.45",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu327"
-                    }
-                ],
-                [
-                    "86.91",
-                    "",
-                    "86.91",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu328"
+                        "id": "sd1_sf4_tu30"
                     }
                 ],
                 [
@@ -3470,450 +2301,446 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253227301,
-                        "id": "tu329"
+                        "id": "sd1_sf4_tu32"
                     }
                 ],
                 [
-                    "102.21",
-                    "",
-                    "102.21",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu330"
-                    }
-                ],
-                [
-                    "243.50",
-                    "",
-                    "243.50",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu331"
-                    }
-                ],
-                [
-                    "42.29",
-                    "",
-                    "42.29",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu332"
-                    }
-                ],
-                [
-                    "150.00",
-                    "",
-                    "150.00",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu333"
-                    }
-                ],
-                [
-                    "163.29",
-                    "",
-                    "163.29",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu334"
-                    }
-                ],
-                [
-                    "117.50",
-                    "",
-                    "117.50",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu335"
-                    }
-                ],
-                [
-                    "86.36",
-                    "",
-                    "86.36",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "id": "tu336"
-                    }
-                ],
-                [
-                    "total average",
+                    "total_average",
                     "平均",
-                    "total average",
+                    "total_average",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1631253233984,
-                        "id": "tu337"
+                        "id": "sd1_sf4_tu34"
                     }
                 ],
                 [
-                    "144.13",
+                    "Damaged QR codes are the ones with scratches, dents, etc.",
                     "",
-                    "144.13",
+                    "Damaged QR codes are the ones with scratches, dents, etc.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "id": "tu338"
+                        "id": "sd1_sf5_tu1"
                     }
                 ],
                 [
-                    "353.62",
+                    "Pathological QR codes have the markers intentionally corrupted.",
                     "",
-                    "353.62",
+                    "Pathological QR codes have the markers intentionally corrupted.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "id": "tu339"
+                        "id": "sd1_sf5_tu2"
                     }
                 ],
                 [
-                    "54.21",
+                    "The markers are designed for the detection of QR Codes.",
                     "",
-                    "54.21",
+                    " The markers are designed for the detection of QR Codes.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "id": "tu340"
+                        "id": "sd1_sf5_tu2"
                     }
                 ],
                 [
-                    "225.01",
+                    "The lots category has multiple QR Codes in one image.",
                     "",
-                    "225.01",
+                    "The lots category has multiple QR Codes in one image.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "id": "tu341"
+                        "id": "sd1_sf5_tu3"
                     }
                 ],
                 [
-                    "270.67",
+                    "The QR Code symbology ranges from Version 1 to Version 40.",
                     "",
-                    "270.67",
+                    "The QR Code symbology ranges from Version 1 to Version 40.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "id": "tu342"
+                        "id": "sd1_sf5_tu4"
                     }
                 ],
                 [
-                    "502.69",
+                    "The Version Information represents the number of cells (per side) making up the code.",
                     "",
-                    "502.69",
+                    " The Version Information represents the number of cells (per side) making up the code.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "id": "tu343"
+                        "id": "sd1_sf5_tu4"
                     }
                 ],
                 [
-                    "178.44",
+                    "More on the <g1>QR Code versions<\/g1>.",
                     "",
-                    "178.44",
+                    " More on the <g1>QR Code versions<\/g1>.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "id": "tu344"
+                        "id": "sd1_sf5_tu4"
                     }
                 ],
                 [
-                    "Because Boofcv spent a lot of time on decoding the lots category, we separated it from the main chart.",
-                    "因为Boofcv花了很多时间来解多码类别，这里把多码类别的图表独立了出来。",
-                    "Because Boofcv spent a lot of time on decoding the lots category, we separated it from the main chart.",
+                    "Non-compliant QR Codes have customized designs, for example, colors, or a logo at the center.",
+                    "",
+                    "Non-compliant QR Codes have customized designs, for example, colors, or a logo at the center.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf5_tu5"
+                    }
+                ],
+                [
+                    "Dynamsoft Barcode Reader Wins by a Large Margin",
+                    "",
+                    "Dynamsoft Barcode Reader Wins by a Large Margin",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu180"
+                    }
+                ],
+                [
+                    "We can see that the Dynamsoft Barcode Reader ranks 1st in most of the categories.",
+                    "我们可以看到，Dynamsoft Barcode Reader在大多数类别中排名第一。",
+                    "We can see that the Dynamsoft Barcode Reader ranks 1st in most of the categories.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253325719,
+                        "id": "tu181"
+                    }
+                ],
+                [
+                    "In some categories, for example, the blurred, curved, glare, and high version, the SDK is the only solution that has a rate higher than 67%.",
+                    "在某些类别中，例如模糊、弯曲、眩光和高版本，它是唯一一个比率高于67%的解决方案。",
+                    " In some categories, for example, the blurred, curved, glare, and high version, the SDK is the only solution that has a rate higher than 67%.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1688720074418,
+                        "id": "tu181"
+                    }
+                ],
+                [
+                    "Blurred QR Codes",
+                    "",
+                    "Blurred QR Codes",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf6_tu2"
+                    }
+                ],
+                [
+                    "Curved QR Codes",
+                    "",
+                    "Curved QR Codes",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf6_tu3"
+                    }
+                ],
+                [
+                    "QR Codes with Glare",
+                    "",
+                    "QR Codes with Glare",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf6_tu4"
+                    }
+                ],
+                [
+                    "High-version QR Codes",
+                    "",
+                    "High-version QR Codes",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "sd1_sf6_tu5"
+                    }
+                ],
+                [
+                    "It ranks 2nd in the close categories and 3rd in the perspective category.",
+                    "它在近距离类中排名第二，在透视类中排名第一。",
+                    "It ranks 2nd in the close categories and 3rd in the perspective category.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1688720114425,
+                        "id": "tu182"
+                    }
+                ],
+                [
+                    "Note:",
+                    "注:",
+                    "Note:",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631252979645,
+                        "id": "tu183"
+                    }
+                ],
+                [
+                    "The reading rates of some categories are not very high, because the QR codes are in bad condition and not readable.",
+                    "某些类别的读取率不是很高，因为里面的一些二维码本来就是不可读。",
+                    " The reading rates of some categories are not very high, because the QR codes are in bad condition and not readable.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1639620566818,
-                        "id": "tu345"
+                        "createdTime": 1639620527584,
+                        "id": "tu183"
                     }
                 ],
                 [
-                    "<x1\/>Times Chart 1<x2\/>",
-                    "<x1\/>时间图表1<x2\/>",
-                    "<x1\/>Times Chart 1<x2\/>",
+                    "ZXing vs. ZBar vs. BoofCV vs. OpenCV WeChat",
+                    "",
+                    "ZXing vs. ZBar vs. BoofCV vs. OpenCV WeChat",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu184"
+                    }
+                ],
+                [
+                    "If open source is a must for your project, it's a safer choice to go with BoofCV or OpenCV WeChat.",
+                    "",
+                    "If open source is a must for your project, it's a safer choice to go with BoofCV or OpenCV WeChat.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu185"
+                    }
+                ],
+                [
+                    "These two are based on computer vision and are actively maintained.",
+                    "",
+                    " These two are based on computer vision and are actively maintained.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu185"
+                    }
+                ],
+                [
+                    "This could be why they outperform ZXing and ZBar in some challenging situations.",
+                    "",
+                    " This could be why they outperform ZXing and ZBar in some challenging situations.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu185"
+                    }
+                ],
+                [
+                    "OpenCV WeChat is robust.",
+                    "",
+                    "OpenCV WeChat is robust.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu186"
+                    }
+                ],
+                [
+                    "It has the highest success rate for damaged and pathological QR Codes.",
+                    "",
+                    " It has the highest success rate for damaged and pathological QR Codes.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu186"
+                    }
+                ],
+                [
+                    "OpenCV WeChat also excels for non-compliant QR Codes, which is not surprising, as QR codes with colors, or a logo at the center, or other customized designs are ubiquitous in WeChat usage.",
+                    "",
+                    "OpenCV WeChat also excels for non-compliant QR Codes, which is not surprising, as QR codes with colors, or a logo at the center, or other customized designs are ubiquitous in WeChat usage.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu187"
+                    }
+                ],
+                [
+                    "If we cast aside the noncompliant and pathological codes, then BoofCV is a good free solution, especially when it comes to the \"lots\" category.",
+                    "",
+                    "If we cast aside the noncompliant and pathological codes, then BoofCV is a good free solution, especially when it comes to the \"lots\" category.",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "id": "tu188"
+                    }
+                ],
+                [
+                    "Runtime Results",
+                    "运行时间结果",
+                    "Runtime Results",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253349791,
+                        "id": "tu189"
+                    }
+                ],
+                [
+                    "Runtime per image (in milliseconds):",
+                    "平均运行时间（毫秒，按图片）：",
+                    "Runtime per image (in milliseconds):",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253479664,
+                        "id": "tu190"
+                    }
+                ],
+                [
+                    "Engine",
+                    "SDK",
+                    "Engine",
+                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1631253491262,
+                        "id": "tu191"
+                    }
+                ],
+                [
+                    "Result",
+                    "结果",
+                    "Result",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1631253637081,
-                        "id": "tu346"
+                        "createdTime": 1631253488895,
+                        "id": "tu192"
                     }
                 ],
                 [
-                    "<x1\/>Times Chart 2<x2\/>",
-                    "<x1\/>时间图表2<x2\/>",
-                    "<x1\/>Times Chart 2<x2\/>",
+                    "Dynamsoft",
+                    "",
+                    "Dynamsoft",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1631253679430,
-                        "id": "tu347"
+                        "id": "tu193"
                     }
                 ],
                 [
-                    "<x1\/>Times Chart 3<x2\/>",
-                    "<x1\/>时间图表3<x2\/>",
-                    "<x1\/>Times Chart 3<x2\/>",
+                    "195.01",
+                    "",
+                    "195.01",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1639620574189,
-                        "id": "tu348"
+                        "id": "tu194"
                     }
                 ],
                 [
-                    "Although the commercial SDK B has low reading rate on the dataset, it is the fastest.",
-                    "虽然商业SDK B在这一数据集上的读取率较低，但它是最快的。",
-                    "Although the commercial SDK B has low reading rate on the dataset, it is the fastest.",
+                    "Commercial SDK A",
+                    "",
+                    "Commercial SDK A",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1639620595184,
-                        "id": "tu349"
+                        "id": "tu195"
                     }
                 ],
                 [
-                    "The Dynamsoft Barcode Reader ranks second on average.",
-                    "Dynamsoft Barcode Reader 平均处理时间排名第二。",
-                    " The Dynamsoft Barcode Reader ranks second on average.",
+                    "1400.43",
+                    "",
+                    "1400.43",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1631253706214,
-                        "id": "tu349"
+                        "id": "tu196"
                     }
                 ],
                 [
-                    "Update Runtime Settings to Improve the Results",
-                    "更新运行时设置以改进结果",
-                    "Update Runtime Settings to Improve the Results",
+                    "Commercial SDK B",
+                    "",
+                    "Commercial SDK B",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1631253716356,
-                        "id": "tu350"
+                        "id": "tu197"
                     }
                 ],
                 [
-                    "The benchmark is done without updating the SDKs' default settings.",
-                    "我们是在不改变SDK默认设置的情况下完成的基准测试。",
-                    "The benchmark is done without updating the SDKs' default settings.",
+                    "346.27",
+                    "",
+                    "346.27",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1631253736554,
-                        "id": "tu351"
+                        "id": "tu198"
                     }
                 ],
                 [
-                    "We can update the runtime settings to improve the reading accuracy or speed.",
-                    "我们可以更改SDK的运行时设置以提高读取的准确性或速度。",
-                    " We can update the runtime settings to improve the reading accuracy or speed.",
+                    "ZXing",
+                    "",
+                    "ZXing",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1631253755736,
-                        "id": "tu351"
+                        "id": "tu199"
                     }
                 ],
                 [
-                    "Among the SDKs, only the Dynamsoft Barcode Reader provides rich parameters that users can customize and optimize for different usage scenarios for the best scanning performance.",
-                    "在测试的类库和SDK中，只有Dynamsoft Barcode Reader提供了丰富的参数设置选项，用户可以根据不同的使用场景进行自定义和优化，以获得最佳的扫描性能。",
-                    "Among the SDKs, only the Dynamsoft Barcode Reader provides rich parameters that users can customize and optimize for different usage scenarios for the best scanning performance.",
+                    "179.57",
+                    "",
+                    "179.57",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1631253993558,
-                        "id": "tu352"
+                        "id": "tu200"
                     }
                 ],
                 [
-                    "DBR uses a JSON template to modify runtime settings.",
-                    "DBR使用JSON模板修改运行时设置。",
-                    "DBR uses a JSON template to modify runtime settings.",
+                    "ZBar",
+                    "",
+                    "ZBar",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1631254002292,
-                        "id": "tu353"
+                        "id": "tu201"
                     }
                 ],
                 [
-                    "The following is the default template used in DBR Python.",
-                    "以下是DBR Python中使用的默认模板。",
-                    " The following is the default template used in DBR Python.",
+                    "157.31",
+                    "",
+                    "157.31",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1631254007324,
-                        "id": "tu353"
+                        "id": "tu202"
                     }
                 ],
                 [
-                    "You can learn more about the parameters of DBR <g1>here<\/g1>.",
-                    "您可以在<g1>此处<\/g1>了解有关 DBR 参数的更多信息。",
-                    "You can learn more about the parameters of DBR <g1>here<\/g1>.",
+                    "BoofCV",
+                    "",
+                    "BoofCV",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1631254013302,
-                        "id": "tu354"
+                        "id": "tu203"
                     }
                 ],
                 [
-                    "Modify the Template to Decode the Lots Category",
-                    "修改模板以处理多码类别",
-                    "Modify the Template to Decode the Lots Category",
+                    "104.95",
+                    "",
+                    "104.95",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1631254029089,
-                        "id": "tu355"
+                        "id": "tu204"
                     }
                 ],
                 [
-                    "In the benchmark, there are several files in the lots category that DBR cannot detect all the QR codes.",
-                    "在上述基准测试中，DBR无法检测到多码类别中的几个文件的所有QR码。",
-                    "In the benchmark, there are several files in the lots category that DBR cannot detect all the QR codes.",
+                    "OpenCV Wechat",
+                    "",
+                    "OpenCV Wechat",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1631254058870,
-                        "id": "tu356"
+                        "id": "tu205"
                     }
                 ],
                 [
-                    "The reason is that the QR codes are relatively small and the image has a large resolution (3024x4032) while in DBR's template, there is a <g1>ScaleDownThreshold<\/g1> parameter which is set to <g2>2300<\/g2> so that the image will be scaled down for a better decoding speed.",
-                    "原因是这些图片中的QR码相对较小，图像分辨率较高（3024x4032），而在DBR的模板中，有一个<g1>ScaleDownThreshold<\/g1>参数，该参数设置为<g2>2300<\/g2>，图像会被缩小以获得更好的解码速度。",
-                    "The reason is that the QR codes are relatively small and the image has a large resolution (3024x4032) while in DBR's template, there is a <g1>ScaleDownThreshold<\/g1> parameter which is set to <g2>2300<\/g2> so that the image will be scaled down for a better decoding speed.",
+                    "757.71",
+                    "",
+                    "757.71",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1631254083631,
-                        "id": "tu357"
+                        "id": "tu206"
                     }
                 ],
                 [
-                    "If we set the <g1>ScaleDownThreshold<\/g1> to 99999, we can decode all the QR codes.",
-                    "如果我们将<g1>ScaleDownThreshold<\/g1>设置为99999，所有二维码就都能被解出了。",
-                    "If we set the <g1>ScaleDownThreshold<\/g1> to 99999, we can decode all the QR codes.",
+                    "<x1\/>Times per Image Chart<x2\/>",
+                    "<x1\/>运行时间图表（按图片）<x2\/>",
+                    "<x1\/>Times per Image Chart<x2\/>",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1631254108183,
-                        "id": "tu358"
-                    }
-                ],
-                [
-                    "<x1\/>Lots category<x2\/>",
-                    "<x1\/>多码类别<x2\/>",
-                    "<x1\/>Lots category<x2\/>",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631254115391,
-                        "id": "tu359"
-                    }
-                ],
-                [
-                    "The reading rate for the lots category can increase from 60.48 to 100 using the modified template.",
-                    "使用修改后的模板，多码类别的读取率可以从60.48提高到100。",
-                    "The reading rate for the lots category can increase from 60.48 to 100 using the modified template.",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1639620610339,
-                        "id": "tu360"
-                    }
-                ],
-                [
-                    "Modify the Template to Decode the Blurred Category",
-                    "修改模板以处理模糊类别",
-                    "Modify the Template to Decode the Blurred Category",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1631254131342,
-                        "id": "tu361"
-                    }
-                ],
-                [
-                    "DBR comes with many image processing algorithms.",
-                    "DBR附带了许多图像处理算法。",
-                    "DBR comes with many image processing algorithms.",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631254134380,
-                        "id": "tu362"
-                    }
-                ],
-                [
-                    "For blurred QR codes as below, we can use the <g1>GRAY_SMOOTH<\/g1> image processing method before deblurring to decode it.",
-                    "对于如下所示的模糊QR码，我们可以先使用<g1>GRAY_SMOOTH<\/g1>这一图像处理方法，再去模糊来完成解码。",
-                    "For blurred QR codes as below, we can use the <g1>GRAY_SMOOTH<\/g1> image processing method before deblurring to decode it.",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1639620658830,
-                        "id": "tu363"
-                    }
-                ],
-                [
-                    "<x1\/>Blurred category<x2\/>",
-                    "<x1\/>模糊类别<x2\/>",
-                    "<x1\/>Blurred category<x2\/>",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631254158399,
-                        "id": "tu364"
-                    }
-                ],
-                [
-                    "But if the QR codes are blurred too much, we cannot do much about this.",
-                    "但是如果二维码太模糊，还是没有办法识别。",
-                    "But if the QR codes are blurred too much, we cannot do much about this.",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631254175339,
-                        "id": "tu365"
-                    }
-                ],
-                [
-                    "DBR can only decode one extra image after using the modified template in the blurred category.",
-                    "在模糊类别中使用修改后的模板后，DBR只能额外解出一张图像。",
-                    " DBR can only decode one extra image after using the modified template in the blurred category.",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631254189753,
-                        "id": "tu365"
-                    }
-                ],
-                [
-                    "We should try to capture clear QR code images in the first place.",
-                    "我们应该在图像获取时就尽量捕捉清晰的二维码图像。",
-                    " We should try to capture clear QR code images in the first place.",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631254217997,
-                        "id": "tu365"
-                    }
-                ],
-                [
-                    "SDKs like the <g1>Dynamsoft Camera Enhancer<\/g1> can help on this aspect.",
-                    "<g1>Dynamsoft Camera Enhancer<\/g1>可以在这方面提供帮助。",
-                    " SDKs like the <g1>Dynamsoft Camera Enhancer<\/g1> can help on this aspect.",
-                    "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1631254241169,
-                        "id": "tu365"
+                        "createdTime": 1631253564514,
+                        "id": "tu207"
                     }
                 ],
                 [
@@ -3925,51 +2752,52 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1621932842323,
-                        "id": "tu366"
+                        "id": "tu208"
                     }
                 ],
                 [
-                    "The Dynamsoft Barcode Reader has the best QR code reading accuracy on the test set.",
-                    "Dynamsoft Barcode Reader在本文的测试集上具有最佳的 QR 码读取准确性。",
-                    "The Dynamsoft Barcode Reader has the best QR code reading accuracy on the test set.",
+                    "We can see that Dynamsoft Barcode Reader has the best QR code reading rate on the test set and its speed is fairly good.",
+                    "我们可以看到，Dynamsoft Barcode Reader的二维码读取率是测试集中最好的，速度也相当不错。",
+                    "We can see that Dynamsoft Barcode Reader has the best QR code reading rate on the test set and its speed is fairly good.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1631254264654,
-                        "id": "tu367"
+                        "createdTime": 1688720161338,
+                        "id": "tu209"
                     }
                 ],
                 [
-                    "Its speed is good and has rich runtime settings to adapt to different scenarios.",
-                    "它的速度表现亦可，并且有丰富的运行时设置以适应不同的场景。",
-                    " Its speed is good and has rich runtime settings to adapt to different scenarios.",
+                    "If conditions allow, it is better to choose it as the barcode reading SDK.",
+                    "如果条件允许，最好选择它作为二维码识别的SDK。",
+                    " If conditions allow, it is better to choose it as the barcode reading SDK.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1631254284943,
-                        "id": "tu367"
+                        "createdTime": 1688720171447,
+                        "id": "tu209"
                     }
                 ],
                 [
-                    "If conditions allow, it is better to choose DBR as the barcode reading SDK.",
-                    "如果条件允许，最好选择DBR作为二维码识别的SDK。",
-                    " If conditions allow, it is better to choose DBR as the barcode reading SDK.",
+                    "You can find the detailed benchmark results <g1>here<\/g1>.",
+                    "你可以在<g1>这里<\/g1>浏览具体的测试结果。",
+                    "You can find the detailed benchmark results <g1>here<\/g1>.",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
+                        "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1631254298390,
-                        "id": "tu367"
+                        "createdTime": 1688720195582,
+                        "id": "tu210"
                     }
                 ],
                 [
-                    "{% include cta.md %}",
+                    "Download Dynamsoft Barcode Reader",
                     "",
-                    "{% include cta.md %}",
+                    "Download Dynamsoft Barcode Reader",
                     "\/C:\/Users\/admin\/AppData\/Local\/Temp\/qr-code-reading-benchmark-and-comparison.md",
                     {
-                        "neglected": "yes",
-                        "id": "tu368"
+                        "id": "tu211"
                     }
                 ]
             ]
