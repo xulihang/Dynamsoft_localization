@@ -1,0 +1,586 @@
+{
+    "filename": "deskew-scanned-document.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Deskew Scanned Documents",
+                    "如何纠正扫描后倾斜的文档",
+                    "How to Deskew Scanned Documents",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731046234,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2023-10-25 17:04:53 +0800",
+                    "",
+                    "2023-10-25 17:04:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2023-10-25 17:04:53 +0800",
+                    "",
+                    "2023-10-25 17:04:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Image Processing",
+                    "",
+                    "Image Processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "OpenCV",
+                    "",
+                    "OpenCV",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Python",
+                    "",
+                    "Python",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to deskew scanned documents.",
+                    "这篇文章分享了如何纠正倾斜的扫描文档页面。",
+                    "The article shares how to deskew scanned documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731095904,
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "It first uses OpenCV and Python to perform text deskewing and then talks about existing tools which also have such a function.",
+                    "使用OpenCV和Python来纠正文档页面。此外也讨论了具有此功能的现有工具。",
+                    " It first uses OpenCV and Python to perform text deskewing and then talks about existing tools which also have such a function.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731149356,
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2023\/10\/deskew\/deskew.svg",
+                    "",
+                    ".\/img\/2023\/10\/deskew\/deskew.svg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "Scanned documents often contain skewed or crooked images.",
+                    "扫描的文档可能包含倾斜的页面。",
+                    "Scanned documents often contain skewed or crooked images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731173617,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "They do not look good and are not friendly for OCR.",
+                    "不易于阅读，也不便于OCR。",
+                    " They do not look good and are not friendly for OCR.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731193503,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to use OpenCV and Python to deskew scanned documents based on text lines.",
+                    "在本文中，我们将使用OpenCV和Python来纠正倾斜的文档页面。",
+                    "In this article, we are going to use OpenCV and Python to deskew scanned documents based on text lines.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731212264,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Steps to Deskew a Scanned Document Image with OpenCV",
+                    "使用OpenCV纠正文档图像",
+                    "Steps to Deskew a Scanned Document Image with OpenCV",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698731237895,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "We are going to write a Python script to deskew the following sample image.",
+                    "我们会编写一个Python脚本来纠正如下图这样的倾斜的文档。",
+                    "We are going to write a Python script to deskew the following sample image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731265567,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<x1\/>document<x2\/>",
+                    "<x1\/>文档<x2\/>",
+                    "<x1\/>document<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731274352,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Normalize the Image",
+                    "标准化图像",
+                    "Normalize the Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731284602,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Scanned images are sharp.",
+                    "扫描的图像比较锐利。",
+                    "Scanned images are sharp.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731299713,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "We can convert the image to grayscale and blur the image first.",
+                    "我们可以将图像转换为灰度，然后对图像进行模糊处理。",
+                    " We can convert the image to grayscale and blur the image first.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731310145,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "<x1\/>blur<x2\/>",
+                    "<x1\/>模糊<x2\/>",
+                    "<x1\/>blur<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731320216,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Resize the image with a fixed height.",
+                    "调整图像大小到固定高度。",
+                    "Resize the image with a fixed height.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731340273,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<x1\/>resized<x2\/>",
+                    "<x1\/>调整大小<x2\/>",
+                    "<x1\/>resized<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731343093,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Draw a rectangle around the border to remove border lines.",
+                    "在图像边缘绘制一个矩形以去除边框线。",
+                    "Draw a rectangle around the border to remove border lines.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731387584,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<x1\/>cropped<x2\/>",
+                    "<x1\/>裁剪的<x2\/>",
+                    "<x1\/>cropped<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731392448,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Invert the image, since we have to process the text.",
+                    "反转图像颜色，以便于处理黑色的文本。",
+                    "Invert the image, since we have to process the text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731413367,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<x1\/>inverted<x2\/>",
+                    "<x1\/>反转的<x2\/>",
+                    "<x1\/>inverted<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731421288,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Run thresholding to get a binary image.",
+                    "运行阈值处理以获得黑白图像。",
+                    "Run thresholding to get a binary image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731433407,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "<x1\/>thresh<x2\/>",
+                    "<x1\/>阈值<x2\/>",
+                    "<x1\/>thresh<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731439248,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Dilate the text to make the text lines more obvious.",
+                    "膨胀文本以使文本行更加明显。",
+                    "Dilate the text to make the text lines more obvious.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731447495,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "<x1\/>dilate<x2\/>",
+                    "<x1\/>膨胀的<x2\/>",
+                    "<x1\/>dilate<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731456574,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Get the Skewed Angle",
+                    "获取倾斜角度",
+                    "Get the Skewed Angle",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731458894,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Find all the contours based on the dilated image.",
+                    "在膨胀后的图像上查找所有轮廓。",
+                    "Find all the contours based on the dilated image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731477608,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Use <g1>minAreaRect<\/g1> to get the rotation angles of contours.",
+                    "使用<g1>minAreaRec<\/g1>获取轮廓的旋转角度。",
+                    "Use <g1>minAreaRect<\/g1> to get the rotation angles of contours.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731487057,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Use the median as the skewed angle.",
+                    "使用中位数作为倾斜角度。",
+                    "Use the median as the skewed angle.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731497552,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Rotate the Image to Get a Deskewed Image",
+                    "旋转图像以获得纠正好的图像",
+                    "Rotate the Image to Get a Deskewed Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731531184,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "After getting the skewed angle, we can perform affine transformation to get the deskewed image.",
+                    "在得到偏斜的角度后，我们可以进行仿射变换来获得纠正好的图像。",
+                    "After getting the skewed angle, we can perform affine transformation to get the deskewed image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731527505,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "<x1\/>deskewed<x2\/>",
+                    "<x1\/>去倾斜后的<x2\/>",
+                    "<x1\/>deskewed<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619083403145,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Deskew Scanned Documents using Dynamic Web TWAIN",
+                    "使用Dynamic Web TWAIN纠正扫描的文档",
+                    "Deskew Scanned Documents using Dynamic Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731564791,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "There are other tools which have the ability to deskew document images.",
+                    "很多现有的工具可以纠正倾斜的文档。",
+                    "There are other tools which have the ability to deskew document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731589697,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "<g1>Dynamic Web TWAIN<\/g1> is a JavaScript library to enable document scanning in the browser.",
+                    "<g1>Dynamic Web TWAIN<\/g1>是一个JavaScript库，用于在浏览器中扫描文档。",
+                    " <g1>Dynamic Web TWAIN<\/g1> is a JavaScript library to enable document scanning in the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731609919,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "It can scan documents from physical scanners via protocols like TWAIN, WIA, SANE and ICA and has a deskew function built-in.",
+                    "它可以通过TWAIN、WIA、SANE和ICA等协议从文档扫描仪获取文档图像。它包含了一个文档纠正功能。",
+                    " It can scan documents from physical scanners via protocols like TWAIN, WIA, SANE and ICA and has a deskew function built-in.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731642600,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "The following is the code snippet to perform deskewing of a scanned document image.",
+                    "可以使用下面的代码来纠正图像。",
+                    "The following is the code snippet to perform deskewing of a scanned document image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731655607,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "You can use this <g1>online demo<\/g1> to have a try.",
+                    "<g1>在线demo<\/g1>。",
+                    "You can use this <g1>online demo<\/g1> to have a try.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731674073,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "It can also load image or PDF files and save documents in a PDF file.",
+                    "它可以加载图像或PDF文件，并将文档保存在PDF文件中。",
+                    " It can also load image or PDF files and save documents in a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731690727,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "{% include cta_dwt.md %}",
+                    "",
+                    "{% include cta_dwt.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "You can find all the code in the following repo:",
+                    "可以在以下仓库中找到所有代码：",
+                    "You can find all the code in the following repo:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/deskew-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698731709440,
+                        "id": "tu32"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

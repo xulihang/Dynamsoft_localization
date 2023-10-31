@@ -1,0 +1,605 @@
+{
+    "filename": "getUserMedia-multiple-camera.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Open Multiple Cameras in the Browser",
+                    "浏览器中打开多个摄像头",
+                    "Open Multiple Cameras in the Browser",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698720998812,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2023-10-19 11:19:53 +0800",
+                    "",
+                    "2023-10-19 11:19:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2023-10-19 11:19:53 +0800",
+                    "",
+                    "2023-10-19 11:19:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to open multiple cameras in the browser using getUserMedia.",
+                    "本文会介绍如何使用getUserMedia在浏览器中打开多个摄像头。",
+                    "The article talks about how to open multiple cameras in the browser using getUserMedia.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721028766,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "A web barcode scanner is created to scan from one camera and capture the frames of two opened cameras after a barcode is scanned.",
+                    "写了一个条码扫描的demo，一个摄像头扫码，一个摄像头拍摄人像。识别到码后将码值和两个摄像头的画面进行保存。",
+                    " A web barcode scanner is created to scan from one camera and capture the frames of two opened cameras after a barcode is scanned.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721138288,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2023\/10\/multiple-cameras.jpg",
+                    ".\/img\/2023\/10\/multiple-cameras.jpg",
+                    ".\/img\/2023\/10\/multiple-cameras.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721156292,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "WebRTC (Web Real-Time Communication) is a technology that enables Web applications and sites to capture and optionally stream audio and\/or video media, as well as to exchange arbitrary data between browsers.",
+                    "WebRTC是一种使Web应用程序和网站能够捕获和流式传输音频和\/或视频媒体，以及在浏览器之间交换任意数据的技术。",
+                    "WebRTC (Web Real-Time Communication) is a technology that enables Web applications and sites to capture and optionally stream audio and\/or video media, as well as to exchange arbitrary data between browsers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721178479,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can use it to open local cameras and stream remote cameras in the browser.",
+                    "我们可以使用它在浏览器中打开本地相机和流式传输远程相机的内容。",
+                    " We can use it to open local cameras and stream remote cameras in the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721201133,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we will try to open multiple cameras in a web page with WebRTC's <g1>getUserMedia<\/g1> API.",
+                    "在本文中，我们将尝试使用WebRTC的<g1>getUserMedia<\/g1>接口在网页中打开多个相机。",
+                    "In this article, we will try to open multiple cameras in a web page with WebRTC's <g1>getUserMedia<\/g1> API.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721221934,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Online demos:",
+                    "在线demo：",
+                    "Online demos:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721233965,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<g1>Simple<\/g1>.",
+                    "<g1>简单版<\/g1>。",
+                    "<g1>Simple<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721267853,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "A simple demo to open two cameras.",
+                    "打开两个摄像头的一个简单demo。",
+                    " A simple demo to open two cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721260513,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<g1>Barcode Scanner<\/g1>.",
+                    "<g1>扫码版<\/g1>。",
+                    "<g1>Barcode Scanner<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721649614,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "A demo which opens two cameras and reads barcodes from one camera with <g2>Dynamsoft Barcode Reader<\/g2>.",
+                    "打开两个摄像头，使用<g2>Dynamsoft Barcode Reader<\/g2>从一个摄像头扫码。",
+                    " A demo which opens two cameras and reads barcodes from one camera with <g2>Dynamsoft Barcode Reader<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721738885,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "The camera frames and the barcodes are saved to IndexedDB.",
+                    "相机画面和码值会将保存到IndexedDB中。",
+                    " The camera frames and the barcodes are saved to IndexedDB.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721724981,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "It is useful for building a self-checkout kiosk machine which captures both the barcodes and images of the customers.",
+                    "主要模仿的快递超市取件机器的功能。",
+                    " It is useful for building a self-checkout kiosk machine which captures both the barcodes and images of the customers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721762574,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Demo video of the barcode scanner:",
+                    "条码扫描应用的演示视频：",
+                    "Demo video of the barcode scanner:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721774870,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "What it Works on",
+                    "支持的平台",
+                    "What it Works on",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721783271,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "It is not possible to open multiple cameras at the same time on Android and iOS devices.",
+                    "在Android和iOS设备上没有办法在浏览器同时打开多个摄像头。",
+                    "It is not possible to open multiple cameras at the same time on Android and iOS devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721799940,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "It works fine on PC devices.",
+                    "PC设备可以正常打开多个摄像头。",
+                    " It works fine on PC devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721825629,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Create a Web Page to Open Two Cameras",
+                    "编写打开两个摄像头的页面",
+                    "Create a Web Page to Open Two Cameras",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721854964,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Let's write a page to open two cameras.",
+                    "先写一个打开两个摄像头的页面。",
+                    "Let's write a page to open two cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721870885,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following content.",
+                    "创建一个包含以下内容的新HTML文件。",
+                    "Create a new HTML file with the following content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721878206,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Ask for Camera Permission",
+                    "请求相机权限",
+                    "Ask for Camera Permission",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721884708,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Ask for camera permission after the page is loaded.",
+                    "页面加载后请求相机权限。",
+                    "Ask for camera permission after the page is loaded.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721890930,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "List Camera Devices",
+                    "列出相机设备",
+                    "List Camera Devices",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721894340,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "List camera devices in the <g1>select<\/g1> elements.",
+                    "在<g1>select<\/g1>元素中列出相机设备。",
+                    "List camera devices in the <g1>select<\/g1> elements.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721901616,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Open Cameras",
+                    "打开摄像头",
+                    "Open Cameras",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721904020,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Open the cameras after the <g1>Open Cameras<\/g1> button is clicked.",
+                    "点击按钮后打开相机。",
+                    "Open the cameras after the <g1>Open Cameras<\/g1> button is clicked.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721943197,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "All right, we've finished the page to open two cameras.",
+                    "打开两个摄像头的页面就写好了。",
+                    "All right, we've finished the page to open two cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721958812,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Add Barcode Scanning Ability",
+                    "添加条码扫描功能",
+                    "Add Barcode Scanning Ability",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721964957,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Next, let's add the barcode scanning ability to the page.",
+                    "接下来，将条码扫描功能添加到页面中。",
+                    "Next, let's add the barcode scanning ability to the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721974245,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Include Libraries",
+                    "添加类库",
+                    "Include Libraries",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698721990109,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Include the Dynamsoft Barcode Reader library in the HTML file.",
+                    "添加Dynamsoft Barcode Reader。",
+                    "Include the Dynamsoft Barcode Reader library in the HTML file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698722014213,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Include the <g1>localForage<\/g1> library in the HTML file to save scanned records into IndexedDB.",
+                    "添加<g1>localForage<\/g1>便于操作IndexedDB。",
+                    "Include the <g1>localForage<\/g1> library in the HTML file to save scanned records into IndexedDB.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698722035037,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Scan Barcodes from Camera Frames",
+                    "从视频帧扫描条码",
+                    "Scan Barcodes from Camera Frames",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698722045974,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Barcode Reader with a license.",
+                    "使用许可证初始化Dynamsoft Barcode Reader。",
+                    "Initialize Dynamsoft Barcode Reader with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698722056069,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请许可证。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698722069238,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Start an interval to scan barcodes from the camera frames.",
+                    "创建一个interval，不断捕获视频帧并解码。",
+                    "Start an interval to scan barcodes from the camera frames.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698722107270,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Display Scanned Results in a Table and Save to IndexedDB",
+                    "在表中显示扫描结果并保存到IndexedDB",
+                    "Display Scanned Results in a Table and Save to IndexedDB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698722112884,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "After a barcode is found, use <g1>Canvas<\/g1> to capture frames as data URLs from the cameras, and display them along with barcodes and date in a table.",
+                    "找到条码后，使用<g1>Canvas<\/g1>从相机捕获帧，保存为dataURL，并将它们与条码和日期一起显示在表中。",
+                    "After a barcode is found, use <g1>Canvas<\/g1> to capture frames as data URLs from the cameras, and display them along with barcodes and date in a table.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698722141351,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Save them to IndexedDB as well for persistent data storage.",
+                    "同时也保存到IndexedDB中做持久性数据存储。",
+                    " Save them to IndexedDB as well for persistent data storage.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698722219819,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Get the source code of the demo to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demo to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "The barcode scanner demo has some features not covered in this article, like drawing barcode overlays and filtering barcodes scanned based on the time span.",
+                    "demo包含本文没有介绍的功能，比如在扫描界面上绘制条码和根据时间过滤扫描到的条码以避免重复读码。",
+                    "The barcode scanner demo has some features not covered in this article, like drawing barcode overlays and filtering barcodes scanned based on the time span.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/getUserMedia-multiple-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698722285871,
+                        "id": "tu32"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
