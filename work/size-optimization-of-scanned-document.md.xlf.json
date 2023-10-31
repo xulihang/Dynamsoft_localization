@@ -1,0 +1,1917 @@
+{
+    "filename": "size-optimization-of-scanned-document.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Size Optimization of Scanned Documents",
+                    "扫描文档的尺寸优化",
+                    "Size Optimization of Scanned Documents",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734413719,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2023-10-30 17:04:53 +0800",
+                    "",
+                    "2023-10-30 17:04:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2023-10-30 17:04:53 +0800",
+                    "",
+                    "2023-10-30 17:04:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Image Processing",
+                    "",
+                    "Image Processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to optimize the size of scanned documents taking resolution, color depth and image compression into account.",
+                    "这篇文章分享了如何优化扫描文档的尺寸，涉及分辨率、位深度、压缩等等。",
+                    "The article shares how to optimize the size of scanned documents taking resolution, color depth and image compression into account.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734963385,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2023\/10\/size-optimization\/cover.jpg",
+                    "",
+                    ".\/img\/2023\/10\/size-optimization\/cover.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Scanning documents into a digital form can help companies save physical space, improve data retrieval, reduce costs, improve collaboration, etc.",
+                    "将文档扫描成数字化的电子文件可以帮助公司节省物理空间、降低成本、促进协作、优化数据检索等等。",
+                    "Scanning documents into a digital form can help companies save physical space, improve data retrieval, reduce costs, improve collaboration, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734588200,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Sometimes, we may come across very large scanned document files or files scanned with a low visual quality.",
+                    "有时，我们可能会遇到非常大的或者图像质量较低的扫描文件。",
+                    "Sometimes, we may come across very large scanned document files or files scanned with a low visual quality.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734621032,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about aspects related to the size optimization of scanned documents.",
+                    "在本文中，我们将讨论如何优化扫描文档的尺寸。",
+                    " In this article, we are going to talk about aspects related to the size optimization of scanned documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734643591,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Samples using <g1>Dynamic Web TWAIN<\/g1>, a JavaScript library which enables documents scanning from browsers, are created for demonstration.",
+                    "用<g1>Dynamic Web TWAIN<\/g1>编写了相关的示例，它是一个允许从浏览器扫描文档的JavaScript库。",
+                    "Samples using <g1>Dynamic Web TWAIN<\/g1>, a JavaScript library which enables documents scanning from browsers, are created for demonstration.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734834359,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "{% include cta_dwt.md %}",
+                    "",
+                    "{% include cta_dwt.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "How Image Sizes are Calculated",
+                    "如何计算图像大小",
+                    "How Image Sizes are Calculated",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734845374,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Before we get started, let's learn about how image sizes are calculated.",
+                    "在开始之前，让我们了解一下如何计算图像大小。",
+                    "Before we get started, let's learn about how image sizes are calculated.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734848664,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Basically, it is affected by the number of pixels and how many colors it can represent.",
+                    "它受到像素数量和它能代表多少颜色影响。",
+                    "Basically, it is affected by the number of pixels and how many colors it can represent.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734870545,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "DPI",
+                    "DPI",
+                    "DPI",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734876151,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "DPI stands for dots per inch and is a measure of the resolution of a scanned document or photo.",
+                    "DPI代表每英寸点数，是衡量扫描文档或照片分辨率的指标。",
+                    "DPI stands for dots per inch and is a measure of the resolution of a scanned document or photo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734879023,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "The higher the DPI, the higher the quality and resolution of your scan and the resulting image.",
+                    "DPI越高，扫描和生成的图像的质量和分辨率就越高。",
+                    " The higher the DPI, the higher the quality and resolution of your scan and the resulting image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734890671,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Generally, scanning a document at about 300 DPI produces an image with a reasonable size and good quality.",
+                    "通常，以大约300DPI扫描文档会产生具有合理大小和良好质量的图像。",
+                    "Generally, scanning a document at about 300 DPI produces an image with a reasonable size and good quality.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734894415,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "In Dynamic Web TWAIN, we can specify the DPI in the device configuration:",
+                    "在Dynamic Web TWAIN中，我们可以在device configuration中指定DPI：",
+                    "In Dynamic Web TWAIN, we can specify the DPI in the device configuration:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734911520,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Here is a test result of scanning documents with different DPIs.",
+                    "以下是使用不同DPI扫描文档的测试结果。",
+                    "Here is a test result of scanning documents with different DPIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734915438,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "DPI",
+                    "",
+                    "DPI",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Resolution",
+                    "分辨率",
+                    "Resolution",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698734927975,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Size",
+                    "文件大小",
+                    "Size",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734933688,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "100",
+                    "",
+                    "100",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "850x1100",
+                    "",
+                    "850x1100",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "2741.41KB",
+                    "",
+                    "2741.41KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "200",
+                    "",
+                    "200",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "1700x2200",
+                    "",
+                    "1700x2200",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "10957.03KB",
+                    "",
+                    "10957.03KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "300",
+                    "",
+                    "300",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "2550x3300",
+                    "",
+                    "2550x3300",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "24659.77KB",
+                    "",
+                    "24659.77KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "600",
+                    "",
+                    "600",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "5100x6600",
+                    "",
+                    "5100x6600",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "98613.28KB",
+                    "",
+                    "98613.28KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Bit Depth",
+                    "位深度",
+                    "Bit Depth",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734959370,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Bit depth, also known as color depth, is the number of bits used to indicate the color of a single pixel.",
+                    "位深度，也称为颜色深度，是用于表示单个像素颜色的位数。",
+                    "Bit depth, also known as color depth, is the number of bits used to indicate the color of a single pixel.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734977297,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "The bigger the bit depth, the more colors a pixel can represent.",
+                    "位深度越大，像素可以表示的颜色就越多。",
+                    " The bigger the bit depth, the more colors a pixel can represent.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734984529,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Most document scanners provide the option to scan documents in different color modes: black & white, gray and color.",
+                    "大多数文档扫描仪都提供了以不同颜色模式扫描文档的选项：黑白、灰色和彩色。",
+                    "Most document scanners provide the option to scan documents in different color modes: black & white, gray and color.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734988864,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Their bit depths are as follows:",
+                    "它们的位深度如下：",
+                    "Their bit depths are as follows:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698734999655,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "black & white:",
+                    "黑白：",
+                    "black & white:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735001792,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "1 bit.",
+                    "1位。",
+                    " 1 bit.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735012198,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "gray:",
+                    "灰色：",
+                    "gray:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735014678,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "8 bit.",
+                    "8位。",
+                    " 8 bit.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735016902,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "color:",
+                    "彩色：",
+                    "color:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735021128,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "24 bit.",
+                    "24位。",
+                    " 24 bit.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735023494,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "In Dynamic Web TWAIN, we can specify the color mode (or pixel type) in the device configuration:",
+                    "在Dynamic Web TWAIN中，我们可以在device configuration中指定颜色模式（或像素类型）：",
+                    "In Dynamic Web TWAIN, we can specify the color mode (or pixel type) in the device configuration:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735035576,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "We can also set the bit depth with the following code:",
+                    "我们还可以使用以下代码手动设置位深度：",
+                    "We can also set the bit depth with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735051559,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Here is a test result of scanning documents with different color modes.",
+                    "以下是用不同颜色模式扫描文档的测试结果。",
+                    "Here is a test result of scanning documents with different color modes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735079681,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Pixel Type",
+                    "像素类型",
+                    "Pixel Type",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735083767,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Resolution",
+                    "分辨率",
+                    "Resolution",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698734927975,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Bitdepth",
+                    "位深度",
+                    "Bitdepth",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735098983,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Size",
+                    "文件大小",
+                    "Size",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698734933688,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "B&W",
+                    "黑白",
+                    "B&W",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735104406,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "1",
+                    "",
+                    "1",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "1095.94KB",
+                    "",
+                    "1095.94KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Gray",
+                    "灰色",
+                    "Gray",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735107454,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "8",
+                    "",
+                    "8",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "8740.10KB",
+                    "",
+                    "8740.10KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Color",
+                    "彩色",
+                    "Color",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735113301,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "24",
+                    "",
+                    "24",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "26206.61KB",
+                    "",
+                    "26206.61KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "Image Compression",
+                    "图像压缩",
+                    "Image Compression",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735116974,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "We can compress the image data with different image file formats like JPEG and PNG.",
+                    "我们可以用JPEG和PNG等不同的图像文件格式压缩图像数据。",
+                    "We can compress the image data with different image file formats like JPEG and PNG.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735118974,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "In Dynamic Web TWAIN, we can get the image sizes with the following code:",
+                    "在Dynamic Web TWAIN中，我们可以使用以下代码获取图像大小：",
+                    "In Dynamic Web TWAIN, we can get the image sizes with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735123663,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Here is a test result of scanning documents in different color modes and image formats.",
+                    "以下是扫描不同颜色模式和图像格式的文档的测试结果。",
+                    "Here is a test result of scanning documents in different color modes and image formats.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735129415,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Pixel Type",
+                    "像素类型",
+                    "Pixel Type",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735083767,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Resolution",
+                    "分辨率",
+                    "Resolution",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698734927975,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "Bitdepth",
+                    "位深度",
+                    "Bitdepth",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735098983,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Size",
+                    "文件大小",
+                    "Size",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698734933688,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "Format",
+                    "文件格式",
+                    "Format",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735146776,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "Compression Rate",
+                    "压缩率",
+                    "Compression Rate",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735148944,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "B&W",
+                    "黑白",
+                    "B&W",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735104406,
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "1",
+                    "",
+                    "1",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "1096.00KB",
+                    "",
+                    "1096.00KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "BMP",
+                    "",
+                    "BMP",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "0%",
+                    "",
+                    "0%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "B&W",
+                    "黑白",
+                    "B&W",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735104406,
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "1",
+                    "",
+                    "1",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu72"
+                    }
+                ],
+                [
+                    "705.89KB",
+                    "",
+                    "705.89KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "JPG",
+                    "",
+                    "JPG",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "35.59%",
+                    "",
+                    "35.59%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu75"
+                    }
+                ],
+                [
+                    "B&W",
+                    "黑白",
+                    "B&W",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735104406,
+                        "id": "tu76"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu77"
+                    }
+                ],
+                [
+                    "1",
+                    "",
+                    "1",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu78"
+                    }
+                ],
+                [
+                    "38.09KB",
+                    "",
+                    "38.09KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu79"
+                    }
+                ],
+                [
+                    "TIF",
+                    "",
+                    "TIF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu80"
+                    }
+                ],
+                [
+                    "96.52%",
+                    "",
+                    "96.52%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu81"
+                    }
+                ],
+                [
+                    "B&W",
+                    "黑白",
+                    "B&W",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735104406,
+                        "id": "tu82"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu83"
+                    }
+                ],
+                [
+                    "1",
+                    "",
+                    "1",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu84"
+                    }
+                ],
+                [
+                    "77.45KB",
+                    "",
+                    "77.45KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu85"
+                    }
+                ],
+                [
+                    "PNG",
+                    "",
+                    "PNG",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu86"
+                    }
+                ],
+                [
+                    "92.93%",
+                    "",
+                    "92.93%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu87"
+                    }
+                ],
+                [
+                    "Gray",
+                    "灰色",
+                    "Gray",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735107454,
+                        "id": "tu88"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu89"
+                    }
+                ],
+                [
+                    "8",
+                    "",
+                    "8",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu90"
+                    }
+                ],
+                [
+                    "8741.15KB",
+                    "",
+                    "8741.15KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu91"
+                    }
+                ],
+                [
+                    "BMP",
+                    "",
+                    "BMP",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu92"
+                    }
+                ],
+                [
+                    "0%",
+                    "",
+                    "0%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu93"
+                    }
+                ],
+                [
+                    "Gray",
+                    "灰色",
+                    "Gray",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735107454,
+                        "id": "tu94"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu95"
+                    }
+                ],
+                [
+                    "8",
+                    "",
+                    "8",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu96"
+                    }
+                ],
+                [
+                    "590.68KB",
+                    "",
+                    "590.68KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu97"
+                    }
+                ],
+                [
+                    "JPG",
+                    "",
+                    "JPG",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu98"
+                    }
+                ],
+                [
+                    "93.24%",
+                    "",
+                    "93.24%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu99"
+                    }
+                ],
+                [
+                    "Gray",
+                    "灰色",
+                    "Gray",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735107454,
+                        "id": "tu100"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu101"
+                    }
+                ],
+                [
+                    "8",
+                    "",
+                    "8",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu102"
+                    }
+                ],
+                [
+                    "1957.32KB",
+                    "",
+                    "1957.32KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu103"
+                    }
+                ],
+                [
+                    "TIF",
+                    "",
+                    "TIF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu104"
+                    }
+                ],
+                [
+                    "77.61%",
+                    "",
+                    "77.61%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu105"
+                    }
+                ],
+                [
+                    "Gray",
+                    "灰色",
+                    "Gray",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735107454,
+                        "id": "tu106"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu107"
+                    }
+                ],
+                [
+                    "8",
+                    "",
+                    "8",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu108"
+                    }
+                ],
+                [
+                    "1574.74KB",
+                    "",
+                    "1574.74KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu109"
+                    }
+                ],
+                [
+                    "PNG",
+                    "",
+                    "PNG",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu110"
+                    }
+                ],
+                [
+                    "81.98%",
+                    "",
+                    "81.98%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu111"
+                    }
+                ],
+                [
+                    "Color",
+                    "彩色",
+                    "Color",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735113301,
+                        "id": "tu112"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu113"
+                    }
+                ],
+                [
+                    "24",
+                    "",
+                    "24",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu114"
+                    }
+                ],
+                [
+                    "26206.66KB",
+                    "",
+                    "26206.66KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu115"
+                    }
+                ],
+                [
+                    "BMP",
+                    "",
+                    "BMP",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu116"
+                    }
+                ],
+                [
+                    "0%",
+                    "",
+                    "0%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu117"
+                    }
+                ],
+                [
+                    "Color",
+                    "彩色",
+                    "Color",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735113301,
+                        "id": "tu118"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu119"
+                    }
+                ],
+                [
+                    "24",
+                    "",
+                    "24",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu120"
+                    }
+                ],
+                [
+                    "665.43KB",
+                    "",
+                    "665.43KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu121"
+                    }
+                ],
+                [
+                    "JPG",
+                    "",
+                    "JPG",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu122"
+                    }
+                ],
+                [
+                    "97.46%",
+                    "",
+                    "97.46%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu123"
+                    }
+                ],
+                [
+                    "Color",
+                    "彩色",
+                    "Color",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735113301,
+                        "id": "tu124"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu125"
+                    }
+                ],
+                [
+                    "24",
+                    "",
+                    "24",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu126"
+                    }
+                ],
+                [
+                    "5112.49KB",
+                    "",
+                    "5112.49KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu127"
+                    }
+                ],
+                [
+                    "TIF",
+                    "",
+                    "TIF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu128"
+                    }
+                ],
+                [
+                    "80.49%",
+                    "",
+                    "80.49%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu129"
+                    }
+                ],
+                [
+                    "Color",
+                    "彩色",
+                    "Color",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735113301,
+                        "id": "tu130"
+                    }
+                ],
+                [
+                    "2550x3507",
+                    "",
+                    "2550x3507",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu131"
+                    }
+                ],
+                [
+                    "24",
+                    "",
+                    "24",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu132"
+                    }
+                ],
+                [
+                    "3753.82KB",
+                    "",
+                    "3753.82KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu133"
+                    }
+                ],
+                [
+                    "PNG",
+                    "",
+                    "PNG",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu134"
+                    }
+                ],
+                [
+                    "85.68%",
+                    "",
+                    "85.68%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu135"
+                    }
+                ],
+                [
+                    "We can draw some points from the table:",
+                    "我们可以从表中总结出下面两点：",
+                    "We can draw some points from the table:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735203343,
+                        "id": "tu136"
+                    }
+                ],
+                [
+                    "BMP is a lossless format which does not compress the image.",
+                    "BMP是一种无损格式，不压缩图像。",
+                    "BMP is a lossless format which does not compress the image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735205222,
+                        "id": "tu137"
+                    }
+                ],
+                [
+                    "JPEG does not work well for black & white images but it has the best compression rate for gray and color images.",
+                    "JPEG不能很好地处理黑白图像，但它对灰色和彩色图像的压缩率最好。",
+                    "JPEG does not work well for black & white images but it has the best compression rate for gray and color images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735208494,
+                        "id": "tu138"
+                    }
+                ],
+                [
+                    "Multiple Page Optimization",
+                    "多页优化",
+                    "Multiple Page Optimization",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735213063,
+                        "id": "tu139"
+                    }
+                ],
+                [
+                    "Most of the time, we need to scan documents in multiple pages.",
+                    "大多数时候，我们需要扫描多页文档。",
+                    "Most of the time, we need to scan documents in multiple pages.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735215254,
+                        "id": "tu140"
+                    }
+                ],
+                [
+                    "We can use TIFF or PDF as the container to save the images in one file.",
+                    "我们可以使用TIFF或PDF作为容器将图像保存在一个文件中。",
+                    " We can use TIFF or PDF as the container to save the images in one file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735218454,
+                        "id": "tu140"
+                    }
+                ],
+                [
+                    "TIFF and PDF support many image formats and compression methods.",
+                    "TIFF和PDF支持多种图像格式和压缩方法。",
+                    " TIFF and PDF support many image formats and compression methods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735224463,
+                        "id": "tu140"
+                    }
+                ],
+                [
+                    "Since different compression methods work differently for different color modes, Dynamic Web TWAIN uses the following compression strategies to achieve an optimum result.",
+                    "由于不同的压缩方法对不同的颜色模式的效果不同，Dynamic Web TWAIN使用以下压缩策略来获得最佳结果。",
+                    "Since different compression methods work differently for different color modes, Dynamic Web TWAIN uses the following compression strategies to achieve an optimum result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735245185,
+                        "id": "tu141"
+                    }
+                ],
+                [
+                    "For TIFF, it uses the following strategy:",
+                    "对于TIFF，它使用以下策略：",
+                    "For TIFF, it uses the following strategy:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735254246,
+                        "id": "tu142"
+                    }
+                ],
+                [
+                    "For 1-bit images, use TIFF_T6.",
+                    "对于1位图像，使用TIFF_T6压缩算法。",
+                    "For 1-bit images, use TIFF_T6.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735262746,
+                        "id": "tu143"
+                    }
+                ],
+                [
+                    "For other images, use TIFF_LZW.",
+                    "对于其他图像，使用TIFF_LZW压缩算法。",
+                    "For other images, use TIFF_LZW.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735269824,
+                        "id": "tu144"
+                    }
+                ],
+                [
+                    "For PDF, it uses the following strategy:",
+                    "对于PDF，它使用以下策略：",
+                    "For PDF, it uses the following strategy:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735272494,
+                        "id": "tu145"
+                    }
+                ],
+                [
+                    "For 1-bit images, if the PDF version is over 1.4, use JBIG2 encoding, otherwise, use FAX4 (CCITT Group 4 Fax).",
+                    "对于1位图像，如果PDF版本超过1.4，使用JBIG2，否则使用FAX4（CCITT Group 4 Fax）。",
+                    "For 1-bit images, if the PDF version is over 1.4, use JBIG2 encoding, otherwise, use FAX4 (CCITT Group 4 Fax).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735364720,
+                        "id": "tu146"
+                    }
+                ],
+                [
+                    "For 8-bit images, if the image is grayscale, use JPEG encoding, otherwise, use LZW (Lempel-Ziv-Welch).",
+                    "对于8位图像，如果图像为灰度，则使用JPEG，否则使用LZW（Lempel-Ziv-Welch）。",
+                    "For 8-bit images, if the image is grayscale, use JPEG encoding, otherwise, use LZW (Lempel-Ziv-Welch).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735361601,
+                        "id": "tu147"
+                    }
+                ],
+                [
+                    "For 24-bit and 32-bit images, use JPEG encoding.",
+                    "对于24位和32位图像，使用JPEG。",
+                    "For 24-bit and 32-bit images, use JPEG encoding.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735359088,
+                        "id": "tu148"
+                    }
+                ],
+                [
+                    "Here is a test result of scanning documents in TIFF and PDF formats.",
+                    "以下是扫描TIFF和PDF格式文档的测试结果。",
+                    "Here is a test result of scanning documents in TIFF and PDF formats.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735368702,
+                        "id": "tu149"
+                    }
+                ],
+                [
+                    "It scans a document in black & white, gray and color.",
+                    "该测试用黑白、灰色和彩色模式扫描了同一文档。",
+                    " It scans a document in black & white, gray and color.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735402488,
+                        "id": "tu149"
+                    }
+                ],
+                [
+                    "Format",
+                    "文件格式",
+                    "Format",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735146776,
+                        "id": "tu150"
+                    }
+                ],
+                [
+                    "Original Size",
+                    "原始大小",
+                    "Original Size",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735409799,
+                        "id": "tu151"
+                    }
+                ],
+                [
+                    "Size",
+                    "文件大小",
+                    "Size",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698734933688,
+                        "id": "tu152"
+                    }
+                ],
+                [
+                    "Compression Rate",
+                    "压缩率",
+                    "Compression Rate",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735148944,
+                        "id": "tu153"
+                    }
+                ],
+                [
+                    "Link",
+                    "链接",
+                    "Link",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735416281,
+                        "id": "tu154"
+                    }
+                ],
+                [
+                    "TIFF",
+                    "",
+                    "TIFF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu155"
+                    }
+                ],
+                [
+                    "36042.64KB",
+                    "",
+                    "36042.64KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu156"
+                    }
+                ],
+                [
+                    "7109.21KB",
+                    "",
+                    "7109.21KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu157"
+                    }
+                ],
+                [
+                    "80.28%",
+                    "",
+                    "80.28%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu158"
+                    }
+                ],
+                [
+                    "Download",
+                    "下载",
+                    "<g1>Download<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735419911,
+                        "id": "tu159"
+                    }
+                ],
+                [
+                    "PDF",
+                    "",
+                    "PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu160"
+                    }
+                ],
+                [
+                    "36042.64KB",
+                    "",
+                    "36042.64KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu161"
+                    }
+                ],
+                [
+                    "1283.96KB",
+                    "",
+                    "1283.96KB",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu162"
+                    }
+                ],
+                [
+                    "96.44%",
+                    "",
+                    "96.44%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "id": "tu163"
+                    }
+                ],
+                [
+                    "Download",
+                    "下载",
+                    "<g1>Download<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735419911,
+                        "id": "tu164"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu165"
+                    }
+                ],
+                [
+                    "You can find all the code and online demos in the following repo:",
+                    "可以在以下仓库中找到所有代码和在线演示：",
+                    "You can find all the code and online demos in the following repo:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/size-optimization-of-scanned-document.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1698735433512,
+                        "id": "tu166"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
