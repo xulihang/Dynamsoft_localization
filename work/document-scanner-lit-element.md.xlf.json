@@ -1,0 +1,525 @@
+{
+    "filename": "document-scanner-lit-element.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a Document Scanning Component with LitElement",
+                    "使用LitElement编写一个文档扫描的Web Component",
+                    "How to Build a Document Scanning Component with LitElement",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699253909661,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2023-11-03 17:14:53 +0800",
+                    "",
+                    "2023-11-03 17:14:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2023-11-03 17:14:53 +0800",
+                    "",
+                    "2023-11-03 17:14:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Web Component",
+                    "",
+                    "Web Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Lit",
+                    "",
+                    "Lit",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to build a web component with LitElement to scan documents in an HTML website based on Dynamic Web TWAIN.",
+                    "本文介绍了如何使用LitElement编写一个文档扫描的Web Component，基于Dynamic Web TWAIN。",
+                    "The article shares how to build a web component with LitElement to scan documents in an HTML website based on Dynamic Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699253961412,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2023\/11\/lit-document-scanner.jpg",
+                    "",
+                    ".\/img\/2023\/11\/lit-document-scanner.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Lit is a simple library for building fast, lightweight web components.",
+                    "Lit是一个用于构建快速轻量的Web Component的库。",
+                    "Lit is a simple library for building fast, lightweight web components.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699253997916,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "At Lit's core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that's tiny, fast and expressive.",
+                    "Lit的核心是一个用于编写组件的基类，它提供了响应性的状态、作用域内的样式和一个小巧的声明式模板系统。",
+                    " At Lit's core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that's tiny, fast and expressive.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254302085,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a web component with LitElement to scan documents in an HTML website based on <g1>Dynamic Web TWAIN<\/g1>.",
+                    "在本文中，我们将使用LitElement编写一个Web Component，基于<g1>Dynamic Web TWAIN<\/g1>实现在浏览器中扫描文档。",
+                    "In this article, we are going to build a web component with LitElement to scan documents in an HTML website based on <g1>Dynamic Web TWAIN<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254361277,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "{% include cta_dwt.md %}",
+                    "",
+                    "{% include cta_dwt.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Although Lit can be used without a build system, in this article, we are going to use webpack with the following template (clone with git):",
+                    "虽然Lit可以在没有构建系统的情况下使用，但在本文中，我们使用webpack （克隆下面的模板项目） ：",
+                    "Although Lit can be used without a build system, in this article, we are going to use webpack with the following template (clone with git):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254448460,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Install Dependencies",
+                    "安装依赖项",
+                    "Install Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026742097,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Install Lit.",
+                    "安装Lit。",
+                    "Install Lit.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254459644,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Install Dynamic Web TWAIN.",
+                    "安装Dynamic Web TWAIN。",
+                    "Install Dynamic Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254461810,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "In addition, we need to copy the resources of Dynamic Web TWAIN to the public folder.",
+                    "此外，我们需要将Dynamic Web TWAIN的资源文件复制到public文件夹中。",
+                    "In addition, we need to copy the resources of Dynamic Web TWAIN to the public folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254498797,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Install <g1>ncp<\/g1>.",
+                    "安装<g1>ncp<\/g1>。",
+                    "Install <g1>ncp<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254475459,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Modify <g1>package.json<\/g1> to copy the resources for the build and start commands.",
+                    "修改<g1>package.json<\/g1>的build和start命令以复制资源。",
+                    "Modify <g1>package.json<\/g1> to copy the resources for the build and start commands.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254493508,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Modify <g1>webpack.common.js<\/g1> to copy the files in the <g2>public<\/g2> folder to the output folder instead of the <g3>public<\/g3> folder inside the output folder.",
+                    "修改<g1>webpack.common.js<\/g1>以将<g2>public<\/g2>文件夹中的文件直接复制到输出文件夹，而不是输出文件夹中的<g3>public<\/g3>文件夹。",
+                    "Modify <g1>webpack.common.js<\/g1> to copy the files in the <g2>public<\/g2> folder to the output folder instead of the <g3>public<\/g3> folder inside the output folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254540084,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Write a Document Scanner Component",
+                    "编写文档扫描组件",
+                    "Write a Document Scanner Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254558356,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Create a new <g1>documentscanner.js<\/g1> file under <g2>src\\scripts<\/g2> with the following template.",
+                    "使用以下模板在<g2>src\\ scripts<\/g2>下创建新的<g1>documentscanner.js<\/g1>文件。",
+                    "Create a new <g1>documentscanner.js<\/g1> file under <g2>src\\scripts<\/g2> with the following template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254581557,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Add a <g1>div<\/g1> element as the container for the controls of Dynamic Web TWAIN (mainly to view documents).",
+                    "添加一个<g1>div<\/g1>元素作为Dynamic Web TWAIN控件的容器（主要用于显示文档）。",
+                    "Add a <g1>div<\/g1> element as the container for the controls of Dynamic Web TWAIN (mainly to view documents).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254603628,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Configure Dynamic Web TWAIN in the <g1>constructor<\/g1>.",
+                    "在<g1>构造函数<\/g1>中配置Dynamic Web TWAIN。",
+                    "Configure Dynamic Web TWAIN in the <g1>constructor<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254620747,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "You need a license to use Dynamic Web TWAIN.",
+                    "需要一个许可证来使用Dynamic Web TWAIN。",
+                    " You need a license to use Dynamic Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254653812,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "You can apply for a license <g2>here<\/g2>.",
+                    "可以在<g1>此处<\/g1>申请许可证。",
+                    " You can apply for a license <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698722069238,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Initialize Dynamic Web TWAIN in the <g1>firstUpdated<\/g1> lifecycle after the dom is first updated and bind it to the container in the previous step.",
+                    "在DOM首次更新后的<g1>firstUpdated<\/g1>生命周期中初始化Dynamic Web TWAIN ，并将其绑定到上一步创建的容器。",
+                    "Initialize Dynamic Web TWAIN in the <g1>firstUpdated<\/g1> lifecycle after the dom is first updated and bind it to the container in the previous step.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254692372,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "In addition, dispatch a custom event with the object of Dynamic Web TWAIN so that we can control it in a parent node.",
+                    "此外，发送一个自定义事件以发送Dynamic Web TWAIN的实例，这样我们可以在父元素中访问它。",
+                    " In addition, dispatch a custom event with the object of Dynamic Web TWAIN so that we can control it in a parent node.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254957740,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Add one button to scan documents and one button to save the document images as a PDF file.",
+                    "添加一个扫描文档的按钮和一个将文档图像保存为PDF文件的按钮。",
+                    "Add one button to scan documents and one button to save the document images as a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254777265,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Add a reactive property named <g1>total<\/g1> to reflect how many documents are scanned.",
+                    "添加名为<g1>total<\/g1>的响应性属性，以反映扫描的文档页面数量。",
+                    "Add a reactive property named <g1>total<\/g1> to reflect how many documents are scanned.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254981323,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "We can update its value in the <g2>OnBufferChanged<\/g2> event of Web TWAIN.",
+                    "我们可以在Web TWAIN的<g2>OnBufferChanged<\/g2>事件中更新它的值。",
+                    " We can update its value in the <g2>OnBufferChanged<\/g2> event of Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254803499,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Set the styles for the component.",
+                    "设置组件的样式。",
+                    "Set the styles for the component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254807116,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Use the Document Scanner Component",
+                    "使用文档扫描组件",
+                    "Use the Document Scanner Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254813302,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Import the component in the <g1>index.js<\/g1> file.",
+                    "在<g1>index.js<\/g1>文件中导入组件。",
+                    "Import the component in the <g1>index.js<\/g1> file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254816298,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Add the component in the <g1>index.html<\/g1>.",
+                    "在<g1>index.html<\/g1>中添加组件。",
+                    "Add the component in the <g1>index.html<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254821018,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "All right, we can now scan documents from the browser.",
+                    "好了，我们现在可以从浏览器扫描文档了。",
+                    "All right, we can now scan documents from the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254826155,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "<x1\/>Lit document scanner<x2\/>",
+                    "<x1\/>Lit文档扫描应用<x2\/>",
+                    "<x1\/>Lit document scanner<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699254850090,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Get the source code of the demo to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demo to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/document-scanner-lit-element.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu28"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
