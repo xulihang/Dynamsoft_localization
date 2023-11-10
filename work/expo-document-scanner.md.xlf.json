@@ -1,0 +1,826 @@
+{
+    "filename": "expo-document-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a Document Scanner with Expo",
+                    "基于Expo构建文档扫描应用",
+                    "How to Build a Document Scanner with Expo",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699580757842,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2023-11-09 10:01:53 +0800",
+                    "",
+                    "2023-11-09 10:01:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2023-11-09 10:01:53 +0800",
+                    "",
+                    "2023-11-09 10:01:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Document Normalizer",
+                    "",
+                    "Document Normalizer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "REST API",
+                    "",
+                    "REST API",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "React Native",
+                    "",
+                    "React Native",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Expo",
+                    "",
+                    "Expo",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a document scanner with expo.",
+                    "本文讨论了如何使用Expo构建一个文档扫描应用。",
+                    "The article talks about how to build a document scanner with expo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699580890660,
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "It can detect document boundaries and crop the document image via the camera and use Dynamic Web TWAIN's REST API to scan documents via physical document scanners.",
+                    "它可以通过摄像头检测文档边界并裁剪文档图像，或者使用Dynamic Web TWAIN的REST API从文档扫描仪获取文档图像。",
+                    " It can detect document boundaries and crop the document image via the camera and use Dynamic Web TWAIN's REST API to scan documents via physical document scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699580927944,
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2023\/11\/expo\/document-scanner.jpg",
+                    "",
+                    ".\/img\/2023\/11\/expo\/document-scanner.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.",
+                    "Expo是一个开源平台，使用JavaScript和React为Android、iOS和Web制作通用原生应用程序。",
+                    "Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699580959859,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It is basically a set of tools built on top of React Native, which makes it easy to develop and distribute apps.",
+                    "它是一组构建在React Native之上的工具，可以轻松地开发和分发应用程序。",
+                    " It is basically a set of tools built on top of React Native, which makes it easy to develop and distribute apps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699580990577,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a document scanner with Expo.",
+                    "在本文中，我们将使用Expo构建一个文档扫描应用。",
+                    "In this article, we are going to build a document scanner with Expo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581002952,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "It can detect document boundaries and crop the document image via the camera and scan documents via physical document scanners.",
+                    "它可以通过摄像头检测文档边界并裁剪文档图像，或者从文档扫描仪获取文档图像。",
+                    " It can detect document boundaries and crop the document image via the camera and scan documents via physical document scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581019883,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "SDKs Used",
+                    "使用的SDK",
+                    "SDKs Used",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581031453,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Normalizer<\/g1> which provides the ability to detect document boundaries and perform perspective correction.",
+                    "<g1>Dynamsoft Document Normalizer<\/g1>，它提供了文档边界检测和校正的功能。",
+                    "<g1>Dynamsoft Document Normalizer<\/g1> which provides the ability to detect document boundaries and perform perspective correction.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581071757,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Dynamsoft Service from <g1>Dynamic Web TWAIN<\/g1> which provides <g2>REST APIs<\/g2> for accessing document scanners.",
+                    "Dynamsoft Service，<g1>Dynamic Web TWAIN<\/g1>的内部服务，它提供一个<g2>REST API<\/g2>，可以访问文档扫描仪。",
+                    "Dynamsoft Service from <g1>Dynamic Web TWAIN<\/g1> which provides <g2>REST APIs<\/g2> for accessing document scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581130887,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Create a new Expo project:",
+                    "创建一个新的Expo项目：",
+                    "Create a new Expo project:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581161216,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Add camera permissions in <g1>app.json<\/g1>:",
+                    "在<g1>app.json<\/g1>中添加相机权限：",
+                    "Add camera permissions in <g1>app.json<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581148976,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Add dependencies:",
+                    "添加依赖项：",
+                    "Add dependencies:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581161216,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Design the Home Page",
+                    "设计主页",
+                    "Design the Home Page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581173582,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Update <g1>App.js<\/g1> to add an image element to display the scanned image, a button to scan documents, a button to share the document image, a button to view the history and two selections for choosing the scanning device and the color mode.",
+                    "更新<g1>App.js<\/g1>，添加用于显示扫描图像的Image元素、用于扫描文档的按钮、用于共享文档图像的按钮、用于查看历史记录的按钮以及用于选择扫描设备和颜色模式的两个选项。",
+                    "Update <g1>App.js<\/g1> to add an image element to display the scanned image, a button to scan documents, a button to share the document image, a button to view the history and two selections for choosing the scanning device and the color mode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581192623,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "There are three color modes: black & white, gray and color.",
+                    "有三种颜色模式：黑白、灰色和彩色。",
+                    "There are three color modes: black & white, gray and color.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581217845,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "The device array includes the camera and connected document scanners.",
+                    "设备列表包括摄像头和连接的文档扫描仪。",
+                    " The device array includes the camera and connected document scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581235904,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<x1\/>Document Scanner<x2\/>",
+                    "<x1\/>文档扫描应用<x2\/>",
+                    "<x1\/>Document Scanner<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581247391,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Two custom components are defined as well.",
+                    "还定义了两个自定义组件。",
+                    "Two custom components are defined as well.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581251814,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "<g1>components\/Button.js<\/g1>:",
+                    "<g1>components\/Button.js<\/g1> ：",
+                    "<g1>components\/Button.js<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581257190,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "<g1>components\/Select.js<\/g1>:",
+                    "<g1>components\/Select.js<\/g1> ：",
+                    "<g1>components\/Select.js<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581261493,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Define an Items Picker Component",
+                    "定义一个项目选取组件",
+                    "Define an Items Picker Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581271204,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Create a new component for picking an item.",
+                    "创建选取列表项目的新组件。",
+                    "Create a new component for picking an item.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581308807,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "We can use it to pick which device to use, which color mode to use and which action to take, etc.",
+                    "我们可以用它来选择使用哪个设备，使用哪种颜色模式，采取哪种操作等等。",
+                    " We can use it to pick which device to use, which color mode to use and which action to take, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581324065,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Then, in <g1>App.js<\/g1> we can use the ItemsPicker to configure the scanning.",
+                    "然后，在<g1>App.js<\/g1>中，我们可以使用它配置扫描行为。",
+                    "Then, in <g1>App.js<\/g1> we can use the ItemsPicker to configure the scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581347639,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Scan Documents from the Camera",
+                    "从摄像头扫描文档",
+                    "Scan Documents from the Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581669167,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Next, we are going the integrate scanning documents from the camera.",
+                    "接下来，我们将添加从摄像头扫描文档的功能。",
+                    "Next, we are going the integrate scanning documents from the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581676017,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Create a new component named <g1>DocumentScanner.js<\/g1> under <g2>components<\/g2>.",
+                    "在<g2>components<\/g2>下创建一个名为<g1>DocumentScanner.js<\/g1>的新组件。",
+                    "Create a new component named <g1>DocumentScanner.js<\/g1> under <g2>components<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581376358,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Request camera permission with <g1>expo-camera<\/g1> when the component is mounted.",
+                    "组件挂载后，使用<g1>expo camera<\/g1>请求相机权限。",
+                    "Request camera permission with <g1>expo-camera<\/g1> when the component is mounted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581409432,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Use react-native-webview to load a document scanning web app built with Dynamsoft Camera Enhancer and Dynamsoft Document Normalizer if the camera permission is granted.",
+                    "如果授予了摄像头权限，使用react-native-webview加载基于Dynamsoft Camera Enhancer和Dynamsoft Document Normalizer编写的文档扫描Web应用。",
+                    "Use react-native-webview to load a document scanning web app built with Dynamsoft Camera Enhancer and Dynamsoft Document Normalizer if the camera permission is granted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581448974,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "The web app is built for use in react-native-webview.",
+                    "这个Web应用是为在react-native-webview中使用而构建的。",
+                    " The web app is built for use in react-native-webview.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581460427,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "It can post the scanned document image as data URL to the react native app.",
+                    "它可以将扫描的文档图像作为dataURL发送给React Native。",
+                    " It can post the scanned document image as data URL to the react native app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581485537,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "We can pass URL params to configure its behaviors like the color mode and the license.",
+                    "我们可以通过URL参数来配置其行为，如颜色模式和许可证。",
+                    " We can pass URL params to configure its behaviors like the color mode and the license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581489589,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "A license is needed to use Dynamsoft Document Normalizer.",
+                    "需要许可证才能使用Dynamsoft Document Normalizer。",
+                    " A license is needed to use Dynamsoft Document Normalizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581497190,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请一个许可证。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581511852,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Show the document scanner in the home page after the scan button is pressed and the selected device is camera.",
+                    "用户按下扫描按钮并且所选设备为摄像头后，显示这个扫描组件。",
+                    "Show the document scanner in the home page after the scan button is pressed and the selected device is camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581544048,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "It will capture an image automatically if it detects three overlapped document regions consecutively.",
+                    "如果连续检测到三个重叠的文档区域，它将自动捕获图像。",
+                    " It will capture an image automatically if it detects three overlapped document regions consecutively.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581551502,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "The image will be saved to the app's document directory and be displayed in the page.",
+                    "图像将保存到应用程序的文档目录中，并显示在页面中。",
+                    " The image will be saved to the app's document directory and be displayed in the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581557502,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Screenshot:",
+                    "屏幕截图：",
+                    "Screenshot:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581565878,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "<x1\/>camera<x2\/>",
+                    "<x1\/>摄像头<x2\/>",
+                    "<x1\/>camera<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581572394,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Here, we use react-native-webview to integrate the camera document scanning ability for ease of use as it can run in Expo Go.",
+                    "这里，我们使用react-native-webview来集成基于摄像头的文档扫描功能，以便于在Expo Go中运行。",
+                    "Here, we use react-native-webview to integrate the camera document scanning ability for ease of use as it can run in Expo Go.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581599276,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "You can use the <g1>native module<\/g1> if you want to integrate the ability natively.",
+                    "如果希望以原生方式集成该功能，可以使用另一个<g1>原生模块<\/g1>。",
+                    " You can use the <g1>native module<\/g1> if you want to integrate the ability natively.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581642453,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Scan Documents from Document Scanners",
+                    "从扫描仪扫描文档",
+                    "Scan Documents from Document Scanners",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581728679,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Next, we are going to scan documents from document scanners through Dynamsoft Service's REST API.",
+                    "接下来，我们将通过Dynamsoft Service的REST API从文档扫描仪扫描文档。",
+                    "Next, we are going to scan documents from document scanners through Dynamsoft Service's REST API.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581735351,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Install Dynamsoft Service on a PC which is connected to document scanners and make it accessible in an intranet.",
+                    "在连接到文档扫描仪的PC上安装Dynamsoft Service，并使其可以在局域网中被访问到。",
+                    "Install Dynamsoft Service on a PC which is connected to document scanners and make it accessible in an intranet.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581760696,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "You can configure its IP on the <g1>configuration page<\/g1> and you can find the download links <g2>here<\/g2>.",
+                    "可以在<g1>配置页面<\/g1>上配置其IP。下载链接可以在<g2>此处<\/g2>找到。",
+                    " You can configure its IP on the <g1>configuration page<\/g1> and you can find the download links <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581789537,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Create a DynamsoftService class for getting the scanners list and acquiring images from scanners via the REST API.",
+                    "创建一个DynamsoftService类，用于通过REST API获取扫描仪列表并通过从扫描仪获取图像。",
+                    "Create a DynamsoftService class for getting the scanners list and acquiring images from scanners via the REST API.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581825200,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "In <g1>App.js<\/g1>, fetch the list of scanners via the REST API and add them to the device select.",
+                    "在<g1>App.js<\/g1>中，通过REST API获取扫描仪列表。",
+                    "In <g1>App.js<\/g1>, fetch the list of scanners via the REST API and add them to the device select.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581854144,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "A license is needed to use it.",
+                    "需要许可证才能使用它。",
+                    " A license is needed to use it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581857262,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "You can apply for a license <g2>here<\/g2>.",
+                    "可以在<g2>此处<\/g2>申请一个许可证。",
+                    " You can apply for a license <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581874620,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Acquire a document image after the scan button is pressed.",
+                    "按下扫描按钮后获取文档图像。",
+                    "Acquire a document image after the scan button is pressed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581895758,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "A modal will be shown during the scanning process.",
+                    "扫描过程中将显示一个模态框，表示正在扫描。",
+                    "A modal will be shown during the scanning process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581939912,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Screenshot:",
+                    "屏幕截图：",
+                    "Screenshot:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581565878,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "<x1\/>scanning<x2\/>",
+                    "<x1\/>扫描<x2\/>",
+                    "<x1\/>scanning<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581944198,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Manage History",
+                    "管理历史记录",
+                    "Manage History",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581946446,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Add a history browser component to manage scanned documents under <g1>components\/HistoryBrowser.js<\/g1>.",
+                    "新建一个<g1>components\/HistoryBrowser.js<\/g1>组件文件，用于管理扫描的文档。",
+                    "Add a history browser component to manage scanned documents under <g1>components\/HistoryBrowser.js<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699581995583,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "We've now completed the demo.",
+                    "示例应用编写完成了。",
+                    "We've now completed the demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1699582022119,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Get the source code and have a try:",
+                    "下载源代码并尝试使用：",
+                    " Get the source code and have a try: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/expo-document-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699582032112,
+                        "id": "tu42"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
