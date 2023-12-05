@@ -1,0 +1,575 @@
+{
+    "filename": "convert-scanned-documents-to-searchable-pdf-java.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Convert Scanned Documents to Searchable PDF in Java",
+                    "用Java转换扫描的文档为可搜索的PDF",
+                    "Convert Scanned Documents to Searchable PDF in Java",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701743820720,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2023-12-04 16:29:53 +0800",
+                    "",
+                    "2023-12-04 16:29:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2023-12-04 16:29:53 +0800",
+                    "",
+                    "2023-12-04 16:29:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "REST API",
+                    "",
+                    "REST API",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "OCR",
+                    "",
+                    "OCR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Searchable PDF",
+                    "",
+                    "Searchable PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Document Management",
+                    "",
+                    "Document Management",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Java",
+                    "",
+                    "Java",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to convert scanned documents into searchable PDF files in Java.",
+                    "本文介绍了如何在Java中将扫描的文档转换为可搜索的PDF文件。",
+                    "The article shares how to convert scanned documents into searchable PDF files in Java.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701743830502,
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2023\/12\/searchablePDF\/cover.jpg",
+                    "",
+                    ".\/img\/2023\/12\/searchablePDF\/cover.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "In the <g1>previous article<\/g1>, we built a JavaFX demo app to scan documents using Dynamsoft Service's RESI API.",
+                    "<g1>在上一篇文章<\/g1>中，我们编写了一个JavaFX的演示程序，使用Dynamsoft Service的REST API扫描文档。",
+                    "In the <g1>previous article<\/g1>, we built a JavaFX demo app to scan documents using Dynamsoft Service's RESI API.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744283640,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "The demo app can scan documents via protocols like TWAIN, WIA, SANE, and ICA and save the documents into a PDF file using PDFBox.",
+                    "该演示程序可以通过TWAIN、WIA、SANE和ICA等协议用文档扫描仪扫描文档，并使用PDFBox将文档保存到PDF文件中。",
+                    " The demo app can scan documents via protocols like TWAIN, WIA, SANE, and ICA and save the documents into a PDF file using PDFBox.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744279146,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<x1\/>Screenshot<x2\/>",
+                    "<x1\/>屏幕截图<x2\/>",
+                    "<x1\/>Screenshot<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744295295,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to extend its features to convert the scanned documents into a searchable PDF.",
+                    "在本文中，我们将扩展它的功能，让它能将扫描的文档转换为可搜索的PDF。",
+                    "In this article, we are going to extend its features to convert the scanned documents into a searchable PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744310607,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "When opening a searchable PDF, we can select text and search keywords directly.",
+                    "打开可搜索的PDF时，我们可以直接选择文本和搜索关键字。",
+                    "When opening a searchable PDF, we can select text and search keywords directly.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744315895,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Generating a searchable PDF is very useful in a document indexing or management system.",
+                    "生成可搜索的PDF对于文档索引或管理系统非常有用。",
+                    " Generating a searchable PDF is very useful in a document indexing or management system.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744331953,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "If the PDF is generated with tools like InDesign and Word, its text is already searchable.",
+                    "如果PDF是用InDesign和Word等工具生成的，那么它的文本已经可以搜索了。",
+                    "If the PDF is generated with tools like InDesign and Word, its text is already searchable.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744335782,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "But if the PDF contains scanned images, we have to add an extra text overlay to make it searchable.",
+                    "但是，如果PDF包含扫描的图像，我们需要添加额外的文本覆盖层，使其可搜索。",
+                    " But if the PDF contains scanned images, we have to add an extra text overlay to make it searchable.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744351618,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "OCR of Scanned Documents",
+                    "扫描文档的OCR",
+                    "OCR of Scanned Documents",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744358023,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "There are various OCR engines or API services we can use.",
+                    "有各种OCR引擎或API服务可以调用。",
+                    "There are various OCR engines or API services we can use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744371575,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Here, we use OCRSpace's free OCR API.",
+                    "这里，我们使用OCRSpace的免费OCR API。",
+                    " Here, we use OCRSpace's free OCR API.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744378833,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Create related definitions.",
+                    "创建相关定义。",
+                    "Create related definitions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744383279,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<g1>TextLine.class<\/g1>:",
+                    "<g1>TextLine.class<\/g1>：",
+                    "<g1>TextLine.class<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744389383,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<g1>OCRResult.class<\/g1>:",
+                    "<g1>OCRResult.class<\/g1>：",
+                    "<g1>OCRResult.class<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744391656,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Create an <g1>OCRSpace<\/g1> class which provides a static method to get the OCR result from a base64-encoded image.",
+                    "创建一个<g1>OCRSpace<\/g1>类，该类提供从base64编码图像获取OCR结果的静态方法。",
+                    "Create an <g1>OCRSpace<\/g1> class which provides a static method to get the OCR result from a base64-encoded image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744397895,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Here, we use OKHttp for HTTP requests and Jackson as the JSON library.",
+                    "使用OKHttp用于HTTP请求，Jackson用于处理JSON。",
+                    "Here, we use OKHttp for HTTP requests and Jackson as the JSON library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744424011,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Add Text Overlay to a PDF Page",
+                    "将文本覆盖层添加到PDF页面中",
+                    "Add Text Overlay to a PDF Page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744436744,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Create a <g1>SearchablePDFCreator<\/g1> class for related methods.",
+                    "创建<g1>SearchablePDFCreator<\/g1>类以提供相关方法。",
+                    "Create a <g1>SearchablePDFCreator<\/g1> class for related methods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744467231,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Add an <g1>addTextOverlay<\/g1> method to add text overlay to an existing PDF page.",
+                    "添加<g1>addTextOverlay<\/g1>方法，将文本覆盖层添加到现有的PDF页面。",
+                    "Add an <g1>addTextOverlay<\/g1> method to add text overlay to an existing PDF page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744477024,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "The font size is automatically calculated based on the font specified and the line's width.",
+                    "字体大小是根据指定的字体和文字行宽度自动计算的。",
+                    "The font size is automatically calculated based on the font specified and the line's width.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744490943,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Add an <g1>addPage<\/g1> method to add text overlay along with the image as a new page to a document.",
+                    "添加<g1>addPage<\/g1>方法，可以将文本覆盖层与图像一起添加为文档的新页面。",
+                    "Add an <g1>addPage<\/g1> method to add text overlay along with the image as a new page to a document.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744515505,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Let's examine the result.",
+                    "让我们检查一下添加结果。",
+                    "Let's examine the result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744527296,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Using <g1>RenderingMode.NEITHER<\/g1> will make the text layer invisible.",
+                    "使用<g1>RenderingMode.NEITHER<\/g1>将使文本图层不可见。",
+                    "Using <g1>RenderingMode.NEITHER<\/g1> will make the text layer invisible.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744532143,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "We can comment out this line to see the text overlayed.",
+                    "我们可以把这一行注释掉，以看到添加上去的文字。",
+                    " We can comment out this line to see the text overlayed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744547281,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "The following is a region of a PDF file with the text overlay.",
+                    "以下是覆盖了文本的PDF文件的一个区域。",
+                    " The following is a region of a PDF file with the text overlay.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744571336,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "We can see that the text fits the image closely.",
+                    "我们可以看到文本与图像基本吻合。",
+                    " We can see that the text fits the image closely.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744587665,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "<x1\/>text overlay<x2\/>",
+                    "<x1\/>文本覆盖<x2\/>",
+                    "<x1\/>text overlay<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744597015,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Save a Scanned Document Image into a Searchable PDF",
+                    "将扫描的文档图像保存为可搜索的PDF",
+                    "Save a Scanned Document Image into a Searchable PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744610743,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Next, we can try to use the classes we just wrote to create a searchable PDF from an image.",
+                    "接下来，我们可以尝试使用我们刚刚编写的类从图像创建一个可搜索的PDF。",
+                    "Next, we can try to use the classes we just wrote to create a searchable PDF from an image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744619441,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Enhance the JavaFX Demo with the Searchable PDF Creator",
+                    "使用Searchable PDF Creator加强JavaFX演示程序",
+                    "Enhance the JavaFX Demo with the Searchable PDF Creator",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744645961,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Add the library as a dependency editing <g1>pom.xml<\/g1>.",
+                    "编辑<g1>pom.xml<\/g1>，将库添加为依赖项。",
+                    "Add the library as a dependency editing <g1>pom.xml<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744659113,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Add a checkbox to enable searchable PDF generation in the UI.",
+                    "添加复选框以在UI中启用可搜索PDF的生成。",
+                    "Add a checkbox to enable searchable PDF generation in the UI.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744683825,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "If the checkbox is selected, generate a searchable PDF by adding a text overlay.",
+                    "如果选中该复选框，则通过添加文本覆盖层来生成可搜索的PDF。",
+                    "If the checkbox is selected, generate a searchable PDF by adding a text overlay.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744697142,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Check out the code to have a try:",
+                    "获取源代码来自己试用一下吧：",
+                    "Check out the code to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744728242,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Library",
+                    "库",
+                    "<g1>Library<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744729998,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "JavaFX Demo",
+                    "JavaFX演示程序",
+                    "<g1>JavaFX Demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-scanned-documents-to-searchable-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701744734025,
+                        "id": "tu30"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
