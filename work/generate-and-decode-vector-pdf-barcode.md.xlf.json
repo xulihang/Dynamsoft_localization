@@ -1,0 +1,599 @@
+{
+    "filename": "generate-and-decode-vector-pdf-barcode.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Generate and Decode a PDF with Vector Barcodes",
+                    "如何生成带矢量条码的PDF并读码",
+                    "How to Generate and Decode a PDF with Vector Barcodes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701926944747,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2023-12-06 17:10:53 +0800",
+                    "",
+                    "2023-12-06 17:10:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2023-12-06 17:10:53 +0800",
+                    "",
+                    "2023-12-06 17:10:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "PDF",
+                    "",
+                    "PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Vector",
+                    "",
+                    "Vector",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to generate a vector PDF with barcodes and read barcodes from it.",
+                    "这篇文章讨论了如何生成带有条码的矢量PDF并从中读码。",
+                    "The article talks about how to generate a vector PDF with barcodes and read barcodes from it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701926984675,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2023\/12\/PDF-with-vector-barcodes.jpg",
+                    "",
+                    ".\/img\/2023\/12\/PDF-with-vector-barcodes.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Portable Document Format (PDF) is a file format developed by Adobe to present documents.",
+                    "PDF（Portable Document Format，便携式文档格式）是由Adobe开发的用于呈现文档的文件格式。",
+                    "Portable Document Format (PDF) is a file format developed by Adobe to present documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927095571,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Based on the PostScript language, each PDF file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, vector graphics, raster images and other information needed to display it.",
+                    "基于PostScript语言，每个PDF文件都封装了固定布局平面文档的完整描述，包括文本、字体、矢量图形、光栅图像和显示它所需的其他信息。",
+                    " Based on the PostScript language, each PDF file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, vector graphics, raster images and other information needed to display it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927099833,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "A barcode or bar code is a method of representing data in a visual, machine-readable form.",
+                    "条码是一种以视觉、机器可读的形式表示数据的方法。",
+                    "A barcode or bar code is a method of representing data in a visual, machine-readable form.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927137291,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "It can be stored as a raster image or a vector graphic in PDF.",
+                    "它可以存储为光栅图像或矢量图形，并保存在PDF中。",
+                    " It can be stored as a raster image or a vector graphic in PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927166449,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "It is common to find barcodes as images in PDF and there are not many articles about vector barcodes in PDF.",
+                    "作为图像存在PDF中的条码比较常见，而关于PDF中矢量条码的文章不多。",
+                    "It is common to find barcodes as images in PDF and there are not many articles about vector barcodes in PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927239017,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "So in this article, we are going to talk about how to generate a PDF with vector barcodes and read barcodes from it.",
+                    "因此，在本文中，我们将讨论如何生成带矢量条码的PDF并从中读取条码。",
+                    " So in this article, we are going to talk about how to generate a PDF with vector barcodes and read barcodes from it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927256137,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is used to read barcodes.",
+                    "<g1>Dynamsoft Barcode Reader<\/g1>会被用于读取条码。",
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is used to read barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927274873,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Since we can directly get the coordinates of the black or white bars of a vector barcode, its performance and accuracy are better than decoding a raster image.",
+                    "由于我们可以直接获得矢量条码的黑条或白条的坐标，因此从矢量图形解码的性能和准确性会优于从光栅图像解码。",
+                    " Since we can directly get the coordinates of the black or white bars of a vector barcode, its performance and accuracy are better than decoding a raster image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927313905,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "{% include cta.md %}",
+                    "",
+                    "{% include cta.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Generate a Barcode and Save it as SVG",
+                    "生成条码并将其保存为SVG",
+                    "Generate a Barcode and Save it as SVG",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927323562,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "There are many barcode generation libraries but not many of them can export the barcode as a vector graphic as SVG.",
+                    "有许多条码生成库，但可以将条码作为矢量图形导出为SVG的库并不多。",
+                    "There are many barcode generation libraries but not many of them can export the barcode as a vector graphic as SVG.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927342747,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Here, we use Python's <g1>python-barcode<\/g1> to do this.",
+                    "在这里，我们使用Python的<g1>python-barcode<\/g1>库来执行此操作。",
+                    " Here, we use Python's <g1>python-barcode<\/g1> to do this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927369152,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Use the following code to generate a barcode in Code 128 format:",
+                    "使用以下代码生成Code128格式的条码：",
+                    "Use the following code to generate a barcode in Code 128 format:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927378433,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Embed a Vector Barcode in a PDF Page",
+                    "在PDF页面中嵌入矢量条码",
+                    "Embed a Vector Barcode in a PDF Page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927384536,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Next, we are going to embed the vector barcode graphic in a PDF.",
+                    "接下来，我们将把矢量条码图形嵌入到PDF中。",
+                    "Next, we are going to embed the vector barcode graphic in a PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927389954,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "We can do this using vector design tools like Adobe Illustrator and Inkscape.",
+                    "我们可以使用Adobe Illustrator和Inkscape等矢量设计工具来实现这一点。",
+                    "We can do this using vector design tools like Adobe Illustrator and Inkscape.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927398217,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Screenshot of Inkscape:",
+                    "Inkscape的屏幕截图：",
+                    "Screenshot of Inkscape:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927404704,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<x1\/>Inkscape<x2\/>",
+                    "<x1\/>Inkscape<x2\/>",
+                    "<x1\/>Inkscape<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927406785,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "We can also generate a PDF with code.",
+                    "我们也可以用代码生成PDF。",
+                    "We can also generate a PDF with code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927409136,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Here, we use Python and its <g1>fpdf2<\/g1> library to do this.",
+                    "这里，我们使用Python及其<g1>fpdf2<\/g1>库来实现这一点。",
+                    " Here, we use Python and its <g1>fpdf2<\/g1> library to do this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927420290,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Read Barcodes from PDF Files",
+                    "从PDF文件读取条码",
+                    "Read Barcodes from PDF Files",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927428487,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Most barcode reading libraries can only process raster images.",
+                    "大多数条码读取的库只能处理光栅图像。",
+                    "Most barcode reading libraries can only process raster images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927442675,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "So we have to render the PDF pages into images before reading barcodes.",
+                    "因此，在读取条码之前，我们必须将PDF页面渲染为图像。",
+                    " So we have to render the PDF pages into images before reading barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927447606,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "But actually, we can directly parse the vector barcode graphics for decoding.",
+                    "但实际上，我们可以直接解析矢量条码图形进行解码。",
+                    "But actually, we can directly parse the vector barcode graphics for decoding.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927454929,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "For example, we can use the <g1>PyMuPDF<\/g1> library to read the info of the graphics using its <g2>get_drawings<\/g2> method.",
+                    "例如，我们可以使用<g1>PyMuPDF<\/g1>的<g2>get_drawings<\/g2>方法读取图形的信息。",
+                    "For example, we can use the <g1>PyMuPDF<\/g1> library to read the info of the graphics using its <g2>get_drawings<\/g2> method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927472460,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Dynamsoft Barcode Reader has the ability to read vector barcodes in PDF.",
+                    "Dynamsoft Barcode Reader能够读取PDF中的矢量条码。",
+                    "Dynamsoft Barcode Reader has the ability to read vector barcodes in PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927493092,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "This function is enabled by default.",
+                    "此功能默认启用。",
+                    " This function is enabled by default.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927497136,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Here is the code to read barcodes from a PDF (you have to <g1>apply for a license<\/g1> to use it):",
+                    "以下是从PDF中读取条码的代码（需要<g1>申请一个许可证<\/g1>才能使用它）：",
+                    "Here is the code to read barcodes from a PDF (you have to <g1>apply for a license<\/g1> to use it):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927508529,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "You can set its behavior by updating its runtime settings related to PDF.",
+                    "可以通过更新其与PDF相关的运行时设置来变更其行为。",
+                    "You can set its behavior by updating its runtime settings related to PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927523056,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "You can set the reading mode to the following value:",
+                    "读取模式可以设置为以下值：",
+                    "You can set the reading mode to the following value:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927535083,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "EnumPDFReadingMode.PDFRM_RASTER: render the PDF to raster images for decoding",
+                    "EnumPDFReadingMode.PDFRM_RASTER：将PDF渲染为光栅图像以进行解码",
+                    "EnumPDFReadingMode.PDFRM_RASTER: render the PDF to raster images for decoding",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927548003,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "EnumPDFReadingMode.PDFRM_VECTOR: directly read the vector barcodes",
+                    "EnumPDFReadingMode.PDFRM_VECTOR：直接读取矢量条码",
+                    "EnumPDFReadingMode.PDFRM_VECTOR: directly read the vector barcodes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927560362,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "EnumPDFReadingMode.PDFRM_AUTO: if the PDF contains vector barcodes, then use the vector mode",
+                    "EnumPDFReadingMode.PDFRM_AUTO：如果PDF包含矢量条码，则使用矢量模式",
+                    "EnumPDFReadingMode.PDFRM_AUTO: if the PDF contains vector barcodes, then use the vector mode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927568857,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "The vector mode is faster than the raster mode:",
+                    "矢量模式的识别速度比光栅模式更快：",
+                    "The vector mode is faster than the raster mode:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927596770,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "But since the vector mode only works for 1D barcodes, if we need to read 2D barcodes like QR codes, we have to use the raster mode.",
+                    "但由于矢量模式仅适用于1D条形码，如果要读取二维码（如QR码），则需要使用光栅模式。",
+                    "But since the vector mode only works for 1D barcodes, if we need to read 2D barcodes like QR codes, we have to use the raster mode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927623922,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Determine whether a PDF if a Vector PDF",
+                    "确定PDF是否为矢量PDF",
+                    "Determine whether a PDF if a Vector PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927627464,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Let's talk about another issue: how to determine whether a PDF is a vector PDF.",
+                    "让我们讨论另一个问题：如何确定PDF是否为矢量PDF。",
+                    "Let's talk about another issue: how to determine whether a PDF is a vector PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927632162,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "As we know, a PDF contains raster images, vector graphics or text.",
+                    "正如我们所知，PDF包含光栅图像、矢量图形或文本。",
+                    "As we know, a PDF contains raster images, vector graphics or text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927636416,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "So if a PDF page contains text or vector graphics, it is a vector PDF.",
+                    "因此，如果PDF页面包含文本或矢量图形，它就是矢量PDF。",
+                    "So if a PDF page contains text or vector graphics, it is a vector PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927643185,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "We can use the following code to do the detection:",
+                    "我们可以使用以下代码进行检测：",
+                    "We can use the following code to do the detection:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1701927648856,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/product features\/generate-and-decode-vector-pdf-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu33"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
