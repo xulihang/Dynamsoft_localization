@@ -1,0 +1,625 @@
+{
+    "filename": "mrz-text-scanner-in-jetpack-compose.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "MRZ Text Recognition with Jetpack Compose and CameraX",
+                    "基于Jetpack Compose和CameraX的护照MRZ扫描",
+                    "MRZ Text Recognition with Jetpack Compose and CameraX",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604233084,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2023-12-12 16:15:53 +0800",
+                    "",
+                    "2023-12-12 16:15:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2023-12-12 16:15:53 +0800",
+                    "",
+                    "2023-12-12 16:15:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "OCR",
+                    "",
+                    "OCR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "MRZ",
+                    "",
+                    "MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Kotlin",
+                    "",
+                    "Kotlin",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Jetpack Compose",
+                    "",
+                    "Jetpack Compose",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "This article talks about how to create an Android MRZ text scanner in Jetpack Compose with CameraX and Dynamsoft Label Recognizer.",
+                    "本文讨论如何使用Jetpack Compose，基于CameraX和Dynamsoft Label Recognizer编写一个MRZ文本扫描安卓应用。",
+                    "This article talks about how to create an Android MRZ text scanner in Jetpack Compose with CameraX and Dynamsoft Label Recognizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604333496,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2023\/12\/mrz-scanner-jetpack-compose.jpg",
+                    "",
+                    ".\/img\/2023\/12\/mrz-scanner-jetpack-compose.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Jetpack Compose is Android's recommended modern toolkit for building native UI.",
+                    "Jetpack Compose是Android推荐的用于构建原生UI的现代工具包。",
+                    "Jetpack Compose is Android's recommended modern toolkit for building native UI.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604283874,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It simplifies and accelerates UI development on Android.",
+                    "它简化并加速了Android上的UI开发。",
+                    " It simplifies and accelerates UI development on Android.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604290121,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to create an MRZ text scanner in Jetpack Compose with CameraX for camera access and <g1>Dynamsoft Label Recognizer<\/g1> to perform OCR.",
+                    "在本文中，我们将编写一个Jetpack Compose MRZ文本扫描应用。使用CameraX用于访问相机，<g1>Dynamsoft Label Recognizer<\/g1>用于OCR。",
+                    "In this article, we are going to create an MRZ text scanner in Jetpack Compose with CameraX for camera access and <g1>Dynamsoft Label Recognizer<\/g1> to perform OCR.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604381067,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Note:",
+                    "注:",
+                    "Note:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1631252979645,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "MRZ stands for machine-readable zone.",
+                    "MRZ是machine-readable zone（机器可读区域）的缩写。",
+                    " MRZ stands for machine-readable zone.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604409058,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "We can find it on ID cards, Visa cards and Passports.",
+                    "我们可以在身份证、Visa卡和护照上找到它。",
+                    " We can find it on ID cards, Visa cards and Passports.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604412770,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "It is a special zone designed for machines to get the info of its owner.",
+                    "这是一个专门为机器设计的区域，用于获取其所有者的信息。",
+                    " It is a special zone designed for machines to get the info of its owner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604419794,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Here is a video of the final result:",
+                    "以下是最终结果的视频：",
+                    "Here is a video of the final result:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604425987,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604429867,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Open Android Studio and create a new project with an empty compose activity.",
+                    "打开Android Studio，创建一个empty compose activity的新项目。",
+                    "Open Android Studio and create a new project with an empty compose activity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604463352,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Open <g1>settings.gradle<\/g1> to add Dynamsoft's maven repository.",
+                    "打开<g1>settings.gradle<\/g1>添加Dynamsoft的maven仓库。",
+                    "Open <g1>settings.gradle<\/g1> to add Dynamsoft's maven repository.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604481153,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Add CameraX and Dynamsoft Label Recognizer to the module's <g1>build.gradle<\/g1>.",
+                    "将CameraX和Dynamsoft Label Recognizer添加到模块的<g1>build.gradle<\/g1>。",
+                    "Add CameraX and Dynamsoft Label Recognizer to the module's <g1>build.gradle<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604499608,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Request Camera Permission",
+                    "请求相机权限",
+                    "Request Camera Permission",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604505530,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "We have to request camera permission to use the camera.",
+                    "需要申请相机权限才能使用相机。",
+                    "We have to request camera permission to use the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604525765,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Declare the camera permission in <g1>AndroidManifest.xml<\/g1>.",
+                    "在<g1>AndroidManifest.xml<\/g1>中声明相机权限。",
+                    "Declare the camera permission in <g1>AndroidManifest.xml<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604533096,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "In <g1>MainActivity.kt<\/g1>, add a <g2>hasCameraPermission<\/g2> state.",
+                    "在<g1>MainActivity.kt<\/g1>中，添加<g2>hasCameraPermission<\/g2>状态。",
+                    "In <g1>MainActivity.kt<\/g1>, add a <g2>hasCameraPermission<\/g2> state.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604543520,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Define a launcher to request the permission.",
+                    "定义一个启动器来请求权限。",
+                    "Define a launcher to request the permission.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604546218,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "The launcher is called when the app starts using <g1>LaunchedEffect<\/g1>.",
+                    "在<g1>LaunchedEffect<\/g1>中调用它，这样程序启动时会请求权限。",
+                    "The launcher is called when the app starts using <g1>LaunchedEffect<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604606892,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Open Camera Preview",
+                    "打开相机预览",
+                    "Open Camera Preview",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604609506,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Next, let's open the camera and display the preview.",
+                    "接下来，让我们打开相机并显示预览。",
+                    "Next, let's open the camera and display the preview.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604613738,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Add the <g1>PreviewView<\/g1> to do this.",
+                    "需要添加<g1>PreviewView<\/g1>来显示预览。",
+                    "Add the <g1>PreviewView<\/g1> to do this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604639412,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "It is mounted only after the camera permission is granted.",
+                    "只有在授予相机权限后才显示它。",
+                    " It is mounted only after the camera permission is granted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604649297,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Use Dynamsoft Label Recognizer to Recognize MRZ Text from Bitmap",
+                    "使用Dynamsoft Label Recognizer从Bitmap识别MRZ文本",
+                    "Use Dynamsoft Label Recognizer to Recognize MRZ Text from Bitmap",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604664404,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "We need to set up Dynamsoft Label Recognizer as an MRZ recognizer to recognize MRZ from camera frames as <g1>Bitmap<\/g1>.",
+                    "需要调整下Dynamsoft Label Recoginzer，让它可以从转为Bitmap的相机视频帧识别MRZ。",
+                    "We need to set up Dynamsoft Label Recognizer as an MRZ recognizer to recognize MRZ from camera frames as <g1>Bitmap<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604725212,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Create a new Java class named <g1>MRZRecognizer<\/g1>.",
+                    "创建一个名为<g1>MRZRecognizer<\/g1>的新的Java类。",
+                    "Create a new Java class named <g1>MRZRecognizer<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604732589,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Copy the MRZ model files in the <g1>assets<\/g1> folder.",
+                    "复制MRZ模型文件到<g1>assets<\/g1>文件夹。",
+                    "Copy the MRZ model files in the <g1>assets<\/g1> folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604755163,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "You can find the model files <g2>here<\/g2>.",
+                    "可以在<g2>此处<\/g2>找到模型文件。",
+                    " You can find the model files <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604762555,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Activate with a license.",
+                    "使用许可证激活。",
+                    "Activate with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604766121,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请许可证。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604777689,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Create a new instance of Label Recognizer and update its runtime settings as an MRZ recognizer with a JSON template.",
+                    "创建一个新的Label Recognizer实例，并使用JSON模板修改它的默认设置，让它可以识别MRZ。",
+                    "Create a new instance of Label Recognizer and update its runtime settings as an MRZ recognizer with a JSON template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604801759,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "We also need to load the model files for MRZ.",
+                    "我们还需要加载MRZ的模型文件。",
+                    "We also need to load the model files for MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604806713,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Add a public method to recognize text from a bitmap.",
+                    "添加一个公共方法来识别Bitmap。",
+                    "Add a public method to recognize text from a bitmap.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604816395,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Create an Image Analyser for CameraX to Read MRZ from Camera Frames",
+                    "为CameraX创建图像分析器以从相机帧读取MRZ",
+                    "Create an Image Analyser for CameraX to Read MRZ from Camera Frames",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604818578,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "CameraX needs an image analyzer instance to process camera frames.",
+                    "CameraX需要一个图像分析器实例来处理相机帧。",
+                    "CameraX needs an image analyzer instance to process camera frames.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604824913,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Here, we can create a new MRZAnalyzer class extending CameraX's <g1>ImageAnalysis.Analyzer<\/g1>",
+                    "在这里，我们可以创建一个新的MRZAnalyzer类，扩展CameraX的<g1>ImageAnalysis.Analyzer<\/g1>。",
+                    " Here, we can create a new MRZAnalyzer class extending CameraX's <g1>ImageAnalysis.Analyzer<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604859300,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "We have to convert the camera frames in the <g1>ImageProxy<\/g1> format into a bitmap.",
+                    "需要将<g1>ImageProxy<\/g1>格式的相机帧转换为Bitmap。",
+                    "We have to convert the camera frames in the <g1>ImageProxy<\/g1> format into a bitmap.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604879333,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "The <g1>BitmapUtils<\/g1> class used:",
+                    "用到的<g1>BitmapUtils<\/g1>类：",
+                    "The <g1>BitmapUtils<\/g1> class used:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604898568,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Dependent <g1>FrameMetadata.java<\/g1>:",
+                    "依赖的<g1>FrameMetadata.java<\/g1>文件：",
+                    "Dependent <g1>FrameMetadata.java<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702605204859,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Then in <g1>MainActivity<\/g1>, add the image analysis instance to the lifecycle of CameraX.",
+                    "然后在<g1>MainActivity<\/g1>中，将图像分析实例添加到CameraX的生命周期中。",
+                    "Then in <g1>MainActivity<\/g1>, add the image analysis instance to the lifecycle of CameraX.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604911618,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "The scanned result will be displayed in a <g1>Text<\/g1>.",
+                    "扫描结果将显示在<g1>Text<\/g1>控件中。",
+                    "The scanned result will be displayed in a <g1>Text<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1702604930347,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Check out the source code of the demo to have a try:",
+                    "查看demo的源代码并尝试使用：",
+                    "Check out the source code of the demo to have a try: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/mrz-text-scanner-in-jetpack-compose.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604948138,
+                        "id": "tu35"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
