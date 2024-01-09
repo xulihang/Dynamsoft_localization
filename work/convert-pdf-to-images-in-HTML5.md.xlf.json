@@ -1,0 +1,563 @@
+{
+    "filename": "convert-pdf-to-images-in-HTML5.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Convert PDF to Images in HTML5",
+                    "前端转换PDF为图像",
+                    "How to Convert PDF to Images in HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140300698,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2023-12-20 16:03:53 +0800",
+                    "",
+                    "2023-12-20 16:03:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2023-12-20 16:03:53 +0800",
+                    "",
+                    "2023-12-20 16:03:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "PDF",
+                    "",
+                    "PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to covert PDF to images in HTML5 using Dynamic Web TWAIN.",
+                    "本文讨论了如何使用Dynamic Web TWAIN在网页中将PDF转换为图像。",
+                    "The article talks about how to covert PDF to images in HTML5 using Dynamic Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140326922,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2023\/12\/PDF\/pdf2jpg.svg",
+                    "",
+                    ".\/img\/2023\/12\/PDF\/pdf2jpg.svg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Converting PDFs to images is a common task in our daily work.",
+                    "将PDF转换为图像是我们日常工作中的一项常见任务。",
+                    "Converting PDFs to images is a common task in our daily work.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140334760,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can use the images for archiving and further editing like OCR.",
+                    "转换成图像能便于存档或者进一步的编辑，如OCR。",
+                    " We can use the images for archiving and further editing like OCR.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140368248,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "With Dynamic Web TWAIN, a JavaScript document scanning library which has built-in support for various file formats, we can convert PDF to images in HTML5.",
+                    "使用Dynamic Web TWAIN这一内置各种文件格式支持的文档扫描JavaScript库，我们可以在前端将PDF转换为图像。",
+                    " With Dynamic Web TWAIN, a JavaScript document scanning library which has built-in support for various file formats, we can convert PDF to images in HTML5.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140417636,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to write a web demo to do the conversion.",
+                    "在本文中，我们将编写一个demo来进行这一转换。",
+                    "In this article, we are going to write a web demo to do the conversion.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140437025,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Include Dynamic Web TWAIN",
+                    "引入Dynamic Web TWAIN",
+                    "Include Dynamic Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140466298,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "In the head of the HTML, include the library of Dynamic Web TWAIN via CDN.",
+                    "在HTML的head中，从CDN引入Dynamic Web TWAIN的库。",
+                    "In the head of the HTML, include the library of Dynamic Web TWAIN via CDN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140486419,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Initialize Dynamic Web TWAIN",
+                    "初始化Dynamic Web TWAIN",
+                    "Initialize Dynamic Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140499250,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Add a container for holding the controls of Web TWAIN in HTML.",
+                    "在HTML代码中添加一个容器，以存放Web TWAIN的控件。",
+                    "Add a container for holding the controls of Web TWAIN in HTML.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140526139,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Load Dynamic Web TWAIN and bind its controls to the container.",
+                    "加载Dynamic Web TWAIN并将其控件绑定到这一容器。",
+                    "Load Dynamic Web TWAIN and bind its controls to the container.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140537163,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "A product key is needed.",
+                    "需要一个产品密钥。",
+                    " A product key is needed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140544536,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "You can apply for one <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请。",
+                    " You can apply for one <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140550810,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Load PDF Files",
+                    "加载PDF文件",
+                    "Load PDF Files",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140554609,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Next, we can load PDF files into Web TWAIN's buffer using its <g1>LoadImageEX<\/g1> method.",
+                    "接下来，我们可以使用<g1>LoadImageEX<\/g1>方法将PDF文件加载到Web TWAIN的缓冲区中。",
+                    "Next, we can load PDF files into Web TWAIN's buffer using its <g1>LoadImageEX<\/g1> method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140556312,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "There are several options we can configure for reading PDF files.",
+                    "有一些读取PDF文件的选项可以配置。",
+                    "There are several options we can configure for reading PDF files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140600091,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Convert Mode:",
+                    "转换模式：",
+                    "Convert Mode:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140603121,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Image only.",
+                    "仅图像(image only)。",
+                    "Image only.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140650186,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Directly extract the images in PDF files.",
+                    "直接提取PDF文件中的图像。",
+                    " Directly extract the images in PDF files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140608193,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Render all.",
+                    "渲染所有(render all)。",
+                    "Render all.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140659666,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Render pages into images.",
+                    "将页面渲染为图像。",
+                    " Render pages into images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140616488,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "The output image's resolution and bit-depth might be different from its original values.",
+                    "输出图像的分辨率和位深度可能与其原始值不同。",
+                    " The output image's resolution and bit-depth might be different from its original values.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140620832,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Auto.",
+                    "自动(auto)。",
+                    "Auto.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140664618,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Automatically detect which mode to use based on whether the PDF page contains only one image.",
+                    "根据PDF页面是否只包含一个图像，自动判断要使用的模式。",
+                    " Automatically detect which mode to use based on whether the PDF page contains only one image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140637291,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Resolution: specify the DPI for the rendering of pages.",
+                    "分辨率：指定页面渲染的DPI。",
+                    "Resolution: specify the DPI for the rendering of pages.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140679799,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Only valid using the \"Render all\" mode.",
+                    "仅在使用“渲染所有”模式时有效。",
+                    " Only valid using the \"Render all\" mode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140694346,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Render with annotations: render PDF annotations.",
+                    "带标记的渲染：渲染PDF中的标记或者注释。",
+                    "Render with annotations: render PDF annotations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140711027,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Password: for encrypted PDFs.",
+                    "密码：用于加密的PDF。",
+                    "Password: for encrypted PDFs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140714881,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "We can add controls for configuring the options before calling the <g1>LoadImageEX<\/g1> method.",
+                    "在页面中添加相关元素进行配置，并在调用<g1>LoadImageEX<\/g1>方法前应用配置。",
+                    "We can add controls for configuring the options before calling the <g1>LoadImageEX<\/g1> method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140781587,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Export as JPG Files",
+                    "导出为JPG文件",
+                    "Export as JPG Files",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140790808,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Next, we can export the images in the buffer as JPG files.",
+                    "接下来，我们可以将缓冲区中的图像导出为JPG文件。",
+                    "Next, we can export the images in the buffer as JPG files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140792729,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "We have to convert them into blob and download them.",
+                    "我们可以将它们转换为blob并下载它们。",
+                    " We have to convert them into blob and download them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1703140801987,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Get the source code of the demo to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demo to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/output\/convert-pdf-to-images-in-HTML5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu27"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

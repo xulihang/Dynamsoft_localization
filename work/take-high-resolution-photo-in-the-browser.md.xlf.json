@@ -1,0 +1,607 @@
+{
+    "filename": "take-high-resolution-photo-in-the-browser.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Take a High-Resolution Photo in the Browser",
+                    "如何在浏览器中拍摄高分辨率照片",
+                    "How to Take a High-Resolution Photo in the Browser",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765423101,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-01-08 14:35:53 +0800",
+                    "",
+                    "2024-01-08 14:35:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-01-08 14:35:53 +0800",
+                    "",
+                    "2024-01-08 14:35:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Resolution",
+                    "",
+                    "Resolution",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to take a high-resolution photo in the browser, which can be used for scanning documents.",
+                    "本文介绍了如何在浏览器中拍摄符合文档扫描要求的高分辨率照片。",
+                    "The article talks about how to take a high-resolution photo in the browser, which can be used for scanning documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765470855,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/01\/takephoto\/screenshot.jpg",
+                    "",
+                    ".\/img\/2024\/01\/takephoto\/screenshot.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "As the web platform develops, we can build rich kinds of applications on it.",
+                    "随着Web平台的发展，我们可以在其上构建丰富的应用程序。",
+                    "As the web platform develops, we can build rich kinds of applications on it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765485982,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can build a web app like a barcode scanner or a document scanner using the <g1>getUserMedia<\/g1> API to get camera frames for live analysis.",
+                    "比如我们可以编写条码扫描或文档扫描的Web应用，使用<g1>getUserMedia<\/g1>获取视频帧以用于实时分析。",
+                    " We can build a web app like a barcode scanner or a document scanner using the <g1>getUserMedia<\/g1> API to get camera frames for live analysis.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765556223,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "While a barcode scanner may not require high resolution, a document scanner often requires taking a high-resolution photo.",
+                    "条码扫描可能不需要高分辨率，但文档扫描通常需要拍摄高分辨率的照片。",
+                    "While a barcode scanner may not require high resolution, a document scanner often requires taking a high-resolution photo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765569103,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a demo web app to illustrate ways to take a high-resolution photo in the browser.",
+                    "在本文中，我们将构建一个demo web应用，以说明在浏览器中拍摄高分辨率照片的方法。",
+                    "In this article, we are going to build a demo web app to illustrate ways to take a high-resolution photo in the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765591352,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "It mainly uses the following ways:",
+                    "它主要使用以下方式：",
+                    " It mainly uses the following ways:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765598006,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Use WebRTC's <g1>getUserMedia<\/g1> to start the camera preview in a <g2>video<\/g2> element and capture a frame with a <g3>canvas<\/g3> element.",
+                    "使用WebRTC的<g1>getUserMedia<\/g1>在<g2>video<\/g2>元素中开启相机预览，并使用<g3>canvas<\/g3>元素捕获帧。",
+                    "Use WebRTC's <g1>getUserMedia<\/g1> to start the camera preview in a <g2>video<\/g2> element and capture a frame with a <g3>canvas<\/g3> element.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765616695,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "There is also an <g4>Image Capture API<\/g4> which allows taking a photo that has a higher resolution than the camera preview's.",
+                    "有一个<g4>Image Capture API<\/g4>，可以拍摄分辨率高于相机预览的照片。",
+                    " There is also an <g4>Image Capture API<\/g4> which allows taking a photo that has a higher resolution than the camera preview's.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765642687,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "But the API has limited browser support.",
+                    "但该API的浏览器的支持有限。",
+                    " But the API has limited browser support.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765657896,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Use an <g1>input<\/g1> element to call the <g2>HTML Media Capture API<\/g2>, i.e.  <g3><input type=\"file\" name=\"image\" accept=\"image\/*\" capture><\/g3>, which calls the system's camera app to take a photo.",
+                    "使用<g1>input<\/g1>元素调用<g2>HTML Media Capture API<\/g2>，即<g3><input type=“file”name=“image”accept=“image\/*”Capture><\/g3>。它能调用系统的相机应用来拍照。",
+                    "Use an <g1>input<\/g1> element to call the <g2>HTML Media Capture API<\/g2>, i.e.  <g3><input type=\"file\" name=\"image\" accept=\"image\/*\" capture><\/g3>, which calls the system's camera app to take a photo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765687357,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following content:",
+                    "创建一个包含以下内容的新HTML文件：",
+                    "Create a new HTML file with the following content:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1704765701678,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Take a Photo using getUserMedia",
+                    "使用getUserMedia拍照",
+                    "Take a Photo using getUserMedia",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765704389,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Request camera permission when the page is loaded.",
+                    "页面加载完成后，请求相机权限。",
+                    "Request camera permission when the page is loaded.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765721801,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "List camera devices in a <g1>select<\/g1> element.",
+                    "在<g1>select<\/g1>元素中列出相机设备。",
+                    "List camera devices in a <g1>select<\/g1> element.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765728791,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Start the selected camera and display the camera preview in a <g1>video<\/g1> element.",
+                    "启动选定的相机，并在<g1>video<\/g1>元素中显示相机预览。",
+                    "Start the selected camera and display the camera preview in a <g1>video<\/g1> element.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765749063,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Use a <g1>canvas<\/g1> element to capture a frame.",
+                    "使用<g1>canvas<\/g1>元素捕获帧。",
+                    "Use a <g1>canvas<\/g1> element to capture a frame.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765757535,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Append a <g1>canvas<\/g1> element in the HTML and then use it to capture a camera frame and display it in an <g2>img<\/g2> element.",
+                    "在HTML中附加一个<g1>canvas<\/g1>元素，然后使用它来捕获相机帧并在<g2>img<\/g2>元素中显示。",
+                    "Append a <g1>canvas<\/g1> element in the HTML and then use it to capture a camera frame and display it in an <g2>img<\/g2> element.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765770490,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Specify a high resolution so that the frame captured has a high quality.",
+                    "指定高分辨率，以捕获高质量的视频帧。",
+                    "Specify a high resolution so that the frame captured has a high quality.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765799511,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "We can define several common resolutions in a <g1>select<\/g1> and try to use the selected resolution.",
+                    "我们可以在<g1>select<\/g1>中定义几个常见的分辨率，并尝试使用所选的分辨率。",
+                    "We can define several common resolutions in a <g1>select<\/g1> and try to use the selected resolution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765809571,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "We need to specify the resolution in the constraints for <g1>getUserMadia<\/g1>.",
+                    "我们需要在<g1>getUserMadia<\/g1>的约束中指定分辨率。",
+                    "We need to specify the resolution in the constraints for <g1>getUserMadia<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765827631,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Take a photo using the Image Capture API",
+                    "使用Image Capture API拍照",
+                    "Take a photo using the Image Capture API",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765838028,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "If the browser supports the Image Capture API, we can use it to take a photo instead of capturing a frame with canvas.",
+                    "如果浏览器支持Image Capture API，我们可以使用它来拍照，而不是用canvas来捕捉帧。",
+                    "If the browser supports the Image Capture API, we can use it to take a photo instead of capturing a frame with canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765848930,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Display the size of the image taken.",
+                    "显示所拍摄图像的大小。",
+                    "Display the size of the image taken.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765852709,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Take a Photo using input Element",
+                    "使用input元素拍照",
+                    "Take a Photo using input Element",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765862502,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Add an <g1>input<\/g1> element for selecting an image file.",
+                    "添加用于选择图像文件的<g1>input<\/g1>元素。",
+                    "Add an <g1>input<\/g1> element for selecting an image file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765870916,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "The <g1>input<\/g1> element is hidden and triggered with a button.",
+                    "这里这个<g1>input<\/g1>元素被隐藏，并通过按钮触发。",
+                    "The <g1>input<\/g1> element is hidden and triggered with a button.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704765881851,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "When an image file is selected, load it into an <g1>img<\/g1> element.",
+                    "选择图像文件后，将其加载到<g1>img<\/g1>元素中。",
+                    "When an image file is selected, load it into an <g1>img<\/g1> element.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704766167014,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Which to Use",
+                    "使用哪种方式",
+                    "Which to Use",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704766182648,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "If you need to do live image processing before taking a photo, you have to use the <g1>getUserMedia<\/g1> approach.",
+                    "如果需要在拍照前进行实时图像处理，则需要使用<g1>getUserMedia<\/g1>方法。",
+                    "If you need to do live image processing before taking a photo, you have to use the <g1>getUserMedia<\/g1> approach.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704766258062,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "If you only need to take a high-resolution photo, you can use the <g1>input<\/g1> element.",
+                    "如果只需要拍摄高分辨率的照片，可以使用<g1>input<\/g1>元素。",
+                    "If you only need to take a high-resolution photo, you can use the <g1>input<\/g1> element.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704766231923,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Get the source code of the demo to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demo to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "There is also a document scanner demo which can capture high-resolution photos:",
+                    "还有一个文档扫描的demo应用，可以捕捉高分辨率照片：",
+                    "There is also a document scanner demo which can capture high-resolution photos:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704766276264,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    ".",
+                    "。",
+                    " <x1\/>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704766296813,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "It uses <g1>Dynamsoft Document Normalizer<\/g1> to detect document boundaries and correct the document image.",
+                    "它使用<g1>Dynamsoft Document Normalizer<\/g1>检测文档边界并更正文档图像。",
+                    " It uses <g1>Dynamsoft Document Normalizer<\/g1> to detect document boundaries and correct the document image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/take-high-resolution-photo-in-the-browser.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1704766301885,
+                        "id": "tu34"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
