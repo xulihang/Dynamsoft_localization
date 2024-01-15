@@ -1,0 +1,1211 @@
+{
+    "filename": "web-document-scanner-with-opencvjs.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Web Document Scanner with OpenCV.js",
+                    "基于OpenCV.js编写一个文档扫描Web应用",
+                    "Web Document Scanner with OpenCV.js",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705300939033,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-01-11 16:51:53 +0800",
+                    "",
+                    "2024-01-11 16:51:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-01-11 16:51:53 +0800",
+                    "",
+                    "2024-01-11 16:51:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "OpenCV",
+                    "",
+                    "OpenCV",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a JavaScript library to use OpenCV to detect document boundaries and correct document images, which can be used with Dynamsoft Document Viewer to build a web document scanner.",
+                    "本文讨论了如何构建一个使用OpenCV来检测文档边界并更正文档图像的JavaScript库。该库可与Dynamsoft Document Viewer一起用于构建文档扫描Web应用。",
+                    "The article talks about how to build a JavaScript library to use OpenCV to detect document boundaries and correct document images, which can be used with Dynamsoft Document Viewer to build a web document scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301425703,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/01\/opencv\/screenshot.jpg",
+                    "",
+                    ".\/img\/2024\/01\/opencv\/screenshot.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "OpenCV is an open-source computer vision and machine learning software library.",
+                    "OpenCV是一个开源的计算机视觉和机器学习软件库。",
+                    "OpenCV is an open-source computer vision and machine learning software library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301443349,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It provides various image processing methods for us to solve different tasks.",
+                    "它为我们解决不同的任务提供了各种图像处理方法。",
+                    " It provides various image processing methods for us to solve different tasks.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301450877,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a web document scanner with the JavaScript version of OpenCV.",
+                    "在本文中，我们将使用OpenCV的JavaScript版本编写一个文档扫描Web应用。",
+                    "In this article, we are going to build a web document scanner with the JavaScript version of OpenCV.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301470544,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "A JavaScript library is made first and then used together with <g1>Dynamsoft Document Viewer<\/g1> to create a document scanner with features like live detection, auto capture, and document polygon editing.",
+                    "首先编写了一个JavaScript库，然后与<g1>Dynamsoft Document Viewer<\/g1>一起使用，实现一个具有实时检测、自动捕获和文档多边形编辑等功能的文档扫描应用。",
+                    " A JavaScript library is made first and then used together with <g1>Dynamsoft Document Viewer<\/g1> to create a document scanner with features like live detection, auto capture, and document polygon editing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301508881,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301513581,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Create a new project with Vite and the typescript template:",
+                    "使用Vite创建一个新的TypeScript项目：",
+                    "Create a new project with Vite and the typescript template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301541196,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Include OpenCV",
+                    "包含OpenCV",
+                    "Include OpenCV",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301552141,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "In <g1>index.html<\/g1> which is used for development, include OpenCV.",
+                    "在用于开发测试的<g1>index.html<\/g1>中，包含OpenCV。",
+                    "In <g1>index.html<\/g1> which is used for development, include OpenCV.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301570127,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Document Scanner Class",
+                    "文档扫描类",
+                    "Document Scanner Class",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301578911,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Next, create a <g1>document-scanner.ts<\/g1> file for the <g2>DocumentScanner<\/g2> class.",
+                    "接下来，创建一个<g2>document-scanner.ts<\/g2>文件。<g1><\/g1>",
+                    "Next, create a <g1>document-scanner.ts<\/g1> file for the <g2>DocumentScanner<\/g2> class.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301606488,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "In the constructor, add a property called <g1>cv<\/g1> to use the <g2>cv<\/g2> namespace to perform related functions.",
+                    "在构造函数中，添加一个名为<g1>cv<\/g1>的属性，以使用<g2>cv<\/g2>命名空间来执行相关函数。",
+                    "In the constructor, add a property called <g1>cv<\/g1> to use the <g2>cv<\/g2> namespace to perform related functions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301612765,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Detect Document Boundaries",
+                    "检测文档边界",
+                    "Detect Document Boundaries",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301624877,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Next, add a <g1>detect<\/g1> method to return the four corner points of a document.",
+                    "接下来，添加<g1>detect<\/g1>方法以返回文档的四个角点。",
+                    "Next, add a <g1>detect<\/g1> method to return the four corner points of a document.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301628357,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Then, let's implement the method in steps.",
+                    "然后，让我们分步骤实现该方法。",
+                    "Then, let's implement the method in steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301637381,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Read the image as mat from an image element or a canvas element.",
+                    "从img或canvas读取图像为OpenCV用的mat类型。",
+                    "Read the image as mat from an image element or a canvas element.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301716924,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Convert the image to grayscale.",
+                    "将图像转换为灰度。",
+                    "Convert the image to grayscale.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301695941,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Perform Gaussian blur to remove noise.",
+                    "执行高斯模糊以去除噪点。",
+                    "Perform Gaussian blur to remove noise.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301740718,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Perform threshold to get a binary image.",
+                    "执行threshold操作以获得二值化的图像。",
+                    "Perform threshold to get a binary image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301775751,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Find the contours and get the biggest one as the document candidate.",
+                    "寻找轮廓并将最大的轮廓作为候选文档。",
+                    "Find the contours and get the biggest one as the document candidate.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301801944,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Get the corner points by calculating the distance of points to the center point.",
+                    "通过计算点到中心点的距离来获得角点。",
+                    "Get the corner points by calculating the distance of points to the center point.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301813733,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Store them in an array according to the clockwise direction.",
+                    "将它们按顺时针方向存储在一个数组中。",
+                    " Store them in an array according to the clockwise direction.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301831137,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "The functions needed:",
+                    "所需的函数：",
+                    "The functions needed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301847207,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Release the memory and return the points.",
+                    "释放内存并返回角点。",
+                    "Release the memory and return the points.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301858078,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Correct the Document Image",
+                    "更正文档图像",
+                    "Correct the Document Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301860741,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Next, add a <g1>crop<\/g1> method to run perspective transformation to get a deskewed and cropped image.",
+                    "接下来，添加一个<g1>crop<\/g1>方法来运行透视变换，以获得一个矫正好的图像。",
+                    "Next, add a <g1>crop<\/g1> method to run perspective transformation to get a deskewed and cropped image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301900335,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Let's talk about the details in steps.",
+                    "让我们分步骤讨论实现细节。",
+                    "Let's talk about the details in steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301916471,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Run <g1>detect<\/g1> to get the points if it is not provided in the argument.",
+                    "如果参数中没有预先提供角点，运行<g1>detect<\/g1>以获取文档的角点。",
+                    "Run <g1>detect<\/g1> to get the points if it is not provided in the argument.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301948498,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Determine the width and height of the output image.",
+                    "确定输出图像的宽度和高度。",
+                    "Determine the width and height of the output image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301953965,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "If the width and height are not specified by the user, then use the longest vertical edge for the height and the longest horizontal edge for the width.",
+                    "如果用户未指定宽度和高度，则使用最长的垂直边提供高度，使用最长的水平边提供宽度。",
+                    "If the width and height are not specified by the user, then use the longest vertical edge for the height and the longest horizontal edge for the width.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301980062,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Create a transformation matrix.",
+                    "创建一个转换矩阵。",
+                    "Create a transformation matrix.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301987517,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Perform perspective transformation.",
+                    "执行透视转换。",
+                    "Perform perspective transformation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301990717,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Draw the result into a canvas element.",
+                    "将结果绘制到canvas元素中。",
+                    "Draw the result into a canvas element.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705301997022,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Release the memory and return the canvas.",
+                    "释放内存并返回canvas。",
+                    "Release the memory and return the canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302003357,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Use the Document Scanner",
+                    "使用文档扫描类",
+                    "Use the Document Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302011846,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "We can now use the document scanner to get the cropped document image.",
+                    "我们现在可以使用这个类来获取裁剪后的文档图像。",
+                    "We can now use the document scanner to get the cropped document image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302020051,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Example:",
+                    "例子：",
+                    "Example:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302028973,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "<x1\/>Cropped<x2\/>",
+                    "<x1\/>裁剪的<x2\/>",
+                    "<x1\/>Cropped<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698731392448,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Web Document Scanner with Dynamsoft Document Viewer",
+                    "基于Dynamsoft Document Viewer的文档扫描Web应用",
+                    "Web Document Scanner with Dynamsoft Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302051896,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Dynamsoft Document Viewer provides several viewers for the document scanning process.",
+                    "Dynamsoft Document Viewer为文档扫描过程提供了多个组件。",
+                    "Dynamsoft Document Viewer provides several viewers for the document scanning process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302067326,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "We can use its <g1>Capture Viewer<\/g1> to create a live document scanner with the camera and its <g2>Perspective Viewer<\/g2> to edit the detected document polygon.",
+                    "我们可以使用它的<g1>Capture Viewer<\/g1>实现带有相机控制的实时文档扫描功能，并使用它的<g2>Perspective Viewer<\/g2>编辑检测到的文档多边形。",
+                    " We can use its <g1>Capture Viewer<\/g1> to create a live document scanner with the camera and its <g2>Perspective Viewer<\/g2> to edit the detected document polygon.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302131135,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Live Scanning",
+                    "实时扫描",
+                    "Live Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302140525,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Dynamsoft Document Viewer allows integrating third-party document-detecting libraries by defining a processing handler.",
+                    "Dynamsoft Document Viewer允许通过定义handler来集成第三方文档检测库。",
+                    "Dynamsoft Document Viewer allows integrating third-party document-detecting libraries by defining a processing handler.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302161855,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "You can find an example of using Dynamsoft Document Normalizer <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>找到使用Dynamsoft Document Normalizer的示例。",
+                    " You can find an example of using Dynamsoft Document Normalizer <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302178576,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "We are going to write a processing handler for the OpenCV version we just created so that we can use Capture Viewer to scan documents.",
+                    "我们将编写一个handler，以便使用刚编写的OpenCV的文档检测类和Capture Viewer来扫描文档。",
+                    "We are going to write a processing handler for the OpenCV version we just created so that we can use Capture Viewer to scan documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302231249,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Capture Viewer can open the camera, draw the detected document boundaries and automatically take a photo if the detected results are steady.",
+                    "Capture Viewer可以打开相机，绘制检测到的文档边界，并在检测结果稳定的时候自动拍照。",
+                    " Capture Viewer can open the camera, draw the detected document boundaries and automatically take a photo if the detected results are steady.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302249488,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Define a Processing Handler",
+                    "定义Handler",
+                    "Define a Processing Handler",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302257503,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Create a new file named <g1>dynamsoft-document-viewer-handler.ts<\/g1> with the following template:",
+                    "使用以下模板创建一个名为<g1>dynamsoft-document-viewer-handler.ts<\/g1>的新文件：",
+                    "Create a new file named <g1>dynamsoft-document-viewer-handler.ts<\/g1> with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302269359,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Scale down the image if its height is larger than 720 pixels to improve performance.",
+                    "如果图像的高度大于720像素，缩小图像以提高性能。",
+                    "Scale down the image if its height is larger than 720 pixels to improve performance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302276703,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Draw the image data onto a canvas for OpenCV to use.",
+                    "将图像数据绘制到canvas上以供OpenCV使用。",
+                    "Draw the image data onto a canvas for OpenCV to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302283447,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Post process and return the results.",
+                    "后处理并返回结果。",
+                    "Post process and return the results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302289575,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "The <g1>processDetectResult<\/g1> method will check whether the detected polygon's size is like a document.",
+                    "使用<g1>processDetectResult<\/g1>处理结果，它能检查检测到的多边形的形状是否接近文档的形状。",
+                    " The <g1>processDetectResult<\/g1> method will check whether the detected polygon's size is like a document.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302339096,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Use Capture Viewer to Capture a Document Image",
+                    "使用Capture Viewer捕获文档图像",
+                    "Use Capture Viewer to Capture a Document Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302357807,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "In <g1>index.html<\/g1>, include the library of Dynamsoft Document Viewer and add a container for Capture Viewer.",
+                    "在<g1>index.html<\/g1>中，包括Dynamsoft Document Viewer的库，并为Capture Viewer添加一个容器。",
+                    "In <g1>index.html<\/g1>, include the library of Dynamsoft Document Viewer and add a container for Capture Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302362869,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Set it up with the following code.",
+                    "使用以下代码进行设置。",
+                    "Set it up with the following code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302369893,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "You can apply for your own license <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请自己的证书。",
+                    " You can apply for your own license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302378567,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "A document object is created which is opened by the viewers.",
+                    "这里还创建了一个document对象，Capture Viewer等组件会显示和操作这个对象里的图片。",
+                    "A document object is created which is opened by the viewers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302467057,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "We can add images into it and they will be displayed in the viewers.",
+                    " ",
+                    " We can add images into it and they will be displayed in the viewers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302492190,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Set the document detecting handler with the one we just created.",
+                    "将文档检测的Handler设置为我们刚刚创建的版本。",
+                    "Set the document detecting handler with the one we just created.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302514839,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Create a function to get the cropped document image.",
+                    "创建一个函数来获取裁剪后的文档图像。",
+                    "Create a function to get the cropped document image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302519997,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Add a listener for the <g1>captured<\/g1> event of Capture Viewer.",
+                    "为Capture Viewer的<g1>captured<\/g1>事件添加侦听器。",
+                    "Add a listener for the <g1>captured<\/g1> event of Capture Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302529304,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "When a photo is taken, load it into an image element and get the cropped image.",
+                    "拍得照片时，将其加载到img元素中，并获得裁剪后的图像。",
+                    " When a photo is taken, load it into an image element and get the cropped image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302549615,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "Start Capture Viewer if the <g1>live scan<\/g1> button is clicked.",
+                    "<g1>Live Scan<\/g1>按钮被点击时启动Capture Viewer。",
+                    "Start Capture Viewer if the <g1>live scan<\/g1> button is clicked.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302582879,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "We can see that the detection handler we define can work with Capture Viewer now.",
+                    "我们可以看到，我们定义的Handler可以和Capture Viewer一起工作了。",
+                    "We can see that the detection handler we define can work with Capture Viewer now.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302606008,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "<x1\/>Screenshot<x2\/>",
+                    "<x1\/>屏幕截图<x2\/>",
+                    "<x1\/>Screenshot<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619328925925,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "Polygon Editing",
+                    "多边形编辑",
+                    "Polygon Editing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302612013,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Sometimes, we may need to fine-tune the detected polygon of the document.",
+                    "有时我们可能需要对检测到的文档的多边形进行微调。",
+                    "Sometimes, we may need to fine-tune the detected polygon of the document.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302620798,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "We can use Perspective Viewer to do this.",
+                    "我们可以使用Perspective Viewer来完成此操作。",
+                    " We can use Perspective Viewer to do this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302631861,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Add a container for Perspective Viewer.",
+                    "为Perspective Viewer添加一个容器。",
+                    "Add a container for Perspective Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302638912,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Set it up with the following code.",
+                    "使用以下代码进行设置。",
+                    "Set it up with the following code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302641909,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "Its UI like the buttons on the toolbar can be customized with <g1>UIConfig<\/g1>.",
+                    "它的UI（如工具栏上的按钮）可以使用<g1>UIConfig<\/g1>进行自定义。",
+                    "Its UI like the buttons on the toolbar can be customized with <g1>UIConfig<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302655301,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Here, we just keep the <g2>perspectiveAll<\/g2> button as the button for confirmation.",
+                    "在这里，我们只保留<g2>perspectiveAll<\/g2>按钮作为确认按钮。",
+                    " Here, we just keep the <g2>perspectiveAll<\/g2> button as the button for confirmation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302657733,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Add a listener for the <g1>done<\/g1> event of Perspective Viewer.",
+                    "为Perspective Viewer的<g1>done<\/g1>事件添加侦听器。",
+                    "Add a listener for the <g1>done<\/g1> event of Perspective Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302668263,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "When the editing is done, use the adjusted points of the polygon to get the cropped image.",
+                    "编辑完成后，使用调整过后的多边形的角点来获得裁剪的图像。",
+                    " When the editing is done, use the adjusted points of the polygon to get the cropped image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302684952,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "Modify the listener for the <g1>captured<\/g1> event of Capture Viewer to use Perspective Viewer to edit the polygon.",
+                    "修改Capture Viewer的<g1>captured<\/g1>事件的侦听器，以使用Perspective Viewer编辑多边形。",
+                    "Modify the listener for the <g1>captured<\/g1> event of Capture Viewer to use Perspective Viewer to edit the polygon.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302712430,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "Added functions:",
+                    "添加的函数：",
+                    "Added functions:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302720734,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "Screenshot:",
+                    "屏幕截图：",
+                    "Screenshot:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581565878,
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "<x1\/>Polygon editor<x2\/>",
+                    "<x1\/>多边形编辑器<x2\/>",
+                    "<x1\/>Polygon editor<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302731973,
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "Package as a Library",
+                    "打包为库",
+                    "Package as a Library",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302734701,
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "We can publish it as a library onto NPM for ease of use.",
+                    "为了便于使用，我们可以将其作为库发布到NPM上。",
+                    "We can publish it as a library onto NPM for ease of use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302737037,
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "Install <g1>devDependencies<\/g1>:",
+                    "安装<g1>devDependencies<\/g1> ：",
+                    "Install <g1>devDependencies<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302747436,
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "Create a new <g1>vite.config.ts<\/g1> file:",
+                    "创建一个新的<g1>vite.config.ts<\/g1>文件：",
+                    "Create a new <g1>vite.config.ts<\/g1> file:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302753549,
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "Add the entry points of our package to <g1>package.json<\/g1>.",
+                    "将我们的包的入口点添加到<g1>package.json<\/g1>。",
+                    "Add the entry points of our package to <g1>package.json<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302763192,
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "Run <g1>npm run build<\/g1>.",
+                    "运行<g1>npm run build<\/g1>。",
+                    "Run <g1>npm run build<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302770053,
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "Then, we can have the packaged files in the <g2>dist<\/g2>.",
+                    "然后，我们可以在<g2>dist<\/g2>文件夹中看到打包好的文件。",
+                    " Then, we can have the packaged files in the <g2>dist<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302793717,
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "Limitation",
+                    "局限",
+                    "Limitation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302803960,
+                        "id": "tu72"
+                    }
+                ],
+                [
+                    "The algorithm is very basic.",
+                    "该算法比较基础。",
+                    "The algorithm is very basic.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302812797,
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "It works well scanning a white document on a dark background.",
+                    "在深色背景下扫描白色文档的效果很好。",
+                    " It works well scanning a white document on a dark background.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302822680,
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "But it does not scanning on a complex background.",
+                    "但背景复杂的话效果就不行了。",
+                    " But it does not scanning on a complex background.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302838827,
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "For more complicated cases, we can use Dynamsoft Document Normalizer instead to achieve a better result.",
+                    "对于更复杂的情况，我们可以使用Dynamsoft Document Normalizer来获得更好的结果。",
+                    " For more complicated cases, we can use Dynamsoft Document Normalizer instead to achieve a better result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302849013,
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "Scanning Test with OpenCV (<g1>demo link<\/g1>):",
+                    "使用OpenCV进行扫描测试（<g1>demo链接<\/g1>）：",
+                    "Scanning Test with OpenCV (<g1>demo link<\/g1>):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302859749,
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "<x1\/>OpenCV Test<x2\/>",
+                    "<x1\/>OpenCV测试<x2\/>",
+                    "<x1\/>OpenCV Test<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302864093,
+                        "id": "tu75"
+                    }
+                ],
+                [
+                    "Scanning Test with Dynamsoft Document Normalizer (<g1>demo link<\/g1>):",
+                    "使用Dynamsoft Document Normalizer进行扫描测试（<g1>demo链接<\/g1>）：",
+                    "Scanning Test with Dynamsoft Document Normalizer (<g1>demo link<\/g1>):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302871509,
+                        "id": "tu76"
+                    }
+                ],
+                [
+                    "<x1\/>DDN Test<x2\/>",
+                    "<x1\/>DDN测试<x2\/>",
+                    "<x1\/>DDN Test<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705302874485,
+                        "id": "tu77"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu78"
+                    }
+                ],
+                [
+                    "Get the source code of the library to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the library to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/web-document-scanner-with-opencvjs.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu79"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
