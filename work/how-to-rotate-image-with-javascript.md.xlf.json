@@ -1,0 +1,891 @@
+{
+    "filename": "how-to-rotate-image-with-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Rotate an Image with JavaScript",
+                    "如何使用JavaScript旋转图像",
+                    "How to Rotate an Image with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705555764150,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-01-17 14:29:53 +0800",
+                    "",
+                    "2024-01-17 14:29:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-01-17 14:29:53 +0800",
+                    "",
+                    "2024-01-17 14:29:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Image Processing",
+                    "",
+                    "Image Processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "CSS",
+                    "",
+                    "CSS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares three ways to rotate an image with JavaScript:",
+                    "本文分享了使用JavaScript旋转图像的三种方法：",
+                    "The article shares three ways to rotate an image with JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705555798855,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "CSS, Canvas and Dynamic Web TWAIN.",
+                    "CSS、Canvas和Dynamic Web TWAIN。",
+                    " CSS, Canvas and Dynamic Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705555804319,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2023\/10\/deskew\/deskew.svg",
+                    "",
+                    ".\/img\/2023\/10\/deskew\/deskew.svg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Sometimes, we may need to rotate an image on a web page, like showing a loading animation.",
+                    "有时我们需要旋转网页上的图像，比如显示正在加载中的动画。",
+                    "Sometimes, we may need to rotate an image on a web page, like showing a loading animation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705555920544,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In a document-scanning web app, we need to rotate skewed document images or document images scanned in the wrong direction.",
+                    "在文档扫描Web应用中，我们需要旋转倾斜的或扫描方向错误的文档图像。",
+                    " In a document-scanning web app, we need to rotate skewed document images or document images scanned in the wrong direction.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705555945154,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about three ways to rotate an image with JavaScript:",
+                    "在本文中，我们将讨论使用JavaScript旋转图像的三种方法：",
+                    "In this article, we are going to talk about three ways to rotate an image with JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705555958751,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "CSS's Transform Property",
+                    "CSS的Transform属性",
+                    "CSS's Transform Property",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705555964216,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "HTML5's Canvas",
+                    "HTML5的Canvas",
+                    "HTML5's Canvas",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705555970230,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<g1>Dynamic Web TWAIN<\/g1>, a document-scanning SDK",
+                    "<g1>Dynamic Web TWAIN<\/g1> ，一个文档扫描SDK",
+                    "<g1>Dynamic Web TWAIN<\/g1>, a document-scanning SDK",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705555974711,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Build an HTML5 Page to Rotate Images",
+                    "编写一个HTML5页面以旋转图像",
+                    "Build an HTML5 Page to Rotate Images",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705555986570,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Let's build an HTML5 page to do this.",
+                    "让我们编写一个HTML5页面来旋转图像。",
+                    "Let's build an HTML5 page to do this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556006401,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Load an Image File",
+                    "加载图片",
+                    "Load an Image File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556148046,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Add an <g1>input<\/g1> element for selecting files and use a button element to trigger it.",
+                    "添加用于选择文件的<g1>input<\/g1>元素，并使用按钮触发它。",
+                    "Add an <g1>input<\/g1> element for selecting files and use a button element to trigger it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556161209,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "The image file will be loaded into two image elements, one for displaying the rotated result and one for storing the original image.",
+                    "图片将被加载到两个img元素中，一个用于显示旋转的结果，另一个用于存储原始图像。",
+                    " The image file will be loaded into two image elements, one for displaying the rotated result and one for storing the original image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556189607,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Use CSS to Rotate an Image",
+                    "使用CSS旋转图像",
+                    "Use CSS to Rotate an Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556210431,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "We can use the CSS property <g1>transform<\/g1> to rotate an HTML element like the following:",
+                    "我们可以使用CSS属性<g1>transform<\/g1>来旋转HTML元素，用法如下：",
+                    "We can use the CSS property <g1>transform<\/g1> to rotate an HTML element like the following:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556231203,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "We can also specify the <g1>transform-origin<\/g1> CSS property to set the origin of the rotation transform.",
+                    "我们还可以指定<g1>transform-origin<\/g1>这个属性来设置旋转变换的原点。",
+                    "We can also specify the <g1>transform-origin<\/g1> CSS property to set the origin of the rotation transform.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556249275,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "By default, the origin of a transform is center which we will use.",
+                    "默认情况下，变换的原点是图像中心。",
+                    " By default, the origin of a transform is center which we will use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556275570,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Let's implement it in the page.",
+                    "下面是页面中的具体实现。",
+                    "Let's implement it in the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556294163,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Add an <g1>input<\/g1> element for specifying the rotation angle.",
+                    "添加用于指定旋转角度的<g1>input<\/g1>元素。",
+                    "Add an <g1>input<\/g1> element for specifying the rotation angle.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556302606,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Listen to the <g1>change<\/g1> event of the <g2>input<\/g2> element to rotate the image with CSS.",
+                    "监听<g2>input<\/g2>元素的<g1>change<\/g1>事件，用CSS旋转图像。",
+                    "Listen to the <g1>change<\/g1> event of the <g2>input<\/g2> element to rotate the image with CSS.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556362338,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Using CSS does not actually change the image data, so its processing speed is good.",
+                    "使用CSS不会实际上改变图像数据，因此处理速度很快。",
+                    "Using CSS does not actually change the image data, so its processing speed is good.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556386482,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "But it may have an overflow problem blocking other elements.",
+                    "但是它可能存在overflow的问题，会遮盖住其他元素。",
+                    " But it may have an overflow problem blocking other elements.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556420391,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "We can set the overflow CSS property of its container to <g1>auto<\/g1> to avoid blocking other elements but the image will be cut.",
+                    "我们可以将其容器的overflow CSS属性设置为<g1>auto<\/g1>，以避免遮住其他元素，但图像将被剪切。",
+                    " We can set the overflow CSS property of its container to <g1>auto<\/g1> to avoid blocking other elements but the image will be cut.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556434592,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Use Canvas to Rotate an Image",
+                    "使用Canvas旋转图像",
+                    "Use Canvas to Rotate an Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556448898,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "HTML5 provides a <g1>canvas<\/g1> element which provides a way to manipulate image data.",
+                    "HTML5提供了一个<g1>canvas<\/g1>标签，我们可以用它操作图像数据。",
+                    "HTML5 provides a <g1>canvas<\/g1> element which provides a way to manipulate image data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556485369,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "We can use it to actually get a rotated image.",
+                    "我们可以使用它来获得实际旋转后的图像。",
+                    " We can use it to actually get a rotated image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556504284,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Add a hidden <g1>canvas<\/g1> element to the page.",
+                    "向页面添加一个隐藏的<g1>canvas<\/g1>元素。",
+                    "Add a hidden <g1>canvas<\/g1> element to the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556516769,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Add a <g1>select<\/g1> element to select which rotating method to use.",
+                    "添加一个<g1>select<\/g1>元素以选择要使用的旋转方法。",
+                    "Add a <g1>select<\/g1> element to select which rotating method to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556529728,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Rotate an image with <g1>canvas<\/g1> when the selected method is \"Canvas\".",
+                    "当所选方法为\"Canvas\"时，使用<g1>canvas<\/g1>旋转图像。",
+                    "Rotate an image with <g1>canvas<\/g1> when the selected method is \"Canvas\".",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556565640,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Let's now talk about how to actually rotate an image with canvas.",
+                    "下面我们讨论具体如何使用canvas旋转图像。",
+                    "Let's now talk about how to actually rotate an image with canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556585772,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Get the new size of the rotated image.",
+                    "获取新的旋转图像的大小。",
+                    "Get the new size of the rotated image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556597075,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "After rotation, the image will have a new size.",
+                    "旋转后，图像将具有新的大小。",
+                    "After rotation, the image will have a new size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556599815,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "We have to set the canvas's size to match the new size.",
+                    "我们需要设置canvas的大小以匹配新的图像的大小。",
+                    " We have to set the canvas's size to match the new size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556619322,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Suppose we need to rotate an image around its center, we can have to following functions to calculate the new size.",
+                    "假设我们需要围绕图像的中心旋转图像，我们可以使用以下函数来计算新的大小。",
+                    " Suppose we need to rotate an image around its center, we can have to following functions to calculate the new size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556627967,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "First, get the four corner points and calculate their positions after rotation.",
+                    "首先，得到四个角点，并计算它们在旋转后的位置。",
+                    "First, get the four corner points and calculate their positions after rotation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556636895,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Then, get the bounding rect based on the points.",
+                    "然后，基于这些点获得正外接矩形。",
+                    " Then, get the bounding rect based on the points.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556710720,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Set the canvas's size as the rotated image's size.",
+                    "将canvas的大小设置为旋转图像的大小。",
+                    "Set the canvas's size as the rotated image's size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556721442,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Get the context of the canvas to perform actions.",
+                    "获取canvas的context以执行操作。",
+                    "Get the context of the canvas to perform actions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556731041,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Use <g1>translate<\/g1> to set the new <g2>(0,0)<\/g2> position as the center of the canvas.",
+                    "使用<g1>translate<\/g1>将新的<g2>(0,0)<\/g2>原点位置设置为canvas的中心。",
+                    "Use <g1>translate<\/g1> to set the new <g2>(0,0)<\/g2> position as the center of the canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556978635,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Use <g1>rotate<\/g1> to set the transformation matrix.",
+                    "使用<g1>rotate<\/g1>设置变换矩阵。",
+                    "Use <g1>rotate<\/g1> to set the transformation matrix.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556759910,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Use <g1>drawImage<\/g1> to draw the image content.",
+                    "使用<g1>drawImage<\/g1>绘制图像内容。",
+                    "Use <g1>drawImage<\/g1> to draw the image content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556772378,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "We need to specify the x-axis and y-axis coordinates in the destination canvas at which to place the top-left corner of the source image.",
+                    "我们需要指定在目标canvas中放置源图像左上角的x轴和y轴坐标。",
+                    "We need to specify the x-axis and y-axis coordinates in the destination canvas at which to place the top-left corner of the source image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556798899,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "So here, since the new origin is the center of the canvas, we need to use <g1>-imgWidth\/2<\/g1> and <g2>-imgHeight\/2<\/g2>.",
+                    "在这里，由于新原点是canvas的中心，我们需要使用<g1>-imgWidth\/2<\/g1>和<g2>-imgHeight\/2<\/g2>。",
+                    " So here, since the new origin is the center of the canvas, we need to use <g1>-imgWidth\/2<\/g1> and <g2>-imgHeight\/2<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705556949818,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Display the rotated image.",
+                    "显示旋转后的图像。",
+                    "Display the rotated image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557015303,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Use Dynamic Web TWAIN to Rotate an Image",
+                    "使用Dynamic Web TWAIN旋转图像",
+                    "Use Dynamic Web TWAIN to Rotate an Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557023722,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN is a document scanning SDK making it possible to scan documents in the browser.",
+                    "Dynamic Web TWAIN是一个文档扫描SDK，可以在浏览器中扫描文档。",
+                    "Dynamic Web TWAIN is a document scanning SDK making it possible to scan documents in the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557026056,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "It provides various image processing methods.",
+                    "它提供了各种图像处理方法。",
+                    " It provides various image processing methods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557030655,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "We can use its <g1>RotateEx<\/g1> method to rotate an image.",
+                    "我们可以使用其<g1>RotateEx<\/g1>方法旋转图像。",
+                    " We can use its <g1>RotateEx<\/g1> method to rotate an image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557033935,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "The advantage of using it is that it can be used to batch process a large volume of images as the processing is done using a native process.",
+                    "使用它的优点是，它可以用于批量处理大量图像，因为处理是使用本地进程完成的。",
+                    "The advantage of using it is that it can be used to batch process a large volume of images as the processing is done using a native process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557046290,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Here are the steps to use it:",
+                    "以下是使用它的步骤：",
+                    "Here are the steps to use it:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557049840,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Include Dynamic Web TWAIN in the page.",
+                    "在页面中引入Dynamic Web TWAIN。",
+                    "Include Dynamic Web TWAIN in the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557059676,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Add Dynamic Web TWAIN as a new rotation method.",
+                    "添加Dynamic Web TWAIN作为新的旋转方法。",
+                    "Add Dynamic Web TWAIN as a new rotation method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557063983,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "When it is selected as the method for rotation, initialize an instance of Web TWAIN and use it to rotate the image.",
+                    "当选择它作为旋转方法时，初始化一个Web TWAIN的实例并使用它来旋转图像。",
+                    "When it is selected as the method for rotation, initialize an instance of Web TWAIN and use it to rotate the image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557072702,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "You can apply for its license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请其许可证。",
+                    " You can apply for its license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557083386,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "New pixels have to be added during rotation which is called interpolation.",
+                    "在旋转过程中需要添加新的像素，称为插值。",
+                    "New pixels have to be added during rotation which is called interpolation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557092171,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN provides several algorithms to do this.",
+                    "Dynamic Web TWAIN为此提供了几种算法。",
+                    " Dynamic Web TWAIN provides several algorithms to do this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557097031,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "A <g1>select<\/g1> element is added for this.",
+                    "可以添加一个<g1>select<\/g1>元素用于选择使用哪种算法。",
+                    "A <g1>select<\/g1> element is added for this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557126850,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Web TWAIN also has a function to detect the skew angle of a document image.",
+                    "Web TWAIN还具有检测文档图像倾斜角度的功能。",
+                    "Web TWAIN also has a function to detect the skew angle of a document image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557130416,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "We can use it to determine the angle for rotation.",
+                    "我们可以用它来确定需要的旋转角度。",
+                    " We can use it to determine the angle for rotation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705557139629,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "{% include cta_dwt.md %}",
+                    "",
+                    "{% include cta_dwt.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "You can find all the code in the following repo:",
+                    "可以在以下仓库中找到所有代码：",
+                    "You can find all the code in the following repo:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/how-to-rotate-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698731709440,
+                        "id": "tu50"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
