@@ -1,0 +1,691 @@
+{
+    "filename": "how-to-flip-image-with-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Flip an Image with JavaScript",
+                    "如何使用JavaScript翻转图像",
+                    "How to Flip an Image with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989394648,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-01-22 17:19:53 +0800",
+                    "",
+                    "2024-01-22 17:19:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-01-22 17:19:53 +0800",
+                    "",
+                    "2024-01-22 17:19:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Image Processing",
+                    "",
+                    "Image Processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "CSS",
+                    "",
+                    "CSS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares three ways to flip an image with JavaScript:",
+                    "本文分享了使用JavaScript翻转图像的三种方法：",
+                    "The article shares three ways to flip an image with JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989415504,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "CSS, Canvas and Dynamic Web TWAIN.",
+                    "CSS、Canvas和Dynamic Web TWAIN。",
+                    " CSS, Canvas and Dynamic Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989426992,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/01\/flip.svg",
+                    "",
+                    ".\/img\/2024\/01\/flip.svg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Sometimes, we may need to flip a media element in a web app.",
+                    "有时，我们可能需要翻转Web应用中的媒体元素。",
+                    "Sometimes, we may need to flip a media element in a web app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989444114,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "For example, we may need to flip a video element streaming from a camera to match what we actually see or correct scanned document images that are flipped.",
+                    "例如，我们可能需要翻转用于显示相机预览的video元素，以匹配我们实际看到的内容，或者更正翻转的扫描文档的图像。",
+                    " For example, we may need to flip a video element streaming from a camera to match what we actually see or correct scanned document images that are flipped.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989490731,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about three ways to flip an image with JavaScript.",
+                    "在本文中，我们将讨论使用JavaScript翻转图像的三种方法。",
+                    "In this article, we are going to talk about three ways to flip an image with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989500167,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "CSS",
+                    "CSS",
+                    "CSS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989509303,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Canvas",
+                    "Canvas",
+                    "Canvas",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989512983,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<g1>Dynamic Web TWAIN<\/g1>, a document-scanning SDK",
+                    "<g1>Dynamic Web TWAIN<\/g1> ，一个文档扫描SDK",
+                    "<g1>Dynamic Web TWAIN<\/g1>, a document-scanning SDK",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705555974711,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Build an HTML5 Page to Flip Images",
+                    "编写一个HTML5页面以调整翻转图像",
+                    "Build an HTML5 Page to Flip Images",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989567032,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Create a new HTML5 page with the following template and then let's add the image flipping function to it.",
+                    "使用以下模板创建一个新的HTML5页面，然后让我们为其添加翻转图像的功能。",
+                    "Create a new HTML5 page with the following template and then let's add the image flipping function to it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989580776,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Select Desired Direction",
+                    "选择所需方向",
+                    "Select Desired Direction",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989647135,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "We can flip an image in two directions: horizontal and vertical.",
+                    "我们可以在两个方向上翻转图像：水平和垂直。",
+                    "We can flip an image in two directions: horizontal and vertical.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989655288,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "We can add a <g1>select<\/g1> element to select which direction to use.",
+                    "可以添加一个<g1>select<\/g1>元素来选择所需的方向。",
+                    " We can add a <g1>select<\/g1> element to select which direction to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989674514,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Load an Image File",
+                    "加载图片",
+                    "Load an Image File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556148046,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Add an <g1>input<\/g1> element for selecting files and use a button element to trigger it.",
+                    "添加用于选择文件的<g1>input<\/g1>元素，并使用按钮触发它。",
+                    "Add an <g1>input<\/g1> element for selecting files and use a button element to trigger it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556161209,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "The image file will be loaded into an image element.",
+                    "图片将被加载到一个img元素中。",
+                    " The image file will be loaded into an image element.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989695586,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Flip an Image with CSS",
+                    "使用CSS翻转图像",
+                    "Flip an Image with CSS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989704631,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "We can use the CSS property <g1>transform<\/g1> to flip an HTML element like the following:",
+                    "我们可以使用CSS属性<g1>transform<\/g1>来翻转HTML元素，用法如下：",
+                    "We can use the CSS property <g1>transform<\/g1> to flip an HTML element like the following:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989724327,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Here is the code we use in the page to flip the image, which remembers the previous flipping status.",
+                    "下面是在页面中写的用于翻转图像的代码，它会记住之前的翻转状态。",
+                    "Here is the code we use in the page to flip the image, which remembers the previous flipping status.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989754947,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Flip an Image with Canvas",
+                    "使用Canvas翻转图像",
+                    "Flip an Image with Canvas",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989763688,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "HTML5 provides a <g1>canvas<\/g1> element which provides a way to manipulate image data.",
+                    "HTML5提供了一个<g1>canvas<\/g1>标签，我们可以用它操作图像数据。",
+                    "HTML5 provides a <g1>canvas<\/g1> element which provides a way to manipulate image data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989771641,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Unlike CSS which only changes the visual effect, we can use it to actually get a flipped image.",
+                    "与只改变视觉效果的CSS不同，我们可以使用它来实际获得翻转的图像。",
+                    " Unlike CSS which only changes the visual effect, we can use it to actually get a flipped image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989782319,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Add a hidden <g1>canvas<\/g1> element to the page.",
+                    "向页面添加一个隐藏的<g1>canvas<\/g1>元素。",
+                    "Add a hidden <g1>canvas<\/g1> element to the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556516769,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Add a <g1>select<\/g1> element to select which flipping method to use.",
+                    "添加一个<g1>select<\/g1>元素以选择要使用的翻转方法。",
+                    "Add a <g1>select<\/g1> element to select which flipping method to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989798426,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Flip an image with <g1>canvas<\/g1> when the selected method is \"Canvas\".",
+                    "当所选方法为\"Canvas\"时，使用<g1>canvas<\/g1>翻转图像。",
+                    "Flip an image with <g1>canvas<\/g1> when the selected method is \"Canvas\".",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989806665,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Details of flipping an image with canvas.",
+                    "使用Canvas翻转图像的具体步骤：",
+                    "Details of flipping an image with canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989822634,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Set the canvas's size to match the image's size.",
+                    "将canvas的大小设置为图像的大小。",
+                    "Set the canvas's size to match the image's size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989830876,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Get the context of the canvas to perform actions.",
+                    "获取canvas的context以执行操作。",
+                    "Get the context of the canvas to perform actions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556731041,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Translate the <g1>(0,0)<\/g1> to <g2>(width,0)<\/g2> and then scale the image using a scaling factor of -1 in the horizontal direction to flip the image horizontally.",
+                    "将原点<g1>(0,0)<\/g1>设置为<g2>(width,0)<\/g2>，然后在水平方向上使用缩放系数-1处理图像以水平翻转图像。",
+                    "Translate the <g1>(0,0)<\/g1> to <g2>(width,0)<\/g2> and then scale the image using a scaling factor of -1 in the horizontal direction to flip the image horizontally.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989938536,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "We can use a similar logic to flip the image vertically.",
+                    "我们可以使用类似的逻辑来垂直翻转图像。",
+                    " We can use a similar logic to flip the image vertically.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1705989953263,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Use <g1>drawImage<\/g1> to draw the image content.",
+                    "使用<g1>drawImage<\/g1>绘制图像内容。",
+                    "Use <g1>drawImage<\/g1> to draw the image content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556772378,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Display the flipped image.",
+                    "显示翻转后的图像。",
+                    "Display the flipped image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989967667,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Flip an Image with Dynamic Web TWAIN",
+                    "使用Dynamic Web TWAIN翻转图像",
+                    "Flip an Image with Dynamic Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989977034,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN is a document scanning SDK making it possible to scan documents in the browser.",
+                    "Dynamic Web TWAIN是一个文档扫描SDK，可以在浏览器中扫描文档。",
+                    "Dynamic Web TWAIN is a document scanning SDK making it possible to scan documents in the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557026056,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "It provides various image processing methods.",
+                    "它提供了各种图像处理方法。",
+                    " It provides various image processing methods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557030655,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "We can use its <g1>Flip<\/g1> and <g2>Mirror<\/g2> methods to flip an image.",
+                    "我们可以使用其<g1>Flip<\/g1>和<g2>Mirror<\/g2>方法翻转图像。",
+                    " We can use its <g1>Flip<\/g1> and <g2>Mirror<\/g2> methods to flip an image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705990043184,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "The advantage of using it is that it can be used to batch process a large volume of images as the processing is done using a native process.",
+                    "使用它的优点是，它可以用于批量处理大量图像，因为处理是使用本地进程完成的。",
+                    "The advantage of using it is that it can be used to batch process a large volume of images as the processing is done using a native process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557046290,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Here are the steps to use it:",
+                    "以下是使用它的步骤：",
+                    "Here are the steps to use it:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557049840,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Include Dynamic Web TWAIN in the page.",
+                    "在页面中引入Dynamic Web TWAIN。",
+                    "Include Dynamic Web TWAIN in the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557059676,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Initialize an instance of Web TWAIN and use it to flip the image.",
+                    "初始化一个Web TWAIN的实例并使用它来翻转图像。",
+                    "Initialize an instance of Web TWAIN and use it to flip the image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705990061633,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "You can apply for its license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请其许可证。",
+                    " You can apply for its license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557083386,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "{% include cta_dwt.md %}",
+                    "",
+                    "{% include cta_dwt.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "You can find all the code and an online demo in the following repo:",
+                    "可以在以下仓库中找到所有代码和在线演示：",
+                    "You can find all the code and an online demo in the following repo:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/how-to-flip-image-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735433512,
+                        "id": "tu37"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
