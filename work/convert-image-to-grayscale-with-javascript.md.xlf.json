@@ -1,0 +1,810 @@
+{
+    "filename": "convert-image-to-grayscale-with-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Convert an Image to Grayscale with JavaScript",
+                    "如何使用JavaScript生成灰度图",
+                    "How to Convert an Image to Grayscale with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706146516611,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-01-24 14:44:53 +0800",
+                    "",
+                    "2024-01-24 14:44:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-01-24 14:44:53 +0800",
+                    "",
+                    "2024-01-24 14:44:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Image Processing",
+                    "",
+                    "Image Processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "CSS",
+                    "",
+                    "CSS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares three ways to convert an image to grayscale with JavaScript:",
+                    "本文分享了使用JavaScript将图像转换为灰度图的三种方法：",
+                    "The article shares three ways to convert an image to grayscale with JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706146734903,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "CSS, Canvas and Dynamic Web TWAIN.",
+                    "CSS、Canvas和Dynamic Web TWAIN。",
+                    " CSS, Canvas and Dynamic Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706146744339,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/01\/grayscale.jpg",
+                    "",
+                    ".\/img\/2024\/01\/grayscale.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Grayscale images are composed exclusively of shades of gray.",
+                    "灰度图像完全由灰色像素组成。",
+                    "Grayscale images are composed exclusively of shades of gray.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706146783009,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "They are commonly stored with 8 bits per sampled pixel, which allows 256 different intensities to be recorded.",
+                    "它们通常以每个采样像素 8 位的方式存储，可以记录 256 级灰度。",
+                    " They are commonly stored with 8 bits per sampled pixel, which allows 256 different intensities to be recorded.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706146828132,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Converting an image to grayscale has some usages:",
+                    "将图像转换为灰度有多种用途：",
+                    "Converting an image to grayscale has some usages:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706146849156,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "File size reduction: an 8-bit grayscale image often requires less data for storage than a 24-bit color image.",
+                    "减少文件大小：与24位彩色图像相比，8位灰度图像所需的存储数据通常更少。",
+                    "File size reduction: an 8-bit grayscale image often requires less data for storage than a 24-bit color image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706146860999,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Image processing: many image processing algorithms work on grayscale images rather than color images.",
+                    "图像处理：许多图像处理算法需要先将图像转换为灰度。",
+                    "Image processing: many image processing algorithms work on grayscale images rather than color images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706146887976,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Aesthetics: a monochrome grayscale image can evoke a special feeling which a color image cannot give.",
+                    "美学：单色灰度图像能唤起一种特殊的感觉，这是彩色图像所不能给予的。",
+                    "Aesthetics: a monochrome grayscale image can evoke a special feeling which a color image cannot give.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706146920579,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "A sample image converted to grayscale:",
+                    "转换为灰度的示例图像：",
+                    "A sample image converted to grayscale:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706146934075,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<x1\/>grayscale conversion<x2\/>",
+                    "<x1\/>灰度转换<x2\/>",
+                    "<x1\/>grayscale conversion<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706146950515,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about three ways to convert an image to grayscale with JavaScript.",
+                    "在本文中，我们将讨论使用JavaScript将图像转换为灰度的三种方法。",
+                    "In this article, we are going to talk about three ways to convert an image to grayscale with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147028675,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "CSS",
+                    "CSS",
+                    "CSS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147036348,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Canvas",
+                    "Canvas",
+                    "Canvas",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147040692,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<g1>Dynamic Web TWAIN<\/g1>, a document-scanning SDK",
+                    "<g1>Dynamic Web TWAIN<\/g1> ，一个文档扫描SDK",
+                    "<g1>Dynamic Web TWAIN<\/g1>, a document-scanning SDK",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705555974711,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Build an HTML5 Page to Convert Images to Grayscale",
+                    "编写一个HTML5页面以转换图像为灰度",
+                    "Build an HTML5 Page to Convert Images to Grayscale",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147117896,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Create a new HTML5 page with the following template and then let's add the color conversion function to it.",
+                    "使用以下模板创建一个新的HTML5页面，然后让我们为其添加图像颜色转换功能。",
+                    "Create a new HTML5 page with the following template and then let's add the color conversion function to it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147131892,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Load an Image File",
+                    "加载图片",
+                    "Load an Image File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556148046,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Add an <g1>input<\/g1> element for selecting files and use a button element to trigger it.",
+                    "添加用于选择文件的<g1>input<\/g1>元素，并使用按钮触发它。",
+                    "Add an <g1>input<\/g1> element for selecting files and use a button element to trigger it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556161209,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "The image file will be loaded into two image elements, one for displaying the converted result and one for storing the original image.",
+                    "图片将被加载到两个img元素中，一个用于显示转换的结果，另一个用于存储原始图像。",
+                    " The image file will be loaded into two image elements, one for displaying the converted result and one for storing the original image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147150902,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Display an Image in Grayscale with CSS",
+                    "使用CSS以灰度显示图像",
+                    "Display an Image in Grayscale with CSS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147165443,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "We can use the CSS property <g1>filter<\/g1> to make an HTML element display in grayscale:",
+                    "我们可以使用CSS属性<g1>filter<\/g1>以灰度显示HTML元素：",
+                    "We can use the CSS property <g1>filter<\/g1> to make an HTML element display in grayscale:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147174722,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "It can make any HTML element in grayscale but if we need to save the image in grayscale, we cannot use this approach.",
+                    "它可以使任何HTML元素变为灰色，但如果我们需要将图像保存为灰度图，则不能使用此方法。",
+                    "It can make any HTML element in grayscale but if we need to save the image in grayscale, we cannot use this approach.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147205141,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Convert an Image to Grayscale with Canvas",
+                    "使用Canvas将图像转换为灰度",
+                    "Convert an Image to Grayscale with Canvas",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147945089,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "HTML5 provides a <g1>canvas<\/g1> element which provides a way to manipulate image data.",
+                    "HTML5提供了一个<g1>canvas<\/g1>标签，我们可以用它操作图像数据。",
+                    "HTML5 provides a <g1>canvas<\/g1> element which provides a way to manipulate image data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989771641,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Unlike CSS which only changes the visual effect, we can use it to actually get an  image converted in grayscale.",
+                    "与只改变视觉效果的CSS不同，我们可以使用它来实际获得转换成灰度的图像。",
+                    " Unlike CSS which only changes the visual effect, we can use it to actually get an  image converted in grayscale.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147236063,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Add a hidden <g1>canvas<\/g1> element to the page.",
+                    "向页面添加一个隐藏的<g1>canvas<\/g1>元素。",
+                    "Add a hidden <g1>canvas<\/g1> element to the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556516769,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Add a <g1>select<\/g1> element to select which conversion method to use.",
+                    "添加一个<g1>select<\/g1>元素以选择要使用的转换方法。",
+                    "Add a <g1>select<\/g1> element to select which conversion method to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147247646,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Convert an image to grayscale with <g1>canvas<\/g1> when the selected method is \"Canvas\".",
+                    "当所选方法为 \"Canvas\"时，使用<g1>canvas<\/g1>将图像转换为灰度图像。",
+                    "Convert an image to grayscale with <g1>canvas<\/g1> when the selected method is \"Canvas\".",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147267901,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Details of converting an image to grayscale with canvas.",
+                    "具体步骤的转换步骤：",
+                    "Details of converting an image to grayscale with canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147293775,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Set the canvas's size to match the image's size.",
+                    "将canvas的大小设置为图像的大小。",
+                    "Set the canvas's size to match the image's size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989830876,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Get the context of the canvas to perform actions.",
+                    "获取canvas的context以执行操作。",
+                    "Get the context of the canvas to perform actions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556731041,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Draw the image onto the canvas.",
+                    "将图像绘制到canvas上。",
+                    "Draw the image onto the canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705642398552,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Get the <g1>ImageData<\/g1> of the image:",
+                    "获取图像的<g1>ImageData<\/g1>：",
+                    "Get the <g1>ImageData<\/g1> of the image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147314151,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "<g1>ImageData<\/g1> stores the pixel values in a <g2>Uint8ClampedArray<\/g2> in the RGBA order, with integer values between 0 and 255 (inclusive).",
+                    "<g1>ImageData<\/g1>以RGBA顺序将像素值存储在<g2>Uint8ClampedArray<\/g2>中，取值范围是0到255。",
+                    "<g1>ImageData<\/g1> stores the pixel values in a <g2>Uint8ClampedArray<\/g2> in the RGBA order, with integer values between 0 and 255 (inclusive).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147354044,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "The order goes by rows from the top-left pixel to the bottom-right.",
+                    "像素从左上角到右下角逐行排列。",
+                    " The order goes by rows from the top-left pixel to the bottom-right.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147385013,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Create a function to get the gray value from the RGB values.",
+                    "创建一个函数以根据RGB值计算灰度值。",
+                    "Create a function to get the gray value from the RGB values.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147418436,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "There are many ways to calculate the gray value.",
+                    "计算灰度值的方法有很多。",
+                    "There are many ways to calculate the gray value.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147425683,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Here, we use <g1>Rec. 709 luma coefficients<\/g1> for the conversion.",
+                    "这里，我们使用<g1>Rec. 709亮度系数<\/g1>进行转换。",
+                    " Here, we use <g1>Rec. 709 luma coefficients<\/g1> for the conversion.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147443803,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "The calculation speed is optimized using multiplication with integer and bit shifting.",
+                    "使用基于整数的乘法计算和移位优化了计算速度。",
+                    " The calculation speed is optimized using multiplication with integer and bit shifting.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147533070,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Iterate all the pixels and set the RGB values as the gray value we calculated.",
+                    "遍历所有像素，将RGB值设置为我们计算出的灰度值。",
+                    "Iterate all the pixels and set the RGB values as the gray value we calculated.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147548060,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Put back the <g1>ImageData<\/g1>.",
+                    "放回<g1>ImageData<\/g1>。",
+                    "Put back the <g1>ImageData<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147906364,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Display the converted image.",
+                    "显示转换后的图像。",
+                    "Display the converted image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147914971,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Convert an Image to Grayscale with Dynamic Web TWAIN",
+                    "使用Dynamic Web TWAIN将图像转换为灰度",
+                    "Convert an Image to Grayscale with Dynamic Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706147918715,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN is a document scanning SDK making it possible to scan documents in the browser.",
+                    "Dynamic Web TWAIN是一个文档扫描SDK，可以在浏览器中扫描文档。",
+                    "Dynamic Web TWAIN is a document scanning SDK making it possible to scan documents in the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557026056,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "It provides various image processing methods.",
+                    "它提供了各种图像处理方法。",
+                    " It provides various image processing methods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557030655,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "We can use its <g1>ConvertToGrayScale<\/g1> method to convert an image to grayscale.",
+                    "我们可以使用其<g1>ConvertToGrayScale<\/g1>方法旋转图像。",
+                    " We can use its <g1>ConvertToGrayScale<\/g1> method to convert an image to grayscale.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147966404,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "The advantage of using it is that it can be used to batch process a large volume of images as the processing is done using a native process.",
+                    "使用它的优点是，它可以用于批量处理大量图像，因为处理是使用本地进程完成的。",
+                    "The advantage of using it is that it can be used to batch process a large volume of images as the processing is done using a native process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557046290,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "The output image file also has a smaller size as native image libraries like libpng are used to optimize the size.",
+                    "由于使用了libpng等本地图像库根据颜色信息输出文件，输出文件的尺寸也会更优。",
+                    " The output image file also has a smaller size as native image libraries like libpng are used to optimize the size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706148060079,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Here are the steps to use it:",
+                    "以下是使用它的步骤：",
+                    "Here are the steps to use it:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557049840,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Include Dynamic Web TWAIN in the page.",
+                    "在页面中引入Dynamic Web TWAIN。",
+                    "Include Dynamic Web TWAIN in the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557059676,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Initialize an instance of Web TWAIN and use it to convert the images.",
+                    "初始化一个Web TWAIN的实例并使用它来转换图像。",
+                    "Initialize an instance of Web TWAIN and use it to convert the images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706148079717,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "You can apply for its license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请其许可证。",
+                    " You can apply for its license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557083386,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "{% include cta_dwt.md %}",
+                    "",
+                    "{% include cta_dwt.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "You can find all the code and an online demo in the following repo:",
+                    "可以在以下仓库中找到所有代码和在线演示：",
+                    "You can find all the code and an online demo in the following repo:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-grayscale-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735433512,
+                        "id": "tu46"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
