@@ -1,0 +1,862 @@
+{
+    "filename": "convert-image-to-black-white-with-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Convert an Image to Black and White with JavaScript",
+                    "如何使用JavaScript二值化图像",
+                    "How to Convert an Image to Black and White with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706174017137,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-01-25 14:14:53 +0800",
+                    "",
+                    "2024-01-25 14:14:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-01-25 14:14:53 +0800",
+                    "",
+                    "2024-01-25 14:14:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Image Processing",
+                    "",
+                    "Image Processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "CSS",
+                    "",
+                    "CSS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares two ways to convert an image to black and white with JavaScript:",
+                    "本文分享了使用JavaScript将图像转换为黑白的两种方法：",
+                    "The article shares two ways to convert an image to black and white with JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706174027466,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Canvas and Dynamic Web TWAIN.",
+                    "Canvas和Dynamic Web TWAIN。",
+                    " Canvas and Dynamic Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705642122454,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/01\/black-and-white.jpg",
+                    "",
+                    ".\/img\/2024\/01\/black-and-white.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "A black-and-white binary image consists of pixels that can have one of exactly two colors: black and white.",
+                    "黑白二值图像的像素只有黑色和白色两种颜色。",
+                    "A black-and-white binary image consists of pixels that can have one of exactly two colors: black and white.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706174066601,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Converting an image to black and white has some usages:",
+                    "将图像转换为黑白有多种用途：",
+                    " Converting an image to black and white has some usages:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237340199,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "File size reduction: a 1-bit binary image requires less data for storage than a 24-bit color image.",
+                    "减少文件大小：与24位彩色图像相比，1位黑白图像所需的存储数据通常更少。",
+                    "File size reduction: a 1-bit binary image requires less data for storage than a 24-bit color image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237365022,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Image processing: many image processing algorithms have to work on binary images.",
+                    "图像处理：许多图像处理算法需要先将图像转换为二值图。",
+                    "Image processing: many image processing algorithms have to work on binary images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237394668,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "For display and printing: some input\/output devices, such as laser printers, fax machines, and bilevel computer displays, can only handle bilevel images.",
+                    "用于显示和打印：一些输入\/输出设备，如激光打印机、传真机和显示器，只能处理二值图。",
+                    "For display and printing: some input\/output devices, such as laser printers, fax machines, and bilevel computer displays, can only handle bilevel images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237415334,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Aesthetics: we can see pixels vividly in a binary image which is a kind of pixel art.",
+                    "美学：二值图像的像素明显，可以算作一种像素艺术。",
+                    "Aesthetics: we can see pixels vividly in a binary image which is a kind of pixel art.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237451012,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "The procedure of converting an image to black and white is called thresholding which usually does the following:",
+                    "将图像转换为黑白的过程称为阈值处理(thresholding)，通常执行以下操作：",
+                    "The procedure of converting an image to black and white is called thresholding which usually does the following:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237471087,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Convert an image to grayscale",
+                    "将图像转换为灰度",
+                    "Convert an image to grayscale",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237477923,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Replace each pixel with a black one if its intensity is less than a threshold and with a white one if its intensity is larger than a threshold",
+                    "如果像素的灰度值小于阈值，则将该像素替换为黑色；如果大于阈值，则将该像素替换为白色",
+                    "Replace each pixel with a black one if its intensity is less than a threshold and with a white one if its intensity is larger than a threshold",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237531013,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "A sample image converted to black and white:",
+                    "转换为黑白的示例图像：",
+                    "A sample image converted to black and white:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237547003,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<x1\/>binary conversion<x2\/>",
+                    "<x1\/>二值化<x2\/>",
+                    "<x1\/>binary conversion<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237556718,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about two ways to convert an image to black and white with JavaScript.",
+                    "在本文中，我们将讨论使用JavaScript将图像转换为黑白二值图的两种方法。",
+                    "In this article, we are going to talk about two ways to convert an image to black and white with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237577546,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Canvas",
+                    "Canvas",
+                    "Canvas",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237581948,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<g1>Dynamic Web TWAIN<\/g1>, a document-scanning SDK",
+                    "<g1>Dynamic Web TWAIN<\/g1> ，一个文档扫描SDK",
+                    "<g1>Dynamic Web TWAIN<\/g1>, a document-scanning SDK",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705555974711,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Build an HTML5 Page to Convert Images to Black and White",
+                    "编写一个HTML5页面以转换图像为黑白",
+                    "Build an HTML5 Page to Convert Images to Black and White",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237592435,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Create a new HTML5 page with the following template and then let's add the color conversion function to it.",
+                    "使用以下模板创建一个新的HTML5页面，然后让我们为其添加图像颜色转换功能。",
+                    "Create a new HTML5 page with the following template and then let's add the color conversion function to it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147131892,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Load an Image File",
+                    "加载图片",
+                    "Load an Image File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556148046,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Add an <g1>input<\/g1> element for selecting files and use a button element to trigger it.",
+                    "添加用于选择文件的<g1>input<\/g1>元素，并使用按钮触发它。",
+                    "Add an <g1>input<\/g1> element for selecting files and use a button element to trigger it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556161209,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "The image file will be loaded into two image elements, one for displaying the converted result and one for storing the original image.",
+                    "图片将被加载到两个img元素中，一个用于显示转换的结果，另一个用于存储原始图像。",
+                    " The image file will be loaded into two image elements, one for displaying the converted result and one for storing the original image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147150902,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Convert an Image to Black and White with Canvas",
+                    "使用Canvas将图像转换为黑白",
+                    "Convert an Image to Black and White with Canvas",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237626531,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "HTML5 provides a <g1>canvas<\/g1> element which provides a way to manipulate image data.",
+                    "HTML5提供了一个<g1>canvas<\/g1>标签，我们可以用它操作图像数据。",
+                    "HTML5 provides a <g1>canvas<\/g1> element which provides a way to manipulate image data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989771641,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "We can use it to get an image converted to black and white.",
+                    "我们可以使用它将图像转换为黑白。",
+                    " We can use it to get an image converted to black and white.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237645227,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Add a hidden <g1>canvas<\/g1> element to the page.",
+                    "向页面添加一个隐藏的<g1>canvas<\/g1>元素。",
+                    "Add a hidden <g1>canvas<\/g1> element to the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556516769,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Add an <g1>input<\/g1> element to set the threshold.",
+                    "添加用于指定旋转阈值的<g1>input<\/g1>元素。",
+                    "Add an <g1>input<\/g1> element to set the threshold.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237660757,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Set the canvas's size to match the image's size.",
+                    "将canvas的大小设置为图像的大小。",
+                    "Set the canvas's size to match the image's size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705989830876,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Get the context of the canvas to perform actions.",
+                    "获取canvas的context以执行操作。",
+                    "Get the context of the canvas to perform actions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705556731041,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Draw the image onto the canvas.",
+                    "将图像绘制到canvas上。",
+                    "Draw the image onto the canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705642398552,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Get the <g1>ImageData<\/g1> of the image:",
+                    "获取图像的<g1>ImageData<\/g1>：",
+                    "Get the <g1>ImageData<\/g1> of the image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147314151,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "<g1>ImageData<\/g1> stores the pixel values in a <g2>Uint8ClampedArray<\/g2> in the RGBA order, with integer values between 0 and 255 (inclusive).",
+                    "<g1>ImageData<\/g1>以RGBA顺序将像素值存储在<g2>Uint8ClampedArray<\/g2>中，取值范围是0到255。",
+                    "<g1>ImageData<\/g1> stores the pixel values in a <g2>Uint8ClampedArray<\/g2> in the RGBA order, with integer values between 0 and 255 (inclusive).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147354044,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "The order goes by rows from the top-left pixel to the bottom-right.",
+                    "像素从左上角到右下角逐行排列。",
+                    " The order goes by rows from the top-left pixel to the bottom-right.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147385013,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Create a function to get the gray value from the RGB values.",
+                    "创建一个函数以根据RGB值计算灰度值。",
+                    "Create a function to get the gray value from the RGB values.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147418436,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "There are many ways to calculate the gray value.",
+                    "计算灰度值的方法有很多。",
+                    "There are many ways to calculate the gray value.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147425683,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Here, we use <g1>Rec. 709 luma coefficients<\/g1> for the conversion.",
+                    "这里，我们使用<g1>Rec. 709亮度系数<\/g1>进行转换。",
+                    " Here, we use <g1>Rec. 709 luma coefficients<\/g1> for the conversion.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147443803,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "The calculation speed is optimized using multiplication with integer and bit shifting.",
+                    "使用基于整数的乘法计算和移位优化了计算速度。",
+                    " The calculation speed is optimized using multiplication with integer and bit shifting.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237779869,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Create a function to infer whether to use black or white for the pixel based on the threshold.",
+                    "创建一个函数以根据阈值确定像素值应该为黑色还是白色。",
+                    "Create a function to infer whether to use black or white for the pixel based on the threshold.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237838683,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Iterate all the pixels and set the RGB values to white (255) or black (0).",
+                    "遍历所有像素，将RGB值设置为我们计算出的黑白值，黑色是0，白色是255。",
+                    "Iterate all the pixels and set the RGB values to white (255) or black (0).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237860507,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Put back the <g1>ImageData<\/g1>.",
+                    "放回<g1>ImageData<\/g1>。",
+                    "Put back the <g1>ImageData<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147906364,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Display the converted image.",
+                    "显示转换后的图像。",
+                    "Display the converted image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706147914971,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Determine the Threshold with OTSU's Method",
+                    "使用OTSU方法确定阈值",
+                    "Determine the Threshold with OTSU's Method",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237873138,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "We can use OTSU's method to automatically determine the optimal threshold to separate the background and the foreground.",
+                    "我们可以使用OTSU方法自动确定分离背景和前景的最佳阈值。",
+                    "We can use OTSU's method to automatically determine the optimal threshold to separate the background and the foreground.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237889585,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Include the following JS file in the page.",
+                    "在页面中包含以下JS文件。",
+                    "Include the following JS file in the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237895636,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Calculate the threshold with OTSU.",
+                    "使用OTSU计算阈值。",
+                    "Calculate the threshold with OTSU.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237898667,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "We have to pass the gray histogram to the <g1>otsu<\/g1> function.",
+                    "我们需要将灰度直方图传递给<g1>otsu<\/g1>函数。",
+                    " We have to pass the gray histogram to the <g1>otsu<\/g1> function.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706237910266,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Convert an Image to Black and White with Dynamic Web TWAIN",
+                    "使用Dynamic Web TWAIN将图像转换为黑白",
+                    "Convert an Image to Black and White with Dynamic Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237918599,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN is a document scanning SDK making it possible to scan documents in the browser.",
+                    "Dynamic Web TWAIN是一个文档扫描SDK，可以在浏览器中扫描文档。",
+                    "Dynamic Web TWAIN is a document scanning SDK making it possible to scan documents in the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557026056,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "It provides various image processing methods.",
+                    "它提供了各种图像处理方法。",
+                    " It provides various image processing methods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557030655,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "We can use its <g1>ConvertToBW<\/g1> method to convert an image to black and white.",
+                    "我们可以使用其<g1>ConvertToBW<\/g1>方法转换图像为黑白。",
+                    " We can use its <g1>ConvertToBW<\/g1> method to convert an image to black and white.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706237944616,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "The advantage of using it is that it can be used to batch process a large volume of images as the processing is done using a native process.",
+                    "使用它的优点是，它可以用于批量处理大量图像，因为处理是使用本地进程完成的。",
+                    "The advantage of using it is that it can be used to batch process a large volume of images as the processing is done using a native process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557046290,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "The output image file also has a smaller size as native image libraries like libpng are used to optimize the size.",
+                    "由于使用了libpng等本地图像库根据颜色信息输出文件，输出文件的尺寸也会更优。",
+                    " The output image file also has a smaller size as native image libraries like libpng are used to optimize the size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706148060079,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Here are the steps to use it:",
+                    "以下是使用它的步骤：",
+                    "Here are the steps to use it:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557049840,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Include Dynamic Web TWAIN in the page.",
+                    "在页面中引入Dynamic Web TWAIN。",
+                    "Include Dynamic Web TWAIN in the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557059676,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Initialize an instance of Web TWAIN and use it to convert the images.",
+                    "初始化一个Web TWAIN的实例并使用它来转换图像。",
+                    "Initialize an instance of Web TWAIN and use it to convert the images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706148079717,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "You can apply for its license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请其许可证。",
+                    " You can apply for its license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557083386,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "{% include cta_dwt.md %}",
+                    "",
+                    "{% include cta_dwt.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "You can find all the code and an online demo in the following repo:",
+                    "可以在以下仓库中找到所有代码和在线演示：",
+                    "You can find all the code and an online demo in the following repo:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/convert-image-to-black-white-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735433512,
+                        "id": "tu48"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
