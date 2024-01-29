@@ -1,0 +1,1855 @@
+{
+    "filename": "transfer-data-with-animated-qr-codes.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Transfer Data with Animated QR codes",
+                    "",
+                    "Transfer Data with Animated QR codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2021-09-30 13:51:53 +0800",
+                    "",
+                    "2021-09-30 13:51:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2021-09-30 13:51:53 +0800",
+                    "",
+                    "2021-09-30 13:51:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Web Barcode Scanner",
+                    "",
+                    "Web Barcode Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to transfer data with animated QR codes.",
+                    "",
+                    "The article talks about how to transfer data with animated QR codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2021\/animated-qr\/video.gif",
+                    "",
+                    ".\/img\/2021\/animated-qr\/video.gif",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "QR code is useful to transfer data across different devices.",
+                    "",
+                    "QR code is useful to transfer data across different devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "An Android device can exchange data with an iOS device through a QR code.",
+                    "",
+                    " An Android device can exchange data with an iOS device through a QR code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It does not require setting up a wireless network and does not have the hassle of pairing using Bluetooth.",
+                    "",
+                    " It does not require setting up a wireless network and does not have the hassle of pairing using Bluetooth.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "As it is a screen-camera solution, it is also safe to use.",
+                    "",
+                    " As it is a screen-camera solution, it is also safe to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "As discussed in the <g1>previous article<\/g1>, a QR code can store up to 2,953 bytes with its version set to 40 and its error correction level set to low in bytes mode, which is quite enough for transferring data like a web link, the info of driver's license, etc.",
+                    "",
+                    "As discussed in the <g1>previous article<\/g1>, a QR code can store up to 2,953 bytes with its version set to 40 and its error correction level set to low in bytes mode, which is quite enough for transferring data like a web link, the info of driver's license, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "What if we want to transfer more data using QR codes?",
+                    "",
+                    "What if we want to transfer more data using QR codes?",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "We can separate the data into several QR codes and retrieve the entire data by decoding these codes.",
+                    "",
+                    "We can separate the data into several QR codes and retrieve the entire data by decoding these codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "We can print these codes on one paper or animate them on a screen.",
+                    "",
+                    " We can print these codes on one paper or animate them on a screen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "The <g1>Dynamsoft Barcode Reader (DBR)<\/g1> has the ability to read multiple codes in one image and can also read from the video stream.",
+                    "",
+                    " The <g1>Dynamsoft Barcode Reader (DBR)<\/g1> has the ability to read multiple codes in one image and can also read from the video stream.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "In this article, we are going to focus on transferring data with animated QR codes.",
+                    "",
+                    "In this article, we are going to focus on transferring data with animated QR codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "There have been studies about this and one of them has stood out which is <g1>TXQR<\/g1>.",
+                    "",
+                    "There have been studies about this and one of them has stood out which is <g1>TXQR<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "It uses fountain codes to add redundancy to the data so that skipping a few frames will not affect the reading.",
+                    "",
+                    " It uses fountain codes to add redundancy to the data so that skipping a few frames will not affect the reading.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "It uses a repeated codes mode before turning to fountain codes.",
+                    "",
+                    " It uses a repeated codes mode before turning to fountain codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "The program is implemented in Go.",
+                    "",
+                    " The program is implemented in Go.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "However, using fountain codes brings extra complexity to the process, and actually, with a good barcode reading SDK, the repetition mode can also have a satisfying rate.",
+                    "",
+                    "However, using fountain codes brings extra complexity to the process, and actually, with a good barcode reading SDK, the repetition mode can also have a satisfying rate.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "In the following part, we are going to create an animated QR code generator and an animated QR code reader in pure JavaScript.",
+                    "",
+                    " In the following part, we are going to create an animated QR code generator and an animated QR code reader in pure JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Users can select a file to transfer and retrieve it on another device by scanning the QR codes.",
+                    "",
+                    " Users can select a file to transfer and retrieve it on another device by scanning the QR codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Animated QR Codes Generator in JavaScript",
+                    "",
+                    "Animated QR Codes Generator in JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "The file to transfer is first read as bytes and divided into chunks by a fixed chunk size.",
+                    "",
+                    "The file to transfer is first read as bytes and divided into chunks by a fixed chunk size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Metadata is appended to each chunk's beginning.",
+                    "",
+                    " Metadata is appended to each chunk's beginning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "The metadata is simple.",
+                    "",
+                    " The metadata is simple.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "It is the index of the chunk and the total number of chunks and if the chunk is the first one, the filename and the mime type are appended as well.",
+                    "",
+                    " It is the index of the chunk and the total number of chunks and if the chunk is the first one, the filename and the mime type are appended as well.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "An example of chunks:",
+                    "",
+                    "An example of chunks:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "\"1\/11\\|example.webp\\|image\/webp\\|bytes\"",
+                    "",
+                    "\"1\/11\\|example.webp\\|image\/webp\\|bytes\"",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "\"2\/11\\|bytes\"",
+                    "",
+                    "\"2\/11\\|bytes\"",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "\"3\/11\\|bytes\"",
+                    "",
+                    "\"3\/11\\|bytes\"",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "After the chunks are created, we use a <g1>JavaScript library<\/g1> to generate QR codes and animate them in a loop.",
+                    "",
+                    "After the chunks are created, we use a <g1>JavaScript library<\/g1> to generate QR codes and animate them in a loop.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Users can adjust the chunk size and interval of QR codes to help the receiver have a better reading.",
+                    "",
+                    "Users can adjust the chunk size and interval of QR codes to help the receiver have a better reading.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Here are the key parts of the code.",
+                    "",
+                    "Here are the key parts of the code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Animated QR Codes Reader in JavaScript",
+                    "",
+                    "Animated QR Codes Reader in JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Now that we have a generator.",
+                    "",
+                    "Now that we have a generator.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "We need a reader to read the animated QR codes.",
+                    "",
+                    " We need a reader to read the animated QR codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "We can create native mobile applications with high performance using the Dynamsoft Barcode Reader's <g1>mobile SDK<\/g1>.",
+                    "",
+                    " We can create native mobile applications with high performance using the Dynamsoft Barcode Reader's <g1>mobile SDK<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "But for the ease of use and cross-platform concerns, here, we are gonna use the <g2>JavaScript version<\/g2> of DBR to create the reader.",
+                    "",
+                    " But for the ease of use and cross-platform concerns, here, we are gonna use the <g2>JavaScript version<\/g2> of DBR to create the reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Read QR Codes from Video Stream",
+                    "",
+                    "Read QR Codes from Video Stream",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "The JavaScript version of DBR is easy to use.",
+                    "",
+                    "The JavaScript version of DBR is easy to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "We can start reading QR codes from the video stream using the following code.",
+                    "",
+                    " We can start reading QR codes from the video stream using the following code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Read Chunks and Restore the Original Data",
+                    "",
+                    "Read Chunks and Restore the Original Data",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Now, we have to parse the data of the QR codes and try to restore the data after all the chunks are received.",
+                    "",
+                    "Now, we have to parse the data of the QR codes and try to restore the data after all the chunks are received.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "The decoded results are displayed in a list on the web page.",
+                    "",
+                    "The decoded results are displayed in a list on the web page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "One list item contains a link to download the file, the elapsed time and the download speed.",
+                    "",
+                    "One list item contains a link to download the file, the elapsed time and the download speed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "If the file is an image, an img element will be appended as well.",
+                    "",
+                    " If the file is an image, an img element will be appended as well.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "During the decoding process, it will also show the statistics like time elapsed, frames processed, successfully-read frames and the progress.",
+                    "",
+                    "During the decoding process, it will also show the statistics like time elapsed, frames processed, successfully-read frames and the progress.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Define the UI",
+                    "",
+                    "Define the UI",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "The scanner's UI is customizable.",
+                    "",
+                    "The scanner's UI is customizable.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Create a scanner element and then bind the element with the following code:",
+                    "",
+                    "Create a scanner element and then bind the element with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "There are several pre-defined classes:",
+                    "",
+                    "There are several pre-defined classes:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "<g1>dce-video-container<\/g1>, <g2>dce-scanarea<\/g2>, <g3>dce-sel-camera<\/g3>, <g4>dce-sel-resolution<\/g4>, etc.",
+                    "",
+                    " <g1>dce-video-container<\/g1>, <g2>dce-scanarea<\/g2>, <g3>dce-sel-camera<\/g3>, <g4>dce-sel-resolution<\/g4>, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "DBR JS will find and make use of them if they exist.",
+                    "",
+                    " DBR JS will find and make use of them if they exist.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "The scanner element:",
+                    "",
+                    "The scanner element:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "If you don't want to show some element, like the barcode overlay canvas, you can simply delete it.",
+                    "",
+                    "If you don't want to show some element, like the barcode overlay canvas, you can simply delete it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Improve the Reading Speed",
+                    "",
+                    "Improve the Reading Speed",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "The transferring speed of this screen-camera solution is mainly decided by how many QR code images can the receiver capture and decode in a fixed period.",
+                    "",
+                    "The transferring speed of this screen-camera solution is mainly decided by how many QR code images can the receiver capture and decode in a fixed period.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Mobile devices can capture 30 frames per second but it may take hundreds of milliseconds to decode one frame.",
+                    "",
+                    "Mobile devices can capture 30 frames per second but it may take hundreds of milliseconds to decode one frame.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "The decoding performance affects the speed the most.",
+                    "",
+                    " The decoding performance affects the speed the most.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "There are several ways to improve this.",
+                    "",
+                    "There are several ways to improve this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "The Dynamsoft Barcode Reader provides rich parameters to optimize the performance for a specific usage scenario.",
+                    "",
+                    " The Dynamsoft Barcode Reader provides rich parameters to optimize the performance for a specific usage scenario.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Scan only QR Codes",
+                    "",
+                    "Scan only QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "The Dynamsoft Barcode Reader supports a multitude of barcode formats.",
+                    "",
+                    "The Dynamsoft Barcode Reader supports a multitude of barcode formats.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "We can update the settings to scan QR codes only so that it will not spend extra effort finding other barcode formats.",
+                    "",
+                    " We can update the settings to scan QR codes only so that it will not spend extra effort finding other barcode formats.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Set up a scan region",
+                    "",
+                    "Set up a scan region",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "The QR code is just a part of the entire video frame We can set up a scan region so that the QR code takes up most of the frame.",
+                    "",
+                    "The QR code is just a part of the entire video frame We can set up a scan region so that the QR code takes up most of the frame.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "<x1\/>Scan Region<x2\/>",
+                    "",
+                    "<x1\/>Scan Region<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Use a faster localization method",
+                    "",
+                    "Use a faster localization method",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "The Dynamsoft Barcode Reader comes with several barcodes localization methods.",
+                    "",
+                    "The Dynamsoft Barcode Reader comes with several barcodes localization methods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "The <g1>scan directly<\/g1> mode is suitable for reading QR codes with a phone.",
+                    "",
+                    " The <g1>scan directly<\/g1> mode is suitable for reading QR codes with a phone.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Demo",
+                    "",
+                    "Demo",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Here is a demo of the final result running on iOS:",
+                    "",
+                    "Here is a demo of the final result running on iOS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "<x1\/>Video<x2\/>",
+                    "",
+                    "<x1\/>Video<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Test and Conclusion",
+                    "",
+                    "Test and Conclusion",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "A test is run for this combination of animated QR code generator and scanner to examine how it performs with different chunk sizes and intervals on an iOS device and an Android device.",
+                    "",
+                    "A test is run for this combination of animated QR code generator and scanner to examine how it performs with different chunk sizes and intervals on an iOS device and an Android device.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "The speed results of three continuous readings are recorded (for large files, only one record).",
+                    "",
+                    " The speed results of three continuous readings are recorded (for large files, only one record).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Here are the test results on iPhone SE 2016:",
+                    "",
+                    "Here are the test results on iPhone SE 2016:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "1800, Interval:",
+                    "",
+                    " 1800, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "100, Speed:",
+                    "",
+                    " 100, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "6.90KB\/s, 10.68KB\/s, 5.35KB\/s",
+                    "",
+                    " 6.90KB\/s, 10.68KB\/s, 5.35KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "1800, Interval:",
+                    "",
+                    " 1800, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "200, Speed:",
+                    "",
+                    " 200, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "7.22KB\/s, 7.17KB\/s, 7.47KB\/s",
+                    "",
+                    " 7.22KB\/s, 7.17KB\/s, 7.47KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "1800, Interval:",
+                    "",
+                    " 1800, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "400, Speed:",
+                    "",
+                    " 400, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "3.94KB\/s, 3.99KB\/s, 3.90KB\/s",
+                    "",
+                    " 3.94KB\/s, 3.99KB\/s, 3.90KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "1800, Interval:",
+                    "",
+                    " 1800, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "800, Speed:",
+                    "",
+                    " 800, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "2.09KB\/s, 2.08KB\/s, 2.05KB\/s",
+                    "",
+                    " 2.09KB\/s, 2.08KB\/s, 2.05KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "2900, Interval:",
+                    "",
+                    " 2900, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "100, Speed:",
+                    "",
+                    " 100, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "16.38KB\/s, 4.26KB\/s, 8.56KB\/s",
+                    "",
+                    " 16.38KB\/s, 4.26KB\/s, 8.56KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "2900, Interval:",
+                    "",
+                    " 2900, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "200, Speed:",
+                    "",
+                    " 200, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "11.25KB\/s, 11.33KB\/s, 11.32KB\/s",
+                    "",
+                    " 11.25KB\/s, 11.33KB\/s, 11.32KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "2900, Interval:",
+                    "",
+                    " 2900, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "400, Speed:",
+                    "",
+                    " 400, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "6.78KB\/s, 6.74KB\/s, 6.74KB\/s",
+                    "",
+                    " 6.78KB\/s, 6.74KB\/s, 6.74KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "2900, Interval:",
+                    "",
+                    " 2900, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "800, Speed:",
+                    "",
+                    " 800, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "3.56KB\/s, 3.61KB\/s, 3.70KB\/s",
+                    "",
+                    " 3.56KB\/s, 3.61KB\/s, 3.70KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "231KB, Chunk size:",
+                    "",
+                    " 231KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "1800, Interval:",
+                    "",
+                    " 1800, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "400, Speed:",
+                    "",
+                    " 400, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "3.01KB\/s",
+                    "",
+                    " 3.01KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "231KB, Chunk size:",
+                    "",
+                    " 231KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "2900, Interval:",
+                    "",
+                    " 2900, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "400, Speed:",
+                    "",
+                    " 400, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "2.12KB\/s",
+                    "",
+                    " 2.12KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Here are the test results on Sharp AQUOS S2 (the CPU power is weaker):",
+                    "",
+                    "Here are the test results on Sharp AQUOS S2 (the CPU power is weaker):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "1800, Interval:",
+                    "",
+                    " 1800, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "100, Speed:",
+                    "",
+                    " 100, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "1.15KB\/s, 1.24KB\/s, 0.74KB\/s",
+                    "",
+                    " 1.15KB\/s, 1.24KB\/s, 0.74KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "1800, Interval:",
+                    "",
+                    " 1800, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "200, Speed:",
+                    "",
+                    " 200, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "2.18KB\/s, 1.38KB\/s, 1.91KB\/s",
+                    "",
+                    " 2.18KB\/s, 1.38KB\/s, 1.91KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "1800, Interval:",
+                    "",
+                    " 1800, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "400, Speed:",
+                    "",
+                    " 400, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "3.44KB\/s, 2.60KB\/s, 4.06KB\/s",
+                    "",
+                    " 3.44KB\/s, 2.60KB\/s, 4.06KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "1800, Interval:",
+                    "",
+                    " 1800, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "800, Speed:",
+                    "",
+                    " 800, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "2.03\/KB\/s, 2.08KB\/s, 2.07KB\/s",
+                    "",
+                    " 2.03\/KB\/s, 2.08KB\/s, 2.07KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "2900, Interval:",
+                    "",
+                    " 2900, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "100, Speed:",
+                    "",
+                    " 100, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "1.05KB\/s, 1.80KB\/s, 0.93KB\/s",
+                    "",
+                    " 1.05KB\/s, 1.80KB\/s, 0.93KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "2900, Interval:",
+                    "",
+                    " 2900, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "200, Speed:",
+                    "",
+                    " 200, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "5.42KB\/s, 5.37KB\/s, 9.19KB\/s",
+                    "",
+                    " 5.42KB\/s, 5.37KB\/s, 9.19KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "2900, Interval:",
+                    "",
+                    " 2900, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "400, Speed:",
+                    "",
+                    " 400, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "5.93KB\/s, 7.10KB\/s, 3.12KB\/s",
+                    "",
+                    " 5.93KB\/s, 7.10KB\/s, 3.12KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "15.93KB, Chunk size:",
+                    "",
+                    " 15.93KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "2900, Interval:",
+                    "",
+                    " 2900, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "800, Speed:",
+                    "",
+                    " 800, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "3.90KB\/s, 3.53KB\/s, 3.68KB\/s",
+                    "",
+                    " 3.90KB\/s, 3.53KB\/s, 3.68KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "231KB, Chunk size:",
+                    "",
+                    " 231KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "1800, Interval:",
+                    "",
+                    " 1800, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "400, Speed:",
+                    "",
+                    " 400, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "2.06KB\/s",
+                    "",
+                    " 2.06KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "File size:",
+                    "",
+                    "File size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "231KB, Chunk size:",
+                    "",
+                    " 231KB, Chunk size:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "2900, Interval:",
+                    "",
+                    " 2900, Interval:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "400, Speed:",
+                    "",
+                    " 400, Speed:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "1.05KB\/s",
+                    "",
+                    " 1.05KB\/s",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "We can make a conclusion based on this test heuristically.",
+                    "",
+                    "We can make a conclusion based on this test heuristically.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu72"
+                    }
+                ],
+                [
+                    "The solution works great for transferring small-sized files which are under 200KB.",
+                    "",
+                    "The solution works great for transferring small-sized files which are under 200KB.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "Because the speed is limited and since more QR codes are needed to encode a large file, the chance of missing frames for large files is high.",
+                    "",
+                    " Because the speed is limited and since more QR codes are needed to encode a large file, the chance of missing frames for large files is high.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "The chunk size and interval should be adjusted accordingly.",
+                    "",
+                    "The chunk size and interval should be adjusted accordingly.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "If the chunk size and the interval are small, the generator can generate QR codes fast, however, the receiver may not catch them in time.",
+                    "",
+                    " If the chunk size and the interval are small, the generator can generate QR codes fast, however, the receiver may not catch them in time.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "If the chunk size is large, more data can be transferred in the same time span, but the receiver has to spend more time decoding and it may miss frames, especially for low-end devices.",
+                    "",
+                    " If the chunk size is large, more data can be transferred in the same time span, but the receiver has to spend more time decoding and it may miss frames, especially for low-end devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "This solution may be improved in the following ways:",
+                    "",
+                    "This solution may be improved in the following ways:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu75"
+                    }
+                ],
+                [
+                    "Improve the speed by using a new format, like colored QR code, which can have a larger data capacity.",
+                    "",
+                    "Improve the speed by using a new format, like colored QR code, which can have a larger data capacity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu76"
+                    }
+                ],
+                [
+                    "Improve the missed frames problem by using fountain codes.",
+                    "",
+                    "Improve the missed frames problem by using fountain codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu77"
+                    }
+                ],
+                [
+                    "Improve the missed frames problem by making the current unidirectional communication to a bidirectional communication so that the generator will only show the undecoded QR codes.",
+                    "",
+                    "Improve the missed frames problem by making the current unidirectional communication to a bidirectional communication so that the generator will only show the undecoded QR codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu78"
+                    }
+                ],
+                [
+                    "This can be done by using the generator to scan a QR code displayed on the receiver's screen.",
+                    "",
+                    " This can be done by using the generator to scan a QR code displayed on the receiver's screen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu78"
+                    }
+                ],
+                [
+                    "Use data compression.",
+                    "",
+                    "Use data compression.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu79"
+                    }
+                ],
+                [
+                    "Instead of transferring JPEG files, transfer WebP files.",
+                    "",
+                    " Instead of transferring JPEG files, transfer WebP files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu79"
+                    }
+                ],
+                [
+                    "(<g1>conversion tool<\/g1>)",
+                    "",
+                    " (<g1>conversion tool<\/g1>)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu79"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
+                    {
+                        "id": "tu80"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
