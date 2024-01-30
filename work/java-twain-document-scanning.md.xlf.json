@@ -1,0 +1,1095 @@
+{
+    "filename": "java-twain-document-scanning.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Access Document Scanners in Java",
+                    "Java调用文档扫描仪",
+                    "Access Document Scanners in Java",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580160853,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2023-09-22 13:39:53 +0800",
+                    "",
+                    "2023-09-22 13:39:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2023-09-22 13:39:53 +0800",
+                    "",
+                    "2023-09-22 13:39:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Dynamsoft Service",
+                    "",
+                    "Dynamsoft Service",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf10_tu1"
+                    }
+                ],
+                [
+                    "REST API",
+                    "",
+                    "REST API",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Java",
+                    "",
+                    "Java",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "JavaFX",
+                    "",
+                    "JavaFX",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to access document scanners in Java using the REST APIs of Dynamsoft Service which communicates with scanners via protocols like TWAIN, WIA, eSCL, SANE and ICA.",
+                    "本文介绍了如何使用Java通过Dynamsoft Service的REST API调用文档扫描仪，该API通过TWAIN、WIA、eSCL、SANE和ICA等协议与扫描仪进行通信。",
+                    "The article shares how to access document scanners in Java using the REST APIs of Dynamsoft Service which communicates with scanners via protocols like TWAIN, WIA, eSCL, SANE and ICA.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580211326,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "A desktop app with JavaFX is built as a demo.",
+                    "",
+                    " A desktop app with JavaFX is built as a demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2023\/09\/javafx-document-scanning\/screenshot.jpg",
+                    "",
+                    ".\/img\/2023\/09\/javafx-document-scanning\/screenshot.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamic Web TWAIN<\/g1> is an SDK which enables document scanning from browsers.",
+                    "<g1>Dynamic Web TWAIN<\/g1>是一个给Web应用添加文档扫描功能的SDK。",
+                    "<g1>Dynamic Web TWAIN<\/g1> is an SDK which enables document scanning from browsers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580267278,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Under its hood, a backend service named Dynamsoft Service is running to communicate with scanners via protocols like TWAIN, WIA, eSCL, SANE and ICA.",
+                    "它会在本地运行一个叫Dynamsoft Service的后端服务，通过TWAIN、WIA、eSCL、SANE和ICA等协议与扫描仪进行通信。",
+                    " Under its hood, a backend service named Dynamsoft Service is running to communicate with scanners via protocols like TWAIN, WIA, eSCL, SANE and ICA.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580315103,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "The service runs on Windows, macOS and Linux.",
+                    "该服务是跨平台的，可以在Windows、macOS和Linux上运行。",
+                    " The service runs on Windows, macOS and Linux.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580339813,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Starting from Dynamic Web TWAIN v18.4, Dynamsoft Service will be accessible via REST APIs so that we can use different programming languages to create document scanning applications.",
+                    "从Dynamic Web TWAIN v18.4开始，可以通过REST API访问Dynamsoft Service，以便我们可以用不同的编程语言创建文档扫描应用程序。",
+                    "Starting from Dynamic Web TWAIN v18.4, Dynamsoft Service will be accessible via REST APIs so that we can use different programming languages to create document scanning applications.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580356373,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about how to access document scanners using the REST APIs in Java.",
+                    "在本文中，我们将讨论如何使用Java通过这一REST API调用文档扫描仪。",
+                    "In this article, we are going to talk about how to access document scanners using the REST APIs in Java.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580381430,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "A desktop app is built using JavaFX.",
+                    "使用JavaFX构建了一个桌面应用程序。",
+                    " A desktop app is built using JavaFX.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580390327,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Some advantages of using the REST APIs of Dynamsoft Service for document scanning in Java:",
+                    "使用Dynamsoft Service的REST API在Java中进行文档扫描的一些优点：",
+                    "Some advantages of using the REST APIs of Dynamsoft Service for document scanning in Java:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580394564,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "It is cross-platform supporting multiple scanning protocols.",
+                    "它是跨平台的，支持多种扫描协议。",
+                    "It is cross-platform supporting multiple scanning protocols.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580399477,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "If we directly call TWAIN API, we have to use JRE 32-bit as most drivers are 32-bit.",
+                    "如果我们直接调用TWAIN API ，我们需要使用32位的JRE，因为大多数驱动程序都是32位。",
+                    "If we directly call TWAIN API, we have to use JRE 32-bit as most drivers are 32-bit.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580422934,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Using the REST APIs does not have this problem.",
+                    "使用REST API就没有此问题。",
+                    " Using the REST APIs does not have this problem.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580434542,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "{% include series.html %}",
+                    "",
+                    "{% include series.html %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Prerequisites",
+                    "准备工作",
+                    "Prerequisites",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580476781,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "A license for Dynamic Web TWAIN is needed.",
+                    "需要申请一个Dynamic Web TWAIN的许可证来使用它。",
+                    "A license for Dynamic Web TWAIN is needed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580497492,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580503894,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "You need to install Dynamsoft Service on your device.",
+                    "需要在设备上安装Dynamsoft Service。",
+                    "You need to install Dynamsoft Service on your device.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580516599,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "You can find the download links in the following table:",
+                    "可以在下表中找到下载链接：",
+                    " You can find the download links in the following table:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580524870,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "{% include dynamsoft_service_download_table.md %}",
+                    "",
+                    "{% include dynamsoft_service_download_table.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Overview of the REST API",
+                    "REST API概览",
+                    "Overview of the REST API",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580538284,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Endpoint:",
+                    "端点：",
+                    "Endpoint:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580541852,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<g1>http:\/\/127.0.0.1:18622<\/g1>.",
+                    "<g1>http:\/\/127.0.0.1: 18622<\/g1>。",
+                    " <g1>http:\/\/127.0.0.1:18622<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580607108,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "You can configure it by visiting <x1\/>.",
+                    "可以访问配置页面<x1\/>进行配置。",
+                    " You can configure it by visiting <x1\/>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580627539,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "APIs:",
+                    "API接口：",
+                    "APIs:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580635469,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "List scanners.",
+                    "列出扫描仪。",
+                    "List scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580640244,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "HTTP method and URL:",
+                    "HTTP方法和URL：",
+                    "HTTP method and URL:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580652629,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "GET \/DWTAPI\/Scanners",
+                    "GET \/DWTAPI\/Scanners",
+                    " <g1>GET \/DWTAPI\/Scanners<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580652706,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Sample response:",
+                    "响应示例：",
+                    "Sample response:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580665582,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "The following is a list of scanner types and their corresponding values.",
+                    "以下是扫描仪类型及其相应值的列表。",
+                    "The following is a list of scanner types and their corresponding values.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580670468,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Create a document scanning job.",
+                    "创建文档扫描作业。",
+                    "Create a document scanning job.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580677188,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "HTTP method and URL:",
+                    "HTTP方法和URL：",
+                    "HTTP method and URL:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706580652629,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "POST \/DWTAPI\/ScanJobs",
+                    "POST \/DWTAPI\/ScanJobs",
+                    " <g1>POST \/DWTAPI\/ScanJobs<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580684740,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Sample request body:",
+                    "请求示例：",
+                    "Sample request body:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706580694617,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Response:",
+                    "响应：",
+                    "Response:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580701108,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "201 status code with the job ID as the response body",
+                    "状态码201，返回作业ID",
+                    "201 status code with the job ID as the response body",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580819021,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Retrieve a scanned document image.",
+                    "获取扫描的文档图像。",
+                    "Retrieve a scanned document image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580746373,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "HTTP method and URL:",
+                    "HTTP方法和URL：",
+                    "HTTP method and URL:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706580652629,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "GET \/DWTAPI\/ScanJobs\/:jobid\/NextDocument",
+                    "GET \/DWTAPI\/ScanJobs\/:jobid\/NextDocument",
+                    " <g1>GET \/DWTAPI\/ScanJobs\/:jobid\/NextDocument<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580751269,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Response:",
+                    "响应：",
+                    "Response:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706580701108,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "200 with the bytes of the image",
+                    "状态码200，返回图像的字节",
+                    "200 with the bytes of the image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580811624,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Get the info of a scanning job.",
+                    "获取扫描作业的信息。",
+                    "Get the info of a scanning job.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580786220,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "HTTP method and URL:",
+                    "HTTP方法和URL：",
+                    "HTTP method and URL:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706580652629,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "GET \/DWTAPI\/ScanJobs\/:jobid\/DocumentInfo",
+                    "GET \/DWTAPI\/ScanJobs\/:jobid\/DocumentInfo",
+                    " <g1>GET \/DWTAPI\/ScanJobs\/:jobid\/DocumentInfo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580790517,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Delete a scanning job.",
+                    "删除扫描作业。",
+                    "Delete a scanning job.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580793676,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "HTTP method and URL:",
+                    "HTTP方法和URL：",
+                    "HTTP method and URL:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706580652629,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "DELETE \/DWTAPI\/ScanJobs\/:jobid",
+                    "DELETE \/DWTAPI\/ScanJobs\/:jobid",
+                    " <g1>DELETE \/DWTAPI\/ScanJobs\/:jobid<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580797789,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "New JavaFX Project",
+                    "新建JavaFX项目",
+                    "New JavaFX Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580826430,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Create a new JavaFX project using IntelliJ IDEA.",
+                    "使用IntelliJ IDEA创建新的JavaFX项目。",
+                    "Create a new JavaFX project using IntelliJ IDEA.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580828700,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "<x1\/>new project<x2\/>",
+                    "<x1\/>新项目<x2\/>",
+                    "<x1\/>new project<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1621927697786,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Add OKHttp as the HTTP library in <g1>pom.xml<\/g1>.",
+                    "在<g1>pom.xml<\/g1>中添加OKHttp作为HTTP库。",
+                    "Add OKHttp as the HTTP library in <g1>pom.xml<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580848598,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "OKHttp works for both desktop and Android platforms.",
+                    "OKHttp适用于桌面和安卓平台。",
+                    " OKHttp works for both desktop and Android platforms.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580850844,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Add Jackson as the JSON library in <g1>pom.xml<\/g1>.",
+                    "在<g1>pom.xml<\/g1>中添加Jackson作为JSON库。",
+                    "Add Jackson as the JSON library in <g1>pom.xml<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580871549,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Also, add PDFBox for saving the scanned document as a PDF file.",
+                    "此外，添加PDFBox以将扫描的文档保存为PDF文件。",
+                    "Also, add PDFBox for saving the scanned document as a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580876003,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Create Classes representing the Data",
+                    "创建表示数据的类",
+                    "Create Classes representing the Data",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580883508,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Scanner.",
+                    "扫描设备类Scanner。",
+                    "Scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580925029,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Device type constants.",
+                    "设备类型常量。",
+                    "Device type constants.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580901852,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Device configuration.",
+                    "设备配置。",
+                    "Device configuration.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580931317,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Capability setup for one scanner capability.",
+                    "扫描功能的设置。",
+                    "Capability setup for one scanner capability.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580965575,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Capabilities.",
+                    "扫描功能。",
+                    "Capabilities.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580957198,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Dynamsoft Service Class",
+                    "Dynamsoft Service类",
+                    "Dynamsoft Service Class",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580974885,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Create a new Dynamsoft Service for calling the REST APIs.",
+                    "创建一个新的Dynamsoft Service，用于调用REST API。",
+                    "Create a new Dynamsoft Service for calling the REST APIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706580989857,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Create a basic class with the following content.",
+                    "创建一个类，内容如下。",
+                    "Create a basic class with the following content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581005549,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Add a <g1>getScanners<\/g1> method to get the list of scanners.",
+                    "添加<g1>getScanners<\/g1>方法以获取扫描仪列表。",
+                    "Add a <g1>getScanners<\/g1> method to get the list of scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581011452,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Add a <g1>createScanJob<\/g1> method to create a scanning job.",
+                    "添加<g1>createScanJob<\/g1>方法，以创建扫描作业。",
+                    "Add a <g1>createScanJob<\/g1> method to create a scanning job.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581028806,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Add a <g1>nextDocument<\/g1> method to get the document image.",
+                    "添加一个<g1>nextDocument<\/g1>方法来获取文档图像。",
+                    "Add a <g1>nextDocument<\/g1> method to get the document image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581037454,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Update the Stage as a Document Scanner",
+                    "给应用添加扫描功能",
+                    "Update the Stage as a Document Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581078261,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Next, we can update the primary stage to make it work as a document scanner.",
+                    "接下来，我们可以更新primary stage，给它添加扫描功能。",
+                    "Next, we can update the primary stage to make it work as a document scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581097776,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "First, we can design the layout of the FXML file with SceneBuilder.",
+                    "首先，我们可以使用SceneBuilder用FXML设计布局。",
+                    "First, we can design the layout of the FXML file with SceneBuilder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581111607,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "On the left, there are controls to configure the scanning and on the right, there is a <g1>ListView<\/g1> for displaying the scanned images.",
+                    "左侧是用于配置扫描的控件，右侧是用于显示扫描图像的<g1>ListView<\/g1>。",
+                    " On the left, there are controls to configure the scanning and on the right, there is a <g1>ListView<\/g1> for displaying the scanned images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581117085,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "<x1\/>UI design<x2\/>",
+                    "<x1\/>界面设计<x2\/>",
+                    "<x1\/>UI design<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581127781,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "Then, in the controller, implement relevant events and initializations.",
+                    "然后，在控制器中实现相关事件和初始化。",
+                    "Then, in the controller, implement relevant events and initializations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581131453,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "Load the lists of scanners, resolutions and pixel types in ComboBoxes in the initialization process.",
+                    "在初始化过程中，在组合框中加载扫描仪、分辨率和像素类型的列表。",
+                    "Load the lists of scanners, resolutions and pixel types in ComboBoxes in the initialization process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581139139,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Define a <g1>DocumentImage<\/g1> class for the cells of the ListView.",
+                    "为<g1>ListView<\/g1>的单元格定义DocumentImage类。",
+                    "Define a <g1>DocumentImage<\/g1> class for the cells of the ListView.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581149285,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "The cell of the ListView will contain an ImageView.",
+                    "ListView的单元格包含一个ImageView。",
+                    " The cell of the ListView will contain an ImageView.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581173287,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Update the ListView's cell factory so that it displays an ImageView.",
+                    "更新ListView的单元格工厂，使其显示ImageView。",
+                    "Update the ListView's cell factory so that it displays an ImageView.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581179861,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Scan documents after the scan button is clicked.",
+                    "单击扫描按钮后扫描文档。",
+                    "Scan documents after the scan button is clicked.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581195733,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "The images will be displayed in the ListView.",
+                    "图像将显示在ListView中。",
+                    " The images will be displayed in the ListView.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581201604,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "Listen to the changes of the width of the ListView.",
+                    "监听ListView宽度的变化。",
+                    "Listen to the changes of the width of the ListView.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581206300,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "When the width changes, update the ImageViews' size.",
+                    "当宽度更改时，更新ImageView的大小。",
+                    " When the width changes, update the ImageViews' size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581211725,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Add a context menu for the ListView for deleting selected document images.",
+                    "为ListView添加用于删除所选文档图像的右键菜单。",
+                    "Add a context menu for the ListView for deleting selected document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581221012,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "Use PDFBox to save the scanned document into a PDF file.",
+                    "使用PDFBox将扫描的文档保存为PDF文件。",
+                    "Use PDFBox to save the scanned document into a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581223252,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "All right, we have now finished writing the demo app.",
+                    "好了，我们现在已经完成了demo应用程序的编写。",
+                    "All right, we have now finished writing the demo app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1706581231567,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "Get the source code of the demo to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demo to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "You can include the library in your project via Jitpack:",
+                    "",
+                    "You can include the library in your project via Jitpack: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/restapi\/java-twain-document-scanning.md",
+                    {
+                        "id": "tu66"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

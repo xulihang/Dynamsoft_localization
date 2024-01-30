@@ -32,10 +32,12 @@
                 ],
                 [
                     "Transfer Data with Animated QR codes",
-                    "",
+                    "使用多个二维码传输数据",
                     "Transfer Data with Animated QR codes",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706507951808,
                         "id": "sd1_sf1_sg1_sf4_tu1"
                     }
                 ],
@@ -113,10 +115,12 @@
                 ],
                 [
                     "The article talks about how to transfer data with animated QR codes.",
-                    "",
+                    "本文介绍了如何使用动态二维码传输数据。",
                     "The article talks about how to transfer data with animated QR codes.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706507964286,
                         "id": "sd1_sf1_sg1_sf13_tu1"
                     }
                 ],
@@ -131,1720 +135,2179 @@
                 ],
                 [
                     "QR code is useful to transfer data across different devices.",
-                    "",
+                    "二维码可用于跨设备传输数据。",
                     "QR code is useful to transfer data across different devices.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706507976501,
                         "id": "tu1"
                     }
                 ],
                 [
                     "An Android device can exchange data with an iOS device through a QR code.",
-                    "",
+                    "比如Android设备可以通过二维码与iOS设备交换数据。",
                     " An Android device can exchange data with an iOS device through a QR code.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706507987869,
                         "id": "tu1"
                     }
                 ],
                 [
                     "It does not require setting up a wireless network and does not have the hassle of pairing using Bluetooth.",
-                    "",
+                    "它不需要设置无线网络，也不需要使用蓝牙进行配对。",
                     " It does not require setting up a wireless network and does not have the hassle of pairing using Bluetooth.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706507992612,
                         "id": "tu1"
                     }
                 ],
                 [
                     "As it is a screen-camera solution, it is also safe to use.",
-                    "",
+                    "由于它是一种屏幕-摄像头解决方案，因此使用起来也很安全。",
                     " As it is a screen-camera solution, it is also safe to use.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508005005,
                         "id": "tu1"
                     }
                 ],
                 [
                     "As discussed in the <g1>previous article<\/g1>, a QR code can store up to 2,953 bytes with its version set to 40 and its error correction level set to low in bytes mode, which is quite enough for transferring data like a web link, the info of driver's license, etc.",
-                    "",
+                    "在字节模式下，版本40的QR二维码，纠错级别设为低时，最多可存储 2953 个字节，这对于传输网页链接、驾驶执照信息等数据来说已经足够了。",
                     "As discussed in the <g1>previous article<\/g1>, a QR code can store up to 2,953 bytes with its version set to 40 and its error correction level set to low in bytes mode, which is quite enough for transferring data like a web link, the info of driver's license, etc.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510503284,
                         "id": "tu2"
                     }
                 ],
                 [
                     "What if we want to transfer more data using QR codes?",
-                    "",
+                    "如果我们想使用二维码传输更多数据，该怎么办？",
                     "What if we want to transfer more data using QR codes?",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508054236,
                         "id": "tu3"
                     }
                 ],
                 [
                     "We can separate the data into several QR codes and retrieve the entire data by decoding these codes.",
-                    "",
+                    "我们可以将数据分成几个二维码，并通过解码这些二维码来获取整个数据。",
                     "We can separate the data into several QR codes and retrieve the entire data by decoding these codes.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508066622,
                         "id": "tu4"
                     }
                 ],
                 [
                     "We can print these codes on one paper or animate them on a screen.",
-                    "",
+                    "我们可以将这些二维码打印在一张纸上，也可以在屏幕上循环显示多个二维码（动态二维码）。",
                     " We can print these codes on one paper or animate them on a screen.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508252986,
                         "id": "tu4"
                     }
                 ],
                 [
                     "The <g1>Dynamsoft Barcode Reader (DBR)<\/g1> has the ability to read multiple codes in one image and can also read from the video stream.",
-                    "",
+                    "<g1>Dynamsoft Barcode Reader (DBR)<\/g1>能够在一张图像中读取多个二维码，也可以从视频流扫描二维码。",
                     " The <g1>Dynamsoft Barcode Reader (DBR)<\/g1> has the ability to read multiple codes in one image and can also read from the video stream.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508142583,
                         "id": "tu4"
                     }
                 ],
                 [
                     "In this article, we are going to focus on transferring data with animated QR codes.",
-                    "",
+                    "在本文中，我们将重点介绍使用动态二维码传输数据。",
                     "In this article, we are going to focus on transferring data with animated QR codes.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508167743,
                         "id": "tu5"
                     }
                 ],
                 [
                     "There have been studies about this and one of them has stood out which is <g1>TXQR<\/g1>.",
-                    "",
+                    "已经有不少相关的项目，其中一项比较有名的是<g1>TXQR<\/g1>。",
                     "There have been studies about this and one of them has stood out which is <g1>TXQR<\/g1>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508214142,
                         "id": "tu6"
                     }
                 ],
                 [
                     "It uses fountain codes to add redundancy to the data so that skipping a few frames will not affect the reading.",
-                    "",
+                    "它使用喷泉码（fountain codes）为数据添加冗余，因此漏读几帧不会影响最终数据的获取。",
                     " It uses fountain codes to add redundancy to the data so that skipping a few frames will not affect the reading.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510570599,
                         "id": "tu6"
                     }
                 ],
                 [
                     "It uses a repeated codes mode before turning to fountain codes.",
-                    "",
+                    "在使用喷泉码之前，它使用的是循环显示二维码的模式。",
                     " It uses a repeated codes mode before turning to fountain codes.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508337455,
                         "id": "tu6"
                     }
                 ],
                 [
                     "The program is implemented in Go.",
-                    "",
+                    "该程序用Go语言实现。",
                     " The program is implemented in Go.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508303814,
                         "id": "tu6"
                     }
                 ],
                 [
                     "However, using fountain codes brings extra complexity to the process, and actually, with a good barcode reading SDK, the repetition mode can also have a satisfying rate.",
-                    "",
+                    "不过，使用喷泉码会给流程带来额外的复杂性。实际上，如果有一个好的条码读取 SDK，循环显示二维码的模式也能达到令人满意的速度。",
                     "However, using fountain codes brings extra complexity to the process, and actually, with a good barcode reading SDK, the repetition mode can also have a satisfying rate.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508361245,
                         "id": "tu7"
                     }
                 ],
                 [
                     "In the following part, we are going to create an animated QR code generator and an animated QR code reader in pure JavaScript.",
-                    "",
+                    "在下面的部分中，我们将用JavaScript创建一个动态二维码生成器和一个动态二维码读取器。",
                     " In the following part, we are going to create an animated QR code generator and an animated QR code reader in pure JavaScript.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508386031,
                         "id": "tu7"
                     }
                 ],
                 [
                     "Users can select a file to transfer and retrieve it on another device by scanning the QR codes.",
-                    "",
+                    "用户可以选择一个文件，用动态二维码编码，再用另一台设备去获取数据。",
                     " Users can select a file to transfer and retrieve it on another device by scanning the QR codes.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508436199,
                         "id": "tu7"
                     }
                 ],
                 [
                     "Animated QR Codes Generator in JavaScript",
-                    "",
+                    "动态二维码生成器",
                     "Animated QR Codes Generator in JavaScript",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508445209,
                         "id": "tu8"
                     }
                 ],
                 [
                     "The file to transfer is first read as bytes and divided into chunks by a fixed chunk size.",
-                    "",
+                    "要传输的文件首先被读取为字节，并按固定的大小划分为区块。",
                     "The file to transfer is first read as bytes and divided into chunks by a fixed chunk size.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508530734,
                         "id": "tu9"
                     }
                 ],
                 [
                     "Metadata is appended to each chunk's beginning.",
-                    "",
+                    "每个区块的开头还会附加一个元数据信息。",
                     " Metadata is appended to each chunk's beginning.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508487879,
                         "id": "tu9"
                     }
                 ],
                 [
                     "The metadata is simple.",
-                    "",
+                    "元数据的内容很简单。",
                     " The metadata is simple.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508495363,
                         "id": "tu9"
                     }
                 ],
                 [
                     "It is the index of the chunk and the total number of chunks and if the chunk is the first one, the filename and the mime type are appended as well.",
-                    "",
+                    "内容是区块的索引和区块总数。如果区块是第一个区块，则还会附加文件名和MIME类型。",
                     " It is the index of the chunk and the total number of chunks and if the chunk is the first one, the filename and the mime type are appended as well.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508513983,
                         "id": "tu9"
                     }
                 ],
                 [
                     "An example of chunks:",
-                    "",
+                    "区块示例：",
                     "An example of chunks:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508521180,
                         "id": "tu10"
                     }
                 ],
                 [
                     "\"1\/11\\|example.webp\\|image\/webp\\|bytes\"",
-                    "",
+                    "\"1\/11\\|example.webp\\|image\/webp\\|字节\"",
                     "\"1\/11\\|example.webp\\|image\/webp\\|bytes\"",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508548418,
                         "id": "tu11"
                     }
                 ],
                 [
                     "\"2\/11\\|bytes\"",
-                    "",
+                    "\"2\/11\\|字节\"",
                     "\"2\/11\\|bytes\"",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508554695,
                         "id": "tu12"
                     }
                 ],
                 [
                     "\"3\/11\\|bytes\"",
-                    "",
+                    "\"3\/11\\|字节\"",
                     "\"3\/11\\|bytes\"",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508565463,
                         "id": "tu13"
                     }
                 ],
                 [
                     "After the chunks are created, we use a <g1>JavaScript library<\/g1> to generate QR codes and animate them in a loop.",
-                    "",
+                    "在创建区块后，我们使用 一个<g1>JavaScript库<\/g1>生成所有区块的二维码，并在页面中播放这些码。",
                     "After the chunks are created, we use a <g1>JavaScript library<\/g1> to generate QR codes and animate them in a loop.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510627300,
                         "id": "tu14"
                     }
                 ],
                 [
                     "Users can adjust the chunk size and interval of QR codes to help the receiver have a better reading.",
-                    "",
+                    "用户可以调整区块大小和动画间隔以优化读取效果。",
                     "Users can adjust the chunk size and interval of QR codes to help the receiver have a better reading.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508699238,
                         "id": "tu15"
                     }
                 ],
                 [
                     "Here are the key parts of the code.",
-                    "",
+                    "以下是代码的关键部分。",
                     "Here are the key parts of the code.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508701764,
                         "id": "tu16"
                     }
                 ],
                 [
                     "Animated QR Codes Reader in JavaScript",
-                    "",
+                    "动态二维码读取器",
                     "Animated QR Codes Reader in JavaScript",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706508715246,
                         "id": "tu17"
                     }
                 ],
                 [
                     "Now that we have a generator.",
-                    "",
+                    "生成器编写好后，",
                     "Now that we have a generator.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508738261,
                         "id": "tu18"
                     }
                 ],
                 [
                     "We need a reader to read the animated QR codes.",
-                    "",
+                    "我们还需要一个读取器。",
                     " We need a reader to read the animated QR codes.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508734942,
                         "id": "tu18"
                     }
                 ],
                 [
                     "We can create native mobile applications with high performance using the Dynamsoft Barcode Reader's <g1>mobile SDK<\/g1>.",
-                    "",
+                    "我们可以使用Dynamsoft Barcode Reader的<g1>移动SDK<\/g1>创建高性能的原生移动应用。",
                     " We can create native mobile applications with high performance using the Dynamsoft Barcode Reader's <g1>mobile SDK<\/g1>.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508764364,
                         "id": "tu18"
                     }
                 ],
                 [
                     "But for the ease of use and cross-platform concerns, here, we are gonna use the <g2>JavaScript version<\/g2> of DBR to create the reader.",
-                    "",
+                    "不过为了方便演示和使用，这里我们将使用 <g2>JavaScript版<\/g2>的 Dynamsoft Barcode Reader 来创建一个网页版的读取器。",
                     " But for the ease of use and cross-platform concerns, here, we are gonna use the <g2>JavaScript version<\/g2> of DBR to create the reader.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510656447,
                         "id": "tu18"
                     }
                 ],
                 [
                     "Read QR Codes from Video Stream",
-                    "",
+                    "从视频流中读取二维码",
                     "Read QR Codes from Video Stream",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508818276,
                         "id": "tu19"
                     }
                 ],
                 [
                     "The JavaScript version of DBR is easy to use.",
-                    "",
+                    "JavaScript版本的Dynamsoft Barcode Reader使用方法简单。",
                     "The JavaScript version of DBR is easy to use.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508846908,
                         "id": "tu20"
                     }
                 ],
                 [
                     "We can start reading QR codes from the video stream using the following code.",
-                    "",
+                    "我们可以使用以下代码从视频流中读取二维码。",
                     " We can start reading QR codes from the video stream using the following code.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508858234,
                         "id": "tu20"
                     }
                 ],
                 [
                     "Read Chunks and Restore the Original Data",
-                    "",
+                    "读取区块并还原原始数据",
                     "Read Chunks and Restore the Original Data",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508864892,
                         "id": "tu21"
                     }
                 ],
                 [
                     "Now, we have to parse the data of the QR codes and try to restore the data after all the chunks are received.",
-                    "",
+                    "现在，我们需要解析二维码的数据，并在收到所有块后尝试恢复数据。",
                     "Now, we have to parse the data of the QR codes and try to restore the data after all the chunks are received.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508878326,
                         "id": "tu22"
                     }
                 ],
                 [
                     "The decoded results are displayed in a list on the web page.",
-                    "",
+                    "解码的结果会以列表形式显示在网页上。",
                     "The decoded results are displayed in a list on the web page.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508896018,
                         "id": "tu23"
                     }
                 ],
                 [
                     "One list item contains a link to download the file, the elapsed time and the download speed.",
-                    "",
+                    "每个列表项包含文件的下载链接、扫描花费的时间和传输速度。",
                     "One list item contains a link to download the file, the elapsed time and the download speed.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510687771,
                         "id": "tu24"
                     }
                 ],
                 [
                     "If the file is an image, an img element will be appended as well.",
-                    "",
+                    "如果文件是图像，会把它显示在img元素里。",
                     " If the file is an image, an img element will be appended as well.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508948232,
                         "id": "tu24"
                     }
                 ],
                 [
                     "HTML:",
-                    "",
+                    "HTML：",
                     "HTML:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
                         "id": "tu25"
                     }
                 ],
                 [
                     "JavaScript:",
-                    "",
+                    "JavaScript：",
                     "JavaScript:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
                         "id": "tu26"
                     }
                 ],
                 [
                     "During the decoding process, it will also show the statistics like time elapsed, frames processed, successfully-read frames and the progress.",
-                    "",
+                    "在解码过程中，它还将显示经过的时间、处理的帧、成功读取的帧和进度等统计信息。",
                     "During the decoding process, it will also show the statistics like time elapsed, frames processed, successfully-read frames and the progress.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508954572,
                         "id": "tu27"
                     }
                 ],
                 [
                     "Define the UI",
-                    "",
+                    "定义UI",
                     "Define the UI",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508962708,
                         "id": "tu28"
                     }
                 ],
                 [
                     "The scanner's UI is customizable.",
-                    "",
+                    "扫描界面是可自定义的。",
                     "The scanner's UI is customizable.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508970925,
                         "id": "tu29"
                     }
                 ],
                 [
                     "Create a scanner element and then bind the element with the following code:",
-                    "",
+                    "创建一个scanner元素，然后用以下代码绑定该元素：",
                     "Create a scanner element and then bind the element with the following code:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508978767,
                         "id": "tu30"
                     }
                 ],
                 [
                     "There are several pre-defined classes:",
-                    "",
+                    "有几个预定义的类：",
                     "There are several pre-defined classes:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706508989172,
                         "id": "tu31"
                     }
                 ],
                 [
                     "<g1>dce-video-container<\/g1>, <g2>dce-scanarea<\/g2>, <g3>dce-sel-camera<\/g3>, <g4>dce-sel-resolution<\/g4>, etc.",
-                    "",
+                    "<g1>dce-video-container<\/g1>、 <g2>dce-scanarea<\/g2>、 <g3>dce-sel-camera<\/g3>、 <g4>dce-sel-resolution<\/g4>……",
                     " <g1>dce-video-container<\/g1>, <g2>dce-scanarea<\/g2>, <g3>dce-sel-camera<\/g3>, <g4>dce-sel-resolution<\/g4>, etc.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509013634,
                         "id": "tu31"
                     }
                 ],
                 [
                     "DBR JS will find and make use of them if they exist.",
-                    "",
+                    "Dynamsoft Barcode Reader将找到并使用它们（如果存在）。",
                     " DBR JS will find and make use of them if they exist.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509043802,
                         "id": "tu31"
                     }
                 ],
                 [
                     "The scanner element:",
-                    "",
+                    "扫描界面的元素：",
                     "The scanner element:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509064067,
                         "id": "tu32"
                     }
                 ],
                 [
                     "If you don't want to show some element, like the barcode overlay canvas, you can simply delete it.",
-                    "",
+                    "如果不想显示某些元素，如高亮显示扫到的码的canvas，只需将其删除即可。",
                     "If you don't want to show some element, like the barcode overlay canvas, you can simply delete it.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509092211,
                         "id": "tu33"
                     }
                 ],
                 [
                     "Improve the Reading Speed",
-                    "",
+                    "提高阅读速度",
                     "Improve the Reading Speed",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509097516,
                         "id": "tu34"
                     }
                 ],
                 [
                     "The transferring speed of this screen-camera solution is mainly decided by how many QR code images can the receiver capture and decode in a fixed period.",
-                    "",
+                    "这种屏幕-摄像头解决方案的传输速度主要取决于读取器在固定时间内能捕捉和解码多少个二维码图像。",
                     "The transferring speed of this screen-camera solution is mainly decided by how many QR code images can the receiver capture and decode in a fixed period.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509112304,
                         "id": "tu35"
                     }
                 ],
                 [
                     "Mobile devices can capture 30 frames per second but it may take hundreds of milliseconds to decode one frame.",
-                    "",
+                    "移动设备每秒可以捕获30帧，但解码一帧可能需要数百毫秒。",
                     "Mobile devices can capture 30 frames per second but it may take hundreds of milliseconds to decode one frame.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509121668,
                         "id": "tu36"
                     }
                 ],
                 [
                     "The decoding performance affects the speed the most.",
-                    "",
+                    "解码性能对传输速度的影响较大。",
                     " The decoding performance affects the speed the most.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509142402,
                         "id": "tu36"
                     }
                 ],
                 [
                     "There are several ways to improve this.",
-                    "",
+                    "有几种方法可以改善解码性能。",
                     "There are several ways to improve this.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509152015,
                         "id": "tu37"
                     }
                 ],
                 [
                     "The Dynamsoft Barcode Reader provides rich parameters to optimize the performance for a specific usage scenario.",
-                    "",
+                    "Dynamsoft Barcode Reader提供了丰富的参数来优化特定使用场景的性能。",
                     " The Dynamsoft Barcode Reader provides rich parameters to optimize the performance for a specific usage scenario.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509163333,
                         "id": "tu37"
                     }
                 ],
                 [
                     "Scan only QR Codes",
-                    "",
+                    "只扫描QR二维码",
                     "Scan only QR Codes",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509174096,
                         "id": "tu38"
                     }
                 ],
                 [
                     "The Dynamsoft Barcode Reader supports a multitude of barcode formats.",
-                    "",
+                    "Dynamsoft Barcode Reader支持多种条码格式。",
                     "The Dynamsoft Barcode Reader supports a multitude of barcode formats.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509184166,
                         "id": "tu39"
                     }
                 ],
                 [
                     "We can update the settings to scan QR codes only so that it will not spend extra effort finding other barcode formats.",
-                    "",
+                    "我们可以更新它的设置，让它只扫描QR二维码，这样就不会花费额外的精力寻找其他条码格式。",
                     " We can update the settings to scan QR codes only so that it will not spend extra effort finding other barcode formats.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509197099,
                         "id": "tu39"
                     }
                 ],
                 [
                     "Set up a scan region",
-                    "",
+                    "设置扫描区域",
                     "Set up a scan region",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509204668,
                         "id": "tu40"
                     }
                 ],
                 [
                     "The QR code is just a part of the entire video frame We can set up a scan region so that the QR code takes up most of the frame.",
-                    "",
+                    "二维码只是整个视频帧的一部分。我们可以设置一个扫描区域，以便让二维码占据帧的大部分内容以减少背景的干扰。",
                     "The QR code is just a part of the entire video frame We can set up a scan region so that the QR code takes up most of the frame.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509252755,
                         "id": "tu41"
                     }
                 ],
                 [
                     "<x1\/>Scan Region<x2\/>",
-                    "",
+                    "<x1\/>扫描区域<x2\/>",
                     "<x1\/>Scan Region<x2\/>",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509257124,
                         "id": "tu42"
                     }
                 ],
                 [
                     "Use a faster localization method",
-                    "",
+                    "使用更快的定位方法",
                     "Use a faster localization method",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509262482,
                         "id": "tu43"
                     }
                 ],
                 [
                     "The Dynamsoft Barcode Reader comes with several barcodes localization methods.",
-                    "",
+                    "Dynamsoft Barcode Reader提供多种条码定位方法。",
                     "The Dynamsoft Barcode Reader comes with several barcodes localization methods.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509283655,
                         "id": "tu44"
                     }
                 ],
                 [
                     "The <g1>scan directly<\/g1> mode is suitable for reading QR codes with a phone.",
-                    "",
+                    "<g1>Scan Directly<\/g1>模式适用于使用手机读取二维码的场景。",
                     " The <g1>scan directly<\/g1> mode is suitable for reading QR codes with a phone.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509309060,
                         "id": "tu44"
                     }
                 ],
                 [
                     "Demo",
-                    "",
+                    "Demo",
                     "Demo",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509589653,
                         "id": "tu45"
                     }
                 ],
                 [
                     "Here is a demo of the final result running on iOS:",
-                    "",
+                    "以下是在iOS上运行的最终结果的演示视频：",
                     "Here is a demo of the final result running on iOS:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509603734,
                         "id": "tu46"
                     }
                 ],
                 [
                     "<x1\/>Video<x2\/>",
-                    "",
+                    "<x1\/>视频<x2\/>",
                     "<x1\/>Video<x2\/>",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509606436,
                         "id": "tu47"
                     }
                 ],
                 [
                     "Test and Conclusion",
-                    "",
+                    "测试和结论",
                     "Test and Conclusion",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509608420,
                         "id": "tu48"
                     }
                 ],
                 [
                     "A test is run for this combination of animated QR code generator and scanner to examine how it performs with different chunk sizes and intervals on an iOS device and an Android device.",
-                    "",
+                    "做了一个测试，测试在iOS和安卓设备上不同区块大小（字节）和显示间隔（毫秒）下的性能。",
                     "A test is run for this combination of animated QR code generator and scanner to examine how it performs with different chunk sizes and intervals on an iOS device and an Android device.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509862224,
                         "id": "tu49"
                     }
                 ],
                 [
                     "The speed results of three continuous readings are recorded (for large files, only one record).",
-                    "",
+                    "记录三次成功读取的速度（对于大文件，只有一个记录）。",
                     " The speed results of three continuous readings are recorded (for large files, only one record).",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509822151,
                         "id": "tu49"
                     }
                 ],
                 [
                     "Here are the test results on iPhone SE 2016:",
-                    "",
+                    "以下是iPhone SE 2016的测试结果：",
                     "Here are the test results on iPhone SE 2016:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509828868,
                         "id": "tu50"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu51"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510764263,
                         "id": "tu51"
                     }
                 ],
                 [
                     "1800, Interval:",
-                    "",
+                    "1800，间隔时间：",
                     " 1800, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509839308,
                         "id": "tu51"
                     }
                 ],
                 [
                     "100, Speed:",
-                    "",
+                    "100，速度：",
                     " 100, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510766198,
                         "id": "tu51"
                     }
                 ],
                 [
                     "6.90KB\/s, 10.68KB\/s, 5.35KB\/s",
-                    "",
+                    "6.90 KB\/s、10.68 KB\/s、5.35 KB\/s",
                     " 6.90KB\/s, 10.68KB\/s, 5.35KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509869604,
                         "id": "tu51"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu52"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510768351,
                         "id": "tu52"
                     }
                 ],
                 [
                     "1800, Interval:",
-                    "",
+                    "1800，间隔时间：",
                     " 1800, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509839308,
                         "id": "tu52"
                     }
                 ],
                 [
                     "200, Speed:",
-                    "",
+                    "200，速度：",
                     " 200, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510770110,
                         "id": "tu52"
                     }
                 ],
                 [
                     "7.22KB\/s, 7.17KB\/s, 7.47KB\/s",
-                    "",
+                    "7.22 KB\/s、7.17 KB\/s、7.47 KB\/s",
                     " 7.22KB\/s, 7.17KB\/s, 7.47KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509885972,
                         "id": "tu52"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu53"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510772367,
                         "id": "tu53"
                     }
                 ],
                 [
                     "1800, Interval:",
-                    "",
+                    "1800，间隔时间：",
                     " 1800, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509839308,
                         "id": "tu53"
                     }
                 ],
                 [
                     "400, Speed:",
-                    "",
+                    "400，速度：",
                     " 400, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510773759,
                         "id": "tu53"
                     }
                 ],
                 [
                     "3.94KB\/s, 3.99KB\/s, 3.90KB\/s",
-                    "",
+                    "3.94 KB\/s、3.99 KB\/s、3.90 KB\/s",
                     " 3.94KB\/s, 3.99KB\/s, 3.90KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509897508,
                         "id": "tu53"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu54"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510776295,
                         "id": "tu54"
                     }
                 ],
                 [
                     "1800, Interval:",
-                    "",
+                    "1800，间隔时间：",
                     " 1800, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509839308,
                         "id": "tu54"
                     }
                 ],
                 [
                     "800, Speed:",
-                    "",
+                    "800，速度：",
                     " 800, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510778351,
                         "id": "tu54"
                     }
                 ],
                 [
                     "2.09KB\/s, 2.08KB\/s, 2.05KB\/s",
-                    "",
+                    "2.09 KB\/s、2.08 KB\/s、2.05 KB\/s",
                     " 2.09KB\/s, 2.08KB\/s, 2.05KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509908085,
                         "id": "tu54"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu55"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510781135,
                         "id": "tu55"
                     }
                 ],
                 [
                     "2900, Interval:",
-                    "",
+                    "2900，间隔时间：",
                     " 2900, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509920413,
                         "id": "tu55"
                     }
                 ],
                 [
                     "100, Speed:",
-                    "",
+                    "100，速度：",
                     " 100, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510783071,
                         "id": "tu55"
                     }
                 ],
                 [
                     "16.38KB\/s, 4.26KB\/s, 8.56KB\/s",
-                    "",
+                    "16.38 KB\/s、4.26 KB\/s、8.56 KB\/s",
                     " 16.38KB\/s, 4.26KB\/s, 8.56KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509923836,
                         "id": "tu55"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu56"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510784983,
                         "id": "tu56"
                     }
                 ],
                 [
                     "2900, Interval:",
-                    "",
+                    "2900，间隔时间：",
                     " 2900, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509920413,
                         "id": "tu56"
                     }
                 ],
                 [
                     "200, Speed:",
-                    "",
+                    "200，速度：",
                     " 200, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510786687,
                         "id": "tu56"
                     }
                 ],
                 [
                     "11.25KB\/s, 11.33KB\/s, 11.32KB\/s",
-                    "",
+                    "11.25 KB\/s、11.33 KB\/s、11.32 KB\/s",
                     " 11.25KB\/s, 11.33KB\/s, 11.32KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509937189,
                         "id": "tu56"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu57"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510788959,
                         "id": "tu57"
                     }
                 ],
                 [
                     "2900, Interval:",
-                    "",
+                    "2900，间隔时间：",
                     " 2900, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509920413,
                         "id": "tu57"
                     }
                 ],
                 [
                     "400, Speed:",
-                    "",
+                    "400，速度：",
                     " 400, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510790590,
                         "id": "tu57"
                     }
                 ],
                 [
                     "6.78KB\/s, 6.74KB\/s, 6.74KB\/s",
-                    "",
+                    "6.78 KB\/s、6.74 KB\/s、6.74 KB\/s",
                     " 6.78KB\/s, 6.74KB\/s, 6.74KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509948381,
                         "id": "tu57"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu58"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510793198,
                         "id": "tu58"
                     }
                 ],
                 [
                     "2900, Interval:",
-                    "",
+                    "2900，间隔时间：",
                     " 2900, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509920413,
                         "id": "tu58"
                     }
                 ],
                 [
                     "800, Speed:",
-                    "",
+                    "800，速度：",
                     " 800, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510794391,
                         "id": "tu58"
                     }
                 ],
                 [
                     "3.56KB\/s, 3.61KB\/s, 3.70KB\/s",
-                    "",
+                    "3.56 KB\/s、3.61 KB\/s、3.70 KB\/s",
                     " 3.56KB\/s, 3.61KB\/s, 3.70KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509957101,
                         "id": "tu58"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu59"
                     }
                 ],
                 [
                     "231KB, Chunk size:",
-                    "",
+                    "231 KB，区块大小：",
                     " 231KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510797046,
                         "id": "tu59"
                     }
                 ],
                 [
                     "1800, Interval:",
-                    "",
+                    "1800，间隔时间：",
                     " 1800, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509839308,
                         "id": "tu59"
                     }
                 ],
                 [
                     "400, Speed:",
-                    "",
+                    "400，速度：",
                     " 400, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510798741,
                         "id": "tu59"
                     }
                 ],
                 [
                     "3.01KB\/s",
-                    "",
+                    "3.01 KB\/s",
                     " 3.01KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509972100,
                         "id": "tu59"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu60"
                     }
                 ],
                 [
                     "231KB, Chunk size:",
-                    "",
+                    "231 KB，区块大小：",
                     " 231KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510800616,
                         "id": "tu60"
                     }
                 ],
                 [
                     "2900, Interval:",
-                    "",
+                    "2900，间隔时间：",
                     " 2900, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509920413,
                         "id": "tu60"
                     }
                 ],
                 [
                     "400, Speed:",
-                    "",
+                    "400，速度：",
                     " 400, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510802750,
                         "id": "tu60"
                     }
                 ],
                 [
                     "2.12KB\/s",
-                    "",
+                    "2.12 KB\/s",
                     " 2.12KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509986382,
                         "id": "tu60"
                     }
                 ],
                 [
                     "Here are the test results on Sharp AQUOS S2 (the CPU power is weaker):",
-                    "",
+                    "以下是Sharp AQUOS S2的测试结果（ CPU性能较弱） ：",
                     "Here are the test results on Sharp AQUOS S2 (the CPU power is weaker):",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706509993566,
                         "id": "tu61"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu62"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510805191,
                         "id": "tu62"
                     }
                 ],
                 [
                     "1800, Interval:",
-                    "",
+                    "1800，间隔时间：",
                     " 1800, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509839308,
                         "id": "tu62"
                     }
                 ],
                 [
                     "100, Speed:",
-                    "",
+                    "100，速度：",
                     " 100, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510806774,
                         "id": "tu62"
                     }
                 ],
                 [
                     "1.15KB\/s, 1.24KB\/s, 0.74KB\/s",
-                    "",
+                    "1.15 KB\/s、1.24 KB\/s、0.74 KB\/s",
                     " 1.15KB\/s, 1.24KB\/s, 0.74KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510003597,
                         "id": "tu62"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu63"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510809248,
                         "id": "tu63"
                     }
                 ],
                 [
                     "1800, Interval:",
-                    "",
+                    "1800，间隔时间：",
                     " 1800, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509839308,
                         "id": "tu63"
                     }
                 ],
                 [
                     "200, Speed:",
-                    "",
+                    "200，速度：",
                     " 200, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510811007,
                         "id": "tu63"
                     }
                 ],
                 [
                     "2.18KB\/s, 1.38KB\/s, 1.91KB\/s",
-                    "",
+                    "2.18 KB\/s、1.38 KB\/s、1.91 KB\/s",
                     " 2.18KB\/s, 1.38KB\/s, 1.91KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510013676,
                         "id": "tu63"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu64"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510813742,
                         "id": "tu64"
                     }
                 ],
                 [
                     "1800, Interval:",
-                    "",
+                    "1800，间隔时间：",
                     " 1800, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509839308,
                         "id": "tu64"
                     }
                 ],
                 [
                     "400, Speed:",
-                    "",
+                    "400，速度：",
                     " 400, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510815679,
                         "id": "tu64"
                     }
                 ],
                 [
                     "3.44KB\/s, 2.60KB\/s, 4.06KB\/s",
-                    "",
+                    "3.44 KB\/s、2.60 KB\/s、4.06 KB\/s",
                     " 3.44KB\/s, 2.60KB\/s, 4.06KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510136567,
                         "id": "tu64"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu65"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510818511,
                         "id": "tu65"
                     }
                 ],
                 [
                     "1800, Interval:",
-                    "",
+                    "1800，间隔时间：",
                     " 1800, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509839308,
                         "id": "tu65"
                     }
                 ],
                 [
                     "800, Speed:",
-                    "",
+                    "800，速度：",
                     " 800, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510142143,
                         "id": "tu65"
                     }
                 ],
                 [
                     "2.03\/KB\/s, 2.08KB\/s, 2.07KB\/s",
-                    "",
+                    "2.03\/KB\/s、2.08 KB\/s、2.07 KB\/s",
                     " 2.03\/KB\/s, 2.08KB\/s, 2.07KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510124813,
                         "id": "tu65"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu66"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510823159,
                         "id": "tu66"
                     }
                 ],
                 [
                     "2900, Interval:",
-                    "",
+                    "2900，间隔时间：",
                     " 2900, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509920413,
                         "id": "tu66"
                     }
                 ],
                 [
                     "100, Speed:",
-                    "",
+                    "100，速度：",
                     " 100, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510825272,
                         "id": "tu66"
                     }
                 ],
                 [
                     "1.05KB\/s, 1.80KB\/s, 0.93KB\/s",
-                    "",
+                    "1.05 KB\/s、1.80 KB\/s、0.93 KB\/s",
                     " 1.05KB\/s, 1.80KB\/s, 0.93KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510158318,
                         "id": "tu66"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu67"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510827143,
                         "id": "tu67"
                     }
                 ],
                 [
                     "2900, Interval:",
-                    "",
+                    "2900，间隔时间：",
                     " 2900, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509920413,
                         "id": "tu67"
                     }
                 ],
                 [
                     "200, Speed:",
-                    "",
+                    "200，速度：",
                     " 200, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510829415,
                         "id": "tu67"
                     }
                 ],
                 [
                     "5.42KB\/s, 5.37KB\/s, 9.19KB\/s",
-                    "",
+                    "5.42 KB\/s、5.37 KB\/s、9.19 KB\/s",
                     " 5.42KB\/s, 5.37KB\/s, 9.19KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510167381,
                         "id": "tu67"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu68"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510831487,
                         "id": "tu68"
                     }
                 ],
                 [
                     "2900, Interval:",
-                    "",
+                    "2900，间隔时间：",
                     " 2900, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509920413,
                         "id": "tu68"
                     }
                 ],
                 [
                     "400, Speed:",
-                    "",
+                    "400，速度：",
                     " 400, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510832535,
                         "id": "tu68"
                     }
                 ],
                 [
                     "5.93KB\/s, 7.10KB\/s, 3.12KB\/s",
-                    "",
+                    "5.93 KB\/s、7.10 KB\/s、3.12 KB\/s",
                     " 5.93KB\/s, 7.10KB\/s, 3.12KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510176157,
                         "id": "tu68"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu69"
                     }
                 ],
                 [
                     "15.93KB, Chunk size:",
-                    "",
+                    "15.93 KB，区块大小：",
                     " 15.93KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510187026,
                         "id": "tu69"
                     }
                 ],
                 [
                     "2900, Interval:",
-                    "",
+                    "2900，间隔时间：",
                     " 2900, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509920413,
                         "id": "tu69"
                     }
                 ],
                 [
                     "800, Speed:",
-                    "",
+                    "800，速度：",
                     " 800, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510142143,
                         "id": "tu69"
                     }
                 ],
                 [
                     "3.90KB\/s, 3.53KB\/s, 3.68KB\/s",
-                    "",
+                    "3.90 KB\/s、3.53 KB\/s、3.68 KB\/s",
                     " 3.90KB\/s, 3.53KB\/s, 3.68KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510216175,
                         "id": "tu69"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu70"
                     }
                 ],
                 [
                     "231KB, Chunk size:",
-                    "",
+                    "231 KB，区块大小：",
                     " 231KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510227447,
                         "id": "tu70"
                     }
                 ],
                 [
                     "1800, Interval:",
-                    "",
+                    "1800，间隔时间：",
                     " 1800, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509839308,
                         "id": "tu70"
                     }
                 ],
                 [
                     "400, Speed:",
-                    "",
+                    "400，速度：",
                     " 400, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510231919,
                         "id": "tu70"
                     }
                 ],
                 [
                     "2.06KB\/s",
-                    "",
+                    "2.06 KB\/s",
                     " 2.06KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510234701,
                         "id": "tu70"
                     }
                 ],
                 [
                     "File size:",
-                    "",
+                    "文件大小：",
                     "File size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509832428,
                         "id": "tu71"
                     }
                 ],
                 [
                     "231KB, Chunk size:",
-                    "",
+                    "231 KB，区块大小：",
                     " 231KB, Chunk size:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510227447,
                         "id": "tu71"
                     }
                 ],
                 [
                     "2900, Interval:",
-                    "",
+                    "2900，间隔时间：",
                     " 2900, Interval:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706509920413,
                         "id": "tu71"
                     }
                 ],
                 [
                     "400, Speed:",
-                    "",
+                    "400，速度：",
                     " 400, Speed:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706510231919,
                         "id": "tu71"
                     }
                 ],
                 [
                     "1.05KB\/s",
-                    "",
+                    "1.05 KB\/s",
                     " 1.05KB\/s",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510247796,
                         "id": "tu71"
                     }
                 ],
                 [
                     "We can make a conclusion based on this test heuristically.",
-                    "",
+                    "我们可以根据这个测试大致得出结论。",
                     "We can make a conclusion based on this test heuristically.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510254519,
                         "id": "tu72"
                     }
                 ],
                 [
                     "The solution works great for transferring small-sized files which are under 200KB.",
-                    "",
+                    "该解决方案非常适合传输200KB以下的小型文件。",
                     "The solution works great for transferring small-sized files which are under 200KB.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510260301,
                         "id": "tu73"
                     }
                 ],
                 [
                     "Because the speed is limited and since more QR codes are needed to encode a large file, the chance of missing frames for large files is high.",
-                    "",
+                    "由于速度有限，并且需要更多的二维码来对大文件进行编码，因此大文件扫描时漏帧的可能性很高。",
                     " Because the speed is limited and since more QR codes are needed to encode a large file, the chance of missing frames for large files is high.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510296556,
                         "id": "tu73"
                     }
                 ],
                 [
                     "The chunk size and interval should be adjusted accordingly.",
-                    "",
+                    "应相应地调整区块大小和显示间隔。",
                     "The chunk size and interval should be adjusted accordingly.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510312995,
                         "id": "tu74"
                     }
                 ],
                 [
                     "If the chunk size and the interval are small, the generator can generate QR codes fast, however, the receiver may not catch them in time.",
-                    "",
+                    "如果区块大小和显示间隔较小，则生成器可以快速生成二维码，但读取器可能无法及时捕获它们。",
                     " If the chunk size and the interval are small, the generator can generate QR codes fast, however, the receiver may not catch them in time.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510335840,
                         "id": "tu74"
                     }
                 ],
                 [
                     "If the chunk size is large, more data can be transferred in the same time span, but the receiver has to spend more time decoding and it may miss frames, especially for low-end devices.",
-                    "",
+                    "如果区块大小较大，则可以在同一时间跨度内传输更多数据，但读取器必须花费更多时间进行解码，并且可能会漏掉帧，尤其是对于低端设备。",
                     " If the chunk size is large, more data can be transferred in the same time span, but the receiver has to spend more time decoding and it may miss frames, especially for low-end devices.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510363083,
                         "id": "tu74"
                     }
                 ],
                 [
                     "This solution may be improved in the following ways:",
-                    "",
+                    "此解决方案可以通过以下方式进行改进：",
                     "This solution may be improved in the following ways:",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510370317,
                         "id": "tu75"
                     }
                 ],
                 [
                     "Improve the speed by using a new format, like colored QR code, which can have a larger data capacity.",
-                    "",
+                    "通过使用新的条码格式（如彩色二维码）来提高速度，该格式可以提供更大的数据容量。",
                     "Improve the speed by using a new format, like colored QR code, which can have a larger data capacity.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510873835,
                         "id": "tu76"
                     }
                 ],
                 [
                     "Improve the missed frames problem by using fountain codes.",
-                    "",
+                    "通过使用喷泉码来改善漏帧的问题。",
                     "Improve the missed frames problem by using fountain codes.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510389651,
                         "id": "tu77"
                     }
                 ],
                 [
                     "Improve the missed frames problem by making the current unidirectional communication to a bidirectional communication so that the generator will only show the undecoded QR codes.",
-                    "",
+                    "通过将当前的单向通信转换为双向通信，使生成器仅显示未扫描的二维码，从而改善漏帧问题。",
                     "Improve the missed frames problem by making the current unidirectional communication to a bidirectional communication so that the generator will only show the undecoded QR codes.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510410430,
                         "id": "tu78"
                     }
                 ],
                 [
                     "This can be done by using the generator to scan a QR code displayed on the receiver's screen.",
-                    "",
+                    "这可以通过使用生成器扫描读取器屏幕上显示的二维码来完成。",
                     " This can be done by using the generator to scan a QR code displayed on the receiver's screen.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510422840,
                         "id": "tu78"
                     }
                 ],
                 [
                     "Use data compression.",
-                    "",
+                    "使用数据压缩。",
                     "Use data compression.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510427069,
                         "id": "tu79"
                     }
                 ],
                 [
                     "Instead of transferring JPEG files, transfer WebP files.",
-                    "",
+                    "例如如果要传输图片，可以用WebP进行压缩。",
                     " Instead of transferring JPEG files, transfer WebP files.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510449275,
                         "id": "tu79"
                     }
                 ],
                 [
                     "(<g1>conversion tool<\/g1>)",
-                    "",
+                    "(<g1>转换工具<\/g1>)",
                     " (<g1>conversion tool<\/g1>)",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1706510455772,
                         "id": "tu79"
                     }
                 ],
                 [
                     "Source Code",
-                    "",
+                    "源代码",
                     "Source Code",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/transfer-data-with-animated-qr-codes.md",
                     {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
                         "id": "tu80"
                     }
                 ]
