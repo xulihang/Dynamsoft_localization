@@ -1,0 +1,999 @@
+{
+    "filename": "quality-evaluation-of-scanned-document-images.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Evaluate the Quality of Scanned Document Images",
+                    "如何评估扫描文档的图像质量",
+                    "How to Evaluate the Quality of Scanned Document Images",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098071414,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-02-01 17:33:53 +0800",
+                    "",
+                    "2024-02-01 17:33:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-02-01 17:33:53 +0800",
+                    "",
+                    "2024-02-01 17:33:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Image Processing",
+                    "",
+                    "Image Processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "OpenCV",
+                    "",
+                    "OpenCV",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Document Image Quality Assessment",
+                    "",
+                    "Document Image Quality Assessment",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article shares about several aspects for evaluating the quality of scanned document images.",
+                    "本文分享了可以从哪些方面评估扫描文档的图像质量。",
+                    "The article shares about several aspects for evaluating the quality of scanned document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098104277,
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/02\/quality-evaluation\/table.jpg",
+                    "",
+                    ".\/img\/2024\/02\/quality-evaluation\/table.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "Whether we scan documents via document scanners or cameras, we may end up getting document images with bad quality.",
+                    "通过文档扫描仪或者相机扫描文档时，我们可能会获得质量较差的文档图像。",
+                    "Whether we scan documents via document scanners or cameras, we may end up getting document images with bad quality.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098146833,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about how to evaluate the quality of scanned document images so that we can recapture the document to get a better image.",
+                    "在本文中，我们将讨论如何评估扫描文档的图像质量，以便重新捕获文档以获得更好的图像。",
+                    " In this article, we are going to talk about how to evaluate the quality of scanned document images so that we can recapture the document to get a better image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098160292,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "A web app is made for automatic evaluation.",
+                    "编写了一个Web应用用于自动化评估。",
+                    " A web app is made for automatic evaluation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098180282,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Aspects for Evaluating the Quality",
+                    "评估文档图像质量几个方面",
+                    "Aspects for Evaluating the Quality",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098209408,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Here are some aspects we generalized for evaluating the quality.",
+                    "以下是我们归纳的评估质量的几个方面。",
+                    "Here are some aspects we generalized for evaluating the quality.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098223218,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Blur",
+                    "模糊",
+                    "Blur",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098227761,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Blur may be caused by motion or out of focus during capturing.",
+                    "模糊可能是由于拍摄过程中的抖动或失焦造成的。",
+                    "Blur may be caused by motion or out of focus during capturing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098241599,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Blurred example:",
+                    "模糊图像示例：",
+                    "Blurred example:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098251170,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "<x1\/>blur<x2\/>",
+                    "<x1\/>模糊<x2\/>",
+                    "<x1\/>blur<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698731320216,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Clear example:",
+                    "清晰图像示例：",
+                    "Clear example:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098260250,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<x1\/>clear<x2\/>",
+                    "<x1\/>清晰<x2\/>",
+                    "<x1\/>clear<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098266675,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Skew",
+                    "倾斜",
+                    "Skew",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098269249,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "If the document paper is not placed straight for a document scanner, the scanned image may be skewed.",
+                    "如果放置在文件扫描仪上的文档没有放正，那么扫描的图像可能会偏斜。",
+                    "If the document paper is not placed straight for a document scanner, the scanned image may be skewed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098334331,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<x1\/>skewed<x2\/>",
+                    "<x1\/>倾斜的<x2\/>",
+                    "<x1\/>skewed<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1707098342506,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Overexposure",
+                    "过度曝光",
+                    "Overexposure",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098345129,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Overexposure will produce an image which is very bright and has a low contrast.",
+                    "曝光过度会产生非常明亮且对比度较低的图像。",
+                    "Overexposure will produce an image which is very bright and has a low contrast.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098347841,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "<x1\/>bright<x2\/>",
+                    "<x1\/>明亮<x2\/>",
+                    "<x1\/>bright<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098353481,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Aspect Ratio",
+                    "长宽比",
+                    "Aspect Ratio",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098364044,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Documents usually have a fixed aspect ratio.",
+                    "文件通常有固定的长宽比。",
+                    "Documents usually have a fixed aspect ratio.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098360194,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "For example, an ID Card's physical size is 86mm × 54mm and its image should also have this aspect ratio.",
+                    "例如，身份证的物理尺寸为86mm × 54mm ，其图像也应具有此长宽比。",
+                    " For example, an ID Card's physical size is 86mm × 54mm and its image should also have this aspect ratio.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098374235,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "ID Card demo which is stretched because of incorrect camera settings.",
+                    "因相机设置不正确而被拉伸的示例身份证图像。",
+                    "ID Card demo which is stretched because of incorrect camera settings.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098404723,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "<x1\/>id-card-demo<x2\/>",
+                    "<x1\/>身份证示例<x2\/>",
+                    "<x1\/>id-card-demo<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098420258,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "OCR Confidence",
+                    "OCR置信度",
+                    "OCR Confidence",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098422945,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "OCR software often produces confidence scores along with the text results.",
+                    "OCR软件在给出文本结果时通常还包含置信度分数。",
+                    "OCR software often produces confidence scores along with the text results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098457930,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "The score can reflect the quality of a document image.",
+                    "该分数可以反映文档图像的质量。",
+                    " The score can reflect the quality of a document image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098464650,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Build a Web App for Automatic Evaluation",
+                    "编写用于自动评估的Web应用",
+                    "Build a Web App for Automatic Evaluation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098472427,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Let's build a web app in steps to evaluate the quality of a scanned document automatically.",
+                    "下面是编写自动评估文档质量的Web应用的分步过程。",
+                    "Let's build a web app in steps to evaluate the quality of a scanned document automatically.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098510212,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "New Page",
+                    "新页面",
+                    "New Page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098516361,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Create a new page with the following content:",
+                    "创建包含以下内容的新页面：",
+                    "Create a new page with the following content:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098519969,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Add <g1>Dynamic Web TWAIN<\/g1> for scanning documents and loading images or PDF files.",
+                    "添加<g1>Dynamic Web TWAIN<\/g1>，用于扫描文档和加载图像或PDF文件。",
+                    "Add <g1>Dynamic Web TWAIN<\/g1> for scanning documents and loading images or PDF files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707098540316,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Add the library and an element as the container of its controls.",
+                    "添加库和一个div，用于容纳其控件。",
+                    "Add the library and an element as the container of its controls.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099168396,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Use the following JavaScript to initialize an instance of Web TWAIN.",
+                    "使用以下JavaScript初始化Web TWAIN的实例。",
+                    "Use the following JavaScript to initialize an instance of Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099177369,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以<g1>这里<\/g1>申请许可证。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099192907,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Add OpenCV.js for image processing.",
+                    "添加OpenCV.js用于图像处理。",
+                    "Add OpenCV.js for image processing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099204212,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Add the library and get its loading status.",
+                    "添加库并获取其加载状态。",
+                    "Add the library and get its loading status.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099210977,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Add Tesseract.js for OCR.",
+                    "添加Tesseract.js用于OCR。",
+                    "Add Tesseract.js for OCR.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099222489,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Detect Blur",
+                    "检测模糊",
+                    "Detect Blur",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099225017,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "As pixels in a blurred image have similar neighboring pixels, we can apply a 3 x 3 Laplacian kernel on the grayscale image and then calculate the variance to detect blur.",
+                    "由于模糊图像中的像素具有相似的相邻像素，我们可以在灰度图像上应用3 x 3拉普拉斯核，然后计算方差以检测模糊。",
+                    "As pixels in a blurred image have similar neighboring pixels, we can apply a 3 x 3 Laplacian kernel on the grayscale image and then calculate the variance to detect blur.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099228665,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "<x1\/>Laplacian<x2\/>",
+                    "<x1\/>拉普拉斯<x2\/>",
+                    "<x1\/>Laplacian<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099241649,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Here is the code to detect blur with OpenCV.js.",
+                    "以下是使用OpenCV.js检测模糊的代码。",
+                    "Here is the code to detect blur with OpenCV.js.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099244105,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "If the variance is larger than 200, the image is blurry.",
+                    "如果方差大于200 ，则判断图像为模糊。",
+                    " If the variance is larger than 200, the image is blurry.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099370651,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Detect Overexposure",
+                    "检测过度曝光",
+                    "Detect Overexposure",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099373161,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "We can use a histogram to detect overexposure.",
+                    "我们可以使用直方图来检测过度曝光。",
+                    "We can use a histogram to detect overexposure.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099376561,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Histogram is a way to understand an image.",
+                    "直方图是理解图像的一种方法。",
+                    " Histogram is a way to understand an image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099380115,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "It is a plot with pixel values (ranging from 0 to 255, not always) on the X-axis and the corresponding number of pixels in the image on the Y-axis.",
+                    "它以像素值（范围通常从 0 到 255）为X轴，以图像中相应像素数量为Y轴。",
+                    " It is a plot with pixel values (ranging from 0 to 255, not always) on the X-axis and the corresponding number of pixels in the image on the Y-axis.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099420499,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "A normal document image may have the following histogram:",
+                    "正常文档图像可能具有以下直方图：",
+                    "A normal document image may have the following histogram:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099436641,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "<x1\/>normal histogram<x2\/>",
+                    "<x1\/>正常的直方图<x2\/>",
+                    "<x1\/>normal histogram<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099445956,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Image:",
+                    "图像：",
+                    "Image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099706603,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "<x1\/>good quality image<x2\/>",
+                    "<x1\/>好的图像<x2\/>",
+                    "<x1\/>good quality image<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099672971,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "An overexposed image may have the following histogram:",
+                    "曝光过度的图像可能具有以下直方图：",
+                    "An overexposed image may have the following histogram:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099680586,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "<x1\/>overexposed histogram<x2\/>",
+                    "<x1\/>曝光过度的直方图<x2\/>",
+                    "<x1\/>overexposed histogram<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099685563,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Image:",
+                    "图像：",
+                    "Image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099697675,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "<x1\/>bright image<x2\/>",
+                    "<x1\/>明亮的图像<x2\/>",
+                    "<x1\/>bright image<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099710809,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "We can see that the overexposed image has a more intense intensity distribution and the distribution is more to the right side of the histogram.",
+                    "我们可以看到，过度曝光的图像具有更集中的强度分布，并且分布更靠近直方图的右侧。",
+                    "We can see that the overexposed image has a more intense intensity distribution and the distribution is more to the right side of the histogram.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099727396,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Here is the code to detect overexposure with OpenCV.js and histogram:",
+                    "以下是使用OpenCV.js和直方图检测过度曝光的代码：",
+                    "Here is the code to detect overexposure with OpenCV.js and histogram:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099740241,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Detect Skew",
+                    "检测倾斜",
+                    "Detect Skew",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099766826,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "We can find the contours of text lines to detect the skew angle.",
+                    "我们可以通过文字行的轮廓来检测倾斜角度。",
+                    "We can find the contours of text lines to detect the skew angle.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099790606,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "We've talked about this in a <g1>previous article<\/g1>.",
+                    "我们<g1>在上一篇文章<\/g1>中已经讨论过这点。",
+                    " We've talked about this in a <g1>previous article<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099809264,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "Here is the code to detect skew with Web TWAIN.",
+                    "以下是使用Web TWAIN检测倾斜的代码。",
+                    "Here is the code to detect skew with Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099819828,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "If the detected skew angle is larger than 1, then the document image is skewed.",
+                    "如果检测到的倾斜角度大于1 ，则判断文档图像为倾斜。",
+                    " If the detected skew angle is larger than 1, then the document image is skewed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099833848,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "Examine Aspect Ratio",
+                    "检查长宽比",
+                    "Examine Aspect Ratio",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099840329,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "We need to know the document type before examining if its aspect ratio is correct.",
+                    "在检查长宽比是否正确之前，我们需要先知道文档的类型。",
+                    "We need to know the document type before examining if its aspect ratio is correct.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099858635,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "We can let the user select the document type.",
+                    "我们可以让用户先选择文件类型。",
+                    "We can let the user select the document type.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099880062,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Then examine the aspect ratio with the following code:",
+                    "然后使用以下代码检查长宽比：",
+                    "Then examine the aspect ratio with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099891646,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Get OCR Confidence",
+                    "获取OCR置信度",
+                    "Get OCR Confidence",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099899922,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Here, we use Tesseract.js to perform OCR and get the confidence value.",
+                    "这里，我们使用Tesseract.js执行OCR并获取置信度。",
+                    "Here, we use Tesseract.js to perform OCR and get the confidence value.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099908585,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "Calculate an Overall Score",
+                    "计算总分",
+                    "Calculate an Overall Score",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099910658,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "We can calculate an overall score for assessing the quality.",
+                    "我们可以计算一个总分来评估质量。",
+                    "We can calculate an overall score for assessing the quality.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099925306,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "The result is displayed in a table.",
+                    "结果显示在表格中。",
+                    "The result is displayed in a table.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099930961,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "<x1\/>Table<x2\/>",
+                    "<x1\/>表<x2\/>",
+                    "<x1\/>Table<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1707099933946,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "You can find all the code and an online demo in the following repo:",
+                    "可以在以下仓库中找到所有代码和在线演示：",
+                    "You can find all the code and an online demo in the following repo:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/quality-evaluation-of-scanned-document-images.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735433512,
+                        "id": "tu65"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
