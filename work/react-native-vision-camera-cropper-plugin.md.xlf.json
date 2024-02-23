@@ -1,0 +1,629 @@
+{
+    "filename": "react-native-vision-camera-cropper-plugin.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Create a React Native Vision Camera Plugin to Crop Frames",
+                    "如何编写一个React Native Vision Camera的插件用于裁剪视频帧",
+                    "How to Create a React Native Vision Camera Plugin to Crop Frames",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708654791209,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-02-22 14:14:53 +0800",
+                    "",
+                    "2024-02-22 14:14:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-02-22 14:14:53 +0800",
+                    "",
+                    "2024-02-22 14:14:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Vision Camera",
+                    "",
+                    "Vision Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "React Native",
+                    "",
+                    "React Native",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to create a React Native Vision Camera frame processor plugin to crop frames.",
+                    "本文讨论了如何创建一个React Native Vision Camera的帧处理器插件来裁剪帧。",
+                    "The article talks about how to create a React Native Vision Camera frame processor plugin to crop frames.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708654819497,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "The frames can be saved as base64 or files.",
+                    "帧可保存为base64或文件。",
+                    " The frames can be saved as base64 or files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708654843289,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/02\/vision-camera-cropper\/screenshot.jpg",
+                    "",
+                    ".\/img\/2024\/02\/vision-camera-cropper\/screenshot.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "React Native Vision Camera is a React Native camera library which makes it easy to build a camera app with various image processing features like <g1>barcode reading<\/g1>, <g2>document scanning<\/g2> and <g3>OCR<\/g3>.",
+                    "React Native Vision Camera 是一个React Native的相机库，可以用于构建具有各种图像处理功能的相机应用，比如<g1>条码识别<\/g1>、<g2>文档扫描<\/g2>和<g3>OCR<\/g3>等功能。",
+                    "React Native Vision Camera is a React Native camera library which makes it easy to build a camera app with various image processing features like <g1>barcode reading<\/g1>, <g2>document scanning<\/g2> and <g3>OCR<\/g3>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708654937977,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It has a feature called frame processor.",
+                    "它有一个叫做帧处理器的功能。",
+                    "It has a feature called frame processor.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708654946447,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "We can write frame processor plugins to integrate image processing features with native performance.",
+                    "我们可以编写帧处理器插件，集成具有原生性能的图像处理功能。",
+                    " We can write frame processor plugins to integrate image processing features with native performance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708654979017,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to demonstrate how to create a cropper plugin for vision camera.",
+                    "在本文中，我们将演示如何创建一个Vision Camera的视频帧裁剪插件。",
+                    "In this article, we are going to demonstrate how to create a cropper plugin for vision camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655016609,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "The plugin can crop a part of the camera frame and convert it to base64.",
+                    "该插件可以裁剪相机画面，并将结果其转换为base64。",
+                    " The plugin can crop a part of the camera frame and convert it to base64.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655036689,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Demo video of the final result:",
+                    "最终结果的演示视频：",
+                    "Demo video of the final result:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655047319,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "First, create a native module project.",
+                    "首先，创建一个native module项目。",
+                    "First, create a native module project.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655058529,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Here, we choose Java + Swift to create a native module.",
+                    "这里，我们选择Java + Swift的语言组合。",
+                    "Here, we choose Java + Swift to create a native module.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655075794,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Add <g1>react-native-vision-camera<\/g1> and <g2>react-native-worklets-core<\/g2> as <g3>devDependencies<\/g3> and <g4>peerDependencies<\/g4>:",
+                    "将<g1>react-native-vision-camera<\/g1>和<g2>react-native-worklets-core<\/g2>添加为<g3>devDependencies<\/g3>和<g4>peerDependencies<\/g4> ：",
+                    "Add <g1>react-native-vision-camera<\/g1> and <g2>react-native-worklets-core<\/g2> as <g3>devDependencies<\/g3> and <g4>peerDependencies<\/g4>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655083030,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Add <g1>react-native-vision-camera<\/g1> and <g2>react-native-worklets-core<\/g2> as <g3>dependencies<\/g3> for the example project:",
+                    "将<g1>react-native-vision-camera<\/g1>和react-native-worklets-core<g2>添加<\/g2>为示例项目的<g3>dependencies<\/g3>：",
+                    "Add <g1>react-native-vision-camera<\/g1> and <g2>react-native-worklets-core<\/g2> as <g3>dependencies<\/g3> for the example project:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655100761,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "For Android, add <g1>react-native-vision-camera<\/g1> as a dependency in <g2>android\/build.gradle<\/g2>:",
+                    "对于Android ，在 <g2>android\/build.gradle<\/g2>中添加<g1>react-native-vision-camera<\/g1>作为依赖项：",
+                    "For Android, add <g1>react-native-vision-camera<\/g1> as a dependency in <g2>android\/build.gradle<\/g2>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655116634,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Define the Plugin in JavaScript",
+                    "使用JavaScript定义插件",
+                    "Define the Plugin in JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655130163,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Open <g1>src\/index.ts<\/g1> to make the following changes:",
+                    "打开<g1>src\/index.ts<\/g1>进行以下更改：",
+                    "Open <g1>src\/index.ts<\/g1> to make the following changes:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655133446,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Init a frame processor plugin named <g1>crop<\/g1>.",
+                    "初始化名为<g1>crop<\/g1>的帧处理器插件。",
+                    "Init a frame processor plugin named <g1>crop<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655139918,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Define a <g1>crop<\/g1> function which can be used in a frame processor.",
+                    "定义帧处理器的<g1>crop<\/g1>函数。",
+                    "Define a <g1>crop<\/g1> function which can be used in a frame processor.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655158324,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Related interfaces:",
+                    "相关接口：",
+                    "Related interfaces:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655169574,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Implement the Plugin for Android",
+                    "Android端实现",
+                    "Implement the Plugin for Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655181265,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Create a new <g1>CropperFrameProcessorPlugin.java<\/g1> file with the following template:",
+                    "使用以下模板创建新的<g1>CropperFrameProcessorPlugin.java<\/g1>文件：",
+                    "Create a new <g1>CropperFrameProcessorPlugin.java<\/g1> file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655194397,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Register the plugin in <g1>VisionCameraCropperPackage<\/g1>.",
+                    "在<g1>VisionCameraCropperPackage<\/g1>中注册插件。",
+                    "Register the plugin in <g1>VisionCameraCropperPackage<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655206043,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Create a <g1>BitmapUtils<\/g1> file and a <g2>FrameMetadata<\/g2> file for converting YUV-format camera frames to RGB-format bitmaps and related image operations.",
+                    "创建一个<g1>BitmapUtils<\/g1>文件和一个<g2>FrameMetadata<\/g2>文件，用于将YUV格式的相机帧转换为RGB格式的位图和执行其它图像操作。",
+                    "Create a <g1>BitmapUtils<\/g1> file and a <g2>FrameMetadata<\/g2> file for converting YUV-format camera frames to RGB-format bitmaps and related image operations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655244132,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "<g1>BitmapUtils.java<\/g1>:",
+                    "<g1>BitmapUtils.java<\/g1> ：",
+                    "<g1>BitmapUtils.java<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655251159,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "<g1>FrameMetadata.java<\/g1>:",
+                    "<g1>FrameMetadata.java<\/g1> ：",
+                    "<g1>FrameMetadata.java<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655255430,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "In the plugin file, convert the frame to bitmap and then crop and save it according to the arguments.",
+                    "在插件文件中，将帧转换为位图，然后根据参数进行裁剪和保存。",
+                    "In the plugin file, convert the frame to bitmap and then crop and save it according to the arguments.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655270959,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Implement the Plugin for iOS",
+                    "iOS端实现",
+                    "Implement the Plugin for iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1708655280961,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Rename <g1>vision-camera-cropper.podspec<\/g1> as <g2>VisionCameraCropper.podspec<\/g2> and update the name as <g3>VisionCameraCropper<\/g3> in its content.",
+                    "将<g1>vision-camera-cropper.podspec<\/g1>重命名为<g2>VisionCameraCropper.podspec<\/g2>，并在其内容中将名称更新为<g3>VisionCameraCropper<\/g3>。",
+                    "Rename <g1>vision-camera-cropper.podspec<\/g1> as <g2>VisionCameraCropper.podspec<\/g2> and update the name as <g3>VisionCameraCropper<\/g3> in its content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655305784,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Rename <g1>VisionCameraCropper.m<\/g1> as <g2>VisionCameraCropper.mm<\/g2> and create a new <g3>VisionCameraCropper.h<\/g3> file using Xcode.",
+                    "将<g1>VisionCameraCropper.mm<\/g1>重命名<g2>为<\/g2>VisionCameraCropper.m ，并使用Xcode<g3>创建<\/g3>新的VisionCameraCropper.h文件。",
+                    "Rename <g1>VisionCameraCropper.m<\/g1> as <g2>VisionCameraCropper.mm<\/g2> and create a new <g3>VisionCameraCropper.h<\/g3> file using Xcode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655337670,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Include Vision Camera's header files in <g1>VisionCameraCropper-Bridging-Header.h<\/g1>.",
+                    "在<g1>VisionCameraCropper-Bridging-Header.h<\/g1>中包含 Vision Camera 的头文件。",
+                    "Include Vision Camera's header files in <g1>VisionCameraCropper-Bridging-Header.h<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655361263,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Create a new <g1>CropperFrameProcessorPlugin.swift<\/g1> file with the following template:",
+                    "使用以下模板创建一个新的<g1>CropperFrameProcessorPlugin.swift<\/g1>文件：",
+                    "Create a new <g1>CropperFrameProcessorPlugin.swift<\/g1> file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655371978,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Create <g1>CropperFrameProcessorPlugin.m<\/g1> to register the plugin.",
+                    "创建<g1>CropperFrameProcessorPlugin.m<\/g1>以注册插件。",
+                    "Create <g1>CropperFrameProcessorPlugin.m<\/g1> to register the plugin.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655383415,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "In the plugin file, convert the frame to UIImage and then crop and save it according to the arguments.",
+                    "在插件文件中，将帧转换为UIImage，然后根据参数进行裁剪和保存。",
+                    "In the plugin file, convert the frame to UIImage and then crop and save it according to the arguments.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1708655393433,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "All right, we've now finished writing the plugin.",
+                    "好了，插件已经编写好了。",
+                    "All right, we've now finished writing the plugin.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1708655404083,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Update the Example Project to Use the Plugin",
+                    "更新示例项目以使用插件",
+                    "Update the Example Project to Use the Plugin",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655409862,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "We can use the example project to test the plugin.",
+                    "我们可以使用示例项目来测试插件。",
+                    "We can use the example project to test the plugin.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655414438,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Declare camera permissions.",
+                    "声明相机权限。",
+                    "Declare camera permissions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655419438,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Add the following to <g1>example\\android\\app\\src\\main\\AndroidManifest.xml<\/g1>:",
+                    "将以下内容添加到<g1>example\\android\\app\\src\\main\\AndroidManifest.xml<\/g1> ：",
+                    "Add the following to <g1>example\\android\\app\\src\\main\\AndroidManifest.xml<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655430305,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Add the following to <g1>example\\ios\\VisionCameraCropperExample\\Info.plist<\/g1>:",
+                    "将以下内容添加到<g1>example\\ios\\VisionCameraCropperExample\\Info.plist<\/g1> ：",
+                    "Add the following to <g1>example\\ios\\VisionCameraCropperExample\\Info.plist<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655446037,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Update <g1>App.tsx<\/g1> to use Vision Camera and the frame processor.",
+                    "更新<g1>App.tsx<\/g1>以使用Vision Camera和帧处理器。",
+                    "Update <g1>App.tsx<\/g1> to use Vision Camera and the frame processor.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655453902,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Then, we can use the example project to test the plugin with the following command:",
+                    "然后，我们可以通过以下命令运行示例项目以测试插件：",
+                    "Then, we can use the example project to test the plugin with the following command:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708655478417,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Get the source code and have a try:",
+                    "下载源代码并尝试使用：",
+                    "Get the source code and have a try: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/react-native-vision-camera-cropper-plugin.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699582032112,
+                        "id": "tu40"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
