@@ -1,0 +1,1005 @@
+{
+    "filename": "react-native-id-card-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a React Native ID Card Scanner",
+                    "构建一个React Native身份证扫描应用",
+                    "How to Build a React Native ID Card Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709110936951,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-02-28 10:16:53 +0800",
+                    "",
+                    "2024-02-28 10:16:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-02-28 10:16:53 +0800",
+                    "",
+                    "2024-02-28 10:16:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "MRZ",
+                    "",
+                    "MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "OCR",
+                    "",
+                    "OCR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "MRZ",
+                    "",
+                    "MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "ID Card",
+                    "",
+                    "ID Card",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "React Native",
+                    "",
+                    "React Native",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf16_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build an ID card scanner with React Native, Vision Camera and Dynamsoft Label Recognizer.",
+                    "本文讨论了如何使用React Native、Vision Camera和Dynamsoft Label Recognizer构建一个身份证扫描应用。",
+                    "The article talks about how to build an ID card scanner with React Native, Vision Camera and Dynamsoft Label Recognizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709110962026,
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/02\/id-card-scanner\/card-page.jpg",
+                    "",
+                    ".\/img\/2024\/02\/id-card-scanner\/card-page.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf18_tu1"
+                    }
+                ],
+                [
+                    "Identity documents are adopted in many countries to prove a person's identity.",
+                    "许多国家都采用身份证来证明一个人的身份。",
+                    "Identity documents are adopted in many countries to prove a person's identity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709110986988,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "They usually have a card design around 8.6 cm x 5.4 cm in size with three-line MRZ, like ID cards in Germany and the Netherlands.",
+                    "它们通常采用 8.6 厘米 x 5.4 厘米大小的卡片设计，许多还带有三行MRZ机读文本，比如德国和荷兰的身份证。",
+                    " They usually have a card design around 8.6 cm x 5.4 cm in size with three-line MRZ, like ID cards in Germany and the Netherlands.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111075487,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Dutch ID Card Specimen:",
+                    "荷兰身份证样本：",
+                    "Dutch ID Card Specimen:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111018017,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<x1\/>Dutch ID Card<x2\/>",
+                    "<x1\/>荷兰身份证<x2\/>",
+                    "<x1\/>Dutch ID Card<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111022825,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about how to build an ID card scanner in React Native.",
+                    "在本文中，我们将讨论如何使用React Native编写一个身份证扫描应用。",
+                    "In this article, we are going to talk about how to build an ID card scanner in React Native.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111045753,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "The scanner can capture the front and the back of the ID card and extract the card owner's info by recognizing the MRZ using OCR.",
+                    "它可以捕获身份证的正面和背面，并通过使用OCR识别MRZ来提取持卡人的信息。",
+                    " The scanner can capture the front and the back of the ID card and extract the card owner's info by recognizing the MRZ using OCR.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111053223,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Label Recognizer<\/g1> is used to provide the OCR functionality.",
+                    "使用<g1>Dynamsoft Label Recognizer<\/g1>提供OCR功能。",
+                    " <g1>Dynamsoft Label Recognizer<\/g1> is used to provide the OCR functionality.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111115762,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Create a new React Native project:",
+                    "创建一个新的React Native项目：",
+                    "Create a new React Native project:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709111131622,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Install <g1>react-native-vision-camera<\/g1> for accessing the camera.",
+                    "安装<g1>react-native-vision-camera<\/g1>用于访问摄像头。",
+                    "Install <g1>react-native-vision-camera<\/g1> for accessing the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111162093,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Install <g1>vision-camera-dynamsoft-label-recognizer<\/g1> for recognizing the MRZ.",
+                    "安装<g1>vision-camera-dynamsoft-label-recognizer<\/g1>以识别 MRZ。",
+                    "Install <g1>vision-camera-dynamsoft-label-recognizer<\/g1> for recognizing the MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111172775,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Install <g1>vision-camera-cropper<\/g1> to crop camera frames.",
+                    "安装<g1>vision-camera-cropper<\/g1>以裁剪摄像头画面。",
+                    "Install <g1>vision-camera-cropper<\/g1> to crop camera frames.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111186749,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Install <g1>react-native-svg<\/g1> for drawing the rectangle for cropping.",
+                    "安装<g1>react-native-svg<\/g1>用于绘制表示裁剪区域的矩形框。",
+                    "Install <g1>react-native-svg<\/g1> for drawing the rectangle for cropping.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111210395,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Install <g1>react-navigation<\/g1> for navigation.",
+                    "安装<g1>react-navigation<\/g1>用于导航和路由。",
+                    "Install <g1>react-navigation<\/g1> for navigation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111293060,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Install <g1>@react-native-async-storage\/async-storage<\/g1> to store the scanned ID cards.",
+                    "安装<g1>@react-native-async-storage\/async-storage<\/g1>以存储扫描的身份证。",
+                    "Install <g1>@react-native-async-storage\/async-storage<\/g1> to store the scanned ID cards.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111228884,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Install <g1>mrz<\/g1> for parsing MRZ.",
+                    "安装<g1>mrz<\/g1>以解析MRZ。",
+                    "Install <g1>mrz<\/g1> for parsing MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111232753,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Add Camera Permission",
+                    "添加相机权限",
+                    "Add Camera Permission",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709111248746,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "For iOS, add the following to <g1>Info.plist<\/g1>.",
+                    "对于iOS，将以下内容添加到<g1>Info.plist<\/g1>。",
+                    "For iOS, add the following to <g1>Info.plist<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709111268491,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "For Android, add the following to <g1>AndroidManifest.xml<\/g1>.",
+                    "对于 Android，在<g1>AndroidManifest.xml<\/g1>中添加以下内容。",
+                    "For Android, add the following to <g1>AndroidManifest.xml<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111281261,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Navigation",
+                    "导航",
+                    "Navigation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111285993,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "The app will have three screens.",
+                    "该应用程序有三屏。",
+                    "The app will have three screens.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111306341,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Home Screen.",
+                    "主屏幕页面。",
+                    "Home Screen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111585515,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "We can manage scanned ID cards on this page.",
+                    "我们可以在此页面上管理扫描的身份证件。",
+                    " We can manage scanned ID cards on this page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111316593,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "<x1\/>Home Page<x2\/>",
+                    "<x1\/>主页<x2\/>",
+                    "<x1\/>Home Page<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648027423410,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Card Screen.",
+                    "身份证屏幕页面。",
+                    "Card Screen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111735984,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "We can scan a new ID card or view and modify an ID card on this page.",
+                    "我们可以扫描新的身份证件，也可以在此页面上查看和修改已有身份证件。",
+                    " We can scan a new ID card or view and modify an ID card on this page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111338646,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "<x1\/>Card Page<x2\/>",
+                    "<x1\/>身份证页面<x2\/>",
+                    "<x1\/>Card Page<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111739976,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Camera Screen.",
+                    "相机屏幕页面。",
+                    "Camera Screen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111398427,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "We can open the camera to crop the ID card image on this page.",
+                    "我们可以在此页面打开摄像头，裁剪身份证件图片。",
+                    " We can open the camera to crop the ID card image on this page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111392796,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "<x1\/>Camera Page<x2\/>",
+                    "<x1\/>相机页面<x2\/>",
+                    "<x1\/>Camera Page<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111409202,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "We use react navigation to manage the screens and navigation.",
+                    "使用React Navigation来管理屏幕和导航。",
+                    "We use react navigation to manage the screens and navigation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111423043,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Create screen files under <g1>src\/screens<\/g1>:",
+                    "在<g1>src\/screens<\/g1>下创建屏幕页面文件：",
+                    "Create screen files under <g1>src\/screens<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111442831,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "<g2>HomeScreen.tsx<\/g2>, <g3>CardScreen.tsx<\/g3>,<g4>CameraScreen.tsx<\/g4>.",
+                    "<g2>HomeScreen.tsx<\/g2>、<g3>CardScreen.tsx<\/g3>、<g4>CameraScreen.tsx<\/g4>。",
+                    " <g2>HomeScreen.tsx<\/g2>, <g3>CardScreen.tsx<\/g3>,<g4>CameraScreen.tsx<\/g4>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111461291,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Update <g1>App.tsx<\/g1> to use react navigation.",
+                    "更新<g1>App.tsx<\/g1>以使用React Navigation。",
+                    "Update <g1>App.tsx<\/g1> to use react navigation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111475266,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "How the ID Cards are Stored",
+                    "数据存储方式",
+                    "How the ID Cards are Stored",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111491474,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "A <g1>ScannedCard<\/g1> interface is defined to represent an ID card.",
+                    "定义了一个<g1>ScannedCard<\/g1>接口来表示身份证。",
+                    "A <g1>ScannedCard<\/g1> interface is defined to represent an ID card.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111500137,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "It contains the base64 of its back and front images and the extracted info.",
+                    "它包含其背面和正面图像的base64以及提取的信息。",
+                    " It contains the base64 of its back and front images and the extracted info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111503401,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "An <g1>IDCardManager<\/g1> is used to store the ID cards using <g2>async-storage<\/g2>.",
+                    "编写了一个<g1>IDCardManager<\/g1> 用于使用<g2>async-storage<\/g2>存储身份证。",
+                    "An <g1>IDCardManager<\/g1> is used to store the ID cards using <g2>async-storage<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111524996,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "The timestamp is used as the key.",
+                    "使用时间戳作键值。",
+                    " The timestamp is used as the key.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111571880,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Home Screen",
+                    "主屏幕页面",
+                    "Home Screen",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709111401763,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Define a <g1>Card<\/g1> component under <g2>src\/components\/Card.tsx<\/g2>.",
+                    "在<g2>src\/components\/Card.tsx<\/g2>里定义一个<g1>Card<\/g1>组件。",
+                    "Define a <g1>Card<\/g1> component under <g2>src\/components\/Card.tsx<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111606994,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "It can be listed on the home screen.",
+                    "我们会在主屏幕用它列出扫描的身份证。",
+                    " It can be listed on the home screen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111629075,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "List the existing cards on the home screen.",
+                    "在主屏幕上列出现有的身份证。",
+                    "List the existing cards on the home screen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111638059,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "When the card is pressed, display a modal for the user to choose whether to open the card or delete the card.",
+                    "身份证组件被点击时，显示一个模态框供用户选择打开或删除该身份证。",
+                    "When the card is pressed, display a modal for the user to choose whether to open the card or delete the card.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111667900,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "JSX:",
+                    "JSX：",
+                    "JSX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123531882,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Functions:",
+                    "函数：",
+                    "Functions:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111677123,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Add a bottom bar with a \"scan\" button which navigates to the card screen.",
+                    "添加一个底部的工具栏，在上面添加一个\"Scan\"按钮，用于导航到身份证屏幕。",
+                    "Add a bottom bar with a \"scan\" button which navigates to the card screen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111722140,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "JSX:",
+                    "JSX：",
+                    "JSX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123531882,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Styles:",
+                    "样式：",
+                    "Styles:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111769196,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Camera Screen",
+                    "相机屏幕页面",
+                    "Camera Screen",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709111774035,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "On camera screen, use Vision Camera to open the camera, add a rectangle to indicate which region to crop and a button for capturing.",
+                    "在相机屏幕上，使用Vision Camera打开相机，添加捕获按钮和一个标明裁剪的区域矩形。",
+                    "On camera screen, use Vision Camera to open the camera, add a rectangle to indicate which region to crop and a button for capturing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111818443,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "The crop region is set based on the ratio of an ID card.",
+                    "根据身份证的比例设置裁剪区域。",
+                    "The crop region is set based on the ratio of an ID card.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111837237,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Define a frame processor to capture a frame when the capture button is pressed.",
+                    "定义帧处理器，以便在按下捕捉按钮时捕捉帧。",
+                    "Define a frame processor to capture a frame when the capture button is pressed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111844361,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "It will return to the previous screen with the cropped frame's base64.",
+                    "捕获后将返回到上一个屏幕，并返回裁剪后的帧的base64。",
+                    " It will return to the previous screen with the cropped frame's base64.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111878778,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Card Screen",
+                    "身份证屏幕页面",
+                    "Card Screen",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709111888138,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "On the card screen, display the card's images and info and allow editing of the card.",
+                    "在身份证屏幕上，显示身份证的图像和信息，并允许编辑。",
+                    "On the card screen, display the card's images and info and allow editing of the card.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111903251,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Define the JSX:",
+                    "定义JSX：",
+                    "Define the JSX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111911167,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "When the component mounted, load the card info if a key is specified.",
+                    "组件挂载后，如果指定了存储的键值，则加载该身份证信息。",
+                    "When the component mounted, load the card info if a key is specified.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111944507,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "When the back image is captured, try to recognize the MRZ lines of the ID card and extract the info.",
+                    "拍摄背面图像后，尝试识别身份证的MRZ行并提取信息。",
+                    "When the back image is captured, try to recognize the MRZ lines of the ID card and extract the info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111955216,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Save the scanned card when the \"save\" button on the header is pressed.",
+                    "按下标题栏上的\"Save\"按钮时，保存扫描的身份证。",
+                    "Save the scanned card when the \"save\" button on the header is pressed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111978891,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Here are the steps to configure Dynamsoft Label Recognize for recognizing MRZ.",
+                    "以下是配置Dynamsoft Label Recognize以识别MRZ的步骤。",
+                    "Here are the steps to configure Dynamsoft Label Recognize for recognizing MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111981201,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "Put MRZ model files in the project.",
+                    "将MRZ模型文件放入项目中。",
+                    "Put MRZ model files in the project.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709111988385,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "You can find the files <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>找到文件。",
+                    " You can find the files <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709112005827,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "For Android, we have to put the MRZ model files under <g1>assets<\/g1>.",
+                    "对于Android ，需要将MRZ模型文件放在<g1>assets<\/g1>下。",
+                    "For Android, we have to put the MRZ model files under <g1>assets<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709112021733,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "For iOS, add the MRZ model folder as a reference.",
+                    "对于iOS ，将MRZ模型文件夹以reference的形式添加。",
+                    "For iOS, add the MRZ model folder as a reference.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709112048778,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "<x1\/>add model ios 1<x2\/>",
+                    "<x1\/>给iOS添加模型1<x2\/>",
+                    "<x1\/>add model ios 1<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709112064432,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "<x1\/>add model ios 2<x2\/>",
+                    "<x1\/>给iOS添加模型2<x2\/>",
+                    "<x1\/>add model ios 2<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709112068126,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Label Recognizer with a license and update its template.",
+                    "使用许可证初始化Dynamsoft Label Recognizer并更新其模板。",
+                    "Initialize Dynamsoft Label Recognizer with a license and update its template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709112082564,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请许可证。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709112093924,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "All right, we have covered the key parts of the React Native ID card scanner demo.",
+                    "好了，我们已经介绍了React Native身份证扫描应用的关键部分。",
+                    "All right, we have covered the key parts of the React Native ID card scanner demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709112110781,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Check out the source code to have a try:",
+                    "获取源代码来自己试用一下吧：",
+                    " Check out the source code to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/react-native\/react-native-id-card-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1701744728242,
+                        "id": "tu60"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
