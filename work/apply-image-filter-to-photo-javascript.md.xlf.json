@@ -1,0 +1,822 @@
+{
+    "filename": "apply-image-filter-to-photo-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Apply an Image Filter to a Photo with JavaScript",
+                    "如何使用JavaScript对图片进行滤镜操作",
+                    "How to Apply an Image Filter to a Photo with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709607877358,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-03-04 14:53:53 +0800",
+                    "",
+                    "2024-03-04 14:53:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-03-04 14:53:53 +0800",
+                    "",
+                    "2024-03-04 14:53:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Image Processing",
+                    "",
+                    "Image Processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a JavaScript library to apply various image filters on images.",
+                    "文章讲述了如何构建一个JavaScript库，用于对各种图片进行滤镜操作。",
+                    "The article talks about how to build a JavaScript library to apply various image filters on images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709607904167,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "It can be used to enhance scanned document images or photos.",
+                    "它可用于增强扫描的文档图像或照片。",
+                    " It can be used to enhance scanned document images or photos.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608294364,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/03\/image-filter\/sepia.jpg",
+                    "",
+                    ".\/img\/2024\/03\/image-filter\/sepia.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Filters are commonly used to adjust the rendering of images.",
+                    "滤镜通常用于调整图像的呈现效果。",
+                    "Filters are commonly used to adjust the rendering of images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608315608,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can use it to make images sharper, remove unwanted objects, or adjust the color tone.",
+                    "我们可以使用它来使图像更清晰、删除不需要的对象或调整色调。",
+                    " We can use it to make images sharper, remove unwanted objects, or adjust the color tone.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608319679,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a JavaScript library to perform various image filters.",
+                    "在本文中，我们将构建一个JavaScript库来实现各种图像滤镜。",
+                    "In this article, we are going to build a JavaScript library to perform various image filters.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608345158,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "It can be used together with <g1>Dynamsoft Document Viewer<\/g1> so that it can be easily integated into a document scanning workflow.",
+                    "它可以与<g1>Dynamsoft Document Viewer<\/g1>一起使用，以便集成到文档扫描流程中。",
+                    " It can be used together with <g1>Dynamsoft Document Viewer<\/g1> so that it can be easily integated into a document scanning workflow.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608374294,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Create a new project with Vite and the typescript template:",
+                    "使用Vite创建一个新的TypeScript项目：",
+                    "Create a new project with Vite and the typescript template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705301541196,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Implement the Image Filter",
+                    "实现图像滤镜",
+                    "Implement the Image Filter",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608410638,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Next, let's implement the image filter.",
+                    "接下来是具体的实现步骤。",
+                    "Next, let's implement the image filter.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608436862,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Define an Interface",
+                    "定义接口",
+                    "Define an Interface",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608441285,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Define an <g1>ImageFilter<\/g1> interface in <g2>src\/ImageFilter.ts<\/g2>.",
+                    "在<g2>src\/ImageFilter.ts<\/g2>中定义<g1>ImageFilter<\/g1>接口。",
+                    "Define an <g1>ImageFilter<\/g1> interface in <g2>src\/ImageFilter.ts<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608456023,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "An image filter has two functions.",
+                    "ImageFilter有两个方法。",
+                    "An image filter has two functions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608487590,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "One is a <g1>process<\/g1> function which saves the image with the filter applied onto a canvas.",
+                    "一个是<g1>process<\/g1>，用于将应用了滤镜的图像保存到Canvas上。",
+                    " One is a <g1>process<\/g1> function which saves the image with the filter applied onto a canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608506526,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "The other is a <g2>convert<\/g2> function which defines how the pixels are converted exactly.",
+                    "另一个是<g2>convert<\/g2>，它定义了像素转换的具体方式。",
+                    " The other is a <g2>convert<\/g2> function which defines how the pixels are converted exactly.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608524190,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Define a Base Filter Class",
+                    "定义一个滤镜的基类",
+                    "Define a Base Filter Class",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608536551,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Create a <g1>GenericImageFilter<\/g1> class which implements <g2>ImageFilter<\/g2> in <g3>src\/GenericImageFilter.ts<\/g3>.",
+                    "在<g3>src\/GenericImageFilter.ts<\/g3>中创建一个实现<g2>ImageFilter<\/g2>的<g1>GenericImageFilter<\/g1>类。",
+                    "Create a <g1>GenericImageFilter<\/g1> class which implements <g2>ImageFilter<\/g2> in <g3>src\/GenericImageFilter.ts<\/g3>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608566166,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Here, we draw the image onto a canvas to manipulate its pixels.",
+                    "在这里，我们将图像绘制到画布上以操纵其像素。",
+                    " Here, we draw the image onto a canvas to manipulate its pixels.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608574276,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Define Filters Derived from the Base",
+                    "定义从基类派生的各种滤镜",
+                    "Define Filters Derived from the Base",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608602271,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Next, we can simply create new image filters which extend the base class and override its functions.",
+                    "接下来，我们通过扩展基类来定义各种新的滤镜类。",
+                    "Next, we can simply create new image filters which extend the base class and override its functions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608637197,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Grayscale Filter.",
+                    "灰度滤镜。",
+                    "Grayscale Filter.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608644974,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "It turns an image into a grayscale one composed only of 256 different shades of gray.",
+                    "它将图像转换为仅由256种不同灰度组成的灰度图像。",
+                    "It turns an image into a grayscale one composed only of 256 different shades of gray.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608647804,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "<x1\/>grayscale<x2\/>",
+                    "<x1\/>灰度<x2\/>",
+                    "<x1\/>grayscale<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608653948,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Sepia Filter.",
+                    "棕褐色滤镜。",
+                    "Sepia Filter.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608661125,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "It adds a reddish-brown tone to an image.",
+                    "它为图像添加了棕褐色调。",
+                    "It adds a reddish-brown tone to an image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608676535,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "<x1\/>sepia<x2\/>",
+                    "<x1\/>棕褐色<x2\/>",
+                    "<x1\/>sepia<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608674696,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Invert Filter.",
+                    "反色滤镜。",
+                    "Invert Filter.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709608686221,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "It inverts the pixels of an image.",
+                    "它可以反转图像的像素，",
+                    "It inverts the pixels of an image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608698926,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "It is useful to process scanned negative films.",
+                    "可用于处理扫描的相机底片。",
+                    " It is useful to process scanned negative films.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608721862,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "<x1\/>Invert<x2\/>",
+                    "<x1\/>反色<x2\/>",
+                    "<x1\/>Invert<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608728485,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Image Source",
+                    "图片来源",
+                    "<g1>Image Source<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608731301,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Black and White Filter.",
+                    "黑白滤镜。",
+                    "Black and White Filter.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608733469,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "This filter is a bit complex.",
+                    "这个滤镜稍微有点复杂。",
+                    " This filter is a bit complex.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608743950,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "We have to override both <g1>process<\/g1> and <g2>convert<\/g2> functions.",
+                    "我们需要重写<g1>process<\/g1>和<g2>convert<\/g2>方法。",
+                    " We have to override both <g1>process<\/g1> and <g2>convert<\/g2> functions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608760134,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "In addition, its constructor is also modified to accept two extra arguments:",
+                    "此外，其构造函数也作了修改，以接受两个额外的参数：",
+                    " In addition, its constructor is also modified to accept two extra arguments:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608766957,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "<g3>threshold<\/g3> and <g4>otsuEnabled<\/g4>.",
+                    "<g3>threshold<\/g3>和<g4>otsuEnabled<\/g4>。",
+                    " <g3>threshold<\/g3> and <g4>otsuEnabled<\/g4>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608771165,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "If <g5>otsuEnabled<\/g5> is set to true, the threshold will be calculated automatically using the OTSU's method.",
+                    "如果<g5>otsuEnabled<\/g5>设置为true ，阈值将使用OTSU的方法自动计算。",
+                    " If <g5>otsuEnabled<\/g5> is set to true, the threshold will be calculated automatically using the OTSU's method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608775828,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "<x1\/>black and white<x2\/>",
+                    "<x1\/>黑白<x2\/>",
+                    "<x1\/>black and white<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608787678,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Work with Dynamsoft Document Viewer",
+                    "集成到Dynamsoft Document Viewer",
+                    "Work with Dynamsoft Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608803532,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Viewer<\/g1> provides several viewers for the document scanning process.",
+                    "<g1>Dynamsoft Document Viewer<\/g1>为文档扫描过程提供了多个组件。",
+                    "<g1>Dynamsoft Document Viewer<\/g1> provides several viewers for the document scanning process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608817663,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "We can use its <g2>Edit Viewer<\/g2> to view and edit scanned document images.",
+                    "我们可以使用其<g2>Edit Viewer<\/g2>来查看和编辑扫描的文档图像。",
+                    " We can use its <g2>Edit Viewer<\/g2> to view and edit scanned document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608832304,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "It provides an <g1>interface<\/g1> to allow defining a custom handler to use third-party image filters.",
+                    "它提供了一个<g1>接口<\/g1>，允许自定义一个handler以使用第三方图像滤镜。",
+                    "It provides an <g1>interface<\/g1> to allow defining a custom handler to use third-party image filters.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608860974,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Let's define such a handler so that we can use the image filter library in a document scanning process.",
+                    "让我们定义这样一个handler，以便在文档扫描过程中使用我们写的这个滤镜库。",
+                    "Let's define such a handler so that we can use the image filter library in a document scanning process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608889270,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Create a new file named <g1>FilterHandler.ts<\/g1> with the following template.",
+                    "使用以下内容创建一个名为<g1>FilterHandler.ts<\/g1>的新文件。",
+                    "Create a new file named <g1>FilterHandler.ts<\/g1> with the following template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608910975,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Override the <g1>querySupported<\/g1> function in the class which returns a list of filters.",
+                    "重写类中的<g1>querySupported<\/g1>方法，该方法会返回滤镜列表。",
+                    "Override the <g1>querySupported<\/g1> function in the class which returns a list of filters.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608933351,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Override the <g1>applyFilter<\/g1> function to apply the selected image filter.",
+                    "重写<g1>applyFilter<\/g1>方法，应用选定的图像滤镜。",
+                    "Override the <g1>applyFilter<\/g1> function to apply the selected image filter.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709608950351,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "We have to use the following functions to convert the blob provided in the <g1>image<\/g1> to an image element for the filters to use and convert the canvas as blob for the handler to use.",
+                    "需要使用以下方法将<g1>image<\/g1>中提供的blob转换为img元素供滤镜使用，并将Canvas转换为blob供handler调用。",
+                    "We have to use the following functions to convert the blob provided in the <g1>image<\/g1> to an image element for the filters to use and convert the canvas as blob for the handler to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709609000602,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Use <g1>original<\/g1> as the default filter.",
+                    "使用<g1>original<\/g1>作为默认滤镜。",
+                    "Use <g1>original<\/g1> as the default filter.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709609019573,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Use the handler to create a new instance of Edit Viewer.",
+                    "使用定义的handler创建Edit Viewer的实例。",
+                    "Use the handler to create a new instance of Edit Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709609043182,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Open Edit Viewer and we can see that we can use the image filters in its UI.",
+                    "打开Edit Viewer ，我们可以看到可以在其UI中使用各种滤镜。",
+                    "Open Edit Viewer and we can see that we can use the image filters in its UI.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709609060527,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "<x1\/>edit viewer<x2\/>",
+                    "<x1\/>编辑查看器<x2\/>",
+                    "<x1\/>edit viewer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709609063140,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Package as a Library",
+                    "打包为库",
+                    "Package as a Library",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302734701,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "We can publish it as a library onto NPM for ease of use.",
+                    "为了便于使用，我们可以将其作为库发布到NPM上。",
+                    "We can publish it as a library onto NPM for ease of use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302737037,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Install <g1>devDependencies<\/g1>:",
+                    "安装<g1>devDependencies<\/g1> ：",
+                    "Install <g1>devDependencies<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302747436,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Create a new <g1>vite.config.ts<\/g1> file:",
+                    "创建一个新的<g1>vite.config.ts<\/g1>文件：",
+                    "Create a new <g1>vite.config.ts<\/g1> file:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302753549,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Add the entry points of our package to <g1>package.json<\/g1>.",
+                    "将我们的包的入口点添加到<g1>package.json<\/g1>。",
+                    "Add the entry points of our package to <g1>package.json<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302763192,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Run <g1>npm run build<\/g1>.",
+                    "运行<g1>npm run build<\/g1>。",
+                    "Run <g1>npm run build<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302770053,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Then, we can have the packaged files in the <g2>dist<\/g2>.",
+                    "然后，我们可以在<g2>dist<\/g2>文件夹中看到打包好的文件。",
+                    " Then, we can have the packaged files in the <g2>dist<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302793717,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Get the source code of the library to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the library to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/apply-image-filter-to-photo-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu46"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
