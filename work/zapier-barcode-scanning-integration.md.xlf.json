@@ -1,0 +1,1386 @@
+{
+    "filename": "zapier-barcode-scanning-integration.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a Zapier Integration to Scan Barcodes",
+                    "如何创建一个Zapier集成以在工作流中集成扫码功能",
+                    "How to Build a Zapier Integration to Scan Barcodes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148613192,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-03-11 14:19:53 +0800",
+                    "",
+                    "2024-03-11 14:19:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-03-11 14:19:53 +0800",
+                    "",
+                    "2024-03-11 14:19:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Zapier",
+                    "",
+                    "Zapier",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Automation",
+                    "",
+                    "Automation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "SaaS",
+                    "",
+                    "SaaS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf16_tu1"
+                    }
+                ],
+                [
+                    "Integration",
+                    "",
+                    "Integration",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf17_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to build a Zapier integration to scan barcodes with Dynamsoft Barcode Reader.",
+                    "本文介绍了如何创建一个Zapier集成以使用Dynamsoft Barcode Reader扫描条码。",
+                    "The article shares how to build a Zapier integration to scan barcodes with Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148641177,
+                        "id": "sd1_sf1_sg1_sf18_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/03\/zapier\/zap.jpg",
+                    "",
+                    ".\/img\/2024\/03\/zapier\/zap.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf19_tu1"
+                    }
+                ],
+                [
+                    "Zapier is a workflow automation platform.",
+                    "Zapier是一个工作流程自动化平台。",
+                    "Zapier is a workflow automation platform.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148645886,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It has integrated over 6000 applications and we can chain different applications in the same workflow without writing code.",
+                    "它集成了6000多个应用程序，我们可以在同一个工作流程中链接不同的应用程序去使用它们，并且无需编写代码。",
+                    " It has integrated over 6000 applications and we can chain different applications in the same workflow without writing code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148683080,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a Zapier app integration to scan barcodes.",
+                    "在本文中，我们将创建一个Zapier应用集成来集成条码扫描功能。",
+                    "In this article, we are going to build a Zapier app integration to scan barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148708342,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "We can scan barcodes in a web application and the app will trigger workflows.",
+                    "当我们在Web应用里扫了一个码，它就会触发对应的工作流。",
+                    " We can scan barcodes in a web application and the app will trigger workflows.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148764792,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is used for barcode scanning.",
+                    "扫码功能由<g1>Dynamsoft Barcode Reader<\/g1>提供。",
+                    " <g1>Dynamsoft Barcode Reader<\/g1> is used for barcode scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148799864,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Scan Barcodes to Trigger Workflows in Zapier",
+                    "扫描条码以触发Zapier工作流",
+                    "Scan Barcodes to Trigger Workflows in Zapier",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148811224,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Since an integration cannot work alone, let's try to implement a whole solution to scan barcodes to trigger workflows in Zapier.",
+                    "由于Zapier集成无法单独工作，下面我们会去实现一个完整的解决方案，做到扫码触发Zapier中的工作流程。",
+                    "Since an integration cannot work alone, let's try to implement a whole solution to scan barcodes to trigger workflows in Zapier.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148843895,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Here are the steps:",
+                    "下面是具体的步骤：",
+                    " Here are the steps:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148862197,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Build a barcode scanning web app.",
+                    "构建一个条码扫描Web应用。",
+                    "Build a barcode scanning web app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148870294,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Build a Zapier app integration to use the barcode scanning web app.",
+                    "构建一个Zapier应用集成以使用上一步的条码扫描应用。",
+                    "Build a Zapier app integration to use the barcode scanning web app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148889345,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Build a Zap (workflow) to use the integration.",
+                    "构建一个Zap（工作流程）来使用上一步的集成。",
+                    "Build a Zap (workflow) to use the integration.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148911352,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Build a Web Barcode Scanner",
+                    "构建条码扫描Web应用",
+                    "Build a Web Barcode Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148924832,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Let's create a Python backend and a web frontend with vanilla JS.",
+                    "让我们创建一个Python后端和一个前端页面。",
+                    "Let's create a Python backend and a web frontend with vanilla JS.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148963374,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "The frontend generates a UUID as the unique identifier and sends the scanned barcodes to the backend.",
+                    "前端生成一个UUID作为唯一标识符，并将扫描的条码发给后端。",
+                    "The frontend generates a UUID as the unique identifier and sends the scanned barcodes to the backend.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710148982141,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "The backend has two endpoints to serve as a polling server for a Zapier integration.",
+                    "后端有两个接口，可以被Zapier的轮询服务器调用。",
+                    "The backend has two endpoints to serve as a polling server for a Zapier integration.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149040560,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<g1>\/auth<\/g1> for authorization.",
+                    "<g1>\/auth<\/g1>用于授权。",
+                    "<g1>\/auth<\/g1> for authorization.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149045332,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<g1>\/code<\/g1> for adding a barcode and retrieving the scanned barcode of a device (device is differentiated by UUID).",
+                    "<g1>\/code<\/g1>用于添加条码和获取某个设备上扫描的码（设备由UUID区分）。",
+                    "<g1>\/code<\/g1> for adding a barcode and retrieving the scanned barcode of a device (device is differentiated by UUID).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149060168,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "The <g1>\/code<\/g1> endpoint would return scanned barcodes in an array like the following:",
+                    "<g1>\/code<\/g1>接口可以返回一串数组，包含扫描的条码数据，如下所示：",
+                    "The <g1>\/code<\/g1> endpoint would return scanned barcodes in an array like the following:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149104385,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Timestamp is used as the ID so that we can scan multiple barcodes and Zapier's deduplication mechanism will treat them as different records.",
+                    "时间戳用作ID ，以便我们可以扫描多个条码，并且 Zapier的重复数据删除机制会将它们视为不同的记录。",
+                    "Timestamp is used as the ID so that we can scan multiple barcodes and Zapier's deduplication mechanism will treat them as different records.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149120669,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Back-End Implementation",
+                    "后端实现",
+                    "Back-End Implementation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149132944,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Here we use Flask as the framework to provide two endpoints:",
+                    "这里，我们使用Flask作为框架来提供两个接口：",
+                    "Here we use Flask as the framework to provide two endpoints:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149145038,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "<g1>\/auth<\/g1>:",
+                    "<g1>\/auth<\/g1>:",
+                    "<g1>\/auth<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149147236,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Here, it always returns true as we are using UUID as the identifier and no authorization is actually required.",
+                    "这个接口总是返回true ，因为我们使用UUID作为标识符，实际上不需要授权。",
+                    "Here, it always returns true as we are using UUID as the identifier and no authorization is actually required.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149157952,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "<g1>\/code<\/g1>:",
+                    "<g1>\/code<\/g1>:",
+                    "<g1>\/code<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149164716,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "If the method is <g1>POST<\/g1>, add a new barcode item in the <g2>data<\/g2> dict.",
+                    "如果方法为<g1>POST<\/g1> ，则在<g2>data<\/g2>字典中添加新的条码项。",
+                    "If the method is <g1>POST<\/g1>, add a new barcode item in the <g2>data<\/g2> dict.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149176719,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "If the method is <g3>GET<\/g3>, return the scanned barcodes of a UUID in an array.",
+                    "如果方法为<g3>GET<\/g3> ，则返回某个UUID的条码数组。",
+                    " If the method is <g3>GET<\/g3>, return the scanned barcodes of a UUID in an array.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149198433,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Serve static files under the root.",
+                    "在根目录下提供静态文件。",
+                    "Serve static files under the root.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149202036,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Front-End Implementation",
+                    "前端实现",
+                    "Front-End Implementation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149207998,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Create a new <g1>scanner.html<\/g1> file with the following template:",
+                    "使用以下模板创建新的<g1>scanner.html<\/g1>文件：",
+                    "Create a new <g1>scanner.html<\/g1> file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149219368,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Include Dynamsoft Barcode Reader in the page:",
+                    "在页面中包含Dynamsoft Barcode Reader：",
+                    "Include Dynamsoft Barcode Reader in the page:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149229399,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Initialize the product with a license.",
+                    "使用证书初始化产品。",
+                    "Initialize the product with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149235999,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "You can apply for one <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请一个证书。",
+                    " You can apply for one <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149242858,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Create an instance of Camera Enhancer to open the camera.",
+                    "创建一个Camera Enhancer实例来打开摄像头。",
+                    "Create an instance of Camera Enhancer to open the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149256449,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Add the following element as the container for the camera view.",
+                    "将以下元素添加为摄像头控件的容器。",
+                    "Add the following element as the container for the camera view.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149267576,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Create an instance of Capture Router to read barcodes from the camera frames.",
+                    "创建一个Capture Router实例以从视频帧读取条码。",
+                    "Create an instance of Capture Router to read barcodes from the camera frames.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149282648,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "The barcode reading results can be received in the <g1>onDecodedBarcodesReceived<\/g1> callback.",
+                    "条码读取结果可以在<g1>onDecodedBarcodesReceived<\/g1>回调中得到。",
+                    "The barcode reading results can be received in the <g1>onDecodedBarcodesReceived<\/g1> callback.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149302327,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Here, we save the result in a text input.",
+                    "这里，我们将结果保存在一个文本输入框中。",
+                    " Here, we save the result in a text input.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149319176,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Generate or load the UUID when the app starts.",
+                    "应用启动时生成或读取UUID。",
+                    "Generate or load the UUID when the app starts.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149332345,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Send the barcode to the backend.",
+                    "将条码发送到后端。",
+                    "Send the barcode to the backend.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149338358,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "The web barcode scanner is implemented.",
+                    "这样Web条码扫描应用就写好了。",
+                    "The web barcode scanner is implemented.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149366215,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "We can deploy it to a platform like Vercel for production usage.",
+                    "我们可以将其部署到像Vercel这样的平台上供生产使用。",
+                    " We can deploy it to a platform like Vercel for production usage.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149374193,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Build a Zapier Integration",
+                    "构建Zapier集成",
+                    "Build a Zapier Integration",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149377004,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Go to <g1>developer.zapier.com<\/g1> and let's build a new integration with Platform UI.",
+                    "访问<g1>developer.zapier.com<\/g1>，用Platform UI建立新的集成。",
+                    "Go to <g1>developer.zapier.com<\/g1> and let's build a new integration with Platform UI.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149395446,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "<x1\/>new integration<x2\/>",
+                    "<x1\/>新集成<x2\/>",
+                    "<x1\/>new integration<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149403880,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Authentication",
+                    "认证",
+                    "Authentication",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149414140,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Choose <g1>API Key<\/g1> to set up the authentication.",
+                    "选择<g1>API Key<\/g1>以设置身份验证。",
+                    "Choose <g1>API Key<\/g1> to set up the authentication.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149419797,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "<x1\/>authentication<x2\/>",
+                    "<x1\/>验证<x2\/>",
+                    "<x1\/>authentication<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149423733,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Add two authentication fields:",
+                    "添加两个身份验证字段：",
+                    "Add two authentication fields:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149426764,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "UUID and device name.",
+                    "UUID和设备名称。",
+                    " UUID and device name.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710149433068,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "<x1\/>authentication fields<x2\/>",
+                    "<x1\/>身份验证字段<x2\/>",
+                    "<x1\/>authentication fields<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149436212,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Set up the endpoint URL for authentication.",
+                    "设置用于身份验证的URL。",
+                    "Set up the endpoint URL for authentication.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149442208,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Here, we use <g1>https:\/\/zapier-barcode-reader.vercel.app\/auth<\/g1>.",
+                    "这里，我们使用<g1>https:\/\/zapier-barcode-reader.vercel.app\/auth<\/g1>。",
+                    " Here, we use <g1>https:\/\/zapier-barcode-reader.vercel.app\/auth<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149453823,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "<x1\/>authentication endpoint<x2\/>",
+                    "<x1\/>身份验证端点<x2\/>",
+                    "<x1\/>authentication endpoint<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149459644,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Specify <g1>Device Name<\/g1> as the connection label so that users can see the name in a zap's setup page.",
+                    "将<g1>Device Name设备名称<\/g1>指定为Connection Label连接标签，以便用户可以在Zap的设置页面中看到该名称。",
+                    "Specify <g1>Device Name<\/g1> as the connection label so that users can see the name in a zap's setup page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149504345,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "<x1\/>authentication connection label<x2\/>",
+                    "<x1\/>身份验证连接标签<x2\/>",
+                    "<x1\/>authentication connection label<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149508044,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Trigger",
+                    "触发器",
+                    "Trigger",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149510876,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Create a new trigger named <g1>Barcode Scanned<\/g1>.",
+                    "创建一个名为<g1>Barcode Scanned<\/g1>的触发器。",
+                    "Create a new trigger named <g1>Barcode Scanned<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149520815,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "<x1\/>new trigger<x2\/>",
+                    "<x1\/>新触发器<x2\/>",
+                    "<x1\/>new trigger<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149526476,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Configure the API request.",
+                    "配置API请求。",
+                    "Configure the API request.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149528796,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Choose the type as <g1>Polling<\/g1>.",
+                    "选择类型为 <g1>Polling轮询<\/g1>。",
+                    "Choose the type as <g1>Polling<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149536910,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Set up the endpoint URL.",
+                    "设置URL。",
+                    "Set up the endpoint URL.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149544848,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Here, we use <g1>https:\/\/zapier-barcode-reader.vercel.app\/code<\/g1>.",
+                    "这里，我们使用<g1>https:\/\/zapier-barcode-reader.vercel.app\/code<\/g1>。",
+                    " Here, we use <g1>https:\/\/zapier-barcode-reader.vercel.app\/code<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149551079,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "<x1\/>trigger's API configuration<x2\/>",
+                    "<x1\/>触发器的应用程序接口配置<x2\/>",
+                    "<x1\/>trigger's API configuration<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149555205,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "Provide a sample data:",
+                    "提供示例数据：",
+                    "Provide a sample data:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149557956,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "<x1\/>trigger's sample data<x2\/>",
+                    "<x1\/>触发器的示例数据<x2\/>",
+                    "<x1\/>trigger's sample data<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149560301,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "Create a New Zap",
+                    "创建新的Zap",
+                    "Create a New Zap",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149565542,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "Now that the integration is done.",
+                    "集成已经写好了。",
+                    "Now that the integration is done.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149580694,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Let's use it in a zap.",
+                    "让我们在Zap中使用它。",
+                    " Let's use it in a zap.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149587718,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Here is the workflow we are going to make.",
+                    "以下是我们将要制定的工作流程。",
+                    "Here is the workflow we are going to make.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149591100,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Trigger the workflow when an ISBN barcode of a book is scanned.",
+                    "扫描图书的ISBN条码，触发工作流程。",
+                    "Trigger the workflow when an ISBN barcode of a book is scanned.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149618343,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Query the book's info via Google's API by running JavaScript.",
+                    "运行JavaScript代码，通过Google的API查询图书信息。",
+                    "Query the book's info via Google's API by running JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149609688,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "Create a new Notion record to store the scanned book.",
+                    "创建新的Notion数据库记录以存储扫描的图书。",
+                    "Create a new Notion record to store the scanned book.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149627947,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "<x1\/>Zap<x2\/>",
+                    "<x1\/>Zap<x2\/>",
+                    "<x1\/>Zap<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149632190,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "Here are the detailed steps:",
+                    "具体步骤如下：",
+                    "Here are the detailed steps:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149635087,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "Barcode Reader Trigger",
+                    "条码扫描触发器",
+                    "Barcode Reader Trigger",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149643070,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "Create a new zap and select <g1>Dynamsoft Barcode Reader<\/g1> integration we made as the trigger.",
+                    "创建新的Zap并选择我们刚制作的<g1>Dynamsoft Barcode Reader<\/g1>集成作为触发器。",
+                    "Create a new zap and select <g1>Dynamsoft Barcode Reader<\/g1> integration we made as the trigger.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149672430,
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "<x1\/>Select Trigger<x2\/>",
+                    "<x1\/>选择触发器<x2\/>",
+                    "<x1\/>Select Trigger<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149678797,
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "Connect to an account by entering the UUID and device name.",
+                    "在账号连接步骤，输入UUID和设备名称。",
+                    "Connect to an account by entering the UUID and device name.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149709470,
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "<x1\/>Connection<x2\/>",
+                    "<x1\/>连接<x2\/>",
+                    "<x1\/>Connection<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149711719,
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "Scan a barcode in the web barcode scanner and send it to Zapier.",
+                    "在条码扫描Web应用中扫码，并将其发送到Zapier。",
+                    "Scan a barcode in the web barcode scanner and send it to Zapier.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149724079,
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "Then, we can get the records in the test step.",
+                    "然后，我们可以在测试步骤中获取记录。",
+                    " Then, we can get the records in the test step.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149728892,
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "<x1\/>Barcode Reader Test Result<x2\/>",
+                    "<x1\/>条码扫描测试结果<x2\/>",
+                    "<x1\/>Barcode Reader Test Result<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149743466,
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "Query Book's Info",
+                    "查询图书的信息",
+                    "Query Book's Info",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149746020,
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "Next, create a step to run JavaScript code to get the book's info like title, author and description.",
+                    "接下来，创建一个运行JavaScript代码的步骤，以获取书籍的标题、作者和描述等信息。",
+                    "Next, create a step to run JavaScript code to get the book's info like title, author and description.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149748301,
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "Select <g1>Code by Zapier<\/g1> as the action.",
+                    "选择<g1>Code by Zapier<\/g1>作为动作。",
+                    "Select <g1>Code by Zapier<\/g1> as the action.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149759359,
+                        "id": "tu72"
+                    }
+                ],
+                [
+                    "<x1\/>Select Code Action<x2\/>",
+                    "<x1\/>选择代码动作<x2\/>",
+                    "<x1\/>Select Code Action<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149769247,
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "Select <g1>Run JavaScript<\/g1>.",
+                    "选择<g1>Run JavaScript<\/g1>。",
+                    "Select <g1>Run JavaScript<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149776945,
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "<x1\/>Select Code Action's Type<x2\/>",
+                    "<x1\/>选择代码操作的类型<x2\/>",
+                    "<x1\/>Select Code Action's Type<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149779910,
+                        "id": "tu75"
+                    }
+                ],
+                [
+                    "Use <g1>Barcode<\/g1> in the previous step as the input data.",
+                    "使用上一步中的<g1>Barcode<\/g1>作为输入数据。",
+                    "Use <g1>Barcode<\/g1> in the previous step as the input data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149788143,
+                        "id": "tu76"
+                    }
+                ],
+                [
+                    "<x1\/>Select Code Action's Input Data<x2\/>",
+                    "<x1\/>选择代码操作的输入数据<x2\/>",
+                    "<x1\/>Select Code Action's Input Data<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149790668,
+                        "id": "tu77"
+                    }
+                ],
+                [
+                    "In the code input, enter the following JavaScript code to query the book's info.",
+                    "在代码输入框中输入以下JavaScript代码，以查询图书信息。",
+                    "In the code input, enter the following JavaScript code to query the book's info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149800510,
+                        "id": "tu78"
+                    }
+                ],
+                [
+                    "In the test step, we should be able to get the following results.",
+                    "在测试步骤中，我们应该能够得到以下结果。",
+                    "In the test step, we should be able to get the following results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149803621,
+                        "id": "tu79"
+                    }
+                ],
+                [
+                    "<x1\/>Code Action's Test Result<x2\/>",
+                    "<x1\/>代码操作的测试结果<x2\/>",
+                    "<x1\/>Code Action's Test Result<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149806605,
+                        "id": "tu80"
+                    }
+                ],
+                [
+                    "Create a New Book Record in Notion",
+                    "在Notion中创建新的图书记录",
+                    "Create a New Book Record in Notion",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149814406,
+                        "id": "tu81"
+                    }
+                ],
+                [
+                    "In Notion, create a new database with the following fields:",
+                    "在Notion中，使用以下字段创建新的数据库：",
+                    "In Notion, create a new database with the following fields:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149823440,
+                        "id": "tu82"
+                    }
+                ],
+                [
+                    "ISBN, title, author and description.",
+                    "ISBN、标题、作者和描述。",
+                    " ISBN, title, author and description.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149825645,
+                        "id": "tu82"
+                    }
+                ],
+                [
+                    "Create a new step.",
+                    "创建一个新步骤。",
+                    "Create a new step.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149830420,
+                        "id": "tu83"
+                    }
+                ],
+                [
+                    "Select Notion and select <g1>Create Database Item<\/g1> as the action.",
+                    "选择Notion并选择<g1>Create Database Item<\/g1> （创建数据库项目）作为动作。",
+                    " Select Notion and select <g1>Create Database Item<\/g1> as the action.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149842354,
+                        "id": "tu83"
+                    }
+                ],
+                [
+                    "<x1\/>Notion Action<x2\/>",
+                    "<x1\/>Notion动作<x2\/>",
+                    "<x1\/>Notion Action<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149851646,
+                        "id": "tu84"
+                    }
+                ],
+                [
+                    "Connect your Notion account via OAuth.",
+                    "通过OAuth连接Notion账户。",
+                    "Connect your Notion account via OAuth.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149865295,
+                        "id": "tu85"
+                    }
+                ],
+                [
+                    "Go to Notion and connect the database to Zapier.",
+                    "打开Notion并将数据库连接到Zapier。",
+                    "Go to Notion and connect the database to Zapier.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149870151,
+                        "id": "tu86"
+                    }
+                ],
+                [
+                    "<x1\/>Notion Connection<x2\/>",
+                    "<x1\/>Notion连接<x2\/>",
+                    "<x1\/>Notion Connection<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149874420,
+                        "id": "tu87"
+                    }
+                ],
+                [
+                    "In the action part, fill in the info.",
+                    "在动作部分中，填写图书信息。",
+                    "In the action part, fill in the info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149885056,
+                        "id": "tu88"
+                    }
+                ],
+                [
+                    "<x1\/>Notion Action Details<x2\/>",
+                    "<x1\/>Notion动作详细信息<x2\/>",
+                    "<x1\/>Notion Action Details<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149890632,
+                        "id": "tu89"
+                    }
+                ],
+                [
+                    "Run the test and we can see a new item is inserted into the Notion database.",
+                    "运行测试，我们可以看到一个新项目被插入到Notion数据库中。",
+                    "Run the test and we can see a new item is inserted into the Notion database.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149892804,
+                        "id": "tu90"
+                    }
+                ],
+                [
+                    "<x1\/>Notion Database<x2\/>",
+                    "<x1\/>Notion数据库<x2\/>",
+                    "<x1\/>Notion Database<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149901287,
+                        "id": "tu91"
+                    }
+                ],
+                [
+                    "All right, we've now gone through the steps of scanning barcodes into Zapier.",
+                    "好了，我们已经完成了将条码扫描集成进Zapier的操作。",
+                    "All right, we've now gone through the steps of scanning barcodes into Zapier.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149926230,
+                        "id": "tu92"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710149930540,
+                        "id": "tu93"
+                    }
+                ],
+                [
+                    "Get the source code of the web barcode scanner to have a try:",
+                    "欢迎下载这个条码扫描Web应用的源代码并尝试使用：",
+                    "Get the source code of the web barcode scanner to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/zapier-barcode-scanning-integration.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710149954271,
+                        "id": "tu94"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
