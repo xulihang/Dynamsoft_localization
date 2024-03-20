@@ -1,0 +1,703 @@
+{
+    "filename": "python-qr-code-generator.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Generate QR Codes in Python",
+                    "如何用Python生成QR二维码",
+                    "How to Generate QR Codes in Python",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710912645275,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-03-19 16:59:53 +0800",
+                    "",
+                    "2024-03-19 16:59:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-03-19 16:59:53 +0800",
+                    "",
+                    "2024-03-19 16:59:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Python",
+                    "",
+                    "Python",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to generate QR codes in Python in different modes.",
+                    "本文介绍了如何使用Python生成不同模式的QR二维码。",
+                    "The article shares how to generate QR codes in Python in different modes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710912673524,
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/03\/qr-code-generator\/python-qr-code-generator.jpg",
+                    "",
+                    ".\/img\/2024\/03\/qr-code-generator\/python-qr-code-generator.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "A QR code (quick-response code) is a type of two-dimensional matrix barcode.",
+                    "QR码（quick-response code，快速响应码）是一种二维矩阵条码。",
+                    "A QR code (quick-response code) is a type of two-dimensional matrix barcode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710912768917,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It uses four standardized modes of encoding: numeric, alphanumeric, byte or binary, and kanji.",
+                    "它采用四种标准化的编码模式来编码数据：数字、字母与数字、字节（二进制）以及日语汉字。",
+                    " It uses four standardized modes of encoding: numeric, alphanumeric, byte or binary, and kanji.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913288307,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Its highest storage capacity can be 2,953 bytes.",
+                    "其最高存储容量可达2,953字节。",
+                    " Its highest storage capacity can be 2,953 bytes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913028425,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Here is a table about different modes:",
+                    "以下是不同模式的说明的表格：",
+                    "Here is a table about different modes:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913133066,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Input mode",
+                    "模式",
+                    "Input mode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913155449,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Mode indicator",
+                    "模式标志码",
+                    "Mode indicator",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913176403,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Max. characters",
+                    "最大字符数",
+                    "Max. characters",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913184233,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Possible characters, default encoding",
+                    "允许的字符，默认编码",
+                    "Possible characters, default encoding",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913209123,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Numeric only",
+                    "仅数字",
+                    "Numeric only",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913213673,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "1",
+                    "",
+                    "1",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "7,089",
+                    "",
+                    "7,089",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+                    "0、1、2、3、4、5、6、7、8、9",
+                    "0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913258529,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Alphanumeric",
+                    "字母与数字",
+                    "Alphanumeric",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913221697,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "2",
+                    "",
+                    "2",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "4,296",
+                    "",
+                    "4,296",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "0–9, A–Z (upper-case only), space, $, %, *, +, -, .,",
+                    "0-9、A-Z（仅限大写）、空格、$、%、*、+、-、..、",
+                    "0–9, A–Z (upper-case only), space, $, %, *, +, -, .,",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913228289,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "\/, :",
+                    "",
+                    " \/, :",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Binary\/byte",
+                    "二进制\/字节",
+                    "Binary\/byte",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913265081,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "4",
+                    "",
+                    "4",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "2,953",
+                    "",
+                    "2,953",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "ISO\/IEC 8859-1",
+                    "",
+                    "ISO\/IEC 8859-1",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Kanji\/kana",
+                    "日语汉字\/假名",
+                    "Kanji\/kana",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913278180,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "8",
+                    "",
+                    "8",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "1,817",
+                    "",
+                    "1,817",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Shift JIS X 0208",
+                    "",
+                    "Shift JIS X 0208",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Structured Append",
+                    "结构化追加",
+                    "Structured Append",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913315897,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "3",
+                    "",
+                    "3",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "unlimited",
+                    "无限",
+                    "unlimited",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913325089,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Not specific",
+                    "没有限定",
+                    "Not specific",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913333338,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "PS: structured append is a mode in which the data is divided into several barcodes.",
+                    "PS：结构化追加（Structured Append）是一种将数据分到多个条码的模式。",
+                    "PS: structured append is a mode in which the data is divided into several barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913356962,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about how to generate QR codes in different modes in Python.",
+                    "在本文中，我们将讨论如何用Python生成不同模式的QR二维码。",
+                    "In this article, we are going to talk about how to generate QR codes in different modes in Python.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913371089,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Generate QR Codes in Different Modes",
+                    "以不同模式生成QR码",
+                    "Generate QR Codes in Different Modes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913378402,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "We are going to use the <g1>segno<\/g1> library to generate QR codes as this is the only library that supports structured append.",
+                    "我们将使用<g1>segno<\/g1>库生成QR码。这是找到的唯一一个支持结构化追加的库。",
+                    "We are going to use the <g1>segno<\/g1> library to generate QR codes as this is the only library that supports structured append.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913404132,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Numeric QR Codes",
+                    "数字QR码",
+                    "Numeric QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913411938,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "<x1\/>numeric<x2\/>",
+                    "<x1\/>数字<x2\/>",
+                    "<x1\/>numeric<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913415257,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Alphanumeric QR Codes",
+                    "字母与数字QR码",
+                    "Alphanumeric QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913424954,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "<x1\/>alphanumeric<x2\/>",
+                    "<x1\/>字母与数字<x2\/>",
+                    "<x1\/>alphanumeric<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913429859,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Kanji QR Codes",
+                    "日语汉字QR码",
+                    "Kanji QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913465938,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "<x1\/>kanji<x2\/>",
+                    "<x1\/>日语汉字<x2\/>",
+                    "<x1\/>kanji<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913467059,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Shift-JIS will be used for encoding Kanji.",
+                    "Shift-JIS将用于编码日语汉字。",
+                    "Shift-JIS will be used for encoding Kanji.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913469036,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Bytes QR Codes",
+                    "字节QR码",
+                    "Bytes QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913473833,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "We can use bytes to store a UTF-8 encoded string.",
+                    "我们可以使用字节来存储UTF-8编码的字符串。",
+                    "We can use bytes to store a UTF-8 encoded string.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913479620,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "<x1\/>byte-text<x2\/>",
+                    "<x1\/>字节-文本<x2\/>",
+                    "<x1\/>byte-text<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913489595,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "We can also directly store the raw bytes of an image file.",
+                    "我们还可以直接存储图像文件的原始字节。",
+                    "We can also directly store the raw bytes of an image file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913491978,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "<x1\/>byte-image<x2\/>",
+                    "<x1\/>字节-图像<x2\/>",
+                    "<x1\/>byte-image<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913511504,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Structured Append QR Codes",
+                    "结构化追加QR码",
+                    "Structured Append QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913521162,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "If the content we need to store is larger than one QR code's capacity or the version of the QR code will be too high if we store it in one QR code which makes it difficult to print and read, we can store the content in multiple QR codes.",
+                    "如果我们需要存储的内容大于一个二维码的容量，或者如果只用一个二维码的话，二维码的版本会过高，导致难以打印和读取，那么我们可以将内容存储在多个二维码中。",
+                    "If the content we need to store is larger than one QR code's capacity or the version of the QR code will be too high if we store it in one QR code which makes it difficult to print and read, we can store the content in multiple QR codes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913549375,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "This can be done using the structured append mode.",
+                    "这可以通过结构化追加模式来实现。",
+                    " This can be done using the structured append mode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913557433,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "<x1\/>structured_append_image<x2\/>",
+                    "<x1\/>structured_append_image<x2\/>",
+                    "<x1\/>structured_append_image<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913562553,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Read the QR Codes",
+                    "读取QR码",
+                    "Read the QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913568623,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "You can use this <g1>Web QR Code Scanner<\/g1> based on <g2>Dynamsoft Barcode Reader<\/g2> to read the QR Codes we generated in this article.",
+                    "可以使用基于<g2>Dynamsoft Barcode Reader<\/g2>的<g1>网页版QR码扫描应用<\/g1>来读取我们在本文中生成的QR码。",
+                    "You can use this <g1>Web QR Code Scanner<\/g1> based on <g2>Dynamsoft Barcode Reader<\/g2> to read the QR Codes we generated in this article.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710913601700,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Check out the source code to have a try:",
+                    "获取源代码来自己试用一下吧：",
+                    "Check out the source code to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/python-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1701744728242,
+                        "id": "tu49"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
