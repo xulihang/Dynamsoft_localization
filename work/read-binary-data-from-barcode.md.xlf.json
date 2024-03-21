@@ -1,0 +1,930 @@
+{
+    "filename": "read-binary-data-from-barcode.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Read Binary Data from a Barcode",
+                    "如何读取条码中的二进制数据",
+                    "How to Read Binary Data from a Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710998729198,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-03-20 15:06:53 +0800",
+                    "",
+                    "2024-03-20 15:06:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-03-20 15:06:53 +0800",
+                    "",
+                    "2024-03-20 15:06:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a JavaScript library to read binary data from barcodes.",
+                    "本文介绍了如何构建一个JavaScript库来读取条码中的二进制数据。",
+                    "The article talks about how to build a JavaScript library to read binary data from barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710998749896,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/03\/barcode-binary-data-reader\/cover.jpg",
+                    "",
+                    ".\/img\/2024\/03\/barcode-binary-data-reader\/cover.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "A barcode or bar code is a method of representing data in a visual, machine-readable form.",
+                    "条码是一种以机器可读的可视形式表示数据的方法。",
+                    "A barcode or bar code is a method of representing data in a visual, machine-readable form.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710998768452,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "There are all kinds of barcodes and mainly, they can be divided into 1D barcodes and 2D barcodes.",
+                    "条码种类繁多，主要分为一维码和二维码。",
+                    " There are all kinds of barcodes and mainly, they can be divided into 1D barcodes and 2D barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710998785215,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can get binary data from barcodes and there are different ways to interpret the data.",
+                    "我们可以从条码获取二进制数据，并通过不同方法去读码。",
+                    "We can get binary data from barcodes and there are different ways to interpret the data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710998846342,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "For example, in <g1>EAN-13<\/g1>, code 1110010 in the right hand represents the digit 0.",
+                    "例如，在<g1>EAN-13<\/g1>中，位于其右边的代码1110010代表数字0。",
+                    " For example, in <g1>EAN-13<\/g1>, code 1110010 in the right hand represents the digit 0.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710998929438,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "As for QR code, which is two-dimensional  and can store more data, has several modes to represent data:",
+                    "而QR码，它是二维的，可以存储更多的数据，有几种表示数据的模式：",
+                    " As for QR code, which is two-dimensional  and can store more data, has several modes to represent data:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999129126,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Input mode",
+                    "输入模式",
+                    "Input mode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710998959332,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Mode indicator",
+                    "模式标识",
+                    "Mode indicator",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710998972040,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Max. characters",
+                    "最大字符数",
+                    "Max. characters",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913184233,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Possible characters, default encoding",
+                    "允许的字符，默认编码",
+                    "Possible characters, default encoding",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913209123,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Numeric only",
+                    "仅数字",
+                    "Numeric only",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913213673,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "1",
+                    "",
+                    "1",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "7,089",
+                    "",
+                    "7,089",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+                    "0、1、2、3、4、5、6、7、8、9",
+                    "0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913258529,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Alphanumeric",
+                    "字母与数字",
+                    "Alphanumeric",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913221697,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "2",
+                    "",
+                    "2",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "4,296",
+                    "",
+                    "4,296",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "0–9, A–Z (upper-case only), space, $, %, *, +, -, .,",
+                    "0-9、A-Z（仅限大写）、空格、$、%、*、+、-、..、",
+                    "0–9, A–Z (upper-case only), space, $, %, *, +, -, .,",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913228289,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "\/, :",
+                    "\/、:",
+                    " \/, :",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999051871,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Binary\/byte",
+                    "二进制\/字节",
+                    "Binary\/byte",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913265081,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "4",
+                    "",
+                    "4",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "2,953",
+                    "",
+                    "2,953",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "ISO\/IEC 8859-1",
+                    "",
+                    "ISO\/IEC 8859-1",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Kanji\/kana",
+                    "日语汉字\/假名",
+                    "Kanji\/kana",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913278180,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "8",
+                    "",
+                    "8",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "1,817",
+                    "",
+                    "1,817",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Shift JIS X 0208",
+                    "",
+                    "Shift JIS X 0208",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Structured Append",
+                    "结构化追加",
+                    "Structured Append",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913315897,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "3",
+                    "",
+                    "3",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "unlimited",
+                    "无限",
+                    "unlimited",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913325089,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Not specific",
+                    "没有限定",
+                    "Not specific",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913333338,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "PS: structured append is a mode in which the data is divided into several barcodes.",
+                    "PS：结构化追加（Structured Append）是一种将数据分到多个条码的模式。",
+                    "PS: structured append is a mode in which the data is divided into several barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710913356962,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "In this article, we are going to create a JavaScript library for reading the binary data of a barcode, with a special focus on QR code as this format has multiple modes.",
+                    "在本文中，我们将创建一个用于读取条码二进制数据的JavaScript库，并重点处理QR码，因为这种码型有多种模式。",
+                    "In this article, we are going to create a JavaScript library for reading the binary data of a barcode, with a special focus on QR code as this format has multiple modes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999104519,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is used for reading the barcodes.",
+                    "<g1>Dynamsoft Barcode Reader<\/g1>会被用于读取条码。",
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is used for reading the barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1701927274873,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "{% include cta.md %}",
+                    "",
+                    "{% include cta.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Create a new project with Vite and the typescript template:",
+                    "使用Vite创建一个新的TypeScript项目：",
+                    "Create a new project with Vite and the typescript template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705301541196,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Write Definitions",
+                    "编写定义",
+                    "Write Definitions",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999196004,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Define several interfaces and an enum for reading the binary data of barcodes.",
+                    "为读取条码的二进制数据定义几个接口和一个枚举。",
+                    "Define several interfaces and an enum for reading the binary data of barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999204798,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Define a <g1>BarcodeDetail<\/g1> interface:",
+                    "定义<g1>BarcodeDetail<\/g1>接口：",
+                    "Define a <g1>BarcodeDetail<\/g1> interface:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999218349,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Define a <g1>Barcode<\/g1> interface:",
+                    "定义<g1>Barcode<\/g1>接口：",
+                    "Define a <g1>Barcode<\/g1> interface:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999246638,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "The binary data is stored as <g1>Uint8Array<\/g1>.",
+                    "二进制数据存储为<g1>Uint8Array<\/g1>。",
+                    "The binary data is stored as <g1>Uint8Array<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999253727,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Define a <g1>ReadingResult<\/g1> interface:",
+                    "定义<g1>ReadingResult<\/g1>接口：",
+                    "Define a <g1>ReadingResult<\/g1> interface:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999261872,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "We can get the result as plain text, an HTML image element or blob.",
+                    "我们可以得到纯文本、HTML图像元素或blob这三种类型的结果。",
+                    "We can get the result as plain text, an HTML image element or blob.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999280736,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "The type is decided by the <g1>DataType<\/g1> passed to the binary data reader.",
+                    "类型需要在`DataType`中指定。",
+                    "The type is decided by the <g1>DataType<\/g1> passed to the binary data reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999316590,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Create a Class to Read Binary Data",
+                    "创建一个读取二进制数据的类",
+                    "Create a Class to Read Binary Data",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999319444,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Create a new <g1>BarcodeDataReader.ts<\/g1> file with the following template:",
+                    "使用以下模板创建一个新的<g1>BarcodeDataReader.ts<\/g1>文件：",
+                    "Create a new <g1>BarcodeDataReader.ts<\/g1> file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999327655,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Read the binary data based on different modes.",
+                    "根据不同模式读取二进制数据。",
+                    "Read the binary data based on different modes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999330669,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Implement reading the data in numeric, alphanumeric and Kanji modes.",
+                    "实现对数字、字母与数字和日文汉字模式的读取。",
+                    "Implement reading the data in numeric, alphanumeric and Kanji modes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999355150,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "The three modes' data is plain text and they can share a similar logic.",
+                    "这三种模式的数据都是纯文本，它们可以共享类似的逻辑。",
+                    " The three modes' data is plain text and they can share a similar logic.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999358350,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Implement reading the data in byte mode.",
+                    "以字节模式读取数据。",
+                    "Implement reading the data in byte mode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999362788,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "As the data type is unknown in byte mode, we have to get the reading results based on the user-specified data type.",
+                    "由于字节模式下的数据类型未知，我们需要根据用户指定的数据类型获取读取结果。",
+                    "As the data type is unknown in byte mode, we have to get the reading results based on the user-specified data type.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999371192,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "If the data type is text, we have to detect the encoding.",
+                    "如果数据类型是文本，我们需要检测编码。",
+                    "If the data type is text, we have to detect the encoding.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999380143,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "The <g1>chardet<\/g1> library is used here for detection.",
+                    "这里使用<g1>chardet<\/g1>库进行检测。",
+                    " The <g1>chardet<\/g1> library is used here for detection.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999389007,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Implement reading the data in structured append mode.",
+                    "以结构化追加模式读取数据。",
+                    "Implement reading the data in structured append mode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999397583,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "We have to sort the barcodes based on their page numbers, merge the bytes into one and then get the result.",
+                    "需要根据页码对条码进行排序，将多个码的数据合并成一个Unit8Array，然后得到结果。",
+                    "We have to sort the barcodes based on their page numbers, merge the bytes into one and then get the result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999428758,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Read QR Codes to Have a Test",
+                    "读取测试",
+                    "Read QR Codes to Have a Test",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999449936,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "We can then update <g1>index.html<\/g1> to use <g2>Dynamsoft Barcode Reader<\/g2> to read QR codes and this library to read the binary data.",
+                    "然后，我们可以更新<g1>index.html<\/g1>，使用<g2>Dynamsoft Barcode Reader<\/g2>读取QR码，并使用我们编写的库读取二进制数据。",
+                    "We can then update <g1>index.html<\/g1> to use <g2>Dynamsoft Barcode Reader<\/g2> to read QR codes and this library to read the binary data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999476959,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Here is the basic code:",
+                    "以下是基本代码：",
+                    "Here is the basic code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999481013,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "You can visit this <g1>online demo<\/g1> to have a try.",
+                    "可以访问<g1>在线演示<\/g1>进行试用。",
+                    "You can visit this <g1>online demo<\/g1> to have a try.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999485567,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "If you don't have QR codes at hand, you can use the QR codes and the QR code generator in <g1>this article<\/g1>.",
+                    "如果手头没有二维码，可以使用<g1>此文<\/g1>中的二维码和二维码生成器。",
+                    "If you don't have QR codes at hand, you can use the QR codes and the QR code generator in <g1>this article<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999495623,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "Here is a screenshot of a test of reading two QR codes which have an image encoded:",
+                    "下面是读取两个二维码的测试截图，一张图片被编码在这两个二维码中：",
+                    "Here is a screenshot of a test of reading two QR codes which have an image encoded:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999522568,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "<x1\/>Sample<x2\/>",
+                    "<x1\/>示例<x2\/>",
+                    "<x1\/>Sample<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1710999530141,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Package as a Library",
+                    "打包为库",
+                    "Package as a Library",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302734701,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "We can publish it as a library onto NPM for ease of use.",
+                    "为了便于使用，我们可以将其作为库发布到NPM上。",
+                    "We can publish it as a library onto NPM for ease of use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302737037,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Install <g1>devDependencies<\/g1>:",
+                    "安装<g1>devDependencies<\/g1> ：",
+                    "Install <g1>devDependencies<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302747436,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "Create a new <g1>vite.config.ts<\/g1> file:",
+                    "创建一个新的<g1>vite.config.ts<\/g1>文件：",
+                    "Create a new <g1>vite.config.ts<\/g1> file:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302753549,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Add the entry points of our package to <g1>package.json<\/g1>.",
+                    "将我们的包的入口点添加到<g1>package.json<\/g1>。",
+                    "Add the entry points of our package to <g1>package.json<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302763192,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "Run <g1>npm run build<\/g1>.",
+                    "运行<g1>npm run build<\/g1>。",
+                    "Run <g1>npm run build<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302770053,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "Then, we can have the packaged files in the <g2>dist<\/g2>.",
+                    "然后，我们可以在<g2>dist<\/g2>文件夹中看到打包好的文件。",
+                    " Then, we can have the packaged files in the <g2>dist<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302793717,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "Get the source code of the library to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the library to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/read-binary-data-from-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu64"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
