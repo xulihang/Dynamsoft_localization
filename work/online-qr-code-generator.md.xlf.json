@@ -1,0 +1,864 @@
+{
+    "filename": "online-qr-code-generator.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build an Online QR Code Generator",
+                    "如何编写一个在线二维码生成器",
+                    "How to Build an Online QR Code Generator",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711354820336,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-03-25 13:37:53 +0800",
+                    "",
+                    "2024-03-25 13:37:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-03-25 13:37:53 +0800",
+                    "",
+                    "2024-03-25 13:37:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Python",
+                    "",
+                    "Python",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build an online QR code generator.",
+                    "本文介绍了如何编写一个在线二维码生成器。",
+                    "The article talks about how to build an online QR code generator.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711354827244,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Different from other online QR code generators, it can directly encode files in byte mode, specify the text encoding and support the structured append mode.",
+                    "与其他在线二维码生成器不同的是，它可以直接将文件以字节模式编码、可以指定文本编码、并支持结构化追加模式。",
+                    " Different from other online QR code generators, it can directly encode files in byte mode, specify the text encoding and support the structured append mode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711354729676,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/03\/qr-code-generator\/screenshot.jpg",
+                    "",
+                    ".\/img\/2024\/03\/qr-code-generator\/screenshot.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "In the <g1>previous article<\/g1>, we talked about what is QR code, its modes for encoding the data, and how to generate QR codes in Python.",
+                    "在<g1>上一篇文章<\/g1>，我们讨论了什么是QR二维码、QR二维码的数据编码模式以及如何用Python生成二维码。",
+                    "In the <g1>previous article<\/g1>, we talked about what is QR code, its modes for encoding the data, and how to generate QR codes in Python.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711354773210,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build an online QR code generator to make it convenient to generate QR codes in the browser.",
+                    "在本文中，我们将编写一个在线二维码生成器，以便在浏览器中生成QR二维码。",
+                    "In this article, we are going to build an online QR code generator to make it convenient to generate QR codes in the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711354810533,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "We will continue to use the Python library segno as the generation library.",
+                    "我们将继续使用Python库segno来生成二维码。",
+                    "We will continue to use the Python library segno as the generation library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711354852867,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "In order to run it in the browser, we will use <g1>pyodide<\/g1> to provide a Python environment for the browser.",
+                    "为了在浏览器中运行它，使用<g1>pyodide<\/g1>为浏览器提供Python环境。",
+                    " In order to run it in the browser, we will use <g1>pyodide<\/g1> to provide a Python environment for the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711354870064,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Online Demo",
+                    "在线demo",
+                    "<g1>Online Demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Setup a Python Environment",
+                    "配置Python环境",
+                    "Setup a Python Environment",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711354943862,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Include pyodide in the page.",
+                    "在页面中加入pyodide。",
+                    "Include pyodide in the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711354947948,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Load pyodide.",
+                    "加载pyodide。",
+                    "Load pyodide.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711354954287,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Load <g1>micropip<\/g1> and use it to install the segno library.",
+                    "加载<g1>micropip<\/g1>并用它来安装segno库。",
+                    "Load <g1>micropip<\/g1> and use it to install the segno library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711354964061,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "We can test generating a QR code as SVG with the following code.",
+                    "我们可以用以下测试代码生成 二维码并保存为SVG。",
+                    "We can test generating a QR code as SVG with the following code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355042726,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Read Data from TextArea or File Input",
+                    "从TextArea或文件读取数据",
+                    "Read Data from TextArea or File Input",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355055950,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Next, let's read the data to encode from a TextArea or a File Input.",
+                    "接下来，让我们从TextArea或文件读取要编码的数据。",
+                    "Next, let's read the data to encode from a TextArea or a File Input.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355068844,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "HTML elements:",
+                    "HTML元素：",
+                    "HTML elements:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355076348,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "If the content mode is selected as <g1>Bytes<\/g1>, load the file as base64 to pass it for segno to encode in byte mode.",
+                    "如果内容模式选择为<g1>字节<\/g1>，则以 base64 格式加载文件，并将其传递给segno以进行字节模式编码。",
+                    "If the content mode is selected as <g1>Bytes<\/g1>, load the file as base64 to pass it for segno to encode in byte mode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355093598,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Otherwise, simply pass the text value in the TextArea.",
+                    "否则，传递TextArea中的文本。",
+                    " Otherwise, simply pass the text value in the TextArea.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355119582,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Specify the Mode of the QR Code",
+                    "指定二维码的模式",
+                    "Specify the Mode of the QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355129836,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "A QR code has the following modes to encode the data: numeric, alphanumeric, kanji, byte, and structured append.",
+                    "二维码有以下几种数据编码模式：数字、字母数字、日文汉字、字节和结构化追加。",
+                    "A QR code has the following modes to encode the data: numeric, alphanumeric, kanji, byte, and structured append.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355290827,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "We can store data in several QR codes using the structured append mode.",
+                    "我们可以使用结构化追加模式在多个二维码中存储数据。",
+                    "We can store data in several QR codes using the structured append mode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355288563,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "It will add some metadata describing the total page number and the page index of the QR code.",
+                    "它将添加一些元数据，描述二维码的总页码和页面序号。",
+                    " It will add some metadata describing the total page number and the page index of the QR code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355174018,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "If the content we need to store is larger than one QR code’s capacity (2953 bytes) or the version of the QR code will be too high if we store it in one QR code which makes it difficult to print and read, we can use this mode.",
+                    "如果我们需要存储的内容大于一个二维码的容量，或者如果只用一个二维码的话，二维码的版本会过高，导致难以打印和读取，那么我们可以使用这个模式。",
+                    " If the content we need to store is larger than one QR code’s capacity (2953 bytes) or the version of the QR code will be too high if we store it in one QR code which makes it difficult to print and read, we can use this mode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1711355205207,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "The library can decide which mode to use based on the input.",
+                    "这个库可根据输入自动决定使用哪种模式。",
+                    "The library can decide which mode to use based on the input.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355220910,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "But sometimes, we may need to specify the mode.",
+                    "但有时，我们可能需要手动指定模式。",
+                    " But sometimes, we may need to specify the mode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355227402,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Add some HTML elements to specify the mode and the number of QR codes in structured append mode.",
+                    "添加一些HTML元素，以指定二维码模式和结构化追加模式下的码的数量。",
+                    "Add some HTML elements to specify the mode and the number of QR codes in structured append mode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355281326,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Pass the mode value in the Python code.",
+                    "在Python代码中使用模式的值。",
+                    "Pass the mode value in the Python code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355267733,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Use <g1>segno.make_sequence<\/g1> to make QR codes in structured append mode and return the QR codes in a list.",
+                    "使用<g1>segno.make_sequence<\/g1>以结构化追加模式制作二维码，并以列表形式返回二维码。",
+                    " Use <g1>segno.make_sequence<\/g1> to make QR codes in structured append mode and return the QR codes in a list.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355276459,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "We can then append the QR codes into the document as <g1>img<\/g1> elements.",
+                    "然后，我们可以将二维码作为<g1>img<\/g1>元素添加到文档中。",
+                    "We can then append the QR codes into the document as <g1>img<\/g1> elements.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355330092,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Specify the Error Correction Level",
+                    "指定纠错级别",
+                    "Specify the Error Correction Level",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355336444,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "QR Code uses Reed–Solomon error correction so that even if the image is damaged, we can still read the data.",
+                    "QR二维码使用Reed-Solomon纠错技术，使得即使图像受损，我们仍然可以读取数据。",
+                    "QR Code uses Reed–Solomon error correction so that even if the image is damaged, we can still read the data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355356411,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "There are four levels of error correction.",
+                    "纠错分为四个级别。",
+                    "There are four levels of error correction.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355360420,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "The higher the level, the more redundant data will be added to a QR code to make the QR code more resistant to damage.",
+                    "级别越高，二维码中添加的冗余数据就越多，从而使二维码更耐损坏。",
+                    " The higher the level, the more redundant data will be added to a QR code to make the QR code more resistant to damage.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355362724,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "The highest level is H, whose percentage of data bytes that can be restored is 30%.",
+                    "最高级别为 H，可恢复的数据字节百分比为 30%。",
+                    " The highest level is H, whose percentage of data bytes that can be restored is 30%.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355368381,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "L:",
+                    "L：",
+                    "L:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355381052,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "7%",
+                    "",
+                    " 7%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "M:",
+                    "M：",
+                    "M:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355378556,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "15%",
+                    "",
+                    " 15%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Q:",
+                    "Q：",
+                    "Q:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355388668,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "25%",
+                    "",
+                    " 25%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "H:",
+                    "H：",
+                    "H:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355395643,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "30%",
+                    "",
+                    " 30%",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Add some HTML elements for specifying the error correction level.",
+                    "添加一些HTML元素，用于指定纠错级别。",
+                    "Add some HTML elements for specifying the error correction level.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355413885,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "In the Python code, set the error correction level.",
+                    "在Python代码中，设置纠错级别。",
+                    "In the Python code, set the error correction level.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355420765,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Specify the Version",
+                    "指定版本",
+                    "Specify the Version",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355423644,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "The symbol versions of QR Code range from Version 1 to Version 40.",
+                    "QR二维码的版本从1到40不等。",
+                    "The symbol versions of QR Code range from Version 1 to Version 40.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355455026,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Each version has a different module configuration or number of modules.",
+                    "每个版本都有不同的模块配置或模块数量。",
+                    " Each version has a different module configuration or number of modules.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355442084,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "The higher the version, the more number of modules can a QR code has so that it can store more data.",
+                    "版本越高，二维码的模块数量就越多，从而可以存储更多的数据。",
+                    " The higher the version, the more number of modules can a QR code has so that it can store more data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355448340,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Add some HTML elements for specifying the version.",
+                    "添加一些HTML元素，用于指定版本。",
+                    "Add some HTML elements for specifying the version.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355466362,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "In the Python code, set the version.",
+                    "在Python代码中，设置版本。",
+                    "In the Python code, set the version.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1711355481019,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Specify the Text Encoding in Byte Mode",
+                    "指定字节模式下的文本编码",
+                    "Specify the Text Encoding in Byte Mode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355492021,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "We can specify the text encoding in byte mode to store more characters.",
+                    "我们可以在字节模式下指定文本编码，以存储更多字符。",
+                    "We can specify the text encoding in byte mode to store more characters.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355495396,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "For example, UTF-8 needs three bytes to encode a Chinese Hanzi while GBK only needs two bytes.",
+                    "例如，UTF-8编码一个汉字需要三个字节，而GBK编码一个汉字只需要两个字节。",
+                    " For example, UTF-8 needs three bytes to encode a Chinese Hanzi while GBK only needs two bytes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355506537,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Add some HTML elements to select the text encoding.",
+                    "添加一些HTML元素来选择文本编码。",
+                    "Add some HTML elements to select the text encoding.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355513047,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "The list of encodings is from <g1>Python's docs<\/g1> as we will encode the text in Python.",
+                    "编码列表来自<g1>Python文档<\/g1>，因为我们将使用Python对文本进行编码。",
+                    " The list of encodings is from <g1>Python's docs<\/g1> as we will encode the text in Python.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355522732,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Encode the text using the selected encoding in Python.",
+                    "在Python中使用所选编码对文本进行编码。",
+                    "Encode the text using the selected encoding in Python.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355529229,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Download the QR Codes",
+                    "下载QR二维码",
+                    "Download the QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355649115,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "The QR codes we generated are appended as <g1>img<\/g1> elements in the document.",
+                    "我们生成的二维码会作为<g1>img<\/g1>元素添加到文档中。",
+                    "The QR codes we generated are appended as <g1>img<\/g1> elements in the document.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355556278,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "We can then download the QR codes as SVG or JPEG.",
+                    "然后，我们可以将二维码以SVG或JPEG格式下载下来。",
+                    " We can then download the QR codes as SVG or JPEG.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711355587510,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Read the QR Codes",
+                    "读取QR二维码",
+                    "Read the QR Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1711355647481,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "You can use this <g1>Web QR Code Scanner<\/g1> based on <g2>Dynamsoft Barcode Reader<\/g2> to read the QR Codes we generated in this article.",
+                    "可以使用基于<g2>Dynamsoft Barcode Reader<\/g2>的<g1>网页版QR码扫描应用<\/g1>来读取我们在本文中生成的QR码。",
+                    "You can use this <g1>Web QR Code Scanner<\/g1> based on <g2>Dynamsoft Barcode Reader<\/g2> to read the QR Codes we generated in this article.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1711355600332,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Get the source code to have a try:",
+                    "下载源代码并尝试使用：",
+                    "Get the source code to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/online-qr-code-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699582032112,
+                        "id": "tu46"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
