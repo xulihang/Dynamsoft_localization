@@ -1,0 +1,867 @@
+{
+    "filename": "object-detection-and-barcode-reading.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Object Detection and Barcode Reading",
+                    "目标检测和条码识别",
+                    "Object Detection and Barcode Reading",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112079359,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-04-01 13:42:53 +0800",
+                    "",
+                    "2024-04-01 13:42:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-04-01 13:42:53 +0800",
+                    "",
+                    "2024-04-01 13:42:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Image Processing",
+                    "",
+                    "Image Processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Python",
+                    "",
+                    "Python",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "OpenCV",
+                    "",
+                    "OpenCV",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "YOLO",
+                    "",
+                    "YOLO",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Object Detection",
+                    "",
+                    "Object Detection",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "Deep Learning",
+                    "",
+                    "Deep Learning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf16_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to integrate object detection into barcode reading.",
+                    "本文讨论了如何将目标检测应用到条码识别中。",
+                    "The article talks about how to integrate object detection into barcode reading.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112060663,
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/04\/object-detection\/barcodes-on-bottles.jpg",
+                    "",
+                    ".\/img\/2024\/04\/object-detection\/barcodes-on-bottles.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf18_tu1"
+                    }
+                ],
+                [
+                    "Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.<x1\/>^paper<x2\/> It can be used in a barcode reading task as barcodes are often printed on objects like labels, books, etc.",
+                    "目标检测是一种与计算机视觉和图像处理相关的计算机技术，主要用于检测数字图像和视频中某一类语义物体（如人、建筑物或汽车）的实例。<x1\/>^paper<x2\/> 我们可以用它来检测印有条码的物体， 比如标签和图书，来辅助条码识别。",
+                    "Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.<x1\/>^paper<x2\/> It can be used in a barcode reading task as barcodes are often printed on objects like labels, books, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112227278,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can detect the objects first and then read barcodes on these objects, which has the following potential benefits:",
+                    "先检测物体，然后读取这些物体上的条码，这样做可能有以下的好处：",
+                    " We can detect the objects first and then read barcodes on these objects, which has the following potential benefits:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112259987,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Improve the reading speed",
+                    "提高读取速度",
+                    "Improve the reading speed",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112267618,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Check whether there are unread barcodes",
+                    "检查是否有未读的条码",
+                    "Check whether there are unread barcodes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112277702,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Save the image of the object with barcodes printed on it",
+                    "保存印有条码的物体的图像",
+                    "Save the image of the object with barcodes printed on it",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112285201,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "In this article, we are going to explore some object detection methods and how to use them with barcode reading.",
+                    "在本文中，我们将讨论一些目标检测方法，以及如何将它们与条码识别相结合。",
+                    "In this article, we are going to explore some object detection methods and how to use them with barcode reading.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112316445,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "The code is in Python with OpenCV for image processing and <g1>Dynamsoft Barcode Reader<\/g1> for barcode reading.",
+                    "代码使用Python编写。使用OpenCV进行图像处理，<g1>Dynamsoft Barcode Reader<\/g1>用于条码识别。",
+                    " The code is in Python with OpenCV for image processing and <g1>Dynamsoft Barcode Reader<\/g1> for barcode reading.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112346799,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Sample image (5 bottles detected.",
+                    "示例图（检测到 5 个瓶子。",
+                    "Sample image (5 bottles detected.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112353790,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "1 bottle without barcode read):",
+                    "其中1 个瓶子未读取到条码）：",
+                    " 1 bottle without barcode read):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112376062,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<x1\/>barcodes on bottles<x2\/>",
+                    "<x1\/>瓶子上的条形码<x2\/>",
+                    "<x1\/>barcodes on bottles<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112381093,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Object Detection",
+                    "目标检测",
+                    "Object Detection",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112387286,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "There are many ways to detect objects.",
+                    "检测目标物体的方法有很多。",
+                    "There are many ways to detect objects.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112398376,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "If the objects have vivid features, we can use some simple image processing methods to detect them.",
+                    "如果物体具有鲜明的特征，我们可以使用一些简单的图像处理方法来检测它们。",
+                    " If the objects have vivid features, we can use some simple image processing methods to detect them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112422124,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "If the objects are complex, we can use deep learning to detect them.",
+                    "如果物体较复杂，我们可以使用深度学习来检测它们。",
+                    " If the objects are complex, we can use deep learning to detect them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112436831,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Here, we are going to list some methods for object detection.",
+                    "下面，我们将列举一些目标检测方法。",
+                    "Here, we are going to list some methods for object detection.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112447300,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Object Detection using Contours Finding",
+                    "利用轮廓查找进行目标检测",
+                    "Object Detection using Contours Finding",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112455800,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "For the labels pasted on a purple board, we can detect them by finding the contours on the image's binary version.",
+                    "对于下图这样贴在紫色板子上的标签，我们可以通过查找轮廓来检测它们。",
+                    "For the labels pasted on a purple board, we can detect them by finding the contours on the image's binary version.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112512001,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<x1\/>barcodes on labels<x2\/>",
+                    "<x1\/>标签上的条码<x2\/>",
+                    "<x1\/>barcodes on labels<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112592246,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Perform thresholding to get a binary image:",
+                    "执行阈值处理，得到二值图像：",
+                    "Perform thresholding to get a binary image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112528270,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "<x1\/>barcodes on labels thresh<x2\/>",
+                    "<x1\/>标签上的条码-二值图<x2\/>",
+                    "<x1\/>barcodes on labels thresh<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112593118,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Find contours, filter out small irregular ones and draw their bounding rectangles.",
+                    "查找轮廓，筛选掉不规则的小的轮廓，并绘制其外接矩形。",
+                    "Find contours, filter out small irregular ones and draw their bounding rectangles.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112569679,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "<x1\/>barcodes on labels detected<x2\/>",
+                    "<x1\/>标签上的条码-检测到的<x2\/>",
+                    "<x1\/>barcodes on labels detected<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112587816,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Object Detection using Color Segmentation",
+                    "使用颜色分割进行目标检测",
+                    "Object Detection using Color Segmentation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112600000,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "In the following image, DataMatrix codes are printed on cassettes with vivid colors.",
+                    "在下图中，DataMatrix码打印在颜色鲜明的磁带上。",
+                    "In the following image, DataMatrix codes are printed on cassettes with vivid colors.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712112625176,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "We can detect the cassettes based on their colors.",
+                    "我们可以根据磁带的颜色对其进行检测。",
+                    " We can detect the cassettes based on their colors.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112633911,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "To do this, we can convert the image into HSV color space and use OpenCV's <g1>inrange<\/g1> method for segmentation.",
+                    "我们可以将图像转换到HSV色彩空间，并使用OpenCV的<g1>inrange<\/g1>方法进行分割。",
+                    " To do this, we can convert the image into HSV color space and use OpenCV's <g1>inrange<\/g1> method for segmentation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112653662,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "<x1\/>cassette<x2\/>",
+                    "<x1\/>磁带<x2\/>",
+                    "<x1\/>cassette<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112655694,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Convert the image into HSV color space.",
+                    "将图像转换到HSV色彩空间。",
+                    "Convert the image into HSV color space.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112662886,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Use <g1>inrange<\/g1> to separate the specific color.",
+                    "使用<g1>inrange<\/g1>分出特定颜色。",
+                    "Use <g1>inrange<\/g1> to separate the specific color.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112673615,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Here is the mask for yellow.",
+                    "下面是分割出的黄色磁带的掩膜。",
+                    "Here is the mask for yellow.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112707838,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "<x1\/>mask yellow<x2\/>",
+                    "<x1\/>黄色掩膜<x2\/>",
+                    "<x1\/>mask yellow<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112718926,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Here is the dict of bounds for colors in this image.",
+                    "以下是该图像中颜色的界限的字典。",
+                    "Here is the dict of bounds for colors in this image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112733590,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "We can iterate the colors to detect all the cassettes.",
+                    "我们可以遍历这些颜色来检测所有磁带。",
+                    "We can iterate the colors to detect all the cassettes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112742694,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Find contours on the mask, filter out small and irregular ones and get the bounding rectangles.",
+                    "基于掩膜图像查找轮廓，过滤掉小的和不规则的轮廓，得到外接矩形。",
+                    "Find contours on the mask, filter out small and irregular ones and get the bounding rectangles.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112770646,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "<x1\/>cassette detected<x2\/>",
+                    "<x1\/>检测到的磁带<x2\/>。",
+                    "<x1\/>cassette detected<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112785197,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Object Detection using YOLO",
+                    "使用YOLO进行目标检测",
+                    "Object Detection using YOLO",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712112798927,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "In the following image, there are five bottles.",
+                    "下图中有五个瓶子。",
+                    "In the following image, there are five bottles.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112810188,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "It is not easy to detect them with simple image processing.",
+                    "用简单的图像处理方法检测它们并不容易。",
+                    " It is not easy to detect them with simple image processing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112813052,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "We can use YOLOv8 to detect them which is a deep learning method.",
+                    "我们可以使用深度学习方法YOLOv8来检测它们。",
+                    " We can use YOLOv8 to detect them which is a deep learning method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112821062,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "<x1\/>bottles<x2\/>",
+                    "<x1\/>瓶子<x2\/>",
+                    "<x1\/>bottles<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112825132,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Install YOLOv8.",
+                    "安装 YOLOv8。",
+                    "Install YOLOv8.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112827444,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Use the following code to detect the bottles.",
+                    "使用以下代码检测瓶子。",
+                    "Use the following code to detect the bottles.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112829892,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Save the detections in a list.",
+                    "将检测结果保存在列表中。",
+                    "Save the detections in a list.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112833444,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Draw the results.",
+                    "画出结果。",
+                    "Draw the results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112835532,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "<x1\/>bottles detected<x2\/>",
+                    "<x1\/>检测到的瓶子<x2\/>",
+                    "<x1\/>bottles detected<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112839902,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Barcode Reading",
+                    "条码识别",
+                    "Barcode Reading",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112846206,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "After detecting the objects, we can crop the images and read the barcodes on them.",
+                    "检测到物体后，我们可以裁剪图像并读取上面的条码。",
+                    "After detecting the objects, we can crop the images and read the barcodes on them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112853797,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Here, we use Dynamsoft Barcode Reader to read them.",
+                    "我们使用Dynamsoft Barcode Reader来读取它们。",
+                    " Here, we use Dynamsoft Barcode Reader to read them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112866133,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Activate the license.",
+                    "激活许可证。",
+                    "Activate the license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112868508,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以<g1>此处<\/g1>申请许可证。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112882299,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Create a new instance of a barcode reader.",
+                    "创建一个新的BarcodeReader实例。",
+                    "Create a new instance of a barcode reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112893143,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Set the barcode format to DataMatrix which is printed on the sample images.",
+                    "示例图像中只有DataMatrix码，可以设置只读取DataMatrix格式的码。",
+                    "Set the barcode format to DataMatrix which is printed on the sample images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112953341,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Crop the objects in the images, read the barcodes in them and draw the results.",
+                    "裁剪图像中的物体，读取其上的条码并绘制结果。",
+                    "Crop the objects in the images, read the barcodes in them and draw the results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712112980926,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "If there are no barcodes found on the objects, use red to draw the rectangles.",
+                    "如果某个物体没有识别到条码，则使用红色绘制其矩形。",
+                    "If there are no barcodes found on the objects, use red to draw the rectangles.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712113005143,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "<x1\/>barcodes on bottles<x2\/>",
+                    "<x1\/>瓶子上的条形码<x2\/>",
+                    "<x1\/>barcodes on bottles<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712112381093,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "You can find the complete code here:",
+                    "可以在这里找到完整的代码：",
+                    "You can find the complete code here: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712113035863,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "References",
+                    "参考",
+                    "References",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1623312225963,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "<x1\/>^paper<x2\/>:",
+                    "<x1\/>^paper<x2\/>：",
+                    "<x1\/>^paper<x2\/>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712113049365,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Dasiopoulou, Stamatia, et al.",
+                    "",
+                    " Dasiopoulou, Stamatia, et al.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "\"Knowledge-assisted semantic video object detection.\"",
+                    "",
+                    " \"Knowledge-assisted semantic video object detection.\"",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "IEEE Transactions on Circuits and Systems for Video Technology 15.10 (2005):",
+                    "",
+                    " IEEE Transactions on Circuits and Systems for Video Technology 15.10 (2005):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "1210–1224.",
+                    "",
+                    " 1210–1224.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/object-detection-and-barcode-reading.md",
+                    {
+                        "id": "tu48"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
