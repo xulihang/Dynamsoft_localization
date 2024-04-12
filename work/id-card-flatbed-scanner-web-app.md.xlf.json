@@ -1,0 +1,907 @@
+{
+    "filename": "id-card-flatbed-scanner-web-app.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a Web App to Scan an ID Card using a Flatbed Scanner",
+                    "编写一个从平板扫描仪扫描身份证件的网页应用",
+                    "How to Build a Web App to Scan an ID Card using a Flatbed Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712886850680,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-04-10 13:46:53 +0800",
+                    "",
+                    "2024-04-10 13:46:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-04-10 13:46:53 +0800",
+                    "",
+                    "2024-04-10 13:46:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Capture Vision",
+                    "",
+                    "Capture Vision",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "MRZ",
+                    "",
+                    "MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a web app to scan ID cards from a flatbed scanner.",
+                    "这篇文章讲述了如何构建一个网络应用来从平板扫描仪扫描身份证。",
+                    "The article talks about how to build a web app to scan ID cards from a flatbed scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712886874684,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/04\/id-card-scanner\/screenshot.jpg",
+                    "",
+                    ".\/img\/2024\/04\/id-card-scanner\/screenshot.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "An identity document or ID card is any document that may be used to prove a person's identity.",
+                    "身份证件是可用于证明个人身份的证件。",
+                    "An identity document or ID card is any document that may be used to prove a person's identity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712886889238,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "There are various forms of identity documents: driver's license, passport and formal identity card.",
+                    "身份证件有多种形式：驾驶证、护照和身份证。",
+                    " There are various forms of identity documents: driver's license, passport and formal identity card.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712886903584,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Barcodes and MRZ (machine-readable zones) are often printed on an ID card so that its info can be extracted using a machine.",
+                    "条形码和 MRZ（机器可读区）通常印在身份证件上，以便用机器提取信息。",
+                    "Barcodes and MRZ (machine-readable zones) are often printed on an ID card so that its info can be extracted using a machine.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712886912141,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Driver's license example:",
+                    "加拿大驾照示例：",
+                    "Driver's license example:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712886951749,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>driver's license<x2\/>",
+                    "<x1\/>驾驶执照<x2\/>",
+                    "<x1\/>driver's license<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1707293500444,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Formal ID Card example:",
+                    "荷兰身份证示例：",
+                    "Formal ID Card example:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712886953708,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "<x1\/>id card<x2\/>",
+                    "<x1\/>身份证<x2\/>",
+                    "<x1\/>id card<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886957731,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "ID cards are often scanned through a camera or a flatbed scanner.",
+                    "身份证通常通过摄像头或平板扫描仪进行扫描。",
+                    "ID cards are often scanned through a camera or a flatbed scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712886960627,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a web app to scan ID cards from flatbed scanners.",
+                    "在本文中，我们将创建一个网络应用，用于从平板扫描仪扫描身份证。",
+                    " In this article, we are going to build a web app to scan ID cards from flatbed scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712886967109,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "The following SDKs by Dynamsoft are used:",
+                    "使用了Dynamsoft的以下SDK：",
+                    "The following SDKs by Dynamsoft are used:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712886979408,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<g1>Dynamic Web TWAIN<\/g1>: acquire images from document scanners.",
+                    "<g1>Dynamic Web TWAIN<\/g1>：从文档扫描仪获取图像。",
+                    "<g1>Dynamic Web TWAIN<\/g1>: acquire images from document scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712886989726,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Normalizer<\/g1>: crop ID cards in scanned document images.",
+                    "<g1>Dynamsoft Document Normalizer<\/g1>：裁剪扫描文档图像中的证件。",
+                    "<g1>Dynamsoft Document Normalizer<\/g1>: crop ID cards in scanned document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887008034,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1>: read PDF417 on driver's licenses.",
+                    "<g1>Dynamsoft Barcode Reader<\/g1>：读取驾照上的PDF417。",
+                    "<g1>Dynamsoft Barcode Reader<\/g1>: read PDF417 on driver's licenses.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887025564,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Label Recognizer<\/g1>: recognize MRZ on ID cards.",
+                    "<g1>Dynamsoft Label Recognizer<\/g1>：识别身份证件上的MRZ。",
+                    "<g1>Dynamsoft Label Recognizer<\/g1>: recognize MRZ on ID cards.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887044461,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Code Parser<\/g1>: parse MRZ and barcodes to get meaningful data.",
+                    "<g1>Dynamsoft Code Parser<\/g1>：解析 MRZ 和条形码以获取有意义的数据。",
+                    "<g1>Dynamsoft Code Parser<\/g1>: parse MRZ and barcodes to get meaningful data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887053677,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Include Libraries",
+                    "添加类库",
+                    "Include Libraries",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721990109,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Include the libraries via CDN by adding the following in the head:",
+                    "在head添加以下内容，通过CDN包含这些库：",
+                    "Include the libraries via CDN by adding the following in the head:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887082052,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Layout Design",
+                    "布局设计",
+                    "Layout Design",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619329007597,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "We are going to adopt the following design:",
+                    "我们将采用以下设计：",
+                    "We are going to adopt the following design:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887087403,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "<x1\/>design<x2\/>",
+                    "<x1\/>设计<x2\/>",
+                    "<x1\/>design<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887090002,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "In the left, there is a sidebar to configure and perform the document scanning.",
+                    "左侧有一个侧边栏，用于配置和执行文档扫描。",
+                    "In the left, there is a sidebar to configure and perform the document scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887092451,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "In the right, there is a viewer for scanned documents and a few buttons to perform operations.",
+                    "右侧有一个扫描文档查看器和几个执行操作的按钮。",
+                    " In the right, there is a viewer for scanned documents and a few buttons to perform operations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887203350,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "When the page is opened, it will prompt the user to fill in the licenses to use the products.",
+                    "页面打开后，会提示用户填写使用产品的许可证。",
+                    "When the page is opened, it will prompt the user to fill in the licenses to use the products.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887100338,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "You can apply for licenses <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请许可证。",
+                    " You can apply for licenses <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887113533,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "<x1\/>license modal<x2\/>",
+                    "<x1\/>许可证模态框<x2\/>",
+                    "<x1\/>license modal<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887130026,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "When the ID card's info is extracted, use a modal to display the results.",
+                    "提取证件信息后，使用模态框显示结果。",
+                    "When the ID card's info is extracted, use a modal to display the results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887147182,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "<x1\/>result modal<x2\/>",
+                    "<x1\/>结果模态框<x2\/>",
+                    "<x1\/>result modal<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887153293,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Code:",
+                    "代码：",
+                    "Code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123971771,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "文件扫描",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887158027,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Next, let's use Dynamic Web TWAIN to scan documents.",
+                    "接下来，让我们使用Dynamic Web TWAIN扫描文档。",
+                    "Next, let's use Dynamic Web TWAIN to scan documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887171667,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Configure related settings and create a new instance of Dynamic Web TWAIN.",
+                    "配置相关设置并创建Dynamic Web TWAIN 的新实例。",
+                    "Configure related settings and create a new instance of Dynamic Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887179572,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Bind the instance to a container to display a document viewer.",
+                    "将实例绑定到容器，以显示文档查看器。",
+                    " Bind the instance to a container to display a document viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887190270,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "List the scanners.",
+                    "列出扫描仪。",
+                    "List the scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706580640244,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Perform document scanning using the selected scanner and settings.",
+                    "使用选定的扫描仪和设置执行文档扫描。",
+                    "Perform document scanning using the selected scanner and settings.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887213292,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Save the scanned documents as PDF, JPG or PNG.",
+                    "将扫描文件保存为 PDF、JPG 或 PNG 格式。",
+                    "Save the scanned documents as PDF, JPG or PNG.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887217483,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Document Cropping",
+                    "文件裁剪",
+                    "Document Cropping",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887221531,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "The document images scanned may be an A4-sized image.",
+                    "扫描的文档图像可能是 A4 大小的图像。",
+                    "The document images scanned may be an A4-sized image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887224155,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "We need to crop the document.",
+                    "我们需要裁剪文件。",
+                    " We need to crop the document.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887228715,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Example:",
+                    "例子：",
+                    "Example:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705302028973,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "<x1\/>scanned document<x2\/>",
+                    "<x1\/>扫描文件<x2\/>",
+                    "<x1\/>scanned document<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887236227,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "We can do this using Dynamsoft Document Normalizer.",
+                    "我们可以使用Dynamsoft Document Normalizer来实现这一功能。",
+                    "We can do this using Dynamsoft Document Normalizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887242636,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Create a capture vision router instance to call Dynamsoft's image processing SDKs.",
+                    "创建一个capture vision router实例，以调用 Dynamsoft的图像处理 SDK。",
+                    "Create a capture vision router instance to call Dynamsoft's image processing SDKs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887263401,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Get the document image scanned via Web TWAIN as blob.",
+                    "将通过Web TWAIN 描的文档图像获取为blob。",
+                    "Get the document image scanned via Web TWAIN as blob.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887276485,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Update the runtime settings to use the following binarization mode:",
+                    "更新运行时设置，使用以下二值化模式：",
+                    "Update the runtime settings to use the following binarization mode:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887280939,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "The image will be converted into a binary one using a fixed threshold for detecting the document boundaries.",
+                    "使用固定阈值将图像转换为二值图，以检测文档边界。",
+                    "The image will be converted into a binary one using a fixed threshold for detecting the document boundaries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887294955,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Since the document lies on a white background, using a fixed threshold is suitable.",
+                    "由于文件位于白色背景上，因此使用固定阈值是合适的。",
+                    " Since the document lies on a white background, using a fixed threshold is suitable.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887298114,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "JavaScript code to actually update the settings:",
+                    "实际的JavaScript代码：",
+                    "JavaScript code to actually update the settings:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887315949,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Call Dynamsoft Document Normalizer to replace the original image with the cropped document images.",
+                    "调用Dynamsoft Document Normalizer将原始图像替换为裁剪后的文档图像。",
+                    "Call Dynamsoft Document Normalizer to replace the original image with the cropped document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887323033,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Barcode Reading",
+                    "条码读取",
+                    "Barcode Reading",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887333381,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Next, let's use Dynamsoft Barcode Reader to read the PDF417 on driver's licenses.",
+                    "接下来，让我们使用 Dynamsoft Barcode Reader来读取驾驶执照上的 PDF417。",
+                    "Next, let's use Dynamsoft Barcode Reader to read the PDF417 on driver's licenses.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887341350,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "It is straightforward with the following code:",
+                    "只需使用以下代码即可：",
+                    " It is straightforward with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887350012,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "MRZ Recognizing",
+                    "MRZ识别",
+                    "MRZ Recognizing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887356075,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Let's continue to use Dynamsoft Label Recognizer to recognize the MRZ on ID cards.",
+                    "让我们继续使用Dynamsoft Label Recognizer来识别身份证件上的MRZ。",
+                    "Let's continue to use Dynamsoft Label Recognizer to recognize the MRZ on ID cards.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887366004,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Update the runtime settings to recognize MRZ.",
+                    "更新运行时设置以识别 MRZ。",
+                    "Update the runtime settings to recognize MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887368507,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Call Dynamsoft Label Recognizer to recognize the MRZ.",
+                    "调用Dynamsoft Label Recognizer识别MRZ。",
+                    "Call Dynamsoft Label Recognizer to recognize the MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887384925,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Parsing",
+                    "解析",
+                    "Parsing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887387107,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "After getting the barcode and MRZ results, we can use Dynamsoft Code Parser to parse the results.",
+                    "获得条码和MRZ结果后，我们可以使用Dynamsoft Code Parser来解析结果。",
+                    "After getting the barcode and MRZ results, we can use Dynamsoft Code Parser to parse the results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887400861,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "Load specifications.",
+                    "加载规格文件。",
+                    "Load specifications.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887408042,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "Create an instance of code parser.",
+                    "创建一个Code Parser实例",
+                    "Create an instance of code parser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887415795,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "Parse the barcode results.",
+                    "解析条形码结果。",
+                    "Parse the barcode results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887417786,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "Parse the OCR results.",
+                    "解析OCR结果。",
+                    "Parse the OCR results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887422779,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Display the results as tables in a modal.",
+                    "在模态框中以表格形式显示结果。",
+                    "Display the results as tables in a modal.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887436217,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "You can find the source code of the demo in the following repo:",
+                    "可以在以下软件仓库中找到该demo的源代码：",
+                    "You can find the source code of the demo in the following repo: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/id-card-flatbed-scanner-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1712887447681,
+                        "id": "tu59"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
