@@ -1,0 +1,1002 @@
+{
+    "filename": "scan-id-card-via-camera-web-app.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a Web App to Scan an ID Card via Camera",
+                    "编写一个从摄像头扫描身份证件的网页应用",
+                    "How to Build a Web App to Scan an ID Card via Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713507843491,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-04-18 13:39:53 +0800",
+                    "",
+                    "2024-04-18 13:39:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-04-18 13:39:53 +0800",
+                    "",
+                    "2024-04-18 13:39:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Capture Vision",
+                    "",
+                    "Capture Vision",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Web ID Card Scanner",
+                    "",
+                    "Web ID Card Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "MRZ",
+                    "",
+                    "MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf16_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a web app to scan ID cards via cameras.",
+                    "本文介绍了如何构建一个网页应用，通过摄像头扫描身份证件。",
+                    "The article talks about how to build a web app to scan ID cards via cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713507896091,
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "It can read the MRZ and barcodes on identity documents, passports and driver's licenses to extract the holder's info.",
+                    "它可以读取身份证、护照和驾照上的MRZ和条形码，提取持有人的信息。",
+                    " It can read the MRZ and barcodes on identity documents, passports and driver's licenses to extract the holder's info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713507900066,
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/04\/id-card-scanner-camera\/screenshot.jpg",
+                    "",
+                    ".\/img\/2024\/04\/id-card-scanner-camera\/screenshot.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf18_tu1"
+                    }
+                ],
+                [
+                    "An identity document or ID card is any document that may be used to prove a person's identity.",
+                    "身份证件是可用于证明个人身份的证件。",
+                    "An identity document or ID card is any document that may be used to prove a person's identity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886889238,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "There are various forms of identity documents: driver's license, passport and formal identity card.",
+                    "身份证件有多种形式：驾驶证、护照和身份证。",
+                    " There are various forms of identity documents: driver's license, passport and formal identity card.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886903584,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Barcodes and MRZ (machine-readable zones) are often printed on an ID card so that its info can be extracted using a machine.",
+                    "条形码和MRZ（机器可读区）通常印在身份证件上，以便用机器提取信息。",
+                    "Barcodes and MRZ (machine-readable zones) are often printed on an ID card so that its info can be extracted using a machine.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713507911683,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Driver's license example:",
+                    "加拿大驾照示例：",
+                    "Driver's license example:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886951749,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>driver's license<x2\/>",
+                    "<x1\/>驾驶执照<x2\/>",
+                    "<x1\/>driver's license<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1707293500444,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Formal ID Card example:",
+                    "荷兰身份证示例：",
+                    "Formal ID Card example:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886953708,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "<x1\/>id card<x2\/>",
+                    "<x1\/>身份证<x2\/>",
+                    "<x1\/>id card<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886957731,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "ID cards are often scanned through a camera or a flatbed scanner.",
+                    "身份证通常通过摄像头或平板扫描仪进行扫描。",
+                    "ID cards are often scanned through a camera or a flatbed scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886960627,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a web app to scan ID cards via cameras.",
+                    "在本文中，我们将创建一个网络应用，用于从摄像头扫描身份证。",
+                    " In this article, we are going to build a web app to scan ID cards via cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713507933954,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "{% include series.html %}",
+                    "",
+                    "{% include series.html %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "The following SDKs by Dynamsoft are used:",
+                    "使用了Dynamsoft的以下SDK：",
+                    "The following SDKs by Dynamsoft are used:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713507947195,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Camera Enhancer<\/g1>: access cameras and capture frames.",
+                    "<g1>Dynamsoft Camera Enhancer<\/g1>：访问摄像头并捕捉帧。",
+                    "<g1>Dynamsoft Camera Enhancer<\/g1>: access cameras and capture frames.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713507950176,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Normalizer<\/g1>: crop ID cards in scanned document images.",
+                    "<g1>Dynamsoft Document Normalizer<\/g1>：裁剪扫描文档图像中的证件。",
+                    "<g1>Dynamsoft Document Normalizer<\/g1>: crop ID cards in scanned document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887008034,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1>: read PDF417 on driver's licenses.",
+                    "<g1>Dynamsoft Barcode Reader<\/g1>：读取驾照上的PDF417。",
+                    "<g1>Dynamsoft Barcode Reader<\/g1>: read PDF417 on driver's licenses.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887025564,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Label Recognizer<\/g1>: recognize MRZ on ID cards.",
+                    "<g1>Dynamsoft Label Recognizer<\/g1>：识别身份证件上的MRZ。",
+                    "<g1>Dynamsoft Label Recognizer<\/g1>: recognize MRZ on ID cards.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887044461,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Code Parser<\/g1>: parse MRZ and barcodes to get meaningful data.",
+                    "<g1>Dynamsoft Code Parser<\/g1>：解析MRZ和条形码以获取有意义的数据。",
+                    "<g1>Dynamsoft Code Parser<\/g1>: parse MRZ and barcodes to get meaningful data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713507974937,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Include Libraries",
+                    "添加类库",
+                    "Include Libraries",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721990109,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Include the libraries via CDN by adding the following in the head:",
+                    "在head添加以下内容，通过CDN包含这些库：",
+                    "Include the libraries via CDN by adding the following in the head:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887082052,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Layout Design",
+                    "布局设计",
+                    "Layout Design",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619329007597,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "We are going to adopt the following design:",
+                    "我们将采用以下设计：",
+                    "We are going to adopt the following design:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887087403,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "<x1\/>desktop design<x2\/>",
+                    "<x1\/>桌面版界面设计<x2\/>",
+                    "<x1\/>desktop design<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713507994395,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "In the left, there is a sidebar to select the camera and its resolution, and a button to start the camera or capture a frame.",
+                    "左侧有一个侧边栏用于选择摄像头及其分辨率，还有一个按钮用于启动相机或捕捉画面。",
+                    "In the left, there is a sidebar to select the camera and its resolution, and a button to start the camera or capture a frame.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713508006179,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "In the right, there is a viewer for scanned documents and the camera, and a few buttons to perform operations.",
+                    "右侧是扫描的文件和摄像头画面的查看器，以及几个用于执行操作的按钮。",
+                    " In the right, there is a viewer for scanned documents and the camera, and a few buttons to perform operations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508028600,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "If using a mobile phone, use the following layout:",
+                    "如果使用手机，使用以下布局：",
+                    "If using a mobile phone, use the following layout:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508033097,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "<x1\/>mobile design<x2\/>",
+                    "<x1\/>移动版界面设计<x2\/>",
+                    "<x1\/>mobile design<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508039030,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "When the page is opened, it will prompt the user to fill in the license to use the products.",
+                    "页面打开后，会提示用户填写使用产品的许可证。",
+                    "When the page is opened, it will prompt the user to fill in the license to use the products.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887100338,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "You can apply for licenses <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请许可证。",
+                    " You can apply for licenses <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887113533,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "<x1\/>license modal<x2\/>",
+                    "<x1\/>许可证模态框<x2\/>",
+                    "<x1\/>license modal<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887130026,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "When the ID card's info is extracted, use a modal to display the results.",
+                    "提取证件信息后，使用模态框显示结果。",
+                    "When the ID card's info is extracted, use a modal to display the results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887147182,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "<x1\/>result modal<x2\/>",
+                    "<x1\/>结果模态框<x2\/>",
+                    "<x1\/>result modal<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887153293,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Code:",
+                    "代码：",
+                    "Code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123971771,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Camera Accessing",
+                    "摄像头访问",
+                    "Camera Accessing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508499043,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Next, let's use Dynamsoft Camera Enhancer to start the camera.",
+                    "接下来，让我们使用Dynamsoft Camera Enhancer打开摄像头。",
+                    "Next, let's use Dynamsoft Camera Enhancer to start the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508094232,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Create an instance of <g1>CameraView<\/g1> and bind it to a container for the camera stream.",
+                    "创建一个<g1>CameraView<\/g1>的实例，并将其绑定到一个容器来显示视频流。",
+                    "Create an instance of <g1>CameraView<\/g1> and bind it to a container for the camera stream.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508122282,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Create an instance of <g1>CameraEnhancer<\/g1> to control the camera.",
+                    "创建一个<g1>CameraEnhancer<\/g1>的实例，以控制摄像头。",
+                    "Create an instance of <g1>CameraEnhancer<\/g1> to control the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508135409,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "List the connected cameras.",
+                    "列出连接的摄像头。",
+                    "List the connected cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508141498,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Open the selected camera with the desired resolution.",
+                    "以期望的分辨率打开所选摄像头。",
+                    "Open the selected camera with the desired resolution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508154555,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Hide the document viewer, display the camera container and toggle the button's text when the camera is opened:",
+                    "摄像头打开时，隐藏文件查看器、显示摄像头容器，并切换按钮文本：",
+                    "Hide the document viewer, display the camera container and toggle the button's text when the camera is opened:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508181777,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Capture a camera frame, append it as canvas to the document viewer and close the camera after the capture button is clicked.",
+                    "点击捕获按钮后，捕获视频帧，将其作为canvas添加到文件查看器中，并关闭相机。",
+                    "Capture a camera frame, append it as canvas to the document viewer and close the camera after the capture button is clicked.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508230667,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Document Detection and Cropping",
+                    "文件检测和裁剪",
+                    "Document Detection and Cropping",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508243569,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "We can detect ID documents in live, automatically capture a frame and crop the document image.",
+                    "我们可以实时检测身份证件，自动捕捉一帧并裁剪证件图像。",
+                    "We can detect ID documents in live, automatically capture a frame and crop the document image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508246743,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "This can be done using Dynamsoft Document Normalizer.",
+                    "这可以使用Dynamsoft Document Normalizer来完成。",
+                    " This can be done using Dynamsoft Document Normalizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508262602,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Create a capture vision router instance to call Dynamsoft's image processing SDKs.",
+                    "创建一个capture vision router实例，以调用Dynamsoft的图像处理 SDK。",
+                    "Create a capture vision router instance to call Dynamsoft's image processing SDKs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713508274570,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Start an interval to detect documents in the camera stream.",
+                    "建立一个interval，不停检测视频流中的文件。",
+                    "Start an interval to detect documents in the camera stream.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508321073,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Draw the overlay for detected documents using Camera Enhancer.",
+                    "使用Camera Enhancer高亮显示检测到的文件。",
+                    "Draw the overlay for detected documents using Camera Enhancer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508340944,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "A drawing layer is created for this and its style is updated to use a blue stroke and fill.",
+                    "创建一个绘图图层用来显示高亮，并更新其样式，使用蓝色作为描边和填充颜色。",
+                    " A drawing layer is created for this and its style is updated to use a blue stroke and fill.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508368083,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "If the document is detected five times and the detected quadrilaterals' IoUs (intersection over union) are over 90%, we can know that the document image is steady.",
+                    "如果文件被检测到五次，并且检测到的四边形的IoU都超过 90%，我们就可以确认文件图像是稳定的。",
+                    "If the document is detected five times and the detected quadrilaterals' IoUs (intersection over union) are over 90%, we can know that the document image is steady.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508457146,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Then, we can capture a frame and close the camera.",
+                    "然后，我们可以捕捉一帧画面并关闭摄像头。",
+                    " Then, we can capture a frame and close the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508408385,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Helper functions to calculate the IoU:",
+                    "计算IoU的辅助函数：",
+                    "Helper functions to calculate the IoU:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508413328,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Run perspective transformation to get a normalized document image based on the detection result and append it to the document viewer.",
+                    "运行透视变换，根据检测结果获得裁剪过的文件图像，并将其添加到文件查看器中。",
+                    "Run perspective transformation to get a normalized document image based on the detection result and append it to the document viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508445170,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Barcode Reading",
+                    "条码读取",
+                    "Barcode Reading",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887333381,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Next, after the document image is captrued, we can process it to extract its info.",
+                    "接下来，在捕获文件图像后，我们可以对其进行处理，提取其中的信息。",
+                    "Next, after the document image is captrued, we can process it to extract its info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713508474930,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Let's use Dynamsoft Barcode Reader to read the PDF417 on driver's licenses.",
+                    "使用 Dynamsoft Barcode Reader来读取驾驶执照上的PDF417。",
+                    "Let's use Dynamsoft Barcode Reader to read the PDF417 on driver's licenses.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713508485154,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "It is straightforward with the following code:",
+                    "只需使用以下代码即可：",
+                    " It is straightforward with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887350012,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "MRZ Recognizing",
+                    "MRZ识别",
+                    "MRZ Recognizing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887356075,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Let's continue to use Dynamsoft Label Recognizer to recognize the MRZ on ID cards.",
+                    "让我们继续使用Dynamsoft Label Recognizer来识别身份证件上的MRZ。",
+                    "Let's continue to use Dynamsoft Label Recognizer to recognize the MRZ on ID cards.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887366004,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Update the runtime settings to recognize MRZ.",
+                    "更新运行时设置以识别 MRZ。",
+                    "Update the runtime settings to recognize MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887368507,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "Call Dynamsoft Label Recognizer to recognize the MRZ.",
+                    "调用Dynamsoft Label Recognizer识别MRZ。",
+                    "Call Dynamsoft Label Recognizer to recognize the MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887384925,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "Parsing",
+                    "解析",
+                    "Parsing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887387107,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "After getting the barcode and MRZ results, we can use Dynamsoft Code Parser to parse the results.",
+                    "获得条码和MRZ结果后，我们可以使用Dynamsoft Code Parser来解析结果。",
+                    "After getting the barcode and MRZ results, we can use Dynamsoft Code Parser to parse the results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887400861,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "Load specifications.",
+                    "加载规格文件。",
+                    "Load specifications.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887408042,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Create an instance of code parser.",
+                    "创建一个Code Parser实例",
+                    "Create an instance of code parser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887415795,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Parse the barcode results.",
+                    "解析条形码结果。",
+                    "Parse the barcode results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887417786,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Parse the OCR results.",
+                    "解析OCR结果。",
+                    "Parse the OCR results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887422779,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "Display the results as tables in a modal.",
+                    "在模态框中以表格形式显示结果。",
+                    "Display the results as tables in a modal.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887436217,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "You can find the source code of the demo in the following repo:",
+                    "可以在以下软件仓库中找到该demo的源代码：",
+                    "You can find the source code of the demo in the following repo: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/scan-id-card-via-camera-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887447681,
+                        "id": "tu62"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
