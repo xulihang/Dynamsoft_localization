@@ -1,0 +1,404 @@
+{
+    "filename": "duplicate-document-image-detection.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Detect Duplicate Document Images",
+                    "如何检测重复的文档图像",
+                    "How to Detect Duplicate Document Images",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713924813655,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-04-23 16:35:53 +0800",
+                    "",
+                    "2024-04-23 16:35:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-04-23 16:35:53 +0800",
+                    "",
+                    "2024-04-23 16:35:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Image Processing",
+                    "",
+                    "Image Processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to use JavaScript to detect duplicate document images.",
+                    "本文讨论了如何使用JavaScript来检测重复的文档图像。",
+                    "The article talks about how to use JavaScript to detect duplicate document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713924832773,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/04\/duplication\/table.jpg",
+                    "",
+                    ".\/img\/2024\/04\/duplication\/table.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "When digitizing documents, we may accidentally scan a document image twice.",
+                    "在将文档数字化时，我们可能会不小心重复扫描文档图像。",
+                    "When digitizing documents, we may accidentally scan a document image twice.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713924869592,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Finding the duplicate images manually is painstaking.",
+                    "手动查找重复图像是一项麻烦的事情。",
+                    " Finding the duplicate images manually is painstaking.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713924892367,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to use JavaScript to detect duplicate document images automatically.",
+                    "在本文中，我们将使用JavaScript自动检测重复的文档图像。",
+                    " In this article, we are going to use JavaScript to detect duplicate document images automatically.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713924895926,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "How to Calculate the Similarity between Two Images",
+                    "如何计算两张图像之间的相似度",
+                    "How to Calculate the Similarity between Two Images",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713924938312,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "We need to compare two images to check whether they share the same content.",
+                    "我们需要比较两张图片，计算相似度，以检查它们是否有相同的内容。",
+                    "We need to compare two images to check whether they share the same content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713924960975,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "There are many ways to calculate the similarity between two images.",
+                    "计算两张图像之间相似度的方法有很多。",
+                    "There are many ways to calculate the similarity between two images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713924932142,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Mainly, they can be divided into two categories.",
+                    "主要可分为两类。",
+                    " Mainly, they can be divided into two categories.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713924966662,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Calculate the diff of pixels (e.g. <g1>pixelmatch<\/g1>, <g2>MSE<\/g2>).",
+                    "计算像素差异（例如<g1>pixelmatch<\/g1>、<g2>MSE<\/g2> ）。",
+                    "Calculate the diff of pixels (e.g. <g1>pixelmatch<\/g1>, <g2>MSE<\/g2>).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713924981454,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Extract features and check whether the features match (e.g. <g1>SIFT<\/g1>, <g2>Convolutional Neural Network<\/g2>).",
+                    "提取特征并检查特征是否匹配（例如，<g1>SIFT<\/g1>、<g2>卷积神经网络<\/g2>）。",
+                    "Extract features and check whether the features match (e.g. <g1>SIFT<\/g1>, <g2>Convolutional Neural Network<\/g2>).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713924995803,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "In this article, we are going to use the most obvious feature of document images: text.",
+                    "在本文中，我们将使用文档图像最明显的特征：文本。",
+                    "In this article, we are going to use the most obvious feature of document images: text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713925011358,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "We are going to use OCR to extract the text of the images and use Levenshtein distance to calculate the similarity.",
+                    "我们将使用OCR提取图像的文本，并使用编辑距离来计算相似度。",
+                    " We are going to use OCR to extract the text of the images and use Levenshtein distance to calculate the similarity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713925025527,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "JavaScript Implementation",
+                    "",
+                    "JavaScript Implementation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Here are the key code snippets to do this in JavaScript.",
+                    "以下是执行此操作的关键的JavaScript代码段。",
+                    "Here are the key code snippets to do this in JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713925051152,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Extract the text using <g1>tesseract<\/g1>.",
+                    "使用<g1>tesseract<\/g1>提取文本。",
+                    "Extract the text using <g1>tesseract<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713925057821,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Store the text line results and filter out small and low-confidence lines.",
+                    "存储文本行结果，过滤掉小的和可信度低的文本行。",
+                    " Store the text line results and filter out small and low-confidence lines.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713925067278,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Calculate the text similarity of two pieces of text.",
+                    "计算两段文本的相似度。",
+                    "Calculate the text similarity of two pieces of text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713925081853,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Iterate all the scanned images and find the duplicate ones.",
+                    "遍历所有扫描图像，找出重复的图像。",
+                    "Iterate all the scanned images and find the duplicate ones.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713925086158,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Online Demo",
+                    "在线demo",
+                    "Online Demo",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "You can visit the <g1>online demo<\/g1> to have a try.",
+                    "可以访问<g1>在线演示<\/g1>进行试用。",
+                    "You can visit the <g1>online demo<\/g1> to have a try.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710999485567,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "The demo can crop document images using <g2>Dynamsoft Document Normalizer<\/g2> to increase the efficiency and accuracy of OCR.",
+                    "该演示可使用<g2>Dynamsoft Document Normalizer<\/g2>裁剪文档图像，以提高OCR的效率和准确性。",
+                    " The demo can crop document images using <g2>Dynamsoft Document Normalizer<\/g2> to increase the efficiency and accuracy of OCR.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713925115079,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "<x1\/>demo screenshot<x2\/>",
+                    "<x1\/>演示截图<x2\/>",
+                    "<x1\/>demo screenshot<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1713925120094,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Get the source code of the library to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the library to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/duplicate-document-image-detection.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu17"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

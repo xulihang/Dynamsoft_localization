@@ -1,0 +1,974 @@
+{
+    "filename": "take-a-photo-with-voice-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Take a Photo with Voice in JavaScript",
+                    "Web端实现声控拍照",
+                    "How to Take a Photo with Voice in JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715154740775,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-05-07 17:03:53 +0800",
+                    "",
+                    "2024-05-07 17:03:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-05-07 17:03:53 +0800",
+                    "",
+                    "2024-05-07 17:03:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to detect voice activity and take a photo in a web app.",
+                    "本文介绍了如何在Web应用中检测语音活动（Voice Activity Detection）并拍照。",
+                    "The article talks about how to detect voice activity and take a photo in a web app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715154888879,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "A document scanning web demo is made with Dynamsoft's Mobile Web Capture solution.",
+                    "使用Dynamsoft的Mobile Web Capture方案制作了一个文档扫描demo应用。",
+                    " A document scanning web demo is made with Dynamsoft's Mobile Web Capture solution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715154890263,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/05\/voice\/wave.jpg",
+                    "",
+                    ".\/img\/2024\/05\/voice\/wave.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "When we are holding our phone to take a photo, the image may get blurred after we press the shutter button.",
+                    "我们拿着手机拍照时，因为按下快门键造成手机抖动，拍的图片可能比较模糊。",
+                    "When we are holding our phone to take a photo, the image may get blurred after we press the shutter button.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715154973047,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "There are other ways to trigger the capturing with the phone steady, like using an earphone's volume button, detecting smile and detecting voice activity.",
+                    "有一些拍照触发方式可以避免这个问题，例如使用耳机的音量按钮、检测微笑和检测语音活动。",
+                    " There are other ways to trigger the capturing with the phone steady, like using an earphone's volume button, detecting smile and detecting voice activity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155054977,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about how to take a photo with voice.",
+                    "在本文中，我们将讨论如何使用声音来触发拍照。",
+                    "In this article, we are going to talk about how to take a photo with voice.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155077210,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "We will build a web app for demonstration.",
+                    "我们将构建一个Web应用用于演示。",
+                    " We will build a web app for demonstration.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155105807,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "The following APIs are used:",
+                    "会使用以下API ：",
+                    "The following APIs are used:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155097713,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<g1>getUserMedia<\/g1> to access the camera and the microphone",
+                    "<g1>getUserMedia<\/g1>：访问摄像头和麦克风",
+                    "<g1>getUserMedia<\/g1> to access the camera and the microphone",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155117434,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<g1>Web Audio API<\/g1> to analyse the audio from the microphone",
+                    "<g1>Web Audio API<\/g1>：分析来自麦克风的音频",
+                    "<g1>Web Audio API<\/g1> to analyse the audio from the microphone",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155131145,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Online demos:",
+                    "在线demo：",
+                    "Online demos:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721233965,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<g1>Demo 1<\/g1>.",
+                    "<g1>Demo 1<\/g1>。",
+                    "<g1>Demo 1<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155164975,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "A basic demo which displays the audio graph and the pitch.",
+                    "一个显示音频图表和音高的简单的demo。",
+                    " A basic demo which displays the audio graph and the pitch.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155160567,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "<g1>Demo 2<\/g1>.",
+                    "<g1>Demo 2<\/g1>。",
+                    "<g1>Demo 2<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155170600,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "A document scanning demo based on Dynamsoft's <g2>Mobile Web Capture<\/g2> solution.",
+                    "基于Dynamsoft的<g2>Mobile Web Capture<\/g2>解决方案的文档扫描demo。",
+                    " A document scanning demo based on Dynamsoft's <g2>Mobile Web Capture<\/g2> solution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155188487,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Video of demo 2:",
+                    "Demo 2的视频：",
+                    "Video of demo 2:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155201343,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Build a Web App to Take a Photo with Voice",
+                    "编写支持声控拍照的Web应用",
+                    "Build a Web App to Take a Photo with Voice",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155227010,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Let's do this in steps.",
+                    "下面是分步实现过程。",
+                    "Let's do this in steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050804494,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following content:",
+                    "创建一个包含以下内容的新HTML文件：",
+                    "Create a new HTML file with the following content:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1704765701678,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "It can select which camera, which resolution and which microphone to use.",
+                    "它可以选择要使用的摄像头、分辨率和麦克风。",
+                    "It can select which camera, which resolution and which microphone to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155239261,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "It can draw the audio graph on a canvas and detect its pitch.",
+                    "它可以在canvas上绘制音频图形并检测其音高。",
+                    " It can draw the audio graph on a canvas and detect its pitch.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155246177,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "If the pitch is over a threshold, take a photo.",
+                    "如果音高超过阈值，进行拍照操作。",
+                    " If the pitch is over a threshold, take a photo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155266729,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Screenshot:",
+                    "屏幕截图：",
+                    "Screenshot:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581565878,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "<x1\/>UI<x2\/>",
+                    "<x1\/>UI<x2\/>",
+                    "<x1\/>UI<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155272606,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Request Permissions",
+                    "请求权限",
+                    "Request Permissions",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155276472,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Request camera permission:",
+                    "请求摄像头权限：",
+                    "Request camera permission:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155290569,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Request microphone permission:",
+                    "请求麦克风权限：",
+                    "Request microphone permission:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155281751,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "List Devices",
+                    "列出设备",
+                    "List Devices",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155284149,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "List cameras:",
+                    "列出摄像头：",
+                    "List cameras:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155286941,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "List microphones:",
+                    "列出麦克风：",
+                    "List microphones:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155294302,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Open the Camera and the Microphone",
+                    "打开摄像头和麦克风",
+                    "Open the Camera and the Microphone",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155297037,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Open the camera and the microphone with the following code:",
+                    "使用以下代码打开摄像头和麦克风：",
+                    "Open the camera and the microphone with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155300879,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "We can stop them with the following code:",
+                    "我们可以使用以下代码关闭它们：",
+                    "We can stop them with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155307243,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Detect Pitch",
+                    "检测音高",
+                    "Detect Pitch",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155309030,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Next, let's use the Web Audio API to detect the pitch to know if there is a voice activity.",
+                    "接下来，让我们使用Web Audio API来检测音高，以确定是否存在语音活动。",
+                    "Next, let's use the Web Audio API to detect the pitch to know if there is a voice activity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155314296,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Create an analyser.",
+                    "创建analyser示例。",
+                    "Create an analyser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155337192,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Connect the audio to the analyser.",
+                    "将音频连接到analyser。",
+                    "Connect the audio to the analyser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155339031,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "We can visualize the audio by drawing its graph on a canvas.",
+                    "我们可以在canvas上绘制图像来可视化音频。",
+                    "We can visualize the audio by drawing its graph on a canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155359937,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "We can detect the pitch in the meantime of drawing the graph.",
+                    "绘制图像的同时，可以检测音高。",
+                    "We can detect the pitch in the meantime of drawing the graph.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155372026,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "The result is made smooth by calculating the similarity of consecutive values.",
+                    "计算连续检测到的音高值的相似度，让结果更平滑。",
+                    " The result is made smooth by calculating the similarity of consecutive values.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155409641,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Here, we are using the following function to get the pitch from the audio data using <g1>autocorrelation<\/g1>.",
+                    "在这里，我们使用以下函数，通过<g1>自相关<\/g1>从音频数据获取音高。",
+                    "Here, we are using the following function to get the pitch from the audio data using <g1>autocorrelation<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155428096,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Take a Photo after the Voice is Detected",
+                    "检测到声音后拍照",
+                    "Take a Photo after the Voice is Detected",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155432782,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "If we successfully detect the pitch of our voice, take a photo.",
+                    "如果我们成功检测到声音，进行拍照。",
+                    "If we successfully detect the pitch of our voice, take a photo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155443617,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Integrate the Voice Detection Function to a Document Scanning App",
+                    "将声音检测功能集成到文档扫描应用",
+                    "Integrate the Voice Detection Function to a Document Scanning App",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155490881,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Next, let's integrate the voice detection function into a document scanning app using Mobile Web Capture.",
+                    "接下来，让我们使用Mobile Web Capture编写一个文档扫描Web应用，并集成声音检测功能。",
+                    "Next, let's integrate the voice detection function into a document scanning app using Mobile Web Capture.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155482433,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Build a Web Document Scanning App",
+                    "构建文档扫描Web应用",
+                    "Build a Web Document Scanning App",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155521440,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Create a new HTML file.",
+                    "创建新的HTML文件。",
+                    "Create a new HTML file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155523918,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Similar to the previous file, it can select which camera, which microphone and which resolution to use.",
+                    "与上一个文件类似，它可以选择要使用的摄像头、麦克风和分辨率。",
+                    "Similar to the previous file, it can select which camera, which microphone and which resolution to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155529527,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Include the libraries of Mobile Web Capture in the head.",
+                    "在头部包括Mobile Web Capture的库。",
+                    "Include the libraries of Mobile Web Capture in the head.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155543919,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Initialize the core libraries with a license.",
+                    "使用许可证初始化核心的库。",
+                    "Initialize the core libraries with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155553095,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "You can apply for your license <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请许可证。",
+                    " You can apply for your license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155561745,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Use Dynamsoft Document Normalizer as the document detection handler for Dynamsoft Document Viewer (Mobile Web Capture is based on the two products).",
+                    "使用Dynamsoft Document Normalizer作为Dynamsoft Document Viewer的文档检测处理程序（Mobile Web Capture基于这两个产品）。",
+                    "Use Dynamsoft Document Normalizer as the document detection handler for Dynamsoft Document Viewer (Mobile Web Capture is based on the two products).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155571041,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Use the default image filter used in the image editor.",
+                    "使用图像编辑组件默认的图像滤镜。",
+                    "Use the default image filter used in the image editor.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155604336,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Create instances of the three viewers:",
+                    "创建三个组件的实例：",
+                    "Create instances of the three viewers:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155612944,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "<g1>Capture Viewer<\/g1> which opens the camera and scans a document, <g2>Perspective Viewer<\/g2> which detects and modifies the document boundaries and <g3>Edit Viewer<\/g3> which allows editing and viewing the scanned documents.",
+                    "<g1>Capture Viewer<\/g1> ，用于打开相机并扫描文档；<g2>Perspective Viewer<\/g2>，用于检测和修改文档边界；<g3>Edit Viewer<\/g3> ，用于编辑和查看扫描的文档。",
+                    " <g1>Capture Viewer<\/g1> which opens the camera and scans a document, <g2>Perspective Viewer<\/g2> which detects and modifies the document boundaries and <g3>Edit Viewer<\/g3> which allows editing and viewing the scanned documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155656616,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "We need to configure their UIs and then create instances.",
+                    "我们需要配置他们的UI ，然后创建实例。",
+                    " We need to configure their UIs and then create instances.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155673309,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Initialize Capture Viewer.",
+                    "初始化Capture Viewer。",
+                    "Initialize Capture Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155677285,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Initialize Perspective Viewer.",
+                    "初始化Perspective Viewer。",
+                    "Initialize Perspective Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155682769,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Initialize Edit Viewer.",
+                    "初始化Edit Viewer。",
+                    "Initialize Edit Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155688696,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Define functions to make the three viewers work together.",
+                    "定义函数，使三个组件协同工作。",
+                    "Define functions to make the three viewers work together.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155695502,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Start scanning by starting Mobile Web Capture's Capture Viewer.",
+                    "启动Mobile Web Capture的Capture Viewer开始扫描。",
+                    "Start scanning by starting Mobile Web Capture's Capture Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155712453,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Use Voice Detection to Take a Photo",
+                    "使用语音检测拍照",
+                    "Use Voice Detection to Take a Photo",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155715037,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "In Capture Viewer's UI config, add a voice icon to the header.",
+                    "在Capture Viewer的UI配置中，将语音图标添加到上方的工具栏。",
+                    "In Capture Viewer's UI config, add a voice icon to the header.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155735198,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "The style of the icon:",
+                    "图标的样式：",
+                    "The style of the icon:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155737367,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "Register the event for the voice icon button.",
+                    "为语音图标按钮注册事件。",
+                    "Register the event for the voice icon button.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155739686,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "Start an interval to detect the pitch if it is enabled.",
+                    "如果语音检测被启用，创建一个interval以检测音高。",
+                    "Start an interval to detect the pitch if it is enabled.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155757504,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "The detection code is the same with the code in the previous part.",
+                    "检测代码与上一部分中的代码相同。",
+                    " The detection code is the same with the code in the previous part.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155761142,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "Use Capture Viewer to take a photo.",
+                    "使用Capture Viewer拍摄照片。",
+                    "Use Capture Viewer to take a photo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155771727,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "Limitations",
+                    "局限性",
+                    "Limitations",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155776286,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Only pitch is calculated for voice activity detection.",
+                    "我们只通过计算音高来检测语音活动。",
+                    "Only pitch is calculated for voice activity detection.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155804574,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "It may not work in a noisy environment.",
+                    "它可能无法在嘈杂的环境中工作。",
+                    " It may not work in a noisy environment.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155810517,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "The detection can be improved using the Web Speech API to recognize the words we speak so that we can use voice commands like \"take photo\" to trigger the photo taking.",
+                    "可以使用Web Speech API来完善这一个功能，比如它可以识别我们所说的话，以便我们使用“拍照”等语音命令来触发拍照。",
+                    " The detection can be improved using the Web Speech API to recognize the words we speak so that we can use voice commands like \"take photo\" to trigger the photo taking.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155841736,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "However, the current way is language-agnostic, which may be an advantage over speech recognition.",
+                    "不过，目前的方法与语言无关，也是一个优点。",
+                    " However, the current way is language-agnostic, which may be an advantage over speech recognition.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715155868185,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Get the source code of the demos to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demos to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/take-a-photo-with-voice-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu59"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
