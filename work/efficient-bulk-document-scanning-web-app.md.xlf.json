@@ -1,0 +1,986 @@
+{
+    "filename": "efficient-bulk-document-scanning-web-app.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Efficient Bulk Document Scanning in a Web App",
+                    "前端应用中实现快速批量文档扫描",
+                    "Efficient Bulk Document Scanning in a Web App",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715843393614,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-05-15 09:34:53 +0800",
+                    "",
+                    "2024-05-15 09:34:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-05-15 09:34:53 +0800",
+                    "",
+                    "2024-05-15 09:34:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Mobile Web Capture",
+                    "",
+                    "Mobile Web Capture",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to perform bulk document scanning efficiently in a web app using a physical document scanner or a camera.",
+                    "文章分享了如何在前端应用中使用文档扫描仪或摄像头实现快速批量文档扫描。",
+                    "The article shares how to perform bulk document scanning efficiently in a web app using a physical document scanner or a camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715843467566,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/05\/bulk-document-scanning\/bulk-document-scanning.jpg",
+                    "",
+                    ".\/img\/2024\/05\/bulk-document-scanning\/bulk-document-scanning.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Bulk document scanning, also mass document scanning or batch document scanning, is a process of converting a large number of physical documents into digital files.",
+                    "批量文档扫描是将大量纸质文档转换为数字文件的一个过程。",
+                    "Bulk document scanning, also mass document scanning or batch document scanning, is a process of converting a large number of physical documents into digital files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715843514102,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "There are many applications of bulk document scanning and here are some of them:",
+                    "批量文档扫描有许多应用场景，以下是其中的一些：",
+                    "There are many applications of bulk document scanning and here are some of them:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715843527318,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Schools.",
+                    "学校。",
+                    "Schools.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715843532035,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "In schools, pieces of examination paper have to be scanned for online management and automatic data entry.",
+                    "老师经常需要批量扫描试卷来自动录入成绩。",
+                    " In schools, pieces of examination paper have to be scanned for online management and automatic data entry.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715844499148,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Publishing House.",
+                    "出版社。",
+                    "Publishing House.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715844524051,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Book editors have to scan their manuscripts to communicate with colleagues like graphic designers.",
+                    "图书编辑需要扫描稿件，与美术编辑、设计师等同事沟通。",
+                    " Book editors have to scan their manuscripts to communicate with colleagues like graphic designers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715844704869,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Hospitals.",
+                    "医院。",
+                    "Hospitals.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715844586740,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Medical records have to be scanned to track patients.",
+                    "医院需要扫描医疗记录，记录患者信息。",
+                    " Medical records have to be scanned to track patients.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715844620485,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Bulk document scanning can be done using a physical document scanner or a device with a camera.",
+                    "批量文档扫描可以使用文档扫描仪或摄像头设备完成。",
+                    "Bulk document scanning can be done using a physical document scanner or a device with a camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715844719950,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Physical document scanners can scan a large number of document pages efficiently in one go with their auto document feeder and duplex scan features, while camera devices are more versatile as they can scan all kinds of documents, like bound books.",
+                    "文档扫描仪具有自动进纸和双面扫描功能，可以一次性高效地扫描大量文档页面。而摄像头设备则更加灵活，可以扫描的文档类型更多，如装订好的书籍。",
+                    "Physical document scanners can scan a large number of document pages efficiently in one go with their auto document feeder and duplex scan features, while camera devices are more versatile as they can scan all kinds of documents, like bound books.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715844822699,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Epson Workforce ES-400 II which can scan 50 pages in one go in 85 seconds.",
+                    "Epson Workforce ES-400 II可在85秒内一次性扫描50页文档。",
+                    "Epson Workforce ES-400 II which can scan 50 pages in one go in 85 seconds.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715844849220,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<x1\/>Epson Document Scanner<x2\/>",
+                    "<x1\/>Epson文档扫描仪<x2\/>",
+                    "<x1\/>Epson Document Scanner<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715844853914,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "A scanning equipment which uses a mobile phone for document scanning:",
+                    "方便用手机进行扫描的支架：",
+                    "A scanning equipment which uses a mobile phone for document scanning:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715844968933,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<x1\/>Phone Scanner Bin<x2\/>",
+                    "<x1\/>手机扫描支架<x2\/>",
+                    "<x1\/>Phone Scanner Bin<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715844976571,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a web demo to use <g1>Dynamic Web TWAIN<\/g1> to access physical document scanners and a web demo to use cameras for scanning using <g2>Dynamsoft Document Normalizer<\/g2> for document border detection and <g3>Dynamsoft Document Viewer<\/g3> to control the workflow.",
+                    "在本文中，我们将编写两个前端应用。一个使用<g1>Dynamic Web TWAIN<\/g1>控制文档扫描仪，一个使用摄像头进行扫描，使用<g2>Dynamsoft Document Normalizer<\/g2>检测文档边界，并使用<g3>Dynamsoft Document Viewer<\/g3>控制工作流。",
+                    "In this article, we are going to build a web demo to use <g1>Dynamic Web TWAIN<\/g1> to access physical document scanners and a web demo to use cameras for scanning using <g2>Dynamsoft Document Normalizer<\/g2> for document border detection and <g3>Dynamsoft Document Viewer<\/g3> to control the workflow.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845058788,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Online demos:",
+                    "在线demo：",
+                    "Online demos:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721233965,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Scan via physical document scanners",
+                    "通过扫描仪扫描文档",
+                    "<g1>Scan via physical document scanners<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715845095894,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Scan via cameras",
+                    "通过摄像头扫描文档",
+                    "<g1>Scan via cameras<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845099133,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Scan via Physical Document Scanners",
+                    "通过扫描仪扫描文档",
+                    "Scan via Physical Document Scanners",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715845095894,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Let's do this in steps.",
+                    "下面是分步实现过程。",
+                    "Let's do this in steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050804494,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Include the library of Dynamic Web TWAIN in the head.",
+                    "在head引入Dynamic Web TWAIN的库。",
+                    "Include the library of Dynamic Web TWAIN in the head.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845128091,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Initialize an instance of Dynamic Web TWAIN and bind it to a viewer.",
+                    "初始化一个Web TWAIN的实例并将其控件绑定到一个容器。",
+                    "Initialize an instance of Dynamic Web TWAIN and bind it to a viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715845154262,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "You can apply for its license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请其许可证。",
+                    " You can apply for its license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557083386,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "List connected scanners.",
+                    "列出连接的扫描仪。",
+                    "List connected scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845177137,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Scan documents using the selected scanner.",
+                    "使用所选扫描仪扫描文档。",
+                    "Scan documents using the selected scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845184602,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "It will bring up the scanner's configuration UI to perform a scanning.",
+                    "它将显示扫描仪的配置界面以执行扫描。",
+                    " It will bring up the scanner's configuration UI to perform a scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845196964,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Screenshot:",
+                    "屏幕截图：",
+                    "Screenshot:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581565878,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "<x1\/>Scanner UI<x2\/>",
+                    "<x1\/>扫描仪UI<x2\/>",
+                    "<x1\/>Scanner UI<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845207258,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "We can configure the scanner to optimize its performance for bulk document scanning.",
+                    "对扫描做些配置以优化批量文档扫描的性能。",
+                    "We can configure the scanner to optimize its performance for bulk document scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845225910,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "There are several settings we can do:",
+                    "我们可以做以下配置：",
+                    " There are several settings we can do:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845242021,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Enable Auto Document Feeder.",
+                    "启用自动进纸（ADF）。",
+                    "Enable Auto Document Feeder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845276468,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Enable duplex scanning if needed.",
+                    "如果文档是双面的，启用双面扫描。",
+                    "Enable duplex scanning if needed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845288076,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Choose a resolution that makes the scanning quality and speed in balance.",
+                    "选择合适的分辨率，平衡扫描质量和速度。",
+                    "Choose a resolution that makes the scanning quality and speed in balance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845321524,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Choose a suitable color mode to optimize the scanned image's size.",
+                    "选择合适的色彩模式，优化扫描图像的文件大小。",
+                    "Choose a suitable color mode to optimize the scanned image's size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845457572,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Apart from using the scanner's UI for configuration, we can also directly configure the scanning behavior via code using TWAIN's capabilities.",
+                    "除了使用扫描仪自身的界面进行配置外，我们还可以使用TWAIN接口，通过代码直接配置扫描行为。",
+                    "Apart from using the scanner's UI for configuration, we can also directly configure the scanning behavior via code using TWAIN's capabilities.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845486347,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Enable Auto Document Feeder, duplex scanning and set the resolution and pixel type via code:",
+                    "通过代码启用自动进纸、双面扫描，并设置分辨率和像素类型：",
+                    "Enable Auto Document Feeder, duplex scanning and set the resolution and pixel type via code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845537035,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Separate documents using barcode or patch code.",
+                    "使用条码或PatchCode分隔文档。",
+                    "Separate documents using barcode or patch code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845569524,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "You can check out this blog to learn more:",
+                    "可以查看此博客以了解更多信息：",
+                    " You can check out this blog to learn more:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845578724,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Batch Document Scanning with the Aid of Patch Code",
+                    "使用PatchCode辅助批量文档扫描",
+                    " <g1>Batch Document Scanning with the Aid of Patch Code<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715845596171,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Scan via Cameras",
+                    "通过摄像头扫描文档",
+                    "Scan via Cameras",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715845099133,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Next, let's build a web app to scan documents via cameras.",
+                    "接下来，让我们编写一个通过摄像头扫描文档的网页应用。",
+                    "Next, let's build a web app to scan documents via cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715846260731,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Include the libraries from Dynamsoft:",
+                    "在head引入Dynamsoft的库。",
+                    "Include the libraries from Dynamsoft:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715846277130,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Request camera permission:",
+                    "请求摄像头权限：",
+                    "Request camera permission:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155290569,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "List cameras:",
+                    "列出摄像头：",
+                    "List cameras:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155286941,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Document Viewer and Dynamsoft Document Normalizer (their grouped name is mobile web capture).",
+                    "初始化Dynamsoft Document Viewer和Dynamsoft Document Normalizer（两者一起用也叫Mobile Web Capture）。",
+                    "Initialize Dynamsoft Document Viewer and Dynamsoft Document Normalizer (their grouped name is mobile web capture).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715846482428,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "You can apply for your license <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请许可证。",
+                    " You can apply for your license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715846320371,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Use Dynamsoft Document Normalizer as the document detection handler for Dynamsoft Document Viewer (Mobile Web Capture is based on the two products).",
+                    "使用Dynamsoft Document Normalizer作为Dynamsoft Document Viewer的文档检测处理程序。",
+                    "Use Dynamsoft Document Normalizer as the document detection handler for Dynamsoft Document Viewer (Mobile Web Capture is based on the two products).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715846467034,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Use the default image filter used in the image editor.",
+                    "使用图像编辑组件默认的图像滤镜。",
+                    "Use the default image filter used in the image editor.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155604336,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Create instances of the three viewers:",
+                    "创建三个组件的实例：",
+                    "Create instances of the three viewers:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155612944,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "<g1>Capture Viewer<\/g1> which opens the camera and scans a document, <g2>Perspective Viewer<\/g2> which detects and modifies the document boundaries and <g3>Edit Viewer<\/g3> which allows editing and viewing the scanned documents.",
+                    "<g1>Capture Viewer<\/g1> ，用于打开相机并扫描文档；<g2>Perspective Viewer<\/g2>，用于检测和修改文档边界；<g3>Edit Viewer<\/g3> ，用于编辑和查看扫描的文档。",
+                    " <g1>Capture Viewer<\/g1> which opens the camera and scans a document, <g2>Perspective Viewer<\/g2> which detects and modifies the document boundaries and <g3>Edit Viewer<\/g3> which allows editing and viewing the scanned documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155656616,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "We need to configure their UIs and then create instances.",
+                    "我们需要配置他们的UI ，然后创建实例。",
+                    " We need to configure their UIs and then create instances.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155673309,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Initialize Capture Viewer.",
+                    "初始化Capture Viewer。",
+                    "Initialize Capture Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155677285,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Initialize Perspective Viewer.",
+                    "初始化Perspective Viewer。",
+                    "Initialize Perspective Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155682769,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Initialize Edit Viewer.",
+                    "初始化Edit Viewer。",
+                    "Initialize Edit Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155688696,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Define functions to make the three viewers work together.",
+                    "定义函数，使三个组件协同工作。",
+                    "Define functions to make the three viewers work together.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155695502,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "Start scanning by starting Mobile Web Capture's Capture Viewer.",
+                    "启动Mobile Web Capture的Capture Viewer开始扫描。",
+                    "Start scanning by starting Mobile Web Capture's Capture Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715155712453,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "We can capture a photo and the documents will be automatically detected and cropped.",
+                    "拍摄一张照片，系统会自动检测并裁剪文档。",
+                    "We can capture a photo and the documents will be automatically detected and cropped.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715846543837,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "See the demo video:",
+                    "观看演示视频：",
+                    " See the demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715846547441,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "We can improve the workflow in the following aspects.",
+                    "我们可以从以下几个方面改进工作流程。",
+                    "We can improve the workflow in the following aspects.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715846554529,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "You can check out the previous blogs to learn more.",
+                    "可以查看以前的博客以了解更多信息。",
+                    " You can check out the previous blogs to learn more.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715846567739,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "Take a Photo with Voice",
+                    "声控拍照",
+                    "<g1>Take a Photo with Voice<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715846577083,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Duplicate Document Images Detection",
+                    "重复文档图像检测",
+                    "<g1>Duplicate Document Images Detection<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1715846581554,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Evaluate the Quality of Scanned Document Images",
+                    "评估扫描文档的图像质量",
+                    "<g1>Evaluate the Quality of Scanned Document Images<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715846589051,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "Get the source code of the demo to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demo to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/efficient-bulk-document-scanning-web-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu60"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
