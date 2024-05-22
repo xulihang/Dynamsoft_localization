@@ -1,0 +1,528 @@
+{
+    "filename": "camera-zoom-control-on-web.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Control Camera Zoom with JavaScript",
+                    "如何使用JavaScript控制摄像头变焦",
+                    "How to Control Camera Zoom with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716345382928,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-05-21 09:51:53 +0800",
+                    "",
+                    "2024-05-21 09:51:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-05-21 09:51:53 +0800",
+                    "",
+                    "2024-05-21 09:51:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Auto-Zoom and Web QR Code Scanner",
+                    "",
+                    "Auto-Zoom and Web QR Code Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf9_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf10_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Zoom",
+                    "",
+                    "Zoom",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to control camera zoom with JavaScript using getUserMedia in a web application.",
+                    "本文讨论了如何在Web应用程序中基于getUserMedia API使用JavaScript控制摄像头变焦。",
+                    "The article talks about how to control camera zoom with JavaScript using getUserMedia in a web application.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716345390328,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/05\/zoom\/cover.jpg",
+                    "",
+                    ".\/img\/2024\/05\/zoom\/cover.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Using the <g1>getUserMedia<\/g1> API, we can open cameras on the web with JavaScript.",
+                    "使用<g1>getUserMedia<\/g1> API ，我们可以使用JavaScript在Web应用中调用摄像头。",
+                    "Using the <g1>getUserMedia<\/g1> API, we can open cameras on the web with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716345714009,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Starting from Chrome 87, it is also possible to control the camera's <g2>pan<\/g2>, <g3>tilt<\/g3>, and <g4>zoom<\/g4>, giving more possibilities for making a camera web app.",
+                    "从Chrome 87开始，我们还可以控制摄像头的<g2>平移<\/g2>、<g3>倾斜<\/g3>和<g4>变焦<\/g4>（PTZ），从而为摄像头Web应用提供更多可能性。",
+                    " Starting from Chrome 87, it is also possible to control the camera's <g2>pan<\/g2>, <g3>tilt<\/g3>, and <g4>zoom<\/g4>, giving more possibilities for making a camera web app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716345897944,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about how to control camera zoom on the web.",
+                    "在本文中，我们将讨论如何在Web应用中控制摄像头变焦。",
+                    "In this article, we are going to talk about how to control camera zoom on the web.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716345889912,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "We will create a demo directly using <g1>getUserMedia<\/g1> and another demo using <g2>Dynamsoft Camera Enhancer<\/g2>.",
+                    "会编写两个demo，一个直接调用<g1>getUserMedia<\/g1>，一个使用<g2>Dynamsoft Camera Enhancer<\/g2>。",
+                    " We will create a demo directly using <g1>getUserMedia<\/g1> and another demo using <g2>Dynamsoft Camera Enhancer<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716345929433,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "The zoom control feature is only available on Android's Chrome or browsers with a Chrome kernel.",
+                    "变焦控制功能目前只能在Android上的Chrome浏览器或使用Chrome内核的浏览器上使用。",
+                    "The zoom control feature is only available on Android's Chrome or browsers with a Chrome kernel.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716345963936,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Dynamsoft Camera Enhancer enables zoom on browsers that do not have this feature using a simulated method.",
+                    "Dynamsoft Camera Enhancer在没有此功能的浏览器上，也能通过模拟的方式实现变焦效果。",
+                    " Dynamsoft Camera Enhancer enables zoom on browsers that do not have this feature using a simulated method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346004384,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "{% include series.html %}",
+                    "",
+                    "{% include series.html %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Control Camera Zoom in a Web App",
+                    "在Web应用中控制摄像头变焦",
+                    "Control Camera Zoom in a Web App",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346424896,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Let's do this in steps.",
+                    "下面是分步实现过程。",
+                    "Let's do this in steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050804494,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Open the Camera with getUserMedia",
+                    "使用getUserMedia打开摄像头",
+                    "Open the Camera with getUserMedia",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346020102,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Request camera permission.",
+                    "请求摄像头权限。",
+                    "Request camera permission.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716346041406,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "List cameras.",
+                    "列出摄像头。",
+                    "List cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716346038857,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Start the selected camera with the desired resolution.",
+                    "以所需的分辨率打开所选摄像头。",
+                    "Start the selected camera with the desired resolution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346054896,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Enable Camera Zoom",
+                    "启用变焦",
+                    "Enable Camera Zoom",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346065030,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "First, check whether the browser supports the zoom feature.",
+                    "首先，检查浏览器是否支持变焦功能。",
+                    "First, check whether the browser supports the zoom feature.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346094574,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Check whether the selected camera supports zoom.",
+                    "检查所选摄像头是否支持变焦。",
+                    "Check whether the selected camera supports zoom.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346083416,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "If it is supported, load the range of zoom.",
+                    "如果支持，加载变焦的范围。",
+                    " If it is supported, load the range of zoom.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346113079,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "An input is added to set the zoom of the camera.",
+                    "添加了一个input元素来设置摄像头的变焦。",
+                    "An input is added to set the zoom of the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346135848,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Set the zoom if the factor is updated.",
+                    "如果值改变，则应用变焦。",
+                    "Set the zoom if the factor is updated.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346194808,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Using Dynamsoft Camera Enhancer",
+                    "使用Dynamsoft Camera Enhancer",
+                    "Using Dynamsoft Camera Enhancer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346203945,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Dynamsoft Camera Enhancer is a library which makes it easier to control the camera and has features to enhance the camera.",
+                    "Dynamsoft Camera Enhancer是一个使调用摄像头更方便并加强摄像头功能的库。",
+                    "Dynamsoft Camera Enhancer is a library which makes it easier to control the camera and has features to enhance the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346317688,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "It is based on getUserMedia internally.",
+                    "内部基于getUserMedia API实现。",
+                    " It is based on getUserMedia internally.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346330048,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Here are the equivalent functions using Dynamsoft Camera Enhancer v4:",
+                    "以下是使用Dynamsoft Camera Enhancer v4的进行摄像头控制的相关函数：",
+                    "Here are the equivalent functions using Dynamsoft Camera Enhancer v4:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346349128,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "List the cameras.",
+                    "列出摄像头。",
+                    "List the cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716346038857,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Open the selected camera with the desired resolution.",
+                    "以期望的分辨率打开所选摄像头。",
+                    "Open the selected camera with the desired resolution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713508154555,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Get zoom range.",
+                    "获取变焦范围。",
+                    "Get zoom range.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346363789,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Set zoom.",
+                    "设置变焦。",
+                    "Set zoom.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346366638,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "An advantage of using Dynamsoft Camera Enhancer is that its zoom function supports all browsers.",
+                    "使用Dynamsoft Camera Enhancer的一个优点是其变焦功能支持所有浏览器。",
+                    "An advantage of using Dynamsoft Camera Enhancer is that its zoom function supports all browsers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346376030,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "If the browser does not support zoom natively, it will simulate the zoom behavior using CSS and WebGL.",
+                    "如果浏览器不支持原生变焦，它将使用CSS和WebGL模拟变焦行为。",
+                    " If the browser does not support zoom natively, it will simulate the zoom behavior using CSS and WebGL.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346391935,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Get the source code of the demos to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demos to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-zoom-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu27"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
