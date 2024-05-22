@@ -1,0 +1,535 @@
+{
+    "filename": "auto-zoom-web-qr-code-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Add Auto-Zoom to a Web QR Code Scanner",
+                    "给前端扫码应用添加自动变焦功能",
+                    "Add Auto-Zoom to a Web QR Code Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346544320,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-05-21 14:04:53 +0800",
+                    "",
+                    "2024-05-21 14:04:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-05-21 14:04:53 +0800",
+                    "",
+                    "2024-05-21 14:04:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Auto-Zoom and Web QR Code Scanner",
+                    "",
+                    "Auto-Zoom and Web QR Code Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf10_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Zoom",
+                    "",
+                    "Zoom",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to automatically zoom in to scan QR codes in a web application.",
+                    "本文介绍了如何在Web应用中控制摄像头自动变焦以扫描二维码。",
+                    "The article talks about how to automatically zoom in to scan QR codes in a web application.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347040464,
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/05\/zoom\/qr-code-scanner.jpg",
+                    "",
+                    ".\/img\/2024\/05\/zoom\/qr-code-scanner.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "In the <g1>previous article<\/g1>, we've talked about how to control camera zoom on the web.",
+                    "在<g1>上一篇文章<\/g1>中，我们谈到了如何在Web前端应用中控制摄像头变焦。",
+                    "In the <g1>previous article<\/g1>, we've talked about how to control camera zoom on the web.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347042639,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to add the feature to automatically zoom in to scan a tiny or distant QR code to a web QR code scanner.",
+                    "在本文中，我们将编写一个Web扫码应用，并添加自动控制摄像头变焦以扫描远处微小二维码的功能。",
+                    " In this article, we are going to add the feature to automatically zoom in to scan a tiny or distant QR code to a web QR code scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716346968536,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is used to read QR codes and detect whether there are QR codes in the camera preview.",
+                    "使用<g1>Dynamsoft Barcode Reader<\/g1>读取二维码，检测视频流中是否有二维码。",
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is used to read QR codes and detect whether there are QR codes in the camera preview.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347004224,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "{% include series.html %}",
+                    "",
+                    "{% include series.html %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "{% include cta.md %}",
+                    "",
+                    "{% include cta.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Build a Web QR Code Scanner",
+                    "编写一个Web扫码应用",
+                    "Build a Web QR Code Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716347022808,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "First, let's create a web QR code scanner.",
+                    "首先，让我们创建一个Web扫码应用。",
+                    "First, let's create a web QR code scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347031743,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Include libraries in the head.",
+                    "在head引入所需的库。",
+                    "Include libraries in the head.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716347076343,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Initialize the license to use Dynamsoft's SDKs.",
+                    "初始化许可证以使用Dynamsoft的SDK。",
+                    "Initialize the license to use Dynamsoft's SDKs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347082501,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以<g1>此处<\/g1>申请许可证。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712112882299,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Camera Enhancer for camera control.",
+                    "初始化用于控制摄像头的Dynamsoft Camera Enhancer。",
+                    "Initialize Dynamsoft Camera Enhancer for camera control.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347094105,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Initialize capture vision router to call Dynamsoft Barcode Reader.",
+                    "创建一个capture vision router实例，以调用Dynamsoft Barcode Reader。",
+                    "Initialize capture vision router to call Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716347108784,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Set the camera enhancer as the input of the capture vision router.",
+                    "将camera enhancer设置为capture vision router的输入源。",
+                    "Set the camera enhancer as the input of the capture vision router.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347129223,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "The capture vision router will try to get camera frames from it and read barcodes.",
+                    "capture vision router将尝试获取视频帧并读码。",
+                    " The capture vision router will try to get camera frames from it and read barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347149248,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "A filter is also set so that it will verify the results based on readings of multiple frames and avoid returning duplicate barcodes too quickly.",
+                    "此外，还设置了一个过滤器，以便根据多个帧的扫码结果进行验证以及避免过快返回重复的码值。",
+                    " A filter is also set so that it will verify the results based on readings of multiple frames and avoid returning duplicate barcodes too quickly.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347192976,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Start the selected camera and start capturing barcodes after the camera is opened.",
+                    "启动所选摄像头，并在摄像头打开后开始读码。",
+                    "Start the selected camera and start capturing barcodes after the camera is opened.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716347224383,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "The results will be displayed in a container.",
+                    "结果将显示在一个容器中。",
+                    "The results will be displayed in a container.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347254454,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Enable Auto-Zoom",
+                    "启用自动变焦",
+                    "Enable Auto-Zoom",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347262064,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "After the web QR code scanner is done, we can enable auto-zoom to improve the scanning of a tiny or distant QR code.",
+                    "Web扫码应用编写完成后，我们可以添加自动变焦功能，以改善微小或远距离二维码的扫描。",
+                    "After the web QR code scanner is done, we can enable auto-zoom to improve the scanning of a tiny or distant QR code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347287761,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "If there is a QR code in the camera preview that cannot be read, auto-zoom will be triggered.",
+                    "如果视频流中有无法读取的二维码，则触发自动变焦。",
+                    " If there is a QR code in the camera preview that cannot be read, auto-zoom will be triggered.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347315928,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "After zooming, if it cannot read QR codes in several seconds, it will return to the default zoom status.",
+                    "变焦后，如果无法在几秒钟内读取二维码，将返回默认缩放状态。",
+                    " After zooming, if it cannot read QR codes in several seconds, it will return to the default zoom status.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347321391,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "This feature is included in Dynamsoft Camera Enhancer.",
+                    "该功能包含在Dynamsoft Camera Enhancer中。",
+                    "This feature is included in Dynamsoft Camera Enhancer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347334264,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "We can enable it with the following code:",
+                    "我们可以使用以下代码启用它：",
+                    " We can enable it with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347337021,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "How Auto-Zoom Works",
+                    "自动变焦的工作原理",
+                    "How Auto-Zoom Works",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347342286,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "So how does auto-zoom work exactly?",
+                    "那么，自动变焦究竟是如何工作的呢？",
+                    "So how does auto-zoom work exactly?",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347347126,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "If a QR code's location is detected but is too small and cannot be read, we can trigger the camera zoom to get a better QR code image for reading.",
+                    "如果检测到二维码，但因为太小，无法读取，我们可以触发变焦，以获得更好的二维码图像进行读取。",
+                    "If a QR code's location is detected but is too small and cannot be read, we can trigger the camera zoom to get a better QR code image for reading.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347375024,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Dynamsoft Barcode Reader's intermediate result feature is used to get the unread QR code's location.",
+                    "Dynamsoft Barcode Reader的中间结果功能可以用于获取不能被解码，但能被定位到的二维码的位置。",
+                    " Dynamsoft Barcode Reader's intermediate result feature is used to get the unread QR code's location.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347430288,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Here is the code to get the location:",
+                    "以下是获取位置的代码：",
+                    "Here is the code to get the location:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347434766,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Then, we can calculate the zoom factor to maximize the QR code image in the camera preview.",
+                    "然后，我们可以计算变焦系数，以最大化视频流中的二维码图像。",
+                    "Then, we can calculate the zoom factor to maximize the QR code image in the camera preview.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1716347452503,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Get the source code of the demos to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demos to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/auto-zoom-web-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu25"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
