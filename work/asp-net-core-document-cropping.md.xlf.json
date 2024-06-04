@@ -1,0 +1,613 @@
+{
+    "filename": "asp-net-core-document-cropping.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build an ASP.NET App to Crop Document Images",
+                    "编写一个用于裁剪文档图像的ASP.NET应用",
+                    "How to Build an ASP.NET App to Crop Document Images",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717489968644,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-06-04 14:29:53 +0800",
+                    "",
+                    "2024-06-04 14:29:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-06-04 14:29:53 +0800",
+                    "",
+                    "2024-06-04 14:29:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Document Normalizer",
+                    "",
+                    "Document Normalizer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "ASP.NET",
+                    "",
+                    "ASP.NET",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    ".NET",
+                    "",
+                    ".NET",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Server",
+                    "",
+                    "Server",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "API",
+                    "",
+                    "API",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to build an ASP.NET Core app to crop document images.",
+                    "本文介绍了如何构建一个ASP.NET Core应用以裁剪文档图像。",
+                    "The article shares how to build an ASP.NET Core app to crop document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717489981579,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "The app provides a document scanning API which a front-end web app can utilize.",
+                    "该应用程序提供了一个前端Web应用程序可以使用的文档扫描API。",
+                    " The app provides a document scanning API which a front-end web app can utilize.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717489987137,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/06\/ASP-NET\/API-docs.jpg",
+                    "",
+                    ".\/img\/2024\/06\/ASP-NET\/API-docs.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.",
+                    "ASP.NET Core是一个跨平台、高性能、开源的框架，用于构建支持现代的互联网应用程序。",
+                    "ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490007506,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It is convenient to use it to build web APIs and web apps.",
+                    "用它来构建Web API或者Web应用程序都非常方便。",
+                    " It is convenient to use it to build web APIs and web apps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490037634,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going build an ASP.NET app to crop document images.",
+                    "在本文中，我们将构建一个ASP.NET应用来裁剪文档图像。",
+                    " In this article, we are going build an ASP.NET app to crop document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490041642,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It mainly provides the following API:",
+                    "主要提供以下API ：",
+                    "It mainly provides the following API:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490050537,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<g1>\/api\/document\/detect<\/g1>: upload an image and get the detected document boundaries",
+                    "<g1>\/api\/document\/detect<\/g1>：上传图像并获取检测到的文档边界",
+                    "<g1>\/api\/document\/detect<\/g1>: upload an image and get the detected document boundaries",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490054874,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<g1>\/api\/document\/crop<\/g1>: pass the document boundaries and crop the document image uploaded",
+                    "<g1>\/api\/document\/crop<\/g1>：依据提供的文档边界裁剪上传的文档图像",
+                    "<g1>\/api\/document\/crop<\/g1>: pass the document boundaries and crop the document image uploaded",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490078681,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<g1>\/api\/document\/detectAndCrop<\/g1>: upload an image and get the cropped document image's ID",
+                    "<g1>\/api\/document\/detectAndCrop<\/g1>：上传图像并获取裁剪后文档图像的ID",
+                    "<g1>\/api\/document\/detectAndCrop<\/g1>: upload an image and get the cropped document image's ID",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490090343,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "<g1>\/api\/document\/{ID}<\/g1>: get the uploaded image based on its ID",
+                    "<g1>\/api\/document\/{ID}<\/g1>：根据ID获取上传的图片",
+                    "<g1>\/api\/document\/{ID}<\/g1>: get the uploaded image based on its ID",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490096660,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<g1>\/api\/document\/cropped\/{ID}<\/g1>: get the cropped image based on its ID",
+                    "<g1>\/api\/document\/cropped\/{ID}<\/g1>：根据ID获取裁剪后的图像",
+                    "<g1>\/api\/document\/cropped\/{ID}<\/g1>: get the cropped image based on its ID",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490102091,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "A front-end is also written to use the API.",
+                    "还编写了一个前端界面来使用这些接口。",
+                    "A front-end is also written to use the API.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490118730,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<x1\/>Front-end screenshot<x2\/>",
+                    "<x1\/>前端截图<x2\/>",
+                    "<x1\/>Front-end screenshot<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490121969,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Create a new <g1>ASP.NET Core Web App<\/g1> project with Visual Studio.",
+                    "使用Visual Studio创建新的<g1>ASP.NET Core Web App<\/g1>项目。",
+                    "Create a new <g1>ASP.NET Core Web App<\/g1> project with Visual Studio.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490127994,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<x1\/>new project<x2\/>",
+                    "<x1\/>新项目<x2\/>",
+                    "<x1\/>new project<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1621927697786,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Install Dynamsoft Document Normalizer from nuget.",
+                    "从nuget安装Dynamsoft Document Normalizer。",
+                    "Install Dynamsoft Document Normalizer from nuget.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490138442,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "We are going to use it to detect document boundaries and get cropped document images.",
+                    "我们将使用它来检测文档边界并获取裁剪的文档图像。",
+                    " We are going to use it to detect document boundaries and get cropped document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490143457,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "License Initialization",
+                    "许可证初始化",
+                    "License Initialization",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490149002,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "In <g1>Program.cs<\/g1>, init the license for Dynamsoft Document Normalizer.",
+                    "在<g1>Program.cs<\/g1>中，初始化Dynamsoft Document Normalizer的许可证。",
+                    "In <g1>Program.cs<\/g1>, init the license for Dynamsoft Document Normalizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490151633,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "You can apply for your license <g2>here<\/g2>.",
+                    "可以在<g2>这里<\/g2>申请一个许可证。",
+                    " You can apply for your license <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490170835,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Implement the API",
+                    "实现API",
+                    "Implement the API",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490178883,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Add a new API controller named <g1>DocumentController.cs<\/g1> and create a capture vision router property to call Dynamsoft Document Normalizer.",
+                    "添加名为<g1>DocumentController.cs<\/g1>的API Controller，并创建一个Capture Vision Router属性以调用Dynamsoft Document Normalizer。",
+                    "Add a new API controller named <g1>DocumentController.cs<\/g1> and create a capture vision router property to call Dynamsoft Document Normalizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490228397,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "In <g1>Program.cs<\/g1>, map controllers.",
+                    "在<g1>Program.cs<\/g1>中，映射控制器。",
+                    "In <g1>Program.cs<\/g1>, map controllers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490231490,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Define related classes for requests.",
+                    "定义请求相关的类。",
+                    "Define related classes for requests.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490240957,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "<g1>Polygon<\/g1> and <g2>Point<\/g2> which are to represent the detected document boundaries.",
+                    "表示检测到的文档边界的多边形<g1>Polygon<\/g1>和点<g2>Point<\/g2>。",
+                    "<g1>Polygon<\/g1> and <g2>Point<\/g2> which are to represent the detected document boundaries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490270917,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "<g1>Document<\/g1> which is used to represent a document.",
+                    "用于表示的文档的<g1>Document<\/g1>类。",
+                    "<g1>Document<\/g1> which is used to represent a document.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490295412,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "It can contain the document boundaries, the base64-encoded image data, the ID used to store the image on the disk and the success status.",
+                    "它可以包含文档边界、base64编码的图像数据、用于在磁盘上存储图像的ID以及成功状态。",
+                    " It can contain the document boundaries, the base64-encoded image data, the ID used to store the image on the disk and the success status.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490297961,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Add a method to detect the document boundaries.",
+                    "添加检测文档边界的方法。",
+                    "Add a method to detect the document boundaries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490308100,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Add a method to crop the document image with a specified document boundary.",
+                    "添加根据指定的文档边界裁剪文档图像的方法。",
+                    "Add a method to crop the document image with a specified document boundary.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490317010,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Add a method to detect the document boundaries and crop the document images.",
+                    "添加检测文档边界和裁剪文档图像的方法。",
+                    "Add a method to detect the document boundaries and crop the document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490323138,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Add methods to get the uploaded and cropped images.",
+                    "添加获取上传的和裁剪的图像的方法。",
+                    "Add methods to get the uploaded and cropped images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490336510,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Have a Test",
+                    "进行测试",
+                    "Have a Test",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490339988,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "We can then write a web page to test the API using AJAX:",
+                    "然后，我们可以编写一个网页，使用AJAX测试API ：",
+                    "We can then write a web page to test the API using AJAX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490342676,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "You can find a more full-featured sample which can edit the detected polygon in the source code.",
+                    "可以在源码仓库里中找到一个功能更全面的示例，它可以编辑检测到的多边形。",
+                    "You can find a more full-featured sample which can edit the detected polygon in the source code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490359837,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Enable CORS",
+                    "启用CORS",
+                    "Enable CORS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490373865,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "If we need to make the API callable from a web app in a different origin, we have to enable CORS.",
+                    "如果需要跨域调用API ，需要启用CORS。",
+                    "If we need to make the API callable from a web app in a different origin, we have to enable CORS.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490389635,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Enable CORS in <g1>Program.cs<\/g1>.",
+                    "在<g1>Program.cs<\/g1>中启用CORS。",
+                    "Enable CORS in <g1>Program.cs<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490394426,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "If we need to access it via a private network, we also need to add the <g1>Access-Control-Allow-Private-Network<\/g1> header.",
+                    "如果我们需要通过局域网访问它，则还需要添加<g1>Access-Control-Allow-Private-Network<\/g1>的header。",
+                    "If we need to access it via a private network, we also need to add the <g1>Access-Control-Allow-Private-Network<\/g1> header.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490424569,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "The source code of the project is available here:",
+                    "该项目的源代码可在此处获得：",
+                    "The source code of the project is available here: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/server\/asp-net-core-document-cropping.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717490431226,
+                        "id": "tu35"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
