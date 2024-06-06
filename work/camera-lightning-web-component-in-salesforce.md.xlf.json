@@ -1,0 +1,792 @@
+{
+    "filename": "camera-lightning-web-component-in-salesforce.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a Lightning Web Component to Access Cameras in Salesforce",
+                    "如何编写一个Lightning Web Component在Salesforce中访问摄像头",
+                    "How to Build a Lightning Web Component to Access Cameras in Salesforce",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662239677,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-06-06 13:59:53 +0800",
+                    "",
+                    "2024-06-06 13:59:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-06-06 13:59:53 +0800",
+                    "",
+                    "2024-06-06 13:59:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Salesforce",
+                    "",
+                    "Salesforce",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to build a lightning web component to access cameras and scan documents.",
+                    "本文介绍了如何编写一个Lightning Web Component来在Salesforce中访问摄像头并扫描文档。",
+                    "The article shares how to build a lightning web component to access cameras and scan documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662630205,
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    "The document image can be cropped and uploaded to a server and added as a field to a lead.",
+                    "文档图像可以上传到服务器上并被裁剪，然后作为一个字段添加到线索中。",
+                    " The document image can be cropped and uploaded to a server and added as a field to a lead.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662662405,
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/06\/salesforce\/screenshot.jpg",
+                    "",
+                    ".\/img\/2024\/06\/salesforce\/screenshot.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "Salesforce is a famous CRM platform.",
+                    "Salesforce是一个著名的CRM平台。",
+                    "Salesforce is a famous CRM platform.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662672171,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can use it to manage our sales and customers.",
+                    "我们可以用它来管理我们的销售和客户。",
+                    " We can use it to manage our sales and customers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662675797,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Salesforce comes with great customizability.",
+                    "Salesforce具有强大的自定义功能。",
+                    "Salesforce comes with great customizability.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662751828,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "We can write apps to extend its features.",
+                    "我们可以编写应用来扩展其功能。",
+                    " We can write apps to extend its features.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662757573,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Its latest technology is the lightning web component, which helps us use modern web technologies to build apps.",
+                    "它的最新技术是Lightning Web Component。我们可以使用现代Web技术去构建应用。",
+                    " Its latest technology is the lightning web component, which helps us use modern web technologies to build apps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662785436,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to create a lightning web component to access the camera in Salesforce.",
+                    "在本文中，我们将编写一个Lightning Web Component来访问Salesforce中的摄像头。",
+                    "In this article, we are going to create a lightning web component to access the camera in Salesforce.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662819180,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Accessing cameras is the first step to capturing document images or information from barcodes and text.",
+                    "访问摄像头是捕获文档图像或从条形码和文本获取信息的第一步。",
+                    " Accessing cameras is the first step to capturing document images or information from barcodes and text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662877489,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "To illustrate how to access Salesforce's data, the component can upload an image to a server (written in a <g1>previous article<\/g1>), get the URL to the cropped document image, add the URL to a lead and display the document image.",
+                    "为了说明如何访问Salesforce的数据，这个组件还可以将图像上传到服务器（写在<g1>前一篇文章<\/g1>中） ，获取裁剪的文档图像的URL ，将URL添加到线索账户并显示文档图像。",
+                    "To illustrate how to access Salesforce's data, the component can upload an image to a server (written in a <g1>previous article<\/g1>), get the URL to the cropped document image, add the URL to a lead and display the document image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662907590,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "This is useful if we need to attach a user's ID card.",
+                    "如果我们需要附加身份证件图像，这一功能会很有用。",
+                    " This is useful if we need to attach a user's ID card.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662960860,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Environment Setup",
+                    "环境配置",
+                    "Environment Setup",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1625737295686,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Install Salesforce CLI.",
+                    "安装Salesforce CLI。",
+                    "Install Salesforce CLI.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662967587,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Install Visual Studio Code and extensions for Salesforce DX.",
+                    "安装Visual Studio Code和Salesforce DX扩展。",
+                    "Install Visual Studio Code and extensions for Salesforce DX.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662971163,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "You can find the detailed guide <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>找到详细的指南。",
+                    "You can find the detailed guide <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662978446,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "New Salesforce DX Project",
+                    "新建Salesforce DX项目",
+                    "New Salesforce DX Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717662981451,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Open Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Windows) or Cmd+Shift+P (macOS) and input SFDX to select the <g1>Create Project<\/g1> operation.",
+                    "打开Visual Studio Code，按Ctrl + Shift + P（ Windows ）或Cmd + Shift + P（ macOS ）打开命令面板，然后输入SFDX，选择<g1>Create Project<\/g1>操作。",
+                    "Open Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Windows) or Cmd+Shift+P (macOS) and input SFDX to select the <g1>Create Project<\/g1> operation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663014868,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<x1\/>new project<x2\/>",
+                    "<x1\/>新项目<x2\/>",
+                    "<x1\/>new project<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1621927697786,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Here, we use the standard option and use <g1>documentScanner<\/g1> as the name.",
+                    "在此，我们使用标准选项，并使用 <g1>documentScanner<\/g1> 作为名称。",
+                    "Here, we use the standard option and use <g1>documentScanner<\/g1> as the name.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663022771,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Use the Component in Salesforce",
+                    "在Salesforce中使用该组件",
+                    "Use the Component in Salesforce",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663036987,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Run <g1>SFDX:",
+                    "运行<g1>SFDX:",
+                    "Run <g1>SFDX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663051293,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Authorize an Org<\/g1> to log in to your Salesforce org.",
+                    "Authorize an Org<\/g1>登录到自己的Salesforce组织。",
+                    " Authorize an Org<\/g1> to log in to your Salesforce org.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663067146,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Edit <g1>documentScanner.js-meta.xml<\/g1> to make the following changes to make it available in lightning app builder.",
+                    "编辑<g1>documentScanner.js-meta.xml<\/g1>以进行以下更改，使其在Lightning应用生成器中可用。",
+                    "Edit <g1>documentScanner.js-meta.xml<\/g1> to make the following changes to make it available in lightning app builder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663071203,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Deploy the component to the org.",
+                    "将组件部署到组织。",
+                    "Deploy the component to the org.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663079075,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "<x1\/>deploy<x2\/>",
+                    "<x1\/>部署<x2\/>",
+                    "<x1\/>deploy<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663085451,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "In Salesforce, edit the page of lead and you can add the component to the page to test it.",
+                    "在Salesforce中，编辑Lead账户页面，可以将组件添加到页面进行测试。",
+                    "In Salesforce, edit the page of lead and you can add the component to the page to test it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663095021,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "<x1\/>settings page<x2\/>",
+                    "<x1\/>设置页面<x2\/>",
+                    "<x1\/>settings page<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663099604,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "<x1\/>edit page<x2\/>",
+                    "<x1\/>编辑页面<x2\/>",
+                    "<x1\/>edit page<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663102235,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Implement the Component",
+                    "实现组件",
+                    "Implement the Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663104755,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Next, let's implement the component.",
+                    "接下来，让我们来实现该组件。",
+                    "Next, let's implement the component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663109067,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Access the Camera",
+                    "访问摄像头",
+                    "Access the Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663112454,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Add a lightning card element with two lightning select elements for selecting the camera and the desired resolution in <g1>documentScanner.html<\/g1>.",
+                    "在<g1>documentScanner.html<\/g1>中添加一个lightning card元素和两个lightning select元素，用于选择摄像头和所需的分辨率。",
+                    "Add a lightning card element with two lightning select elements for selecting the camera and the desired resolution in <g1>documentScanner.html<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663160023,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Functions related to setting the resolution:",
+                    "与设置分辨率相关的功能：",
+                    "Functions related to setting the resolution:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663166659,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "In <g1>documentScanner.js<\/g1>, add <g2>connectedCallback<\/g2> which is called when the component is mounted.",
+                    "在<g1>documentScanner.js<\/g1>中，添加在组件挂载时会被调用的<g2>connectedCallback<\/g2>。",
+                    "In <g1>documentScanner.js<\/g1>, add <g2>connectedCallback<\/g2> which is called when the component is mounted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663186270,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Inside <g1>connectedCallback<\/g1>, request camera permission and list the cameras.",
+                    "在<g1>connectedCallback<\/g1>中，请求摄像头权限并列出可用的摄像头。",
+                    "Inside <g1>connectedCallback<\/g1>, request camera permission and list the cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663217908,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Add a button to open the camera and a video element as the container for the camera.",
+                    "添加一个按钮以打开摄像头，并添加一个video元素作为摄像头画面的容器。",
+                    "Add a button to open the camera and a video element as the container for the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663243333,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Functions used for the button to open or close the camera.",
+                    "打开或关闭摄像头的相关函数。",
+                    "Functions used for the button to open or close the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663261111,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Add <g1>documentScanner.css<\/g1> and add the following style to avoid the camera container being too large.",
+                    "添加<g1>documentScanner.css<\/g1>并添加以下样式，以避免摄像头容器过大。",
+                    "Add <g1>documentScanner.css<\/g1> and add the following style to avoid the camera container being too large.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663273589,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Crop the Document Image",
+                    "裁剪文档图像",
+                    "Crop the Document Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663279364,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "In our case, we need to upload it to a server, let the server crop the document image and display the document image in the lead's page.",
+                    "在我们的用例中，我们需要将图片上传到服务器，让服务器裁剪文档图像并在线索账户页面中显示文档图像。",
+                    "In our case, we need to upload it to a server, let the server crop the document image and display the document image in the lead's page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663302781,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "In Salesforce, add a custom URL-typed field <g1>ID Card<\/g1> to Lead.",
+                    "在Salesforce中，为线索添加自定义URL类型字段<g1>ID Card<\/g1>。",
+                    "In Salesforce, add a custom URL-typed field <g1>ID Card<\/g1> to Lead.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663323306,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Open settings.",
+                    "打开设置 。",
+                    "Open settings.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663326010,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "<x1\/>page settings<x2\/>",
+                    "<x1\/>页面设置<x2\/>",
+                    "<x1\/>page settings<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663329314,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Add a URL custom field.",
+                    "添加URL自定义字段。",
+                    "Add a URL custom field.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663331883,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "<x1\/>customize field<x2\/>",
+                    "<x1\/>自定义字段<x2\/>",
+                    "<x1\/>customize field<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663334619,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "In the component, display the document image if the <g1>ID Card<\/g1> URL is set.",
+                    "在组件中，如果设置了<g1>ID Card<\/g1>的URL ，则显示文档图像。",
+                    "In the component, display the document image if the <g1>ID Card<\/g1> URL is set.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663344484,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "The URL field is retrieved through the <g2>getRecord<\/g2> method.",
+                    "URL字段通过<g2>getRecord<\/g2>方法获取。",
+                    " The URL field is retrieved through the <g2>getRecord<\/g2> method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663364325,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Capture a frame from the video using canvas and upload the base64-encoded frame to the server to detect and crop the document image.",
+                    "使用canvas从视频流捕获帧，并将base64编码的帧上传到服务器以检测和裁剪文档图像。",
+                    "Capture a frame from the video using canvas and upload the base64-encoded frame to the server to detect and crop the document image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663382033,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "If the operation is successful, update the URL field for the record.",
+                    "如果操作成功，则更新记录的URL字段。",
+                    " If the operation is successful, update the URL field for the record.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663395434,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "You need to start the server first.",
+                    "需要先启动服务器。",
+                    "You need to start the server first.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663401238,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "In addition, add its URL to the list of trusted URLs or the requests will be blocked by CSP.",
+                    "此外，将其URL添加到受信任URL列表中，否则请求将被CSP阻止。",
+                    " In addition, add its URL to the list of trusted URLs or the requests will be blocked by CSP.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663403467,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "<x1\/>trusted urls<x2\/>",
+                    "<x1\/>受信任的URL<x2\/>",
+                    "<x1\/>trusted urls<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663409195,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "All right, we've now completed the component.",
+                    "好了，我们已经完成了组件。",
+                    "All right, we've now completed the component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717663411228,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "References",
+                    "参考",
+                    "References",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1623312225963,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Salesforce CRM Administration Handbook",
+                    "",
+                    "Salesforce CRM Administration Handbook",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Ultimate Salesforce LWC Developers' Handbook",
+                    "",
+                    "Ultimate Salesforce LWC Developers' Handbook",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/integration\/camera-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "tu49"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
