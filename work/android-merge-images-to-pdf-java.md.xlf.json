@@ -1,0 +1,474 @@
+{
+    "filename": "android-merge-images-to-pdf-java.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Merge Images into PDF on Android using Java",
+                    "用Java编写一个合并图像到PDF的安卓应用",
+                    "How to Merge Images into PDF on Android using Java",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718346509633,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-06-14 11:24:53 +0800",
+                    "",
+                    "2024-06-14 11:24:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-06-14 11:24:53 +0800",
+                    "",
+                    "2024-06-14 11:24:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Document Normalizer",
+                    "",
+                    "Document Normalizer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "PDF",
+                    "",
+                    "PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Java",
+                    "",
+                    "Java",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "This article talks about how to build an Android app using Java to merge images into a PDF file.",
+                    "本文介绍了如何使用Java编写一个安卓应用，将图像合并到PDF文件中。",
+                    "This article talks about how to build an Android app using Java to merge images into a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718352108525,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/06\/merge-images-to-pdf\/android.jpg",
+                    "",
+                    ".\/img\/2024\/06\/merge-images-to-pdf\/android.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Sometimes, we may need to merge multiple images into a single PDF file.",
+                    "有时，我们可能需要将多个图像合并到单个PDF文件中。",
+                    "Sometimes, we may need to merge multiple images into a single PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718346522159,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "For example, we scan the front side and the back side of an ID card and want to store them in a single PDF file.",
+                    "例如，扫描身份证的正面和背面，并将它们存储在一个PDF文件中。",
+                    " For example, we scan the front side and the back side of an ID card and want to store them in a single PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718352121415,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about how to build an Android app using Java to merge images into a PDF file with the help of <g1>Dynamsoft Document Normalizer<\/g1>.",
+                    "在本文中，我们将讨论如何使用Java编写一个安卓应用，利用<g1>Dynamsoft Document Normalizer<\/g1>将图像合并到PDF文件中。",
+                    "In this article, we are going to talk about how to build an Android app using Java to merge images into a PDF file with the help of <g1>Dynamsoft Document Normalizer<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718352134690,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Open Android Studio and create a new <g1>Empty Views Activity<\/g1>.",
+                    "打开Android Studio并创建一个新的<g1>Empty Views Activity<\/g1>。",
+                    "Open Android Studio and create a new <g1>Empty Views Activity<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718346574447,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Next, add Dynamsoft Document Normalizer and its dependencies.",
+                    "接下来，添加Dynamsoft Document Normalizer及其依赖项。",
+                    "Next, add Dynamsoft Document Normalizer and its dependencies.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718346584843,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Add the following to <g1>settings.gradle<\/g1>.",
+                    "将以下内容添加到<g1>settings.gradle<\/g1>。",
+                    "Add the following to <g1>settings.gradle<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718346588246,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Add the following to <g1>build.gradle<\/g1>.",
+                    "将以下内容添加到<g1>build.gradle<\/g1>。",
+                    "Add the following to <g1>build.gradle<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718346592079,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Layout Design",
+                    "布局设计",
+                    "Layout Design",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619329007597,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Open <g1>activity_main.xml<\/g1> and add the following:",
+                    "打开<g1>activity_main.xml<\/g1>并添加以下内容：",
+                    "Open <g1>activity_main.xml<\/g1> and add the following:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718346600501,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "The layout is like the following screenshot.",
+                    "布局如下面的屏幕截图所示。",
+                    "The layout is like the following screenshot.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718346611918,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "It contains a button to select images from the gallery, a checkbox to enable auto cropping of the document in the image and radio buttons to select which color mode to use for the images in the PDF.",
+                    "它包含一个用于从图库中选择图像的按钮，一个用于启用自动裁剪文档的复选框，以及用于选择颜色模式的单选按钮。",
+                    " It contains a button to select images from the gallery, a checkbox to enable auto cropping of the document in the image and radio buttons to select which color mode to use for the images in the PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718351853414,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<x1\/>screenshot<x2\/>",
+                    "<x1\/>屏幕截图<x2\/>",
+                    "<x1\/>screenshot<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619328925925,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Pick Images from Gallery",
+                    "从图库中选择图像",
+                    "Pick Images from Gallery",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718351872725,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Create a new <g1>ActivityResultLauncher<\/g1> and launch it for selecting the images after <g2>selectImagesButton<\/g2> is clicked.",
+                    "创建一个新的<g1>ActivityResultLauncher<\/g1>。在<g2>selectImagesButton<\/g2>的点击事件中，启动它来选择图片。",
+                    "Create a new <g1>ActivityResultLauncher<\/g1> and launch it for selecting the images after <g2>selectImagesButton<\/g2> is clicked.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718351927872,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "We can get the list of URIs in <g3>onActivityResult<\/g3>.",
+                    "我们可以在<g3>onActivityResult<\/g3>中获取URI列表。",
+                    " We can get the list of URIs in <g3>onActivityResult<\/g3>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718351938968,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Use Dynamsoft Document Normalizer to Merge Images into PDF",
+                    "使用Dynamsoft Document Normalizer将图像合并为PDF",
+                    "Use Dynamsoft Document Normalizer to Merge Images into PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718351941820,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Initialize the license for Dynamsoft Document Normalizer.",
+                    "初始化Dynamsoft Document Normalizer的许可证。",
+                    "Initialize the license for Dynamsoft Document Normalizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718351947140,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以<g1>此处<\/g1>申请许可证。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712112882299,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Create an instance of Capture Vision Router to call Dynamsoft Document Normalizer.",
+                    "创建Capture Vision Router的实例以调用Dynamsoft Document Normalizer。",
+                    "Create an instance of Capture Vision Router to call Dynamsoft Document Normalizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718351961584,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Process images and save them to a PDF file.",
+                    "处理图像并将其保存为PDF文件。",
+                    "Process images and save them to a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718351965277,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "It uses Capture Vision Router to process the images and uses Image Manager to save them to a PDF file.",
+                    "它使用Capture Vision Router处理图像，并使用Image Manager保存结果为PDF文件。",
+                    " It uses Capture Vision Router to process the images and uses Image Manager to save them to a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718351978115,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "The color mode is modified with the following code.",
+                    "使用以下代码修改颜色模式。",
+                    "The color mode is modified with the following code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718351988918,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Converting an image to black and white can clean the background and save the file's size while converting to grayscale has a balance of details and size.",
+                    "将图像转换为黑白可以清理背景并减少文件的大小。转换为灰度的话，能在文件大小和图像细节上取得一个平衡。",
+                    " Converting an image to black and white can clean the background and save the file's size while converting to grayscale has a balance of details and size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718352069137,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Screenshot of converted files:",
+                    "已转换文件的截图：",
+                    "Screenshot of converted files:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718352078806,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "<x1\/>diagram<x2\/>",
+                    "<x1\/>图<x2\/>",
+                    "<x1\/>diagram<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718352080420,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "You can check out the source code to have a try:",
+                    "查看源代码进行试用：",
+                    "You can check out the source code to have a try: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Normalizer\/android-merge-images-to-pdf-java.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1718352096176,
+                        "id": "tu23"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
