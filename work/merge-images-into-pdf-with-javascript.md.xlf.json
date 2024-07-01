@@ -1,0 +1,500 @@
+{
+    "filename": "merge-images-into-pdf-with-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Merge Images into PDF with JavaScript",
+                    "如何使用JavaScript将图像合并为PDF",
+                    "How to Merge Images into PDF with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719821050626,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-06-28 10:02:53 +0800",
+                    "",
+                    "2024-06-28 10:02:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-06-28 10:02:53 +0800",
+                    "",
+                    "2024-06-28 10:02:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to merge images into PDF with JavaScript using the Dynamsoft Document Viewer SDK.",
+                    "本文讨论了如何使用Dynamsoft Document Viewer SDK和JavaScript将图像合并为PDF。",
+                    "The article talks about how to merge images into PDF with JavaScript using the Dynamsoft Document Viewer SDK.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719821105499,
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/06\/editviewer.jpg",
+                    "",
+                    ".\/img\/2024\/06\/editviewer.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "In our daily work, we may need to take some photos and merge the images into a PDF file.",
+                    "在日常工作中，我们可能需要拍摄一些照片并将图像合并到 PDF 文件中。",
+                    "In our daily work, we may need to take some photos and merge the images into a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719821119129,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "This can be done with many applications.",
+                    "这可以通过许多应用来完成。",
+                    " This can be done with many applications.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822477962,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Viewer<\/g1> has made it easier since it can do this in the browser.",
+                    "<g1>Dynamsoft Document Viewer<\/g1>让这一操作更加方便，因为它可以在浏览器中执行。",
+                    " <g1>Dynamsoft Document Viewer<\/g1> has made it easier since it can do this in the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822505603,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "This process can be integrated in our online website, CRM system, etc.",
+                    "可以集成该操作到我们的在线网站、CRM系统中。",
+                    " This process can be integrated in our online website, CRM system, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822579954,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to create a web app to merge images into PDF with JavaScript using Dynamsoft Document Viewer.",
+                    "在本文中，我们将使用Dynamsoft Document Viewer创建一个Web应用，用JavaScript将图像合并到PDF中。",
+                    "In this article, we are going to create a web app to merge images into PDF with JavaScript using Dynamsoft Document Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822607714,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Include Dynamsoft Document Viewer in the page.",
+                    "在页面中包含Dynamsoft Document Viewer。",
+                    "Include Dynamsoft Document Viewer in the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822633164,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Select Files",
+                    "选择文件",
+                    "Select Files",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822636747,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Next, select files for merging.",
+                    "接下来，选择要合并的文件。",
+                    "Next, select files for merging.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822643008,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Add an <g1>input<\/g1> element for selecing multiple files.",
+                    "添加用于选择多个文件的<g1>input<\/g1>元素。",
+                    "Add an <g1>input<\/g1> element for selecing multiple files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822651601,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "We can then get the selected files with the following JavaScript:",
+                    "然后，我们可以使用以下JavaScript获取所选文件：",
+                    "We can then get the selected files with the following JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822659682,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Merge Images to PDF",
+                    "将图像合并为PDF",
+                    "Merge Images to PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822669339,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Add a button in the page to merge the images to PDF.",
+                    "在页面中添加按钮以执行合并图像到PDF的操作。",
+                    "Add a button in the page to merge the images to PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822685226,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "使用许可证初始化Dynamsoft Document Viewer。",
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822702610,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请许可证。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1719822709338,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Create a new document instance using Dynamsoft Document Viewer's <g1>DocumentManager<\/g1>.",
+                    "使用Dynamsoft Document Viewer的<g1>DocumentManager<\/g1>创建新的文档实例。",
+                    "Create a new document instance using Dynamsoft Document Viewer's <g1>DocumentManager<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822725583,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Read files as blob and load them into the document.",
+                    "以blob格式读取文件并将其加载到文档中。",
+                    "Read files as blob and load them into the document.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822732308,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Save the images as PDF.",
+                    "将图像保存为PDF。",
+                    "Save the images as PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822737408,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Download the PDF with the following function.",
+                    "通过以下函数下载PDF。",
+                    "Download the PDF with the following function.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822748690,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Use an Editing Interface",
+                    "使用编辑界面",
+                    "Use an Editing Interface",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822751881,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Dynamsoft Document Viewer comes with a set of viewers.",
+                    "Dynamsoft Document Viewer附带一系列组件。",
+                    "Dynamsoft Document Viewer comes with a set of viewers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822766298,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "We can use its EditViewer to view and edit the selected images before merging into a PDF file.",
+                    "在合并到PDF文件之前，我们可以使用其EditViewer查看和编辑图像。",
+                    " We can use its EditViewer to view and edit the selected images before merging into a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822774524,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Add a container in the HTML.",
+                    "在HTML中添加容器。",
+                    "Add a container in the HTML.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822783848,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Use the following code to start it.",
+                    "使用以下代码启动它。",
+                    "Use the following code to start it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822787640,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "<x1\/>EditViewer<x2\/>",
+                    "<x1\/>EditViewer<x2\/>",
+                    "<x1\/>EditViewer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822790920,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "We can rotate, crop, reorder and delete the images and apply filters for the images.",
+                    "我们可以旋转、裁剪、重新排序和删除图像，并为图像应用滤镜。",
+                    "We can rotate, crop, reorder and delete the images and apply filters for the images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1719822793976,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Get the source code to have a try:",
+                    "下载源代码并尝试使用：",
+                    "Get the source code to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/merge-images-into-pdf-with-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699582032112,
+                        "id": "tu27"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
