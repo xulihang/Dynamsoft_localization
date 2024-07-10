@@ -1,0 +1,761 @@
+{
+    "filename": "ios-mrz-scanner-swift.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build an iOS MRZ Scanner with Swift",
+                    "使用Swift编写一个MRZ扫描应用",
+                    "How to Build an iOS MRZ Scanner with Swift",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720593606166,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-07-10 10:20:53 +0800",
+                    "",
+                    "2024-07-10 10:20:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-07-10 10:20:53 +0800",
+                    "",
+                    "2024-07-10 10:20:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "OCR",
+                    "",
+                    "OCR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "MRZ",
+                    "",
+                    "MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Swift",
+                    "",
+                    "Swift",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to use Dynamsoft Label Recognizer to build an iOS MRZ scanner with Swift to extract info from passports, ID cards, etc.",
+                    "文章分享了如何使用Dynamsoft Label Recognizer和Swift编写一个iOS MRZ扫描应用，从护照、身份证等中提取信息。",
+                    "The article shares how to use Dynamsoft Label Recognizer to build an iOS MRZ scanner with Swift to extract info from passports, ID cards, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720593638422,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/07\/ios-mrz-scanner.jpg",
+                    "",
+                    ".\/img\/2024\/07\/ios-mrz-scanner.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Label Recognizer<\/g1> is an SDK to recognize the text of key areas.",
+                    "<g1>Dynamsoft Label Recognizer<\/g1>是一个用于识别区域文本的SDK。",
+                    "<g1>Dynamsoft Label Recognizer<\/g1> is an SDK to recognize the text of key areas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720593675711,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Its major use case is to read MRZ (machine-readable zone) on passports, ID cards, etc.",
+                    "其主要用例是读取护照、身份证件上的MRZ（机器可读区域）。",
+                    " Its major use case is to read MRZ (machine-readable zone) on passports, ID cards, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720593706367,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build an iOS MRZ scanner using Dynamsoft Label Recognizer with Swift.",
+                    "在本文中，我们将使用Dynamsoft Label Recognizer和Swift编写一个 iOS MRZ扫描应用。",
+                    "In this article, we are going to build an iOS MRZ scanner using Dynamsoft Label Recognizer with Swift.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720593730974,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "A demo video of the final result:",
+                    "最终结果的演示视频：",
+                    "A demo video of the final result:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720593737555,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Open Xcode to create a new UIKit project in Swift.",
+                    "打开Xcode并创建一个新的基于UIKit和Swift的应用项目。",
+                    "Open Xcode to create a new UIKit project in Swift.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1720593762687,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Since we are going to design the UIs programmatically, we can just delete <g1>Main.storyboard<\/g1> and <g2>SceneDelegate.swift<\/g2> and update the project and <g3>Info.plist<\/g3> to remove relevant info.",
+                    "由于我们将以代码方式操作UI ，因此可以删除<g1>Main.storyboard<\/g1>和<g2>SceneDelegate.swift<\/g2>并更新项目和<g3>Info.plist<\/g3>。",
+                    "Since we are going to design the UIs programmatically, we can just delete <g1>Main.storyboard<\/g1> and <g2>SceneDelegate.swift<\/g2> and update the project and <g3>Info.plist<\/g3> to remove relevant info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720593790592,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Here, we use CocoaPods to manage dependencies.",
+                    "在这里，我们使用CocoaPods来管理依赖项。",
+                    "Here, we use CocoaPods to manage dependencies.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720593808772,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Initialize a pod file in the project folder.",
+                    "在项目文件夹中初始化pod。",
+                    "Initialize a pod file in the project folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720593850678,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Add the following lines to the <g1>Podfile<\/g1>.",
+                    "将以下行添加到<g1>Podfile<\/g1>。",
+                    "Add the following lines to the <g1>Podfile<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720593854364,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Run <g1>pod install<\/g1>",
+                    "运行<g1>pod install<\/g1>",
+                    "Run <g1>pod install<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720593867175,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Add Permissions",
+                    "添加权限",
+                    "Add Permissions",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720593869861,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "We have to add the following to <g1>Info.plist<\/g1> for the permissions to access the camera.",
+                    "将以下内容添加到<g1>Info.plist<\/g1>，以获得访问摄像头的权限。",
+                    "We have to add the following to <g1>Info.plist<\/g1> for the permissions to access the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594304509,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Initialize the License of Dynamsoft Label Recognizer",
+                    "初始化Dynamsoft Label Recognizer的许可证",
+                    "Initialize the License of Dynamsoft Label Recognizer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594319125,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "In <g1>AppDelegate.swift<\/g1>, add the following to initialize the license of Dynamsoft Label Recognizer.",
+                    "在<g1>AppDelegate.swift<\/g1>中，添加以下内容以初始化Dynamsoft Label Recognizer的许可证。",
+                    "In <g1>AppDelegate.swift<\/g1>, add the following to initialize the license of Dynamsoft Label Recognizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594332786,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "You can apply for a 30-day trial license <g2>here<\/g2>.",
+                    "可以在<g2>此处<\/g2>申请一个30天试用许可证。",
+                    " You can apply for a 30-day trial license <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594342967,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Next, we are going to implement the pages in steps.",
+                    "接下来，我们将分步实现页面。",
+                    "Next, we are going to implement the pages in steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594353027,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "There are two pages: home page and camera page.",
+                    "有两个页面：主页和摄像头页面。",
+                    " There are two pages: home page and camera page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594355996,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Home Page",
+                    "主页",
+                    "Home Page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594361132,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Add a <g1>Scan MRZ<\/g1> button to navigate to the camera page.",
+                    "添加<g1>Scan MRZ<\/g1>按钮以导航到摄像头页面。",
+                    "Add a <g1>Scan MRZ<\/g1> button to navigate to the camera page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594377310,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Since we are not using storyboard, we have to display the home page programmatically in <g1>AppDelegate.swift<\/g1> with the following code.",
+                    "由于我们没有使用storyboard，因此需要在<g1>AppDelegate.swift<\/g1>中使用以下代码显示主页。",
+                    "Since we are not using storyboard, we have to display the home page programmatically in <g1>AppDelegate.swift<\/g1> with the following code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594396566,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Camera Page",
+                    "摄像头页面",
+                    "Camera Page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594404070,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Create a new camera view controller named <g1>CameraController.swift<\/g1>.",
+                    "创建一个名为<g1>CameraController.swift<\/g1>的新的视图控制器。",
+                    "Create a new camera view controller named <g1>CameraController.swift<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594420669,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Then, we are going to start the camera and scan MRZ in this page.",
+                    "然后，我们将在此页面启动摄像头并扫描MRZ。",
+                    " Then, we are going to start the camera and scan MRZ in this page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594425412,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Start the Camera using AVFoundation",
+                    "使用AVFoundation启动摄像头",
+                    "Start the Camera using AVFoundation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594436511,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Create a new view named <g1>PreviewView<\/g1> to display the camera preview.",
+                    "创建名为 <g1>PreviewView<\/g1> 的新视图来显示摄像头预览。",
+                    "Create a new view named <g1>PreviewView<\/g1> to display the camera preview.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594456901,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Add the preview view to the camera controller.",
+                    "将PreviewView添加到摄像头控制器。",
+                    "Add the preview view to the camera controller.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594474902,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Open the camera and start the capture session.",
+                    "打开摄像头并开始捕获会话。",
+                    "Open the camera and start the capture session.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594484612,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Scan MRZ from the Camera Preview",
+                    "从相机预览扫描MRZ",
+                    "Scan MRZ from the Camera Preview",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594492397,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Import libraries.",
+                    "导入库。",
+                    "Import libraries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594504134,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Create a Label Recognizer instance.",
+                    "创建Label Recognizer实例。",
+                    "Create a Label Recognizer instance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594514031,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Load MRZ models.",
+                    "加载MRZ模型。",
+                    "Load MRZ models.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594516204,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Add the MRZ model folder as a reference.",
+                    "将MRZ模型文件夹以reference的形式添加。",
+                    "Add the MRZ model folder as a reference.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1720594523230,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "You can find the files <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>找到这些文件。",
+                    " You can find the files <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594531077,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "<x1\/>Add model to project<x2\/>",
+                    "<x1\/>将模型添加到项目<x2\/>",
+                    "<x1\/>Add model to project<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594535645,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Load the model files with code.",
+                    "使用代码加载模型文件。",
+                    "Load the model files with code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594540381,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Update the settings of the Label Recognizer to recognize MRZ.",
+                    "更新Label Recognizer的设置以识别MRZ。",
+                    "Update the settings of the Label Recognizer to recognize MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594549197,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Add a video output so that we can get the data of the camera preview.",
+                    "添加视频输出，以便我们可以获取相机预览的数据。",
+                    "Add a video output so that we can get the data of the camera preview.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594561429,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Convert <g1>CMSampleBuffer<\/g1> to <g2>iImageData<\/g2> and then use Dynamsoft Label Recognizer to scan MRZ from the data.",
+                    "将<g1>CMSampleBuffer<\/g1>转换为<g2>iImageData<\/g2>，然后使用Dynamsoft Label Recognizer扫描MRZ。",
+                    "Convert <g1>CMSampleBuffer<\/g1> to <g2>iImageData<\/g2> and then use Dynamsoft Label Recognizer to scan MRZ from the data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594585685,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Handle Orientation",
+                    "处理方向",
+                    "Handle Orientation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1720594898444,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "The camera sensor's natural orientation is when holding the phone in landscape right (the home button on the right).",
+                    "摄像头传感器的自然方向是当手机处于横向右（主页按钮在右侧）时的方向。",
+                    "The camera sensor's natural orientation is when holding the phone in landscape right (the home button on the right).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594848447,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "If we hold the phone in portrait, the camera frame's orientation will not change, but the preview can be rotated to match the display.",
+                    "如果我们以纵向握持手机，视频帧的方向不会改变，但预览可以被旋转以配合显示。",
+                    " If we hold the phone in portrait, the camera frame's orientation will not change, but the preview can be rotated to match the display.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594874364,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "We need to handle the orientation so that Label Recognizer is able to recognize the text.",
+                    "我们需要处理方向，以便标签Label Recognizer能够识别文本。",
+                    " We need to handle the orientation so that Label Recognizer is able to recognize the text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594888013,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Add a listener to listen for the changes of orientation.",
+                    "添加一个监听器来监听方向的变化。",
+                    "Add a listener to listen for the changes of orientation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594909133,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Update the preview view's bounds and update the video orientation based on the device's orientation.",
+                    "更新预览视图的边界，并根据设备的方向更新视频方向。",
+                    "Update the preview view's bounds and update the video orientation based on the device's orientation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594919837,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Set the orientation property of image data so that Label Recognizer can correctly handle the orientation.",
+                    "设置图像数据的方向属性，以便Label Recognizer可以正确处理方向。",
+                    "Set the orientation property of image data so that Label Recognizer can correctly handle the orientation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594933167,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Verify the Recognition Result",
+                    "验证识别结果",
+                    "Verify the Recognition Result",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594941295,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "The recognition result of one frame may contain misrecognized characters.",
+                    "单帧的识别结果可能包含错误识别的字符。",
+                    "The recognition result of one frame may contain misrecognized characters.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594972662,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "We can store the consecutive results and check if the results match with each other to make sure that we've got a reliable result.",
+                    "我们可以存储连续识别到的结果，并检查结果是否彼此匹配，以确保我们得到可靠的结果。",
+                    " We can store the consecutive results and check if the results match with each other to make sure that we've got a reliable result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594981967,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Here is the code to do this:",
+                    "以下是执行此操作的代码：",
+                    "Here is the code to do this:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594991413,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Parse MRZ",
+                    "解析MRZ",
+                    "Parse MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594993892,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "In the end, we can use a third-party parser to parse the results.",
+                    "最后，我们可以使用第三方解析器来解析结果。",
+                    "In the end, we can use a third-party parser to parse the results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1720594996557,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Get the source code of the demo to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demo to have a try: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/ios-mrz-scanner-swift.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu47"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
