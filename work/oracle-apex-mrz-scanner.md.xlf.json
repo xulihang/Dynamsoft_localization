@@ -1,0 +1,904 @@
+{
+    "filename": "oracle-apex-mrz-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Scan MRZ in an Oracle APEX Application",
+                    "如何编写一个Oracle APEX插件来识别MRZ文本",
+                    "How to Scan MRZ in an Oracle APEX Application",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874549457,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-07-24 11:29:53 +0800",
+                    "",
+                    "2024-07-24 11:29:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-07-24 11:29:53 +0800",
+                    "",
+                    "2024-07-24 11:29:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "OCR",
+                    "",
+                    "OCR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Label Recognizer",
+                    "",
+                    "Label Recognizer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Oracle APEX",
+                    "",
+                    "Oracle APEX",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to scan MRZ in an Oracle APEX application using Dynamsoft Label Recognizer to extract info from passports, ID cards, etc.",
+                    "本文介绍了如何编写一个插件来使用Dynamsoft Label Recognizer在Oracle APEX应用程序中扫描MRZ，从护照、身份证等文档中提取信息。",
+                    "The article shares how to scan MRZ in an Oracle APEX application using Dynamsoft Label Recognizer to extract info from passports, ID cards, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874705849,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/07\/oracle-apex\/mrzscanner.jpg",
+                    "",
+                    ".\/img\/2024\/07\/oracle-apex\/mrzscanner.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "MRZ stands for machine-readable zone, which is usually at the bottom of the identity page at the beginning of a passport or ID card.<x1\/>^wiki<x2\/> It can be read by a computing device with a camera to get information like document type, name, document number, nationality, date of birth, sex, and document expiration date.",
+                    "MRZ（机器可读区域），通常位于护照或身份证的底部。<x1\/>^ wiki<x2\/>它可以通过带有摄像头的计算设备进行读取，以获取文件类型、姓名、编号、国籍、出生日期、性别和到期日期等信息。",
+                    "MRZ stands for machine-readable zone, which is usually at the bottom of the identity page at the beginning of a passport or ID card.<x1\/>^wiki<x2\/> It can be read by a computing device with a camera to get information like document type, name, document number, nationality, date of birth, sex, and document expiration date.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874786174,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Oracle APEX is a low-code platform for building web applications.",
+                    "Oracle APEX是一个用于构建Web应用程序的低代码平台。",
+                    "Oracle APEX is a low-code platform for building web applications.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874799143,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to build an MRZ scanner plugin so that we can scan MRZ from cameras in an Oracle APEX application.",
+                    "在本文中，我们将编写一个MRZ扫描插件，以便我们可以在Oracle APEX应用程序中通过摄像头扫描MRZ。",
+                    " In this article, we are going to build an MRZ scanner plugin so that we can scan MRZ from cameras in an Oracle APEX application.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874830560,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Label Recognizer<\/g1> is used as the OCR engine.",
+                    "使用<g1>Dynamsoft Label Recognizer<\/g1>作为OCR引擎。",
+                    " <g1>Dynamsoft Label Recognizer<\/g1> is used as the OCR engine.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874857088,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Screenshot of the demo:",
+                    "Demo截图：",
+                    "Screenshot of the demo:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874865704,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>demo<x2\/>",
+                    "<x1\/>demo<x2\/>",
+                    "<x1\/>demo<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874868374,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "You can find the online demo <g1>here<\/g1>.",
+                    "<g1>点此<\/g1>访问在线demo。",
+                    "You can find the online demo <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874894177,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Build an Oracle APEX Application to Scan MRZ",
+                    "在Oracle APEX应用程序中扫描MRZ",
+                    "Build an Oracle APEX Application to Scan MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874913049,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Let's do this in steps.",
+                    "下面是分步实现过程。",
+                    "Let's do this in steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050804494,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Build an APEX Plugin for Dynamsoft Label Recognizer",
+                    "为Dynamsoft Label Recognizer编写一个APEX插件",
+                    "Build an APEX Plugin for Dynamsoft Label Recognizer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874946355,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "In order to use Dynamsoft Label Recognizer to scan MRZ, we need to create an APEX plugin first.",
+                    "为了使用Dynamsoft Label Recognizer扫描MRZ，我们需要先创建一个APEX插件。",
+                    "In order to use Dynamsoft Label Recognizer to scan MRZ, we need to create an APEX plugin first.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874963753,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "New Plugin",
+                    "新建插件",
+                    "New Plugin",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721874978288,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "On the app's page, click shared components.",
+                    "在应用页面上，点击共享组件。",
+                    "On the app's page, click shared components.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875048962,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Then click plug-ins in the other components section.",
+                    "然后点击其他组件部分的插件。",
+                    " Then click plug-ins in the other components section.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875045184,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Create a new plugin from scratch.",
+                    "点创建一个新的插件。",
+                    "Create a new plugin from scratch.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875073416,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Here, we select the region type as we need to display something and run actions on the page.",
+                    "选择区域类型，因为我们需要在页面上显示内容和运行操作。",
+                    " Here, we select the region type as we need to display something and run actions on the page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875086929,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Define the <g1>f_render<\/g1> function in the PL\/SQL code.",
+                    "在PL\/SQL代码中定义<g1>f_render<\/g1>函数。",
+                    "Define the <g1>f_render<\/g1> function in the PL\/SQL code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875094759,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Then set <g1>Render Procedure\/Function Name<\/g1> to <g2>F_RENDER<\/g2> in the callbacks section.",
+                    "然后在回调部分将<g1>Render Procedure\/Function Name<\/g1>设置为<g2>F_RENDER<\/g2>。",
+                    "Then set <g1>Render Procedure\/Function Name<\/g1> to <g2>F_RENDER<\/g2> in the callbacks section.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875109864,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Next, we are going to put the plugin aside, try to create an MRZ scanning web page first and then adapt it as a plugin.",
+                    "接下来，我们把插件放在一边，先创建MRZ一个扫描网页，然后将其用于插件。",
+                    "Next, we are going to put the plugin aside, try to create an MRZ scanning web page first and then adapt it as a plugin.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875144530,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Build an MRZ Scanning Web App",
+                    "编写一个MRZ扫描Web页面",
+                    "Build an MRZ Scanning Web App",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875250727,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "The web page loads the libraries of Dynamsoft Label Recognizer, Dynamsoft Camera Enhancer and other dependencies via CDN.",
+                    "该页面会通过CDN加载Dynamsoft Label Recognizer、Dynamsoft Camera Enhancer和其他依赖项的库。",
+                    "The web page loads the libraries of Dynamsoft Label Recognizer, Dynamsoft Camera Enhancer and other dependencies via CDN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875242402,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "It can use the camera enhancer library to open the camera and read MRZ from camera frames with the label recognizer library.",
+                    "它可以使用camera enhancer打开相机，并使用label recognizer从视频帧读取MRZ。",
+                    " It can use the camera enhancer library to open the camera and read MRZ from camera frames with the label recognizer library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875283807,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following content.",
+                    "创建一个新的 HTML 文件，内容如下。",
+                    "Create a new HTML file with the following content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875287767,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Create a new <g1>script.js<\/g1> file.",
+                    "创建一个新的<g1>script.js<\/g1>文件。",
+                    "Create a new <g1>script.js<\/g1> file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875297321,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Define a <g2>DLRExtension<\/g2> object in it.",
+                    "在其中<g2>定义<\/g2>DLRExtension对象。",
+                    " Define a <g2>DLRExtension<\/g2> object in it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875300830,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Add functions to load external JavaScript files.",
+                    "添加一个用于加载外部JavaScript文件的函数。",
+                    "Add functions to load external JavaScript files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875344656,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Add a load function to load needed JavaScript files.",
+                    "添加一个加载函数，加载所需的JavaScript文件。",
+                    "Add a load function to load needed JavaScript files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875333193,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "It also sets the license for Dynamsoft Label Recognizer.",
+                    "这一步还会设置Dynamsoft Label Recognizer的许可证。",
+                    " It also sets the license for Dynamsoft Label Recognizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875369460,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请许可证。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1719822709338,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Add a function to initialize the libraries.",
+                    "添加一个初始化所用库的函数。",
+                    "Add a function to initialize the libraries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875386656,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "A container is appended to the body to display the camera.",
+                    "在body上附加一个容器以显示相机。",
+                    " A container is appended to the body to display the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875863903,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "We can also pass parameters like the styles for the container via the arguments.",
+                    "我们还可以通过参数设置容器的样式等内容。",
+                    " We can also pass parameters like the styles for the container via the arguments.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875892224,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Update the settings for scanning MRZ.",
+                    "更新设置以支持扫描MRZ。",
+                    "Update the settings for scanning MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875913529,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Update the runtime settings with a JSON template for scanning MRZ.",
+                    "使用用于扫描MRZ的JSON模板更新运行时设置。",
+                    "Update the runtime settings with a JSON template for scanning MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875919591,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "It will download MRZ models via CDN.",
+                    "它将通过CDN下载MRZ模型。",
+                    " It will download MRZ models via CDN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875927486,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Set a scan region so that only a part of the frame will be processed.",
+                    "设置扫描区域，只处理帧的一部分以提高扫描效率。",
+                    "Set a scan region so that only a part of the frame will be processed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875960559,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Add a function to open the camera.",
+                    "添加一个函数以打开摄像头。",
+                    "Add a function to open the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875964359,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Add a function to close the camera.",
+                    "添加一个函数以关闭摄像头。",
+                    "Add a function to close the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721875972161,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Add functions to start scanning from the camera frames and stop scanning.",
+                    "添加开始与关闭从相机视频帧扫描的函数。",
+                    "Add functions to start scanning from the camera frames and stop scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876023752,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Register the <g1>played<\/g1> event for the camera enhancer so that when the resolution or the camera is changed, restart scanning.",
+                    "注册camera enhancer的<g1>played<\/g1>事件，以便在更改分辨率或相机后重新开始扫描。",
+                    "Register the <g1>played<\/g1> event for the camera enhancer so that when the resolution or the camera is changed, restart scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876055825,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Add functions using Dynamsoft Code Parser to extract info from the MRZ string.",
+                    "添加使用Dynamsoft Code Parser从MRZ字符串中提取信息的函数。",
+                    "Add functions using Dynamsoft Code Parser to extract info from the MRZ string.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876079655,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Add the following scripts in the HTML file to start the MRZ scanner.",
+                    "在HTML文件中添加以下内容，以启动MRZ扫描。",
+                    "Add the following scripts in the HTML file to start the MRZ scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876102855,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "All right, we have finished writing the web page.",
+                    "好的，我们已经完成了网页的编写。",
+                    "All right, we have finished writing the web page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876107079,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Next, we are going to adapt it for the APEX plugin.",
+                    "接下来，我们将针对APEX插件进行调整。",
+                    " Next, we are going to adapt it for the APEX plugin.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876110302,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Adapt the Web Page for APEX",
+                    "调整网页以用于APEX",
+                    "Adapt the Web Page for APEX",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876122167,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "If it is running in an APEX app, append the container to the region in the <g1>init<\/g1> function.",
+                    "如果它在APEX应用程序中运行，在<g1>init<\/g1>函数中，将容器添加到APEX插件的region中。",
+                    "If it is running in an APEX app, append the container to the region in the <g1>init<\/g1> function.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876192055,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Get the page item from the <g1>pConfig<\/g1> argument and set its content to the text of the parsed MRZ string.",
+                    "从<g1>pConfig<\/g1>参数获取页面项目，并将其内容设置为已从MRZ字符串解析出的文本。",
+                    "Get the page item from the <g1>pConfig<\/g1> argument and set its content to the text of the parsed MRZ string.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876256201,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "On the setup page of the plugin, add several custom attributes.",
+                    "在插件的设置页面里，添加几个自定义属性。",
+                    "On the setup page of the plugin, add several custom attributes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876271137,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "<x1\/>Attributes<x2\/>",
+                    "<x1\/>属性<x2\/>",
+                    "<x1\/>Attributes<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876274550,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "styles:",
+                    "styles: ",
+                    "styles:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1721876313784,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "JSON string to set the styles.",
+                    "用于设置样式的JSON字符串。",
+                    " JSON string to set the styles.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876279823,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "MRZ result container: page item for the parsed MRZ result.",
+                    "MRZ result container: 用于显示结果的页面项目",
+                    "MRZ result container: page item for the parsed MRZ result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876309090,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "license: license for Dynamsoft Label Recognizer.",
+                    "license: Dynamsoft Label Recognizer的许可证。",
+                    "license: license for Dynamsoft Label Recognizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876323913,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请许可证。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1721876328569,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Upload the <g1>script.js<\/g1> file and add it to the list of file URLs to load.",
+                    "上传<g1>script.js<\/g1>文件并将其添加到要加载的文件URL列表中。",
+                    "Upload the <g1>script.js<\/g1> file and add it to the list of file URLs to load.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876333895,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "<x1\/>Script files<x2\/>",
+                    "<x1\/>脚本文件<x2\/>",
+                    "<x1\/>Script files<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876340582,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "In the PL\/SQL code, run the functions for initialization.",
+                    "在PL\/SQL代码中，运行下面的代码进行初始化。",
+                    "In the PL\/SQL code, run the functions for initialization.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876359682,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Use the Plugin to Scan MRZ",
+                    "使用插件扫描MRZ",
+                    "Use the Plugin to Scan MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876362951,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Create a new MRZ scanner page and in its page designer, drag the MRZ scanner region into the app, add a button and a text field to display the MRZ result.",
+                    "创建一个新的MRZ扫描页面，在其页面设计器中，将MRZ扫描区域拖动到应用中，添加一个按钮以开始扫描并添加一个文本字段以显示MRZ结果。",
+                    "Create a new MRZ scanner page and in its page designer, drag the MRZ scanner region into the app, add a button and a text field to display the MRZ result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876403397,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "In addition, set the attributes for the region.",
+                    "然后，设置区域的属性。",
+                    " In addition, set the attributes for the region.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876417903,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "<x1\/>Page designer<x2\/>",
+                    "<x1\/>页面设计器<x2\/>",
+                    "<x1\/>Page designer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876420791,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Add a dynamic action for the <g1>StartScanButton<\/g1> button.",
+                    "为<g1>StartScanButton<\/g1>按钮添加动态操作。",
+                    "Add a dynamic action for the <g1>StartScanButton<\/g1> button.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876429138,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "When it is clicked, execute the following JavaScript code:",
+                    "它被点击后，执行以下JavaScript代码：",
+                    " When it is clicked, execute the following JavaScript code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876443777,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "All right, we've now added the MRZ scanning function in an Oracle APEX application.",
+                    "好了，我们现在已经在Oracle APEX应用程序中添加了MRZ扫描功能。",
+                    "All right, we've now added the MRZ scanning function in an Oracle APEX application.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876454586,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Get the source code of the plugin to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the plugin to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "References",
+                    "参考文献",
+                    "References",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1718935962357,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "^wiki",
+                    "^wiki",
+                    "^wiki",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/oracle-apex-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1721876467385,
+                        "id": "tu52"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
