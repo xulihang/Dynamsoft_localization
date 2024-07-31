@@ -1,0 +1,612 @@
+{
+    "filename": "nextjs-mrz-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Scan MRZ in a Next.js Application",
+                    "用Next.js编写OCR护照上MRZ的网页应用",
+                    "How to Scan MRZ in a Next.js Application",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393234852,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-07-30 14:01:53 +0800",
+                    "",
+                    "2024-07-30 14:01:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-07-30 14:01:53 +0800",
+                    "",
+                    "2024-07-30 14:01:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "OCR",
+                    "",
+                    "OCR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Label Recognizer",
+                    "",
+                    "Label Recognizer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "React",
+                    "",
+                    "React",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Next.js",
+                    "",
+                    "Next.js",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to scan MRZ in a Next.js application using Dynamsoft Label Recognizer to extract info from passports, ID cards, etc.",
+                    "本文介绍了如何使用Dynamsoft Label Recognizer在Next.js应用程序中扫描MRZ ，从护照、身份证等中提取信息。",
+                    "The article shares how to scan MRZ in a Next.js application using Dynamsoft Label Recognizer to extract info from passports, ID cards, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393251137,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/07\/nextjs-mrz-scanner.jpg",
+                    "",
+                    ".\/img\/2024\/07\/nextjs-mrz-scanner.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "MRZ stands for machine-readable zone, which is usually at the bottom of the identity page at the beginning of a passport or ID card.<x1\/>^wiki<x2\/> It can be read by a computing device with a camera to get information like document type, name, document number, nationality, date of birth, sex, and document expiration date.",
+                    "MRZ（机器可读区域），通常位于护照或身份证的底部。<x1\/>^wiki<x2\/>它可以通过带有摄像头的计算设备进行读取，以获取文件类型、姓名、编号、国籍、出生日期、性别和到期日期等信息。",
+                    "MRZ stands for machine-readable zone, which is usually at the bottom of the identity page at the beginning of a passport or ID card.<x1\/>^wiki<x2\/> It can be read by a computing device with a camera to get information like document type, name, document number, nationality, date of birth, sex, and document expiration date.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722393298653,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a web application in Next.js to scan MRZ via cameras.",
+                    "在本文中，我们将用Next.js编写一个Web应用，通过摄像头扫描MRZ。",
+                    "In this article, we are going to build a web application in Next.js to scan MRZ via cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722393293068,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Label Recognizer<\/g1> is used as the OCR engine.",
+                    "使用<g1>Dynamsoft Label Recognizer<\/g1>作为OCR引擎。",
+                    " <g1>Dynamsoft Label Recognizer<\/g1> is used as the OCR engine.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1721874857088,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Screenshot of the demo:",
+                    "Demo截图：",
+                    "Screenshot of the demo:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1721874865704,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>demo<x2\/>",
+                    "<x1\/>演示<x2\/>",
+                    "<x1\/>demo<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393450225,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "You can find the online demo <g1>here<\/g1>.",
+                    "<g1>点此<\/g1>访问在线demo。",
+                    "You can find the online demo <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1721874894177,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Create a new Next.js project:",
+                    "创建一个新的Next.js项目：",
+                    "Create a new Next.js project:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393466434,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Install Dependencies",
+                    "安装依赖项",
+                    "Install Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026742097,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Install Dynamsoft Label Recognizer and related libraries.",
+                    "安装Dynamsoft Label Recognizer和相关库。",
+                    "Install Dynamsoft Label Recognizer and related libraries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393474146,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Configure the SDK",
+                    "配置SDK",
+                    "Configure the SDK",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393478841,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Create a new file named <g1>configure.ts<\/g1> with the following content.",
+                    "创建一个名为<g1>configure.ts<\/g1>的新文件，内容如下。",
+                    "Create a new file named <g1>configure.ts<\/g1> with the following content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393489883,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "A license is needed.",
+                    "这里需要一个许可证。",
+                    " A license is needed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393499277,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "You can apply for your license <g2>here<\/g2>.",
+                    "可以在<g1>这里<\/g1>申请。",
+                    " You can apply for your license <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722393505755,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "In <g1>page.tsx<\/g1>, import the configure file to run the configuration:",
+                    "在<g1>page.tsx<\/g1>中，导入配置文件以执行配置：",
+                    "In <g1>page.tsx<\/g1>, import the configure file to run the configuration:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393544643,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Create an MRZ Scanner Component",
+                    "创建MRZ扫描组件",
+                    "Create an MRZ Scanner Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393553572,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Create a new component under <g1>src\/components\/MRZScanner.tsx<\/g1> with the following template.",
+                    "新建一个位于<g1>src\/components\/MRZScanner.tsx<\/g1>的组件，包含以下模版内容。",
+                    "Create a new component under <g1>src\/components\/MRZScanner.tsx<\/g1> with the following template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393602090,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Add the following effect to initialize relevant libraries when the component is mounted.",
+                    "添加以下effect，以便在挂载组件时初始化相关库。",
+                    "Add the following effect to initialize relevant libraries when the component is mounted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393622734,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "The function to initialize the camera enhancer.",
+                    "用于初始化camera enhancer的函数。",
+                    "The function to initialize the camera enhancer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393636613,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "The function to initialize the label recognizer.",
+                    "用于初始化label recognizer的函数。",
+                    "The function to initialize the label recognizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393643386,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "We have to set the runtime settings for capture vision router to read MRZ with the following line of code.",
+                    "使用以下代码更改capture vision router的运行时设置以读取MRZ。",
+                    "We have to set the runtime settings for capture vision router to read MRZ with the following line of code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393665798,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "The <g1>template.json<\/g1> with the following content is put under <g2>public<\/g2>.",
+                    "将包含以下内容的<g1>template.json<\/g1>放在<g2>public<\/g2>里。",
+                    "The <g1>template.json<\/g1> with the following content is put under <g2>public<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393685428,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Watch the changes of the <g1>isScanning<\/g1> prop.",
+                    "侦测<g1>isScanning<\/g1> prop的变化以执行相关操作。",
+                    "Watch the changes of the <g1>isScanning<\/g1> prop.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393733541,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "The <g1>startScanning<\/g1> and <g2>stopScanning<\/g2> functions:",
+                    "<g1>startScanning<\/g1>和<g2>stopScanning<\/g2>功能：",
+                    "The <g1>startScanning<\/g1> and <g2>stopScanning<\/g2> functions:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393744131,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Use the MRZ Scanner Component to Scan MRZ",
+                    "使用MRZ扫描组件",
+                    "Use the MRZ Scanner Component to Scan MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393758321,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "In <g1>page.tsx<\/g1>, use <g2>next\/dynamic<\/g2> to import the MRZ scanner component to disable server-side rendering.",
+                    "在<g1>page.tsx<\/g1>中，使用<g2>next\/dynamic<\/g2>导入MRZ扫描组件以禁用服务器端渲染。",
+                    "In <g1>page.tsx<\/g1>, use <g2>next\/dynamic<\/g2> to import the MRZ scanner component to disable server-side rendering.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393769699,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "If not, you may encounter an <g3>HTMLElement undefined<\/g3> error.",
+                    "如果不这样做，可能会遇到<g3>HTMLElement undefined<\/g3>错误。",
+                    " If not, you may encounter an <g3>HTMLElement undefined<\/g3> error.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393784099,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Add a button to toggle the scanning status of the MRZ scanner component and receive the MRZ results in the <g1>onScanned<\/g1> function.",
+                    "添加一个按钮来切换MRZ扫描组件的扫描状态，并在<g1>onScanned<\/g1>回调函数中接收MRZ结果。",
+                    "Add a button to toggle the scanning status of the MRZ scanner component and receive the MRZ results in the <g1>onScanned<\/g1> function.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393807699,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Parse the MRZ",
+                    "解析MRZ",
+                    "Parse the MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1720594993892,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Create a <g1>MRZResultTable.tsx<\/g1> component under <g2>src\/components<\/g2> with the following template.",
+                    "新建一个位于<g2>src\/components<\/g2>的名为<g1>MRZResultTable.tsx<\/g1>的组件，包含以下模版内容。",
+                    "Create a <g1>MRZResultTable.tsx<\/g1> component under <g2>src\/components<\/g2> with the following template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722393842518,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "It displays the fields and values of the parsed result in a table.",
+                    "它以表格形式显示解析结果的字段和值。",
+                    " It displays the fields and values of the parsed result in a table.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393848562,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "CSS:",
+                    "CSS：",
+                    "CSS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123449396,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Initialize Code Parser for parsing when the component is mounted.",
+                    "组件挂载时，初始化code parser，以用于解析。",
+                    "Initialize Code Parser for parsing when the component is mounted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393883607,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Parse the MRZ if the MRZ prop is changed.",
+                    "如果MRZ prop发生变化，则尝试解析 MRZ。",
+                    "Parse the MRZ if the MRZ prop is changed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393900477,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "In <g1>page.tsx<\/g1>, use the <g2>MRZResultTable<\/g2> component to display the parsed results.",
+                    "在<g1>page.tsx<\/g1>中，使用<g2>MRZResultTable<\/g2>组件显示解析结果。",
+                    "In <g1>page.tsx<\/g1>, use the <g2>MRZResultTable<\/g2> component to display the parsed results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393917037,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "All right, we've now completed the Next.js demo of the MRZ scanner.",
+                    "好了，我们现在已经完成了MRZ扫描Next.js应用的demo。",
+                    "All right, we've now completed the Next.js demo of the MRZ scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393951597,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Get the source code of the plugin to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the plugin to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "References",
+                    "参考文献",
+                    "References",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1718935962357,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "^wiki",
+                    "^wiki",
+                    "^wiki",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/nextjs-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722393969644,
+                        "id": "tu35"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
