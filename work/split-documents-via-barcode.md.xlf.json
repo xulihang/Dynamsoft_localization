@@ -1,0 +1,674 @@
+{
+    "filename": "split-documents-via-barcode.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Split Documents via Barcodes",
+                    "如何通过条码拆分文档",
+                    "How to Split Documents via Barcodes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937591503,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-08-06 14:00:53 +0800",
+                    "",
+                    "2024-08-06 14:00:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-08-06 14:00:53 +0800",
+                    "",
+                    "2024-08-06 14:00:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Document Management",
+                    "",
+                    "Document Management",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to scan documents in batch and use barcodes to split them.",
+                    "文章分享了如何批量扫描文档并使用条码进行拆分。",
+                    "The article shares how to scan documents in batch and use barcodes to split them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937610597,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN and Dynamsoft Barcode Reader are used.",
+                    "使用了Dynamic Web TWAIN和Dynamsoft Barcode Reader。",
+                    " Dynamic Web TWAIN and Dynamsoft Barcode Reader are used.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937617508,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/08\/split-via-barcodes.jpg",
+                    "",
+                    ".\/img\/2024\/08\/split-via-barcodes.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Barcodes are commonly used to identify retail products.",
+                    "条码通常用于识别零售产品。",
+                    "Barcodes are commonly used to identify retail products.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937626907,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can also use them to mark documents.",
+                    "我们也可以使用它们来标记文档。",
+                    " We can also use them to mark documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937637450,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "For example, we may need to scan a batch of forms.",
+                    "例如，我们可能需要扫描一批表单。",
+                    " For example, we may need to scan a batch of forms.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937646013,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Each form contains several pages and there is a barcode on the first page denoting a unique form number.",
+                    "每份表单都有几页内容，第一页上有一个表示表单编号的条码。",
+                    " Each form contains several pages and there is a barcode on the first page denoting a unique form number.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937742821,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can use the barcodes to split the documents and attach form numbers to those documents.",
+                    "我们可以使用条码拆分文档，并将表单编号和其进行对应。",
+                    " We can use the barcodes to split the documents and attach form numbers to those documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937738499,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to write a demo web app to scan documents using <g1>Dynamic Web TWAIN<\/g1> and split them via barcodes read by <g2>Dynamsoft Barcode Reader<\/g2>.",
+                    "在本文中，我们将编写一个Web应用，使用<g1>Dynamic Web TWAIN<\/g1>扫描文档，并通过<g2>Dynamsoft Barcode Reader<\/g2>读取的条形码对文档进行拆分。",
+                    "In this article, we are going to write a demo web app to scan documents using <g1>Dynamic Web TWAIN<\/g1> and split them via barcodes read by <g2>Dynamsoft Barcode Reader<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937770899,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Demo video of the final result:",
+                    "最终结果的演示视频：",
+                    "Demo video of the final result:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937788891,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Scan Documents in a Web Page",
+                    "在网页中扫描文档",
+                    "Scan Documents in a Web Page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937794545,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Let's first write a web page to scan documents.",
+                    "让我们先编写一个扫描文档的网页。",
+                    "Let's first write a web page to scan documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937802116,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Include the library of Dynamic Web TWAIN in the head.",
+                    "在head引入Dynamic Web TWAIN的库。",
+                    "Include the library of Dynamic Web TWAIN in the head.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715845128091,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Initialize an instance of Dynamic Web TWAIN and bind it to a viewer.",
+                    "初始化一个Web TWAIN的实例并将其控件绑定到一个容器。",
+                    "Initialize an instance of Dynamic Web TWAIN and bind it to a viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715845154262,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "You can apply for its license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请其许可证。",
+                    " You can apply for its license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1705557083386,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "List connected scanners.",
+                    "列出连接的扫描仪。",
+                    "List connected scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715845177137,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Scan documents using the selected scanner.",
+                    "使用所选扫描仪扫描文档。",
+                    "Scan documents using the selected scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715845184602,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "It will bring up the scanner's configuration UI to perform a scanning.",
+                    "它将显示扫描仪的配置界面以执行扫描。",
+                    " It will bring up the scanner's configuration UI to perform a scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715845196964,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Apart from using the scanner's UI for configuration, we can also directly configure the scanning behavior like auto document feeder, resolution, pixel type and duplex scanning via code:",
+                    "除了使用扫描仪自身的界面进行配置外，我们通过代码直接配置扫描行为。例如自动进纸、分辨率、像素类型、双页扫描等等。",
+                    "Apart from using the scanner's UI for configuration, we can also directly configure the scanning behavior like auto document feeder, resolution, pixel type and duplex scanning via code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722937874316,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Load existing files.",
+                    "加载已有文件。",
+                    "Load existing files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937892043,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "This can make the testing of splitting document easy.",
+                    "这可以方便后续的文档拆分测试。",
+                    " This can make the testing of splitting document easy.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937914633,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Read Barcodes on a Page",
+                    "读取页面上的条码",
+                    "Read Barcodes on a Page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937924827,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Next, let's use Dynamsoft Barcode Reader to read barcodes on pages.",
+                    "接下来，让我们使用 Dynamsoft Barcode Reader来读取页面上的条码。",
+                    "Next, let's use Dynamsoft Barcode Reader to read barcodes on pages.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722937937972,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Include the libraries used by Dynamsoft Barcode Reader.",
+                    "包含Dynamsoft Barcode Reader使用的库。",
+                    "Include the libraries used by Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937950539,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Initialize its license.",
+                    "初始化其许可证。",
+                    "Initialize its license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937956729,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请许可证。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1721876328569,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Create an instance of capture vision router to call Dynamsoft Barcode Reader.",
+                    "创建Capture Vision Router的实例以调用Dynamsoft Barcode Reader。",
+                    "Create an instance of capture vision router to call Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722937973197,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Write a function to convert a page into blob.",
+                    "编写一个将页面图像转换为blob的函数。",
+                    "Write a function to convert a page into blob.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937985307,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Read barcodes from the blob.",
+                    "从blob读取条码。",
+                    "Read barcodes from the blob.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937992003,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Split Documents by Barcodes",
+                    "按条码拆分文档",
+                    "Split Documents by Barcodes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722937996323,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Different documents have their own ways of using barcodes.",
+                    "不同的文档使用条码的方式各不相同。",
+                    "Different documents have their own ways of using barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722938004483,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Normally, there are two ways: put the barcode on the first page, put the barcode on the last page.",
+                    "通常，有两种方式：将条码放在第一页，将条码放在最后一页。",
+                    " Normally, there are two ways: put the barcode on the first page, put the barcode on the last page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722938015989,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Create a <g1>select<\/g1> element for selecting which way to use.",
+                    "创建用于选择使用哪种方式的<g1>select<\/g1>元素。",
+                    "Create a <g1>select<\/g1> element for selecting which way to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722938032714,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Read barcodes on every page and split them based on whether the page contains barcodes.",
+                    "读取每页上的条码，并根据页面是否包含条码进行拆分。",
+                    "Read barcodes on every page and split them based on whether the page contains barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722938040956,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "List documents classified by barcodes.",
+                    "列出按条码分类的文档。",
+                    "List documents classified by barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722938049723,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "<x1\/>Classified<x2\/>",
+                    "<x1\/>分类的<x2\/>",
+                    "<x1\/>Classified<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722938055836,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Get the source code of the demo to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demo to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/product features\/split-documents-via-barcode.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu35"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
