@@ -1,0 +1,614 @@
+{
+    "filename": "select-multiple-images-javascript-viewer.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Select Multiple Images in a Viewer with JavaScript",
+                    "前端实现图片多选",
+                    "How to Select Multiple Images in a Viewer with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723087668673,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-08-07 16:08:53 +0800",
+                    "",
+                    "2024-08-07 16:08:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-08-07 16:08:53 +0800",
+                    "",
+                    "2024-08-07 16:08:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to select multiple images in a viewer with JavaScript.",
+                    "本文介绍了如何使用JavaScript在一个图片查看器中选择多张图片。",
+                    "The article shares how to select multiple images in a viewer with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723087686979,
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    "It handles different selection modes holding different keys.",
+                    "它可以根据不同的快捷键应用不同的选择模式。",
+                    " It handles different selection modes holding different keys.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723087716742,
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/08\/multiple-selection-browse-viewer.jpg",
+                    "",
+                    ".\/img\/2024\/08\/multiple-selection-browse-viewer.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "During document scanning, we may need to select multiple images for reordering, retouching, export, etc.",
+                    "在文档扫描过程中，我们可能需要选择多个图像以进行重新排序、编辑和导出等操作。",
+                    "During document scanning, we may need to select multiple images for reordering, retouching, export, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723087737932,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It is useful to have a document viewer which supports selecting multiple images.",
+                    "这时我们通常需要一个支持多选的文档查看器。",
+                    " It is useful to have a document viewer which supports selecting multiple images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102615718,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Viewer<\/g1> is an SDK for such a purpose.",
+                    "<g1>Dynamsoft Document Viewer<\/g1>是一个提供该种功能的SDK。",
+                    "<g1>Dynamsoft Document Viewer<\/g1> is an SDK for such a purpose.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723087893735,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "It provides a set of viewers for documents.",
+                    "它提供了一组查看器用于文档相关的操作。",
+                    " It provides a set of viewers for documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723087954201,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to demonstrate how to use it to browse and select multiple images.",
+                    "在本文中，我们将演示如何使用它来浏览和选择多张图片。",
+                    " In this article, we are going to demonstrate how to use it to browse and select multiple images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723087956828,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In addition, we will also explore how to implement it from scratch.",
+                    "此外，我们还将探讨如何从头实现这样一个查看器。",
+                    " In addition, we will also explore how to implement it from scratch.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723087983966,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Use Dynamsoft Document Viewer to Browse and Select Multiple Images",
+                    "使用Dynamsoft Document Viewer浏览和选择多个图像",
+                    "Use Dynamsoft Document Viewer to Browse and Select Multiple Images",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723088007255,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template.",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Include Dynamsoft Document Viewer's files.",
+                    "在页面中包含Dynamsoft Document Viewer的文件。",
+                    "Include Dynamsoft Document Viewer's files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723088023598,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "使用许可证初始化Dynamsoft Document Viewer。",
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1719822702610,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "You can apply for one <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请一个证书。",
+                    " You can apply for one <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710149242858,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Create a new document instance.",
+                    "创建一个新的文档实例。",
+                    "Create a new document instance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723088034412,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Create an instance of browse viewer, bind it to a container and use it to view the document we just created.",
+                    "创建一个Browse Viewer实例，将其绑定到一个容器，然后用它来查看我们刚刚创建的文档。",
+                    "Create an instance of browse viewer, bind it to a container and use it to view the document we just created.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723088051207,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "CSS:",
+                    "CSS：",
+                    "CSS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123449396,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Use <g1>input<\/g1> to select multiple image files and load them into the document instance so that we can use the browse viewer to view the files.",
+                    "使用<g1>input<\/g1>选择多个图像文件并将其加载到文档实例中，然后可以用Browse Viewer进行查看。",
+                    "Use <g1>input<\/g1> to select multiple image files and load them into the document instance so that we can use the browse viewer to view the files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723094042695,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "We can use hotkeys for multiple selection.",
+                    "我们可以使用热键进行多选。",
+                    "We can use hotkeys for multiple selection.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723094067541,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Hold CTRL to select and unselect one image and hold SHIFT to select a range of images.",
+                    "按住CTRL键可选择和取消选择一个图像，按住SHIFT键可选择一系列图像。",
+                    " Hold CTRL to select and unselect one image and hold SHIFT to select a range of images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723094083644,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Browse Viewer uses Canvas internally which has a high performance.",
+                    "Browse Viewer内部使用Canvas实现，有较好的性能。",
+                    "Browse Viewer uses Canvas internally which has a high performance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723094154708,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Implement a Viewer for Multiple Selection from Scratch",
+                    "从头开始实现支持多选的查看器",
+                    "Implement a Viewer for Multiple Selection from Scratch",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723094168461,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "So how does the multiple selection work?",
+                    "那么我们可以如何实现多选？",
+                    "So how does the multiple selection work?",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102332166,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Let's implement it in steps.",
+                    "下面是分步实现过程。",
+                    " Let's implement it in steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102344520,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Create a container as the viewer.",
+                    "创建一个容器作为查看器。",
+                    "Create a container as the viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102348908,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "It contains a list of thumbnail containers.",
+                    "它会列出文档图像的缩略图。",
+                    " It contains a list of thumbnail containers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102372029,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Styles:",
+                    "样式：",
+                    "Styles:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709111769196,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "It uses <g1>flex<\/g1> layout to align the views.",
+                    "它使用<g1>flex<\/g1>布局来对齐组件。",
+                    "It uses <g1>flex<\/g1> layout to align the views.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102387885,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "The CSS for the viewer:",
+                    "查看器的CSS：",
+                    "The CSS for the viewer:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102392886,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "The CSS for the thumbnails:",
+                    "缩略图的CSS：",
+                    "The CSS for the thumbnails:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102396476,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Load images from selected files.",
+                    "从所选文件加载图像。",
+                    "Load images from selected files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102400316,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "The height of the image is adjusted based on the image ratio and its container's width.",
+                    "根据图像比率及其容器的宽度对图像元素的高度进行调整。",
+                    " The height of the image is adjusted based on the image ratio and its container's width.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102421357,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Adjust the thumbnail's width based on whether the scrollbar is shown.",
+                    "根据是否存在滚动条调整缩略图的宽度。",
+                    "Adjust the thumbnail's width based on whether the scrollbar is shown.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102440160,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Here we do this by changing a custom CSS property.",
+                    "这里，我们通过更改自定义CSS属性来实现这一点。",
+                    " Here we do this by changing a custom CSS property.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102445614,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Add click events for the thumbnails to select multiple images.",
+                    "为缩略图添加单击事件以选择多个图像。",
+                    "Add click events for the thumbnails to select multiple images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102450429,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "If no keys pressed, select only the clicked one.",
+                    "如果没有按下任何键，选择被点击的单张图。",
+                    "If no keys pressed, select only the clicked one.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102484557,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "If the CTRL key is pressed, toggle the selection status of the clicked one.",
+                    "如果按下CTRL键，则切换被单击图的选择状态。",
+                    "If the CTRL key is pressed, toggle the selection status of the clicked one.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102586062,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "If the SHIFT key is pressed, select images from the first selected index to the clicked index.",
+                    "如果按下SHIFT键，则选中从第一个被选图到当前被点击的图的所有图片。",
+                    "If the SHIFT key is pressed, select images from the first selected index to the clicked index.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723102555863,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/select-multiple-images-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu31"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
