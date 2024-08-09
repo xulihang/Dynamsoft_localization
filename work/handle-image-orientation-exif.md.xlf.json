@@ -1,0 +1,454 @@
+{
+    "filename": "handle-image-orientation-exif.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Handle Image Orientation based on Exif",
+                    "如何基于Exif信息处理图像旋转",
+                    "How to Handle Image Orientation based on Exif",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723189702983,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-08-09 13:31:53 +0800",
+                    "",
+                    "2024-08-09 13:31:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-08-09 13:31:53 +0800",
+                    "",
+                    "2024-08-09 13:31:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Document Normalizer",
+                    "",
+                    "Document Normalizer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Orientation",
+                    "",
+                    "Orientation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Exif",
+                    "",
+                    "Exif",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article talks about what is Exif and how to handle image orientation based on it.",
+                    "",
+                    "The article talks about what is Exif and how to handle image orientation based on it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/08\/exif\/gimp-orientation-prompt.jpg",
+                    "",
+                    ".\/img\/2024\/08\/exif\/gimp-orientation-prompt.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "Exchangeable image file format (officially Exif) is a standard that specifies formats for images, sound, and ancillary tags used by digital cameras (including smartphones).",
+                    "可交换图像文件格式（正式名称Exif ）是一种标准，用于指定数码相机（包括智能手机）的图像和声音使用的格式和辅助标签。",
+                    "Exchangeable image file format (officially Exif) is a standard that specifies formats for images, sound, and ancillary tags used by digital cameras (including smartphones).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723189785943,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It contains metadata like camera parameters, image dimensions, and image orientation.",
+                    "它包含相机参数、图像尺寸和图像方向等元数据。",
+                    " It contains metadata like camera parameters, image dimensions, and image orientation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723189798351,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Most camera sensors have a shape where its width is larger than the height.",
+                    "大多数相机传感器的形状是宽度大于高度的长方形。",
+                    "Most camera sensors have a shape where its width is larger than the height.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723189866743,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "If a photo is taken in portrait, the raw image data is still stored in the sensor's dimension.",
+                    "即使竖着拍摄照片，原始图像数据仍按照传感器的形状进行存储。",
+                    " If a photo is taken in portrait, the raw image data is still stored in the sensor's dimension.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723189925769,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "When viewing the photo, we need to know how to display it correctly.",
+                    "在查看照片时，我们需要知道如何正确显示它们。",
+                    " When viewing the photo, we need to know how to display it correctly.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190368224,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "This is when the orientation flag in Exif is needed.",
+                    "此时需要Exif中的方向数据。",
+                    " This is when the orientation flag in Exif is needed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723189968058,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "The camera's orientation sensor will provide the orientation info.",
+                    "相机的方向传感器可用于提供这一信息。",
+                    " The camera's orientation sensor will provide the orientation info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723189995695,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Here is a diagram of the flags of orientation and the rotation needed for display (<g1>image source<\/g1>).",
+                    "以下是关于方向和用于显示所需的旋转角度的示意图（<g1>图源<\/g1>）。",
+                    "Here is a diagram of the flags of orientation and the rotation needed for display (<g1>image source<\/g1>).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190091030,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>orientation flag<x2\/>",
+                    "<x1\/>方向标记<x2\/>",
+                    "<x1\/>orientation flag<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190100606,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "If the image is mirrored, then the flags are like the right graph in the following image:",
+                    "如果图像是镜像翻转的，则方向标记如下图中的右图所示：",
+                    "If the image is mirrored, then the flags are like the right graph in the following image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190124977,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "<x1\/>orientation flag mirrored<x2\/>",
+                    "<x1\/>方向标记-镜像<x2\/>",
+                    "<x1\/>orientation flag mirrored<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190142946,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Most image viewers and browsers will display images based on the orientation.",
+                    "大多数图像查看器和网页浏览器会自动根据方向标记显示图像。",
+                    "Most image viewers and browsers will display images based on the orientation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190163543,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Some image editors like GIMP will prompt the user whether to rotate the image.",
+                    "一些图像编辑器，如GIMP，会提示用户是否旋转图像。",
+                    " Some image editors like GIMP will prompt the user whether to rotate the image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190169494,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "<x1\/>gimp orientation prompt<x2\/>",
+                    "<x1\/>gimp方向提示<x2\/>",
+                    "<x1\/>gimp orientation prompt<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190173503,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Code for Correcting the Image Orientation",
+                    "用于校正图像方向的代码",
+                    "Code for Correcting the Image Orientation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190178494,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "When developing a mobile document scanning app, we may need to rotate the images taken based on the orientation.",
+                    "在开发移动文档扫描应用程序时，我们可能需要根据方向旋转拍摄的图像。",
+                    "When developing a mobile document scanning app, we may need to rotate the images taken based on the orientation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190198597,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Here is the code to do this.",
+                    "以下是执行此操作的代码。",
+                    "Here is the code to do this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190209974,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "For Android (Java):",
+                    "Android（Java）：",
+                    "For Android (Java):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190219247,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Please note that bitmap does not contain the Exif.",
+                    "注意Bitmap不包含Exif。",
+                    "Please note that bitmap does not contain the Exif.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190227921,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "You need to directly pass the path for <g1>ExifInterface<\/g1>.",
+                    "需要直接传递文件路径给<g1>ExifInterface<\/g1>。",
+                    " You need to directly pass the path for <g1>ExifInterface<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190270104,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "For iOS (Swift):",
+                    "iOS（Swift）：",
+                    "For iOS (Swift):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190275160,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Check out the Android and iOS document scanner demos to have a try:",
+                    "安卓和iOS文档扫描demo的源代码：",
+                    "Check out the Android and iOS document scanner demos to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723190307647,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Android Document Scanner",
+                    "安卓文档扫描",
+                    "<g1>Android Document Scanner<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190318240,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "iOS Document Scanner",
+                    "iOS文档扫描",
+                    "<g1>iOS Document Scanner<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723190322024,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Normalizer<\/g1> is used for document boundary detection and cropping.",
+                    "使用了Dynamsoft Document Normalizer SDK来执行文档检测和裁剪操作。",
+                    "<g1>Dynamsoft Document Normalizer<\/g1> is used for document boundary detection and cropping.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723190339745,
+                        "id": "tu19"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
