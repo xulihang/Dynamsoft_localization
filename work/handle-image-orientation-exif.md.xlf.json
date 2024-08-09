@@ -142,10 +142,12 @@
                 ],
                 [
                     "The article talks about what is Exif and how to handle image orientation based on it.",
-                    "",
+                    "本文讨论了什么是Exif以及如何基于它处理图像方向。",
                     "The article talks about what is Exif and how to handle image orientation based on it.",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/programming languages and frameworks\/handle-image-orientation-exif.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1723190537341,
                         "id": "sd1_sf1_sg1_sf16_tu1"
                     }
                 ],
