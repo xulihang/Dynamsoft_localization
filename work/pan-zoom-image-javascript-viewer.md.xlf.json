@@ -1,0 +1,652 @@
+{
+    "filename": "pan-zoom-image-javascript-viewer.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Pan and Zoom an Image with JavaScript",
+                    "如何使用JavaScript平移和缩放图像",
+                    "How to Pan and Zoom an Image with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599253609,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-08-13 16:59:53 +0800",
+                    "",
+                    "2024-08-13 16:59:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-08-13 16:59:53 +0800",
+                    "",
+                    "2024-08-13 16:59:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to pan and zoom an image with JavaScript.",
+                    "本文分享了如何使用JavaScript平移和缩放图像。",
+                    "The article shares how to pan and zoom an image with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599268779,
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    "It uses Dynamsoft Document Viewer's Edit Viewer and talks about the implementation details.",
+                    "使用了Dynamsoft Document Viewer的Edit Viewer，并讨论了实现细节。",
+                    " It uses Dynamsoft Document Viewer's Edit Viewer and talks about the implementation details.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599301312,
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/08\/pan-and-zoom.jpg",
+                    "",
+                    ".\/img\/2024\/08\/pan-and-zoom.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "Pan and zoom is a useful feature for viewing images.",
+                    "平移和缩放是查看图像时常用的功能。",
+                    "Pan and zoom is a useful feature for viewing images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599321138,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can zoom in the image to see more details and perform image editing.",
+                    "我们可以放大图像以查看更多细节，进行图像编辑。",
+                    " We can zoom in the image to see more details and perform image editing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599366243,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Viewer<\/g1> is an SDK for such a purpose, which provides a set of viewers for document images.",
+                    "<g1>Dynamsoft Document Viewer<\/g1>是一个用于此目的的SDK，它为文档图像提供了一组查看器。",
+                    "<g1>Dynamsoft Document Viewer<\/g1> is an SDK for such a purpose, which provides a set of viewers for document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599348097,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to demonstrate how to use it to pan and zoom an image.",
+                    "在本文中，我们将演示如何使用它来平移和缩放图像。",
+                    " In this article, we are going to demonstrate how to use it to pan and zoom an image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599375818,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In addition, we will also explore how to implement it from scratch with JavaScript.",
+                    "此外，我们还将探讨如何使用JavaScript从头实现这一功能。",
+                    " In addition, we will also explore how to implement it from scratch with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599393600,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Use Dynamsoft Document Viewer to Pan and Zoom an Image",
+                    "使用Dynamsoft Document Viewer平移和缩放图像",
+                    "Use Dynamsoft Document Viewer to Pan and Zoom an Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599412386,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template.",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Include Dynamsoft Document Viewer's files.",
+                    "在页面中包含Dynamsoft Document Viewer的文件。",
+                    "Include Dynamsoft Document Viewer's files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723088023598,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "使用许可证初始化Dynamsoft Document Viewer。",
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1719822702610,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "You can apply for one <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请一个证书。",
+                    " You can apply for one <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710149242858,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Create a new document instance.",
+                    "创建一个新的文档实例。",
+                    "Create a new document instance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723088034412,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Create an instance of edit viewer, bind it to a container and use it to view the document we just created.",
+                    "创建一个Edit Viewer实例，将其绑定到一个容器，然后用它来查看我们刚刚创建的文档。",
+                    "Create an instance of edit viewer, bind it to a container and use it to view the document we just created.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723599432308,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "CSS:",
+                    "CSS：",
+                    "CSS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123449396,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Use <g1>input<\/g1> to select an image file and load it into the document instance so that we can use the edit viewer to view the file.",
+                    "使用<g1>input<\/g1>选择图像文件并将其加载到文档实例中，然后可以用Edit Viewer进行查看。",
+                    "Use <g1>input<\/g1> to select an image file and load it into the document instance so that we can use the edit viewer to view the file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723599452610,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "We can then hold the control key and use the mouse wheel to zoom in and zoom out and pan the image.",
+                    "然后，我们可以按住控制键，使用鼠标滚轮放大、缩小和平移图像。",
+                    "We can then hold the control key and use the mouse wheel to zoom in and zoom out and pan the image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599460216,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "On mobile devices, we can pinch to zoom.",
+                    "在移动设备上，我们可以通过双指实现缩放。",
+                    " On mobile devices, we can pinch to zoom.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599481099,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Implement Pan and Zoom from Scratch",
+                    "从头开始实现平移和缩放",
+                    "Implement Pan and Zoom from Scratch",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723599490506,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "There are several ways to implement pan and zoom.",
+                    "有几种方法可以实现平移和缩放。",
+                    "There are several ways to implement pan and zoom.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599493728,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Use absolute pixel values.",
+                    "使用绝对像素值。",
+                    "Use absolute pixel values.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599498032,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "It is easy to understand and can have scrollbars.",
+                    "它易于理解，可以有滚动条。",
+                    " It is easy to understand and can have scrollbars.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599509752,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Use CSS transform.",
+                    "使用CSS transform。",
+                    "Use CSS transform.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599517944,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "It can use GPU for a better performance but it cannot keep the scrollbars.",
+                    "它可以使用GPU来获得更好的性能，但不能保留滚动条。",
+                    " It can use GPU for a better performance but it cannot keep the scrollbars.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599520528,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Use Canvas.",
+                    "使用Canvas。",
+                    "Use Canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599528201,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "It has high performance and great customizability.",
+                    "它具有较高的性能和定制性。",
+                    " It has high performance and great customizability.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599539681,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Dynamsoft Document Viewer uses this method.",
+                    "Dynamsoft Document Viewer使用此方法。",
+                    " Dynamsoft Document Viewer uses this method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599551528,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "In the following, we are going to use the first way for demonstration.",
+                    "下面，我们将使用第一种方式进行演示。",
+                    "In the following, we are going to use the first way for demonstration.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599553600,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Create a container as the viewer.",
+                    "创建一个容器作为查看器。",
+                    "Create a container as the viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723102348908,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "It contains the image.",
+                    "包含一张图像。",
+                    " It contains the image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599575945,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Styles:",
+                    "样式：",
+                    "Styles:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709111769196,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "It uses <g1>flex<\/g1> layout to align the views.",
+                    "使用<g1>flex<\/g1>布局来对齐组件。",
+                    "It uses <g1>flex<\/g1> layout to align the views.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723599572384,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "The CSS for the viewer:",
+                    "查看器的CSS：",
+                    "The CSS for the viewer:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599582048,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "The CSS for the image:",
+                    "图片的CSS：",
+                    "The CSS for the image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599583912,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Load the selected image file.",
+                    "加载所选图像文件。",
+                    "Load the selected image file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599589088,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Fit the image's width to the viewer.",
+                    "使图像的宽度适合查看器。",
+                    " Fit the image's width to the viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599593080,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Add a wheel event for zooming with the mouse with the control key pressed.",
+                    "添加一个wheel事件，以便在按下控制键的情况下使用鼠标进行缩放。",
+                    "Add a wheel event for zooming with the mouse with the control key pressed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599627867,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Add pointer events to implement pan with a mouse or a touchscreen.",
+                    "添加pointer事件以使用鼠标或触摸屏实现平移。",
+                    "Add pointer events to implement pan with a mouse or a touchscreen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599619082,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Add a touch move event to support pinch to zoom.",
+                    "添加touchmove事件以支持缩放。",
+                    "Add a touch move event to support pinch to zoom.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599624291,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "It calculates the distance between the two touches to know whether to zoom in or zoom out.",
+                    "计算两个触摸点的距离，以知道需要放大还是缩小。",
+                    " It calculates the distance between the two touches to know whether to zoom in or zoom out.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599649961,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "All right, we've implemented the pan and zoom feature with JavaScript.",
+                    "好了，我们已经用JavaScript实现了平移和缩放功能。",
+                    "All right, we've implemented the pan and zoom feature with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1723599653720,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pan-zoom-image-javascript-viewer.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu32"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
