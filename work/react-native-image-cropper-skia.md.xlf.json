@@ -1,0 +1,589 @@
+{
+    "filename": "react-native-image-cropper-skia.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "React Native Image Cropper with Skia and Gesture Handler",
+                    "React Native图像裁剪组件，基于Skia和Gesture Handler",
+                    "React Native Image Cropper with Skia and Gesture Handler",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111805926,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-09-11 09:42:53 +0800",
+                    "",
+                    "2024-09-11 09:42:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-09-11 09:42:53 +0800",
+                    "",
+                    "2024-09-11 09:42:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Document Normalizer",
+                    "",
+                    "Document Normalizer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "React Native",
+                    "",
+                    "React Native",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a React Native app to crop images.",
+                    "本文讨论了如何构建一个React Native应用程序来裁剪图像。",
+                    "The article talks about how to build a React Native app to crop images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111811202,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "It uses React Native Skia and React Native Gesture Handler to provide an interactive cropper.",
+                    "它使用React Native Skia和React Native Gesture Handler来提供交互式的裁剪功能。",
+                    " It uses React Native Skia and React Native Gesture Handler to provide an interactive cropper.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111831980,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "Dynamsoft Document Normalizer is used to detect the document boundaries and do perspective transformation to crop the image.",
+                    "使用Dynamsoft Document Normalizer检测文档边界并进行透视变换以裁剪图像。",
+                    " Dynamsoft Document Normalizer is used to detect the document boundaries and do perspective transformation to crop the image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111851582,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/09\/react-native-image-cropper\/cropper.jpg",
+                    "",
+                    ".\/img\/2024\/09\/react-native-image-cropper\/cropper.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to write a React Native demo to crop images.",
+                    "在本文中，我们将编写一个React Native的demo来裁剪图像。",
+                    "In this article, we are going to write a React Native demo to crop images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111862844,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It uses React Native Skia and React Native Gesture Handler to provide an interactive cropper.",
+                    "它使用React Native Skia和React Native Gesture Handler来提供交互式的裁剪功能。",
+                    " It uses React Native Skia and React Native Gesture Handler to provide an interactive cropper.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1726111831980,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Normalizer<\/g1> is used to detect the document boundaries and do perspective transformation to crop the image.",
+                    "使用<g1>Dynamsoft Document Normalizer<\/g1>检测文档边界并进行透视变换以裁剪图像。",
+                    "<g1>Dynamsoft Document Normalizer<\/g1> is used to detect the document boundaries and do perspective transformation to crop the image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1726111873933,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<x1\/>cropper<x2\/>",
+                    "<x1\/>裁剪组件<x2\/>",
+                    "<x1\/>cropper<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111884236,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Create a new React Native project:",
+                    "创建一个新的React Native项目：",
+                    "Create a new React Native project:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709111131622,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Install React Native Skia to draw the polygon representing the boundaries of documents.",
+                    "安装React Native Skia来绘制代表文档边界的多边形。",
+                    "Install React Native Skia to draw the polygon representing the boundaries of documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111893324,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Install React Native Gesture Handler to make it possible to adjust the polygon with gestures.",
+                    "安装React Native Gesture Handler，以便使用手势调整多边形。",
+                    "Install React Native Gesture Handler to make it possible to adjust the polygon with gestures.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111905156,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Install React Native Image Picker to pick an image from the album.",
+                    "安装React Native Image Picker以从相册中选取图像。",
+                    "Install React Native Image Picker to pick an image from the album.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111914874,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Install <g1>vision-camera-dynamsoft-document-normalizer<\/g1> to detect and crop document images.",
+                    "安装<g1>vision-camera-dynamsoft-document-normalizer<\/g1>以检测和裁剪文档图像。",
+                    "Install <g1>vision-camera-dynamsoft-document-normalizer<\/g1> to detect and crop document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111919172,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "In addition, add the following to <g1>babel.conf.js<\/g1>:",
+                    "此外，在<g1>babel.conf.js<\/g1>中添加以下内容：",
+                    "In addition, add the following to <g1>babel.conf.js<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111924962,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Pick an Image and Display it in Skia's Canvas",
+                    "选择图像并将其显示在Skia的Canvas中",
+                    "Pick an Image and Display it in Skia's Canvas",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111943738,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Use <g1>react-native-image-picker<\/g1> to pick an image and we can get its uri and dimensions.",
+                    "使用<g1>react-native-image-picker<\/g1>选择图像，我们可以获取其URI和尺寸。",
+                    "Use <g1>react-native-image-picker<\/g1> to pick an image and we can get its uri and dimensions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111947082,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Then, draw the image using Skia.",
+                    "然后，使用Skia绘制图像。",
+                    "Then, draw the image using Skia.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111956243,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Detect the Document and Draw Polygon",
+                    "检测文档并绘制多边形",
+                    "Detect the Document and Draw Polygon",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111961858,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Next, detect the document within the selected image and draw its polygon.",
+                    "接下来，检测所选图像中的文档并绘制其多边形。",
+                    "Next, detect the document within the selected image and draw its polygon.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111965898,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Initialize the license of Dynamsoft Document Normalizer.",
+                    "初始化Dynamsoft Document Normalizer的许可证。",
+                    "Initialize the license of Dynamsoft Document Normalizer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1718351947140,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在此处申请<g1>许可证<\/g1>。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725333053319,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Detect the document and save the detection results as a shared value.",
+                    "检测文档并将检测结果保存为sharedValue。",
+                    "Detect the document and save the detection results as a shared value.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726111996901,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "We need to convert the points to match the image displayed on the screen.",
+                    "我们需要转换坐标以匹配屏幕上显示的图像。",
+                    "We need to convert the points to match the image displayed on the screen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112005652,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Draw the polygon using Skia.",
+                    "使用Skia绘制多边形。",
+                    "Draw the polygon using Skia.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112010314,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "<x1\/>polygon<x2\/>",
+                    "<x1\/>多边形<x2\/>",
+                    "<x1\/>polygon<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112014050,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Make the Polygon Adjustable using Gesture Handler",
+                    "使用Gesture Handler使多边形可调整",
+                    "Make the Polygon Adjustable using Gesture Handler",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112030724,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Add rectangles around the corners to indicate that the polygon is adjustable.",
+                    "在周围添加矩形，以表明多边形是可调整的。",
+                    "Add rectangles around the corners to indicate that the polygon is adjustable.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112046797,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "<x1\/>polygon with rect<x2\/>",
+                    "<x1\/>带矩形的多边形<x2\/>",
+                    "<x1\/>polygon with rect<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112058146,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Wrap the component in <g1>GestureHandlerRootView<\/g1>.",
+                    "将组件包在<g1>GestureHandlerRootView<\/g1>中。",
+                    "Wrap the component in <g1>GestureHandlerRootView<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112077276,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Add <g1>GestureDetector<\/g1> for the canvas.",
+                    "为Canvas添加<g1>GestureDetector<\/g1>。",
+                    "Add <g1>GestureDetector<\/g1> for the canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112085467,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "The detector detects two gestures: tap and pan.",
+                    "检测器检测两个手势：点击和平移。",
+                    "The detector detects two gestures: tap and pan.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112089570,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "In the tap gesture, we detect which rectangle is tapped.",
+                    "在点击手势中，我们检测哪个矩形被点击。",
+                    " In the tap gesture, we detect which rectangle is tapped.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112093042,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "In the pan gesture, move the selected corner.",
+                    "在平移手势中，移动选定的角点。",
+                    " In the pan gesture, move the selected corner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112109618,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Run Perspective Transformation to Get the Cropped Image",
+                    "运行透视变换以获得裁剪图像",
+                    "Run Perspective Transformation to Get the Cropped Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112113026,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "After the adjustment, use Dynamsoft Document Normalizer to run perspective transformation to get the cropped image.",
+                    "调整后，使用Dynamsoft Document Normalizer运行透视变换以获得裁剪后的图像。",
+                    "After the adjustment, use Dynamsoft Document Normalizer to run perspective transformation to get the cropped image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726112116634,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "<x1\/>cropped<x2\/>",
+                    "<x1\/>裁剪的<x2\/>",
+                    "<x1\/>cropped<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698731392448,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "We've now completed the demo.",
+                    "示例应用编写完成了。",
+                    "We've now completed the demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699582022119,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Get the source code and have a try:",
+                    "下载源代码并尝试使用：",
+                    " Get the source code and have a try: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/mobile\/react-native-image-cropper-skia.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699582032112,
+                        "id": "tu32"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

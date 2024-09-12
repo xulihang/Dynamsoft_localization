@@ -1,0 +1,875 @@
+{
+    "filename": "pdf-annotations-scanned-document-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Add PDF Annotations to Scanned Documents with JavaScript",
+                    "前端实现PDF标注",
+                    "How to Add PDF Annotations to Scanned Documents with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332552352,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-09-02 15:08:53 +0800",
+                    "",
+                    "2024-09-02 15:08:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-09-02 15:08:53 +0800",
+                    "",
+                    "2024-09-02 15:08:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "PDF",
+                    "",
+                    "PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Annotation",
+                    "",
+                    "Annotation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to add PDF annotations to scanned documents with JavaScript.",
+                    "本文分享了如何使用JavaScript给扫描的文档添加PDF标注。",
+                    "The article shares how to add PDF annotations to scanned documents with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332556760,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "It uses Dynamsoft Document Viewer to view and annotate documents.",
+                    "它使用Dynamsoft Document Viewer来查看和标注文档。",
+                    " It uses Dynamsoft Document Viewer to view and annotate documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332571871,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/09\/pdf-annotation\/cover.jpg",
+                    "",
+                    ".\/img\/2024\/09\/pdf-annotation\/cover.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Viewer<\/g1> is an SDK providing a set of viewers for document images.",
+                    "<g1>Dynamsoft Document Viewer<\/g1>是为文档图像提供查看、管理功能的SDK。",
+                    "<g1>Dynamsoft Document Viewer<\/g1> is an SDK providing a set of viewers for document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332627256,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It has added an annotation feature since v2.0, which makes it easy to create a document scanning solution along with the following SDKs:",
+                    "v2.0新增了标注功能，可以结合以下SDK构建文档扫描方案：",
+                    " It has added an annotation feature since v2.0, which makes it easy to create a document scanning solution along with the following SDKs:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332675128,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamic Web TWAIN<\/g1> to access document scanners in the browser.",
+                    "<g1>Dynamic Web TWAIN<\/g1>：在浏览器中访问文档扫描仪。",
+                    "<g1>Dynamic Web TWAIN<\/g1> to access document scanners in the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332688143,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Normalizer<\/g1> to detect the document boundaries.",
+                    "<g1>Dynamsoft Document Normalizer<\/g1>：检测文档边界。",
+                    "<g1>Dynamsoft Document Normalizer<\/g1> to detect the document boundaries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332702816,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about what annotations it provides, what use cases it can do and some codes for illustration.",
+                    "在本文中，我们将讨论它提供了哪些标注，有什么使用案例，以及代码展示。",
+                    "In this article, we are going to talk about what annotations it provides, what use cases it can do and some codes for illustration.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332726878,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Online demo with document scanning and annotation features",
+                    "具有文档扫描和标注功能的在线demo",
+                    "<g1>Online demo with document scanning and annotation features<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332740416,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Supported Annotations",
+                    "支持的标注",
+                    "Supported Annotations",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332748004,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Currently, it can annoatate with shapes, free drawing, text and images.",
+                    "目前，支持形状、画笔、文本、图像等标注。",
+                    "Currently, it can annoatate with shapes, free drawing, text and images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332778311,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Shapes:",
+                    "形状：",
+                    "Shapes:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332783068,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Rectangle",
+                    "矩形",
+                    "Rectangle",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332784685,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Ellipse",
+                    "椭圆",
+                    "Ellipse",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332786294,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Polygon",
+                    "多边形",
+                    "Polygon",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332788460,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Polyline",
+                    "折线",
+                    "Polyline",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332791293,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Line",
+                    "直线",
+                    "Line",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332800940,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Text:",
+                    "文本：",
+                    "Text:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332804101,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "TextBox",
+                    "文本框",
+                    "TextBox",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332805820,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "TextTypewriter",
+                    "TextTypewriter",
+                    "TextTypewriter",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332809373,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Other:",
+                    "其他：",
+                    "Other:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332814020,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Ink (freehand drawing)",
+                    "墨水（自由画笔）",
+                    "Ink (freehand drawing)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332824672,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Stamp (custom image)",
+                    "印章（自定义图像）",
+                    "Stamp (custom image)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332977505,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Some Use Cases",
+                    "一些用例",
+                    "Some Use Cases",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332843604,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Using the annotation feature, we can achieve some common tasks in document management.",
+                    "使用标注功能，我们可以实现文档管理中的一些常见任务。",
+                    "Using the annotation feature, we can achieve some common tasks in document management.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332876689,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Add comments and highlights.",
+                    "添加评论和高亮。",
+                    "Add comments and highlights.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332884517,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "<x1\/>rectangles and text<x2\/>",
+                    "<x1\/>矩形和文本<x2\/>",
+                    "<x1\/>rectangles and text<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332886373,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Add barcodes or QR codes for document identification.",
+                    "添加条形码或二维码用于文档标识。",
+                    "Add barcodes or QR codes for document identification.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332914774,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "<x1\/>barcode<x2\/>",
+                    "<x1\/>条形码<x2\/>",
+                    "<x1\/>barcode<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332916925,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Redact sensitive information like the contact's name or photo.",
+                    "遮盖敏感信息，如联系人的姓名或照片。",
+                    "Redact sensitive information like the contact's name or photo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332929856,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "<x1\/>redact<x2\/>",
+                    "<x1\/>遮盖<x2\/>",
+                    "<x1\/>redact<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332937375,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Proofread a manuscript by drawing markups.",
+                    "通过绘制标记来校对手稿。",
+                    "Proofread a manuscript by drawing markups.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332940156,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "<x1\/>proofreading<x2\/>",
+                    "<x1\/>校对<x2\/>",
+                    "<x1\/>proofreading<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332947996,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Add stamps for specifying the document's status.",
+                    "添加用于指定文档状态的印章。",
+                    "Add stamps for specifying the document's status.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332974008,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "<x1\/>stamp and images<x2\/>",
+                    "<x1\/>印章和图像<x2\/>",
+                    "<x1\/>stamp and images<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332981950,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Code in Action",
+                    "实现代码",
+                    "Code in Action",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725332994669,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Let's check out some codes to add annotations.",
+                    "下面是用于添加标记的相关代码。",
+                    "Let's check out some codes to add annotations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333012526,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Add Dynamsoft Document Viewer",
+                    "添加Dynamsoft Document Viewer",
+                    "Add Dynamsoft Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333021013,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "To use Dynamsoft Document Viewer in a web page, include the following files:",
+                    "要在网页中使用Dynamsoft Document Viewer，需要包含以下文件：",
+                    "To use Dynamsoft Document Viewer in a web page, include the following files:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333033520,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Then initialize it with the following code:",
+                    "然后用以下代码进行初始化：",
+                    "Then initialize it with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333042103,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在此处申请<g1>许可证<\/g1>。",
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333053319,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Create an Edit Viewer for Annotating",
+                    "创建用于标注的Edit Viewer",
+                    "Create an Edit Viewer for Annotating",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333065197,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "We need to create an instance of Edit Viewer to view and add annotations.",
+                    "我们需要创建一个Edit Viewer实例来查看和添加标注。",
+                    "We need to create an instance of Edit Viewer to view and add annotations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333073694,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Open the Edit Viewer, click the annotation icon and we can start adding annotations via the UI.",
+                    "打开Edit Viewer，点击标注图标，我们可以通过界面添加标注。",
+                    "Open the Edit Viewer, click the annotation icon and we can start adding annotations via the UI.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333101232,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "<x1\/>edit viewer<x2\/>",
+                    "<x1\/>Edit Viewer<x2\/>",
+                    "<x1\/>edit viewer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333108544,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Add Annotations via Code",
+                    "通过代码添加标注",
+                    "Add Annotations via Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333116353,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Apart from using the Edit Viewer, we can also add annotations via code.",
+                    "除了使用Edit Viewer，我们还可以通过代码添加标注。",
+                    "Apart from using the Edit Viewer, we can also add annotations via code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333133413,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "For example, we need to redact some words like names.",
+                    "例如，我们需要遮盖姓名这样的文本内容。",
+                    "For example, we need to redact some words like names.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333152022,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "We can use OCR to get the bounding boxes of the words and add rectangle annotations accordingly.",
+                    "可以使用OCR来获取单词的边界框，然后在对应位置添加矩形标注。",
+                    " We can use OCR to get the bounding boxes of the words and add rectangle annotations accordingly.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333173071,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Please note that the coordinates should be in point and we need to convert pixels to points first.",
+                    "注意，这里坐标的单位是点，我们需要先将像素转换为点。",
+                    " Please note that the coordinates should be in point and we need to convert pixels to points first.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333191040,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "You can add other types of annotations.",
+                    "可以添加其他类型的标注。",
+                    "You can add other types of annotations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333202718,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Check out the <g1>docs<\/g1> for details.",
+                    "查看<g1>文档<\/g1>了解更多。",
+                    " Check out the <g1>docs<\/g1> for details.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333212400,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Save as PDF",
+                    "保存为PDF",
+                    "Save as PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333217804,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "We can save the images as a PDF file with annotations.",
+                    "我们可以将图像保存为带有标注的PDF文件。",
+                    "We can save the images as a PDF file with annotations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333225088,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "We can specify how to save the annotations using the <g1>saveAnnotation<\/g1> setting.",
+                    "使用<g1>saveAnnotation<\/g1>设置，可以指定如何保存注释。",
+                    "We can specify how to save the annotations using the <g1>saveAnnotation<\/g1> setting.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333236007,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "It has the following options:",
+                    "它有以下选项：",
+                    " It has the following options:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333239373,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "<g1>none<\/g1>: not saving annotations.",
+                    "<g1>none<\/g1>：不保存标注。",
+                    "<g1>none<\/g1>: not saving annotations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333250302,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "<g1>image<\/g1>: saving annotations as a part of image.",
+                    "<g1>image<\/g1>：将标注以图像保存。",
+                    "<g1>image<\/g1>: saving annotations as a part of image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333267169,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "<g1>annotation<\/g1>: saving annotations as pdf annotations.",
+                    "<g1>annotation<\/g1>：将标注以PDF标注格式保存。",
+                    "<g1>annotation<\/g1>: saving annotations as pdf annotations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333303208,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "<g1>flatten<\/g1>: saving annotations as page content.",
+                    "<g1>flatten<\/g1>：将标注融合到页面图像中。",
+                    "<g1>flatten<\/g1>: saving annotations as page content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333333063,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "If we choose the <g1>annotation<\/g1> option, we can continue editing the annotations later using Dynamsoft Document Viewer or other PDF editors like Adobe Acrobat.",
+                    "如果我们选择<g1>annotation<\/g1>选项，导出后，我们可以用Dynamsoft Document Viewer或Adobe Acrobat等其他PDF编辑器继续编辑标注。",
+                    "If we choose the <g1>annotation<\/g1> option, we can continue editing the annotations later using Dynamsoft Document Viewer or other PDF editors like Adobe Acrobat.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333356154,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "Load PDF with Annotations",
+                    "加载带有标注的PDF文件",
+                    "Load PDF with Annotations",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333367301,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "If we have an existing PDF file with annotations, we can load it with the following code:",
+                    "如果我们有一个带有标注的PDF文件，可以用以下代码加载它：",
+                    "If we have an existing PDF file with annotations, we can load it with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333380615,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "There are several modes for loading the annotations:",
+                    "加载标注有几种模式：",
+                    "There are several modes for loading the annotations:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333388713,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "If we choose the <g1>LOAD_ANNOTATIONS<\/g1> mode, we can continue editing the existing annotations in a PDF file.",
+                    "如果我们选择<g1>LOAD_ANNOTATIONS<\/g1>模式，加载文件后，我们可以继续编辑PDF文件中的现有标注。",
+                    "If we choose the <g1>LOAD_ANNOTATIONS<\/g1> mode, we can continue editing the existing annotations in a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725333417199,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Check out the source code of the demo to have a try.",
+                    "查看demo的源代码并尝试使用：",
+                    "Check out the source code of the demo to have a try.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-annotations-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604948138,
+                        "id": "tu59"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
