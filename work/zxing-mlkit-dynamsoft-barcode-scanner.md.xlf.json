@@ -1,0 +1,1608 @@
+{
+    "filename": "zxing-mlkit-dynamsoft-barcode-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Barcode Scanner using ZXing, ML Kit, and Dynamsoft",
+                    "条码扫描，使用ZXing、ML Kit和Dynamsoft",
+                    "Barcode Scanner using ZXing, ML Kit, and Dynamsoft",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709515606,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-09-18 15:13:53 +0800",
+                    "",
+                    "2024-09-18 15:13:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-09-18 15:13:53 +0800",
+                    "",
+                    "2024-09-18 15:13:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode Reader",
+                    "",
+                    "Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "React Native",
+                    "",
+                    "React Native",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "Mobile Framework",
+                    "",
+                    "Mobile Framework",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf16_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a barcode scanner using ZXing, ML Kit and Dynamsoft Barcode Reader with React Native Vision Camera.",
+                    "本文讨论了如何使用ZXing、ML Kit和Dynamsoft barcode Reader编写一个React Native条码扫描应用，",
+                    "The article talks about how to build a barcode scanner using ZXing, ML Kit and Dynamsoft Barcode Reader with React Native Vision Camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709590805,
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "A comparison is made between the SDKs.",
+                    "并对它们进行比较。",
+                    " A comparison is made between the SDKs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709590805,
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/09\/zxing-mlkit-dynamsoft\/home.jpg",
+                    "",
+                    ".\/img\/2024\/09\/zxing-mlkit-dynamsoft\/home.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf18_tu1"
+                    }
+                ],
+                [
+                    "Barcode has been around for more than half a century.",
+                    "条码被发明已经半个多世纪了。",
+                    "Barcode has been around for more than half a century.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709641842,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "There are various types of barcodes and reading libraries.",
+                    "有各种类型的条码和读码库。",
+                    " There are various types of barcodes and reading libraries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709701395,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Some libraries focus on one barcode format like libdmtx while most libraries can read all kinds of formats.",
+                    "一些库专注于一种条码格式，如libdmtx，而大多数库可以读取各种格式。",
+                    " Some libraries focus on one barcode format like libdmtx while most libraries can read all kinds of formats.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709713036,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to implement a mobile barcode scanner with three libraries to make it easy to decide which one to use:",
+                    "在本文中，我们将实现一个使用以下三个库的移动条码扫描应用，以便对这些库进行比较：",
+                    " In this article, we are going to implement a mobile barcode scanner with three libraries to make it easy to decide which one to use:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709749389,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>ZXing<\/g1>: an open-source library",
+                    "<g1>ZXing<\/g1>：一个开源的库",
+                    "<g1>ZXing<\/g1>: an open-source library",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709803912,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<g1>ML Kit<\/g1>: a free library by Google",
+                    "<g1>ML Kit<\/g1>：谷歌提供的免费的库",
+                    "<g1>ML Kit<\/g1>: a free library by Google",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709801436,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1>: an enterprise-grade SDK by Dynamsoft",
+                    "<g1>Dynamsoft Barcode Reader<\/g1>：企业级的SDK",
+                    "<g1>Dynamsoft Barcode Reader<\/g1>: an enterprise-grade SDK by Dynamsoft",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709855102,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Steps on Building a React Native Barcode Scanner",
+                    "构建React Native条码扫描应用",
+                    "Steps on Building a React Native Barcode Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709876077,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "There are many ways to build an app.",
+                    "构建应用程序的方法有很多。",
+                    "There are many ways to build an app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709887819,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "We can use Java or Kotlin for Android development and Objective-C\/Swift for iOS development.",
+                    "我们可以使用Java或Kotlin开发Android应用，使用Objective-C\/Swift开发iOS应用。",
+                    " We can use Java or Kotlin for Android development and Objective-C\/Swift for iOS development.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726709915686,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Here, we are going to use React Native to create a cross-platform app.",
+                    "这里，我们使用React Native创建一个跨平台的应用。",
+                    " Here, we are going to use React Native to create a cross-platform app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710134853,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Using the libraries is largely the same using different languages.",
+                    "这些库的扫描效果用不同语言都是一样的。",
+                    " Using the libraries is largely the same using different languages.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710204732,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Create a new project:",
+                    "创建新项目：",
+                    "Create a new project:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710212834,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Add Camera Permissions",
+                    "添加摄像机权限",
+                    "Add Camera Permissions",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026596050,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "For Android, add the following to <g1>android\\app\\src\\main\\AndroidManifest.xml<\/g1>:",
+                    "对于 Android，在<g1>android\\app\\src\\main\\AndroidManifest.xml<\/g1>中添加以下内容。",
+                    "For Android, add the following to <g1>android\\app\\src\\main\\AndroidManifest.xml<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1726710228162,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "For iOS add the following to <g1>Info.plist<\/g1>:",
+                    "对于iOS，将以下内容添加到<g1>Info.plist<\/g1>。",
+                    "For iOS add the following to <g1>Info.plist<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709111268491,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Install <g1>react-native-vision-camera<\/g1> to open the camera.",
+                    "安装<g1>react-native-vision-camera<\/g1>用于访问摄像头。",
+                    "Install <g1>react-native-vision-camera<\/g1> to open the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709111162093,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Install <g1>react-native-image-picker<\/g1> to pick an image.",
+                    "安装<g1>react-native-image-picker<\/g1>以从相册中选取图像。",
+                    "Install <g1>react-native-image-picker<\/g1> to pick an image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1726710262558,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Install the zxing library.",
+                    "安装zxing。",
+                    "Install the zxing library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710282627,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Install the ML Kit library.",
+                    "安装ML Kit。",
+                    "Install the ML Kit library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710282787,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Install the Dynamsoft Barcode Reader library.",
+                    "安装Dynamsoft Barcode Reader。",
+                    "Install the Dynamsoft Barcode Reader library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710279908,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "In addition, add the following to <g1>babel.conf.js<\/g1>:",
+                    "此外，在<g1>babel.conf.js<\/g1>中添加以下内容：",
+                    "In addition, add the following to <g1>babel.conf.js<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1726111924962,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Read Barcodes from the Camera",
+                    "用摄像头扫码",
+                    "Read Barcodes from the Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710309891,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "In a component, use Vision Camera to open the camera.",
+                    "在组件中，使用Vision Camera打开相机。",
+                    "In a component, use Vision Camera to open the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710321083,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Register a frame processor to read barcodes from the camera frames using the selected barcode reading engine.",
+                    "注册一个帧处理器，使用所选的条码读取引擎从视频帧中读取条码。",
+                    "Register a frame processor to read barcodes from the camera frames using the selected barcode reading engine.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710338693,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Read Barcodes from an Album Image",
+                    "读取相册图像中的条码",
+                    "Read Barcodes from an Album Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710357957,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Pick an image from the album.",
+                    "从相册选择一张图片。",
+                    "Pick an image from the album.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710368170,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Read barcodes from the image using its base64 or uri.",
+                    "使用图像的base64或URI访问图像并读条码。",
+                    "Read barcodes from the image using its base64 or uri.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710394870,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "The results are unified to one interface for representing the barcode.",
+                    "这里对结果做了统一转换，用相同的格式保存条码数据。",
+                    " The results are unified to one interface for representing the barcode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710423875,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Comparison of the Libraries",
+                    "比较不同的库",
+                    "Comparison of the Libraries",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710434820,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "After the demo is done, we can compare the libraries.",
+                    "demo完成后，我们可以进行比较。",
+                    "After the demo is done, we can compare the libraries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710447403,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Barcode Formats",
+                    "条码格式",
+                    "Barcode Formats",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710450603,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Dynamsoft has the most supported barcode formats.",
+                    "Dynamsoft支持最多的条码格式。",
+                    "Dynamsoft has the most supported barcode formats.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710455762,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "ZXing",
+                    "",
+                    "ZXing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "ML Kit",
+                    "",
+                    "ML Kit",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Dynamsoft",
+                    "",
+                    "Dynamsoft",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "UPC-A",
+                    "",
+                    "UPC-A",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "UPC-A",
+                    "",
+                    "UPC-A",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "UPC-A",
+                    "",
+                    "UPC-A",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "UPC-E",
+                    "",
+                    "UPC-E",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "UPC-E",
+                    "",
+                    "UPC-E",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "UPC-E",
+                    "",
+                    "UPC-E",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "EAN-8",
+                    "",
+                    "EAN-8",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "EAN-8",
+                    "",
+                    "EAN-8",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "EAN-8",
+                    "",
+                    "EAN-8",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "EAN-13",
+                    "",
+                    "EAN-13",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "EAN-13",
+                    "",
+                    "EAN-13",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "EAN-13",
+                    "",
+                    "EAN-13",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Code 39",
+                    "",
+                    "Code 39",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Code 39",
+                    "",
+                    "Code 39",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Code 39",
+                    "",
+                    "Code 39",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Code 93",
+                    "",
+                    "Code 93",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Code 93",
+                    "",
+                    "Code 93",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Code 93",
+                    "",
+                    "Code 93",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "ITF",
+                    "",
+                    "ITF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "ITF",
+                    "",
+                    "ITF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "ITF",
+                    "",
+                    "ITF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "Codabar",
+                    "",
+                    "Codabar",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "Codabar",
+                    "",
+                    "Codabar",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "Codabar",
+                    "",
+                    "Codabar",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Aztec",
+                    "",
+                    "Aztec",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "Aztec",
+                    "",
+                    "Aztec",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Aztec",
+                    "",
+                    "Aztec",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "Data Matrix",
+                    "",
+                    "Data Matrix",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "Data Matrix",
+                    "",
+                    "Data Matrix",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "Data Matrix",
+                    "",
+                    "Data Matrix",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "PDF417",
+                    "",
+                    "PDF417",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "PDF417",
+                    "",
+                    "PDF417",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "PDF417",
+                    "",
+                    "PDF417",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "Maxicode",
+                    "",
+                    "Maxicode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "Maxicode",
+                    "",
+                    "Maxicode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "RSS-14",
+                    "",
+                    "RSS-14",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "RSS-14",
+                    "",
+                    "RSS-14",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "Code 11",
+                    "",
+                    "Code 11",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu72"
+                    }
+                ],
+                [
+                    "Interleaved 2 of 5",
+                    "",
+                    "Interleaved 2 of 5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "Industrial 2 of 5",
+                    "",
+                    "Industrial 2 of 5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "GS1 DataBar",
+                    "",
+                    "GS1 DataBar",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu75"
+                    }
+                ],
+                [
+                    "GS1 Composite Code",
+                    "",
+                    "GS1 Composite Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu76"
+                    }
+                ],
+                [
+                    "DotCode",
+                    "",
+                    "DotCode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu77"
+                    }
+                ],
+                [
+                    "Pharmacode",
+                    "",
+                    "Pharmacode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu78"
+                    }
+                ],
+                [
+                    "Patch Code",
+                    "",
+                    "Patch Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu79"
+                    }
+                ],
+                [
+                    "GS1 Composite which only Dynamsoft can read:",
+                    "GS1组合码，只有Dynamsoft可以读取：",
+                    "GS1 Composite which only Dynamsoft can read:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710473563,
+                        "id": "tu80"
+                    }
+                ],
+                [
+                    "<x1\/>gs1-composite-inverted<x2\/>",
+                    "<x1\/>gs1-composite-inverted<x2\/>",
+                    "<x1\/>gs1-composite-inverted<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1726710477034,
+                        "id": "tu81"
+                    }
+                ],
+                [
+                    "Scan Angle",
+                    "扫描角度",
+                    "Scan Angle",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710481610,
+                        "id": "tu82"
+                    }
+                ],
+                [
+                    "ZXing has to align the barcode with the camera to scan it.",
+                    "ZXing必须将条码与摄像头对齐才能扫描。",
+                    "ZXing has to align the barcode with the camera to scan it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710491443,
+                        "id": "tu83"
+                    }
+                ],
+                [
+                    "<x1\/>zxing<x2\/>",
+                    "<x1\/>zxing<x2\/>",
+                    "<x1\/>zxing<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710493913,
+                        "id": "tu84"
+                    }
+                ],
+                [
+                    "Dynamsoft and ML Kit can read the barcodes in any angle.",
+                    "Dynamsoft和ML Kit可以从任何角度读取条码。",
+                    "Dynamsoft and ML Kit can read the barcodes in any angle.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710505203,
+                        "id": "tu85"
+                    }
+                ],
+                [
+                    "Dynamsoft can precisely return the coordinates of barcodes.",
+                    "Dynamsoft可以精确地返回条码的坐标。",
+                    " Dynamsoft can precisely return the coordinates of barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710510899,
+                        "id": "tu85"
+                    }
+                ],
+                [
+                    "Dynamsoft:",
+                    "Dynamsoft：",
+                    "Dynamsoft:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710514115,
+                        "id": "tu86"
+                    }
+                ],
+                [
+                    "<x1\/>dynamsoft<x2\/>",
+                    "<x1\/>dynamsoft<x2\/>",
+                    "<x1\/>dynamsoft<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710517763,
+                        "id": "tu87"
+                    }
+                ],
+                [
+                    "ML Kit:",
+                    "ML Kit：",
+                    "ML Kit:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710522140,
+                        "id": "tu88"
+                    }
+                ],
+                [
+                    "<x1\/>mlkit<x2\/>",
+                    "<x1\/>mlkit<x2\/>",
+                    "<x1\/>mlkit<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710523961,
+                        "id": "tu89"
+                    }
+                ],
+                [
+                    "Barcode Details",
+                    "条码详细信息",
+                    "Barcode Details",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710527996,
+                        "id": "tu90"
+                    }
+                ],
+                [
+                    "Dynamsoft can return more details about the barcode, like its raw bytes, codewords, orientation, etc.",
+                    "Dynamsoft可以返回有关条码的更多详细信息，如原始字节、码字、方向等。",
+                    "Dynamsoft can return more details about the barcode, like its raw bytes, codewords, orientation, etc.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710533898,
+                        "id": "tu91"
+                    }
+                ],
+                [
+                    "Images in Bad Conditions",
+                    "恶劣条件下的图像",
+                    "Images in Bad Conditions",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710598012,
+                        "id": "tu92"
+                    }
+                ],
+                [
+                    "Dynamsoft can handle more image conditions.",
+                    "图像条件恶劣的码，Dynamsoft一般也可以处理。",
+                    "Dynamsoft can handle more image conditions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710661147,
+                        "id": "tu93"
+                    }
+                ],
+                [
+                    "Type",
+                    "类型",
+                    "Type",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710663425,
+                        "id": "tu94"
+                    }
+                ],
+                [
+                    "Image",
+                    "图像",
+                    "Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710666210,
+                        "id": "tu95"
+                    }
+                ],
+                [
+                    "ZXing",
+                    "",
+                    "ZXing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu96"
+                    }
+                ],
+                [
+                    "ML Kit",
+                    "",
+                    "ML Kit",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu97"
+                    }
+                ],
+                [
+                    "Dynamsoft",
+                    "",
+                    "Dynamsoft",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu98"
+                    }
+                ],
+                [
+                    "Inverted",
+                    "反色的",
+                    "Inverted",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710674500,
+                        "id": "tu99"
+                    }
+                ],
+                [
+                    "<x1\/>inverted<x2\/>",
+                    "<x1\/>反转的<x2\/>",
+                    "<x1\/>inverted<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698731421288,
+                        "id": "tu100"
+                    }
+                ],
+                [
+                    "×",
+                    "",
+                    "×",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu101"
+                    }
+                ],
+                [
+                    "√",
+                    "",
+                    "√",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu102"
+                    }
+                ],
+                [
+                    "√",
+                    "",
+                    "√",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu103"
+                    }
+                ],
+                [
+                    "Zero quietzone",
+                    "静区为零",
+                    "Zero quietzone",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710683849,
+                        "id": "tu104"
+                    }
+                ],
+                [
+                    "<x1\/>zero quietzone<x2\/>",
+                    "<x1\/>零安静区<x2\/>",
+                    "<x1\/>zero quietzone<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710701593,
+                        "id": "tu105"
+                    }
+                ],
+                [
+                    "×",
+                    "",
+                    "×",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu106"
+                    }
+                ],
+                [
+                    "×",
+                    "",
+                    "×",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu107"
+                    }
+                ],
+                [
+                    "√",
+                    "",
+                    "√",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu108"
+                    }
+                ],
+                [
+                    "Curved",
+                    "弯曲的",
+                    "Curved",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710707717,
+                        "id": "tu109"
+                    }
+                ],
+                [
+                    "<x1\/>curled<x2\/>",
+                    "<x1\/>弯曲的<x2\/>",
+                    "<x1\/>curled<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710713220,
+                        "id": "tu110"
+                    }
+                ],
+                [
+                    "×",
+                    "",
+                    "×",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu111"
+                    }
+                ],
+                [
+                    "×",
+                    "",
+                    "×",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu112"
+                    }
+                ],
+                [
+                    "√",
+                    "",
+                    "√",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu113"
+                    }
+                ],
+                [
+                    "Damaged",
+                    "损坏的",
+                    "Damaged",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710724691,
+                        "id": "tu114"
+                    }
+                ],
+                [
+                    "<x1\/>damaged<x2\/>",
+                    "<x1\/>损坏的<x2\/>",
+                    "<x1\/>damaged<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1726710731749,
+                        "id": "tu115"
+                    }
+                ],
+                [
+                    "×",
+                    "",
+                    "×",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu116"
+                    }
+                ],
+                [
+                    "√",
+                    "",
+                    "√",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu117"
+                    }
+                ],
+                [
+                    "√",
+                    "",
+                    "√",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "id": "tu118"
+                    }
+                ],
+                [
+                    "Check out the <g1>QR code reading benchmark article<\/g1> to view more examples.",
+                    "查看这篇<g1>二维码读取性能比较<\/g1>的文章以查看更多示例。",
+                    "Check out the <g1>QR code reading benchmark article<\/g1> to view more examples.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710756965,
+                        "id": "tu119"
+                    }
+                ],
+                [
+                    "Settings",
+                    "设置",
+                    "Settings",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710771154,
+                        "id": "tu120"
+                    }
+                ],
+                [
+                    "ZXing, ML Kit and Dynamsoft all have the ability to set which barcode formats to use while Dynamsoft has more settings like the following:",
+                    "ZXing、ML Kit和Dynamsoft都有能力设置要使用的条码格式，而Dynamssoft有更多的设置，如下所示：",
+                    "ZXing, ML Kit and Dynamsoft all have the ability to set which barcode formats to use while Dynamsoft has more settings like the following:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710776366,
+                        "id": "tu121"
+                    }
+                ],
+                [
+                    "Scan region.",
+                    "扫描区域。",
+                    "Scan region.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710780954,
+                        "id": "tu122"
+                    }
+                ],
+                [
+                    "Expected barcode count.",
+                    "预期条码数。",
+                    "Expected barcode count.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710786691,
+                        "id": "tu123"
+                    }
+                ],
+                [
+                    "Localization methods.",
+                    "定位方法。",
+                    "Localization methods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710791826,
+                        "id": "tu124"
+                    }
+                ],
+                [
+                    "Binarization methods.",
+                    "二值化方法。",
+                    "Binarization methods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710793610,
+                        "id": "tu125"
+                    }
+                ],
+                [
+                    "Timeout.",
+                    "超时。",
+                    "Timeout.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710795745,
+                        "id": "tu126"
+                    }
+                ],
+                [
+                    "Check out the <g1>docs<\/g1> to learn more.",
+                    "查看<g1>文档<\/g1>以了解更多信息。",
+                    "Check out the <g1>docs<\/g1> to learn more.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710798258,
+                        "id": "tu127"
+                    }
+                ],
+                [
+                    "Enterprise Support",
+                    "企业支持",
+                    "Enterprise Support",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710801321,
+                        "id": "tu128"
+                    }
+                ],
+                [
+                    "Dynamsoft is an commercial SDK.",
+                    "Dynamsoft是一个商业SDK。",
+                    "Dynamsoft is an commercial SDK.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710803659,
+                        "id": "tu129"
+                    }
+                ],
+                [
+                    "It has a better support and provides customization services to guarantee the success of your business.",
+                    "它有更好的支持，并提供定制服务，以确保您的业务取得成功。",
+                    " It has a better support and provides customization services to guarantee the success of your business.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726710805929,
+                        "id": "tu129"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu130"
+                    }
+                ],
+                [
+                    "Check out the source code of the demo to have a try:",
+                    "查看demo的源代码并尝试使用：",
+                    "Check out the source code of the demo to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/zxing-mlkit-dynamsoft-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1726710816009,
+                        "id": "tu131"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
