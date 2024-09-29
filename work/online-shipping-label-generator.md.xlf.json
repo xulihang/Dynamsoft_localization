@@ -1,0 +1,876 @@
+{
+    "filename": "online-shipping-label-generator.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build an Online Shipping Label Generator",
+                    "前端生成快递单PDF",
+                    "How to Build an Online Shipping Label Generator",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575627495,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-09-25 15:08:53 +0800",
+                    "",
+                    "2024-09-25 15:08:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-09-25 15:08:53 +0800",
+                    "",
+                    "2024-09-25 15:08:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "PDF",
+                    "",
+                    "PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Annotation",
+                    "",
+                    "Annotation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to create an online shipping label generator with JavaScript.",
+                    "本文介绍了如何使用JavaScript创建一个在线快递单PDF生成器。",
+                    "The article shares how to create an online shipping label generator with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575649680,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "You can get the PDF file for printing right on the browser.",
+                    "可以直接在浏览器上生成PDF文件进行打印。",
+                    " You can get the PDF file for printing right on the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575716884,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/09\/shipping-label\/shipping-label.jpg",
+                    "",
+                    ".\/img\/2024\/09\/shipping-label\/shipping-label.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "A shipping label is an identification label that displays information about packages.",
+                    "快递包装上一般都贴着快递单，",
+                    "A shipping label is an identification label that displays information about packages.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575761227,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It may contain the following info:",
+                    "通常包含以下信息：",
+                    " It may contain the following info:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575764708,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Sender and receiver details (name, phone number, address)",
+                    "发件人和收件人的详细信息（姓名、电话号码、地址）",
+                    "Sender and receiver details (name, phone number, address)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575770083,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Tracking number",
+                    "快递单号",
+                    "Tracking number",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575776714,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Barcodes for reading the info with machines",
+                    "用于使用机器读取信息的条码",
+                    "Barcodes for reading the info with machines",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575785964,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "A standard shipping label is 4x6 inches (12x15 cm).",
+                    "国际上快递单的尺寸一般是为4x6英寸（ 10x15厘米）。",
+                    "A standard shipping label is 4x6 inches (12x15 cm).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575820702,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Sample shipping label:",
+                    "快递单示例：",
+                    "Sample shipping label:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575841366,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<x1\/>shipping label<x2\/>",
+                    "<x1\/>快递单<x2\/>",
+                    "<x1\/>shipping label<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1727575861101,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "In this article, we are going to build an online shipping label generator which makes it convenient to create such labels since you can do this on any device that has a browser.",
+                    "在本文中，我们将编写一个在线快递单PDF生成器。可以在任何具有浏览器功能的设备上执行此操作。",
+                    "In this article, we are going to build an online shipping label generator which makes it convenient to create such labels since you can do this on any device that has a browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575902326,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "We will use two libraries:",
+                    "我们将使用两个库：",
+                    "We will use two libraries:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575913946,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Viewer<\/g1>: to draw the text and graphics and output a PDF file.",
+                    "<g1>Dynamsoft Document Viewer<\/g1>：绘制文本和图形并输出PDF文件。",
+                    "<g1>Dynamsoft Document Viewer<\/g1>: to draw the text and graphics and output a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575923238,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "A license is needed to use it.",
+                    "需要许可证才能使用它。",
+                    " A license is needed to use it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575931082,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "You can apply for one <g2>here<\/g2>.",
+                    "可以在<g2>这里<\/g2>申请一个证书。",
+                    " You can apply for one <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1727576890589,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<g1>bwip-js<\/g1>: to generate barcodes.",
+                    "<g1>bwip-js<\/g1>：用于生成条码。",
+                    "<g1>bwip-js<\/g1>: to generate barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727575964732,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Include Dependencies",
+                    "添加依赖项",
+                    "Include Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Include the third-party libraries in the head:",
+                    "在head中包含第三方库：",
+                    "Include the third-party libraries in the head:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576111010,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Layout Design",
+                    "布局设计",
+                    "Layout Design",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619329007597,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Create a form for inputting the details.",
+                    "创建一个用于输入详细信息的表单。",
+                    "Create a form for inputting the details.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576117690,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "At the bottom of the form, add a button to generate the label and add a button to fill in a preset template.",
+                    "在表单底部，添加用于生成快递单的按钮，并添加用于填写预设模板内容的按钮。",
+                    " At the bottom of the form, add a button to generate the label and add a button to fill in a preset template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576141554,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Below the form, display the generated label in Dynamsoft Document Viewer's Edit Viewer where we can view document images, download the images as a PDF file and print the document.",
+                    "在表单下方，将生成的标签显示在Dynamsoft Document Viewer的Edit Viewer中。我们可以查看文档图像、将图像下载为PDF文件并打印文档。",
+                    " Below the form, display the generated label in Dynamsoft Document Viewer's Edit Viewer where we can view document images, download the images as a PDF file and print the document.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576184006,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "<x1\/>screenshot<x2\/>",
+                    "<x1\/>屏幕截图<x2\/>",
+                    "<x1\/>screenshot<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619328925925,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Code:",
+                    "代码：",
+                    "Code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123971771,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Generate the Label",
+                    "生成快递单标签",
+                    "Generate the Label",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576196635,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Next, let's generate the shipping label with JavaScript.",
+                    "接下来，让我们使用JavaScript生成快递单标签。",
+                    "Next, let's generate the shipping label with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576207199,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Document Viewer",
+                    "初始化Dynamsoft Document Viewer",
+                    "Initialize Dynamsoft Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576218980,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "使用许可证初始化Dynamsoft Document Viewer。",
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1719822702610,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "You can apply for one <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请一个证书。",
+                    " You can apply for one <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710149242858,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Create an edit viewer instance and a document instance.",
+                    "创建一个新的Edit Viewer的实例和一个文档实例。",
+                    "Create an edit viewer instance and a document instance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1727576240382,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Bind the edit viewer with the document and the container.",
+                    "将Edit Viewer与文档和div容器绑定。",
+                    " Bind the edit viewer with the document and the container.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576258171,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Generate Barcodes",
+                    "生成条码",
+                    "Generate Barcodes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576263811,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Use bwip-js to generate barcodes for later usage.",
+                    "使用bwip-js生成条码供之后使用。",
+                    "Use bwip-js to generate barcodes for later usage.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576276309,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Generate the Code 128 barcode for the package number.",
+                    "生成一个Code128格式的条码以表示快递单号。",
+                    "Generate the Code 128 barcode for the package number.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576322391,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Generate the QR code for storing extra info.",
+                    "生成一个QR二维码以存储额外信息。",
+                    "Generate the QR code for storing extra info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576367221,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "There are other types of 2D codes for delivery packages:",
+                    "快递单还常用到其它格式的二维码：",
+                    "There are other types of 2D codes for delivery packages:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576393758,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Maxicode:",
+                    "Maxicode：",
+                    "Maxicode:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576396961,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "MaxiCode was created by United Parcel Service (UPS) in 1992 for tracking and managing the shipment of packages.",
+                    "MaxiCode由美国UPS公司于 1992年创建，用于跟踪和管理包裹的运输。",
+                    " MaxiCode was created by United Parcel Service (UPS) in 1992 for tracking and managing the shipment of packages.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576419678,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "It usually contains a Structured Carrier Message about the package.",
+                    "它通常包含有关包裹的结构化承运人消息。",
+                    " It usually contains a Structured Carrier Message about the package.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576425370,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Aztec:",
+                    "Aztec：",
+                    "Aztec:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576436274,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Aztec Code has the potential to use less space than other matrix barcodes because it does not require a surrounding blank \"quiet zone\".",
+                    "与其他矩阵型条码相比，Aztec码周围不需要空白 \"静区\"，因此可以节省空间。",
+                    " Aztec Code has the potential to use less space than other matrix barcodes because it does not require a surrounding blank \"quiet zone\".",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576464854,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Aztec codes are widely used for transport ticketing.",
+                    "Aztec代码广泛用于交通票务。",
+                    " Aztec codes are widely used for transport ticketing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576483957,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "PDF417:",
+                    "PDF417：",
+                    "PDF417:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576487490,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "PDF417 is a stacked barcode that can be read with a simple linear scan while other 2D codes need an image sensor.",
+                    "PDF417是一种堆叠式条形码，可以通过简单的线性扫描进行读取，而其他2D代码则需要图像传感器。",
+                    " PDF417 is a stacked barcode that can be read with a simple linear scan while other 2D codes need an image sensor.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576491450,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Here, we just use QR code as an example.",
+                    "在这里，我们使用QR二维码作为示例。",
+                    "Here, we just use QR code as an example.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576510213,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Draw the Text and Graphics",
+                    "绘制文本和图形",
+                    "Draw the Text and Graphics",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576513475,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Dynamsoft Document Viewer provides an annotation feature which allows us to draw text and graphics.",
+                    "Dynamsoft Document Viewer提供的标注功能，允许我们绘制文本和图形。",
+                    "Dynamsoft Document Viewer provides an annotation feature which allows us to draw text and graphics.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576528798,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "We are going to use it to create the shipping label.",
+                    "我们将使用它来绘制快递单。",
+                    " We are going to use it to create the shipping label.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576540100,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Create an A4-sized document page using canvas and load it to Dynamsoft Document Viewer.",
+                    "使用Canvas创建A4大小的文档页面，并将其加载到Dynamsoft Document Viewer。",
+                    "Create an A4-sized document page using canvas and load it to Dynamsoft Document Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576553503,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Draw a shipping-label-sized rectangle.",
+                    "绘制一个快递单大小的矩形。",
+                    "Draw a shipping-label-sized rectangle.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576561774,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Draw the QR code.",
+                    "绘制二维码。",
+                    "Draw the QR code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576565650,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Draw the line between the QR code and the sender's info.",
+                    "绘制在二维码和发件人信息之间的线。",
+                    "Draw the line between the QR code and the sender's info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576580155,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Draw the sender's info using a textbox.",
+                    "使用文本框绘制发件人的信息。",
+                    "Draw the sender's info using a textbox.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576583370,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Draw the receiver's info using a textbox with a \"To:\" textbox in front of it.",
+                    "使用文本框绘制收件人的信息，并在文本框前面加上\"To:\"（收件人）。",
+                    "Draw the receiver's info using a textbox with a \"To:\" textbox in front of it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576631318,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Draw the line between the receiver's info and the package number's barcode.",
+                    "绘制在收件人信息和包裹编号条码之间的线。",
+                    "Draw the line between the receiver's info and the package number's barcode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576645613,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Draw the Code128 barcode representing the package number.",
+                    "绘制表示快递单号的Code128条码。",
+                    "Draw the Code128 barcode representing the package number.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576663054,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Save the Shipping Label as a PDF",
+                    "将快递单保存为PDF",
+                    "Save the Shipping Label as a PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576670341,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "We can save the shipping label as a PDF file using the document instance's <g1>saveToPdf<\/g1> function.",
+                    "我们可以使用文档实例的<g1>saveToPdf<\/g1>函数将快递单保存为PDF文件。",
+                    "We can save the shipping label as a PDF file using the document instance's <g1>saveToPdf<\/g1> function.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576687630,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Print the Shipping Label",
+                    "打印快递单",
+                    "Print the Shipping Label",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576695130,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "We can also directly print it using the document instance's <g1>print<\/g1> function.",
+                    "我们也可以使用文档实例的<g1>print<\/g1>函数直接打印它。",
+                    "We can also directly print it using the document instance's <g1>print<\/g1> function.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1727576716534,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Check out the source code of the demo to have a try.",
+                    "查看demo的源代码并尝试使用：",
+                    "Check out the source code of the demo to have a try.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/online-shipping-label-generator.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604948138,
+                        "id": "tu50"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
