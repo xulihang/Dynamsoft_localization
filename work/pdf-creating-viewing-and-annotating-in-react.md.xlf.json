@@ -1,0 +1,497 @@
+{
+    "filename": "pdf-creating-viewing-and-annotating-in-react.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Incorporating PDF Creating, Viewing and Annotating into a React App",
+                    "在React应用中集成PDF创建、查看和标注功能",
+                    "Incorporating PDF Creating, Viewing and Annotating into a React App",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728611588566,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-10-10 14:08:53 +0800",
+                    "",
+                    "2024-10-10 14:08:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-10-10 14:08:53 +0800",
+                    "",
+                    "2024-10-10 14:08:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "PDF",
+                    "",
+                    "PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Annotation",
+                    "",
+                    "Annotation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "React",
+                    "",
+                    "React",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to incorporate PDF creating, viewing and annotating into a React app using Dynamsoft Document Viewer.",
+                    "本文介绍了如何使用Dynamsoft Document Viewer将PDF创建、查看和标注集成到React应用中。",
+                    "The article shares how to incorporate PDF creating, viewing and annotating into a React app using Dynamsoft Document Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728611667207,
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/10\/document-viewer\/react-demo.jpg",
+                    "",
+                    ".\/img\/2024\/10\/document-viewer\/react-demo.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Viewer<\/g1> is an SDK providing a set of viewers for document images.",
+                    "<g1>Dynamsoft Document Viewer<\/g1>是为文档图像提供查看、管理功能的SDK。",
+                    "<g1>Dynamsoft Document Viewer<\/g1> is an SDK providing a set of viewers for document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725332627256,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can use it to incorporate PDF creating, viewing and annotating into our web apps.",
+                    "我们可以使用它集成PDF创建、查看和标注功能到我们的Web应用中。",
+                    " We can use it to incorporate PDF creating, viewing and annotating into our web apps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728611779669,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to write a demo with React.",
+                    "在本文中，我们将使用React编写一个demo。",
+                    " In this article, we are going to write a demo with React.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1728611797662,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Create a new React + TypeScript project with Vite:",
+                    "使用Vite创建一个新的React + TypeScript项目：",
+                    "Create a new React + TypeScript project with Vite:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728611805195,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Install Dynamsoft Document Viewer",
+                    "安装Dynamsoft Document Viewer",
+                    "Install Dynamsoft Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728611821197,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "First, install Dynamsoft Document Viewer via npm.",
+                    "首先，通过npm安装Dynamsoft Document Viewer。",
+                    "First, install Dynamsoft Document Viewer via npm.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728611826234,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Then, we need to copy the resources of Dynamsoft Document Viewer to the public folder.",
+                    "然后，我们需要将Dynamsoft Document Viewer的资源复制到public文件夹。",
+                    "Then, we need to copy the resources of Dynamsoft Document Viewer to the public folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728611857579,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Create a new folder under <g1>public\/assets\/ddv-resources<\/g1>.",
+                    "在以下路径创建一个文件夹：<g1>public\/assets\/ddv-resources<\/g1>。",
+                    "Create a new folder under <g1>public\/assets\/ddv-resources<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612648452,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Install <g1>ncp<\/g1>:",
+                    "安装<g1>ncp<\/g1>：",
+                    "Install <g1>ncp<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1728612658596,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<g2>npm install ncp --save-dev<\/g2>.",
+                    "<g2>npm install ncp --save-dev<\/g2>。",
+                    " <g2>npm install ncp --save-dev<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612669602,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Modify <g1>package.json<\/g1> to copy the resources from <g2>node_modules<\/g2> to the public folder.",
+                    "修改<g1>package.json<\/g1> ，将资源从<g2>node_modules<\/g2>复制到public文件夹。",
+                    "Modify <g1>package.json<\/g1> to copy the resources from <g2>node_modules<\/g2> to the public folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612677059,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Document Viewer",
+                    "初始化Dynamsoft Document Viewer",
+                    "Initialize Dynamsoft Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1727576218980,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Let's rewrite <g1>App.tsx<\/g1>.",
+                    "重写<g1>App.tsx<\/g1>。",
+                    "Let's rewrite <g1>App.tsx<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612698700,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "When it is mounted, initialize Dynamsoft Document Viewer with a license.",
+                    "挂载后，使用许可证初始化Dynamsoft Document Viewer。",
+                    " When it is mounted, initialize Dynamsoft Document Viewer with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612712082,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "You can apply for a license <g2>here<\/g2>.",
+                    "可以在此处申请<g2>许可证<\/g2>。",
+                    " You can apply for a license <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1728612728047,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Create an Edit Viewer",
+                    "创建Edit Viewer",
+                    "Create an Edit Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1728612778102,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Use the following in the JSX:",
+                    "在JSX中使用以下内容：",
+                    "Use the following in the JSX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612820155,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "CSS:",
+                    "CSS：",
+                    "CSS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123449396,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Initialize an instance of Edit Viewer and bind it to a container via its ID.",
+                    "初始化Edit Viewer的实例，并通过ID将其绑定到一个容器。",
+                    "Initialize an instance of Edit Viewer and bind it to a container via its ID.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612836923,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Import the CSS of Dynamsoft Document Viewer.",
+                    "导入Dynamsoft Document Viewer的CSS。",
+                    "Import the CSS of Dynamsoft Document Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612844539,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "All right, we've incorporated Dynamsoft Document Viewer in our React app.",
+                    "好的，我们已将Dynamsoft Document Viewer集成到了我们的React应用中。",
+                    "All right, we've incorporated Dynamsoft Document Viewer in our React app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1728612858454,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "<x1\/>React Demo<x2\/>",
+                    "<x1\/>React demo<x2\/>",
+                    "<x1\/>React Demo<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612864861,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "The viewer provides a toolbar, a thumbnail viewer and a main viewer for the document.",
+                    "UI包含工具栏、缩略图查看器和一个主的页面内容查看器。",
+                    "The viewer provides a toolbar, a thumbnail viewer and a main viewer for the document.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612904729,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "We can click the buttons on the toolbar to load a new image, edit images, add PDF annotations and save the document as a PDF file.",
+                    "我们可以点击工具栏上的按钮来加载新图像、编辑图像、添加 PDF标注并将文档保存为PDF文件。",
+                    " We can click the buttons on the toolbar to load a new image, edit images, add PDF annotations and save the document as a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612925597,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Apart from the UI, we can also manipulate the document via code.",
+                    "除了UI，我们还可以通过代码来操作文档。",
+                    "Apart from the UI, we can also manipulate the document via code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612936030,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Read the <g1>docs<\/g1> to learn more.",
+                    "阅读<g1>文档<\/g1>了解更多信息。",
+                    " Read the <g1>docs<\/g1> to learn more.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1728612950478,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Check out the source code of the demo to have a try.",
+                    "查看demo的源代码并尝试使用：",
+                    "Check out the source code of the demo to have a try.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-creating-viewing-and-annotating-in-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604948138,
+                        "id": "tu22"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
