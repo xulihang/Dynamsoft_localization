@@ -1,0 +1,647 @@
+{
+    "filename": "scan-ean-upc-and-its-add-on-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Scan EAN\/UPC and its Add-On Codes in JavaScript",
+                    "前端扫描EAN\/UPC格式的条形码及其附加码",
+                    "How to Scan EAN\/UPC and its Add-On Codes in JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128500167,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-10-15 10:42:53 +0800",
+                    "",
+                    "2024-10-15 10:42:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-10-15 10:42:53 +0800",
+                    "",
+                    "2024-10-15 10:42:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode Reader",
+                    "",
+                    "Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "EAN",
+                    "",
+                    "EAN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "UPC",
+                    "",
+                    "UPC",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "ISBN",
+                    "",
+                    "ISBN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "ISSN",
+                    "",
+                    "ISSN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf16_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a web app to scan EAN\/UPC and its add-on codes with JavaScript using Dynamsoft Barcode Reader.",
+                    "本文讨论了如何使用Dynamsoft Barcode Reader构建一个Web应用，扫描EAN\/UPC格式的条形码及其附加码。",
+                    "The article talks about how to build a web app to scan EAN\/UPC and its add-on codes with JavaScript using Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128569400,
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/10\/add-on\/scanning.jpg",
+                    "",
+                    ".\/img\/2024\/10\/add-on\/scanning.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf18_tu1"
+                    }
+                ],
+                [
+                    "UPC is a type of barcode widely used to identify retail products while EAN is a superset of it adding an extra digit to the beginning.",
+                    "UPC是一种广泛用于识别零售产品的条形码，而EAN在开头增加一位数，是UPC的超集。",
+                    "UPC is a type of barcode widely used to identify retail products while EAN is a superset of it adding an extra digit to the beginning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128645717,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "EAN-13 and UPC-A are the common versions while EAN-8 and UPC-E are the less used versions for small packages.",
+                    "EAN-13和UPC-A是常见的版本，而EAN-8和UPC-E是较少见的用于小物件的版本。",
+                    " EAN-13 and UPC-A are the common versions while EAN-8 and UPC-E are the less used versions for small packages.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128676561,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "An EAN or a UPC code may come with a 2-digit (EAN-2 or UPC-2) or a 5-digit code (EAN-5 or UPC-5), which are supplemental barcodes, placed on the right-hand side.",
+                    "EAN或UPC码右侧可能附加一个表示2位数（ EAN-2或UPC-2 ）或5位数（ EAN-5或UPC-5 ） 的条码。",
+                    "An EAN or a UPC code may come with a 2-digit (EAN-2 or UPC-2) or a 5-digit code (EAN-5 or UPC-5), which are supplemental barcodes, placed on the right-hand side.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128754057,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "These are generally used in periodicals, like magazines and books, to indicate the current year's issue number and in weighed products like food, to indicate the manufacturer's suggested retail price.<x1\/>^wiki<x2\/>",
+                    "可以用于杂志和书籍，表示当年的期号；也用于食品等称重产品，表示制造商的建议零售价。<x1\/>^wiki<x2\/>",
+                    " These are generally used in periodicals, like magazines and books, to indicate the current year's issue number and in weighed products like food, to indicate the manufacturer's suggested retail price.<x1\/>^wiki<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128828148,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a web app to scan UPC and EAN barcodes and their add-on codes with JavaScript using <g1>Dynamsoft Barcode Reader<\/g1>.",
+                    "在本文中，我们将使用<g1>Dynamsoft Barcode Reader<\/g1>构建一个Web应用，扫描UPC和EAN条形码及其附加码。",
+                    "In this article, we are going to build a web app to scan UPC and EAN barcodes and their add-on codes with JavaScript using <g1>Dynamsoft Barcode Reader<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128867991,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Variations of EAN",
+                    "特殊的EAN",
+                    "Variations of EAN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128931964,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "The demo can also read the following variations of EAN:",
+                    "该演示程序还可以读取以下特殊的EAN：",
+                    "The demo can also read the following variations of EAN:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128941536,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "ISSN: a special version of EAN-13 for newspapers and magazines",
+                    "ISSN ：用于报纸和杂志的EAN-13",
+                    "ISSN: a special version of EAN-13 for newspapers and magazines",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128925683,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "ISBN: a special version of EAN-13 for books",
+                    "ISBN：用于书籍的EAN-13",
+                    "ISBN: a special version of EAN-13 for books",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128953653,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Sample Code Images",
+                    "示例条码图像",
+                    "Sample Code Images",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128963119,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "EAN-13 + EAN-5 on a book:",
+                    "一本书上的EAN-13 + EAN-5：",
+                    "EAN-13 + EAN-5 on a book:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128971254,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<x1\/>ean-13<x2\/>",
+                    "<x1\/>ean-13<x2\/>",
+                    "<x1\/>ean-13<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128973469,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "UPC-E + UPC-2 on a magazine:",
+                    "一本杂志上的UPC-E + UPC-2：",
+                    "UPC-E + UPC-2 on a magazine:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128984970,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<x1\/>upc-e<x2\/>",
+                    "<x1\/>upc-e<x2\/>",
+                    "<x1\/>upc-e<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729128993640,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Add Dynamsoft Barcode Reader",
+                    "添加Dynamsoft Barcode Reader",
+                    "Add Dynamsoft Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129034621,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Include the library of Dynamsoft Barcode Reader with the following line of code in the body:",
+                    "在body中添加下面的代码以引入Dynamsoft Barcode Reader：",
+                    "Include the library of Dynamsoft Barcode Reader with the following line of code in the body:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129059295,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Barcode Reader",
+                    "初始化Dynamsoft Barcode Reader",
+                    "Initialize Dynamsoft Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129071345,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Initialize the license.",
+                    "初始化许可证。",
+                    "Initialize the license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129076278,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在此处申请<g1>许可证<\/g1>。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725333053319,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Load the WASM file.",
+                    "加载WASM文件。",
+                    "Load the WASM file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129093142,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Create an instance of capture vision router to call Dynamsoft Barcode Reader.",
+                    "创建capture vision router实例以调用Dynamsoft Barcode Reader。",
+                    "Create an instance of capture vision router to call Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129108238,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Update the Settings to Scan UPC and EAN Barcodes and their Add-On Codes",
+                    "更新设置以扫描UPC和EAN条形码及其附加代码",
+                    "Update the Settings to Scan UPC and EAN Barcodes and their Add-On Codes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129110805,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Get the runtime settings.",
+                    "获取运行时设置。",
+                    "Get the runtime settings.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129117348,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Enable the <g1>EnableAddOnCode<\/g1> option.",
+                    "启用<g1>EnableAddOnCode<\/g1>选项。",
+                    "Enable the <g1>EnableAddOnCode<\/g1> option.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129123630,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Specify the barcode formats to UPC and EAN.",
+                    "将条形码格式指定为UPC和EAN。",
+                    "Specify the barcode formats to UPC and EAN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129129221,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Use the modified settings.",
+                    "使用修改后的设置。",
+                    "Use the modified settings.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129132509,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Start Scanning from the Camera",
+                    "打开摄像头扫描",
+                    "Start Scanning from the Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129188365,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Initialize Camera Enhancer and bind its viewer to a container.",
+                    "初始化Camera Enhancer并将其组件绑定到一个容器。",
+                    "Initialize Camera Enhancer and bind its viewer to a container.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129168351,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Use Camera Enhancer as the input of the capture vision router so that it can fetch frames from the cameras for reading barcodes.",
+                    "使用Camera Enhancer作为capture vision router的输入，这样它就可以从摄像头获取帧来读取条形码。",
+                    "Use Camera Enhancer as the input of the capture vision router so that it can fetch frames from the cameras for reading barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129182051,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Add a filter to enable multiple frames verification to make sure that the barcode result is correct and to avoid reading the same barcodes too quickly.",
+                    "添加一个过滤器，启用多帧验证，以确保条形码结果正确，并避免过快读取相同的条形码。",
+                    "Add a filter to enable multiple frames verification to make sure that the barcode result is correct and to avoid reading the same barcodes too quickly.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129192749,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "(Optional)",
+                    "（可选）",
+                    " (Optional)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129200509,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Add a result receiver to receive the scanning results.",
+                    "添加结果接收器以接收扫描结果。",
+                    "Add a result receiver to receive the scanning results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129205157,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Start scanning after the scan button is clicked.",
+                    "单击扫描按钮后开始扫描。",
+                    "Start scanning after the scan button is clicked.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129209805,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "All right, we've now completed the demo.",
+                    "好了，我们已经完成了这个demo。",
+                    "All right, we've now completed the demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129229134,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "You can find the source code of the demo in the following repo:",
+                    "可以在以下软件仓库中找到该demo的源代码：",
+                    "You can find the source code of the demo in the following repo: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887447681,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "References",
+                    "参考文献",
+                    "References",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1718935962357,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "^wiki",
+                    "^wiki",
+                    "^wiki",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/scan-ean-upc-and-its-add-on-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1729129236943,
+                        "id": "tu38"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
