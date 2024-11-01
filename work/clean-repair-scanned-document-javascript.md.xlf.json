@@ -1,0 +1,880 @@
+{
+    "filename": "clean-repair-scanned-document-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Clean up and Repair Scanned Documents in JavaScript",
+                    "前端实现扫描文档的图像优化清理",
+                    "How to Clean up and Repair Scanned Documents in JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425059869,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-10-31 14:40:53 +0800",
+                    "",
+                    "2024-10-31 14:40:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-10-31 14:40:53 +0800",
+                    "",
+                    "2024-10-31 14:40:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "PDF",
+                    "",
+                    "PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to create a web app to clean and repair scanned documents in JavaScript using the Dynamsoft Document Viewer SDK.",
+                    "文章分享了如何使用Dynamsoft Document Viewer SDK创建一个 前端应用，实现清理和修复扫描文档的图像的功能。",
+                    "The article shares how to create a web app to clean and repair scanned documents in JavaScript using the Dynamsoft Document Viewer SDK.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425123242,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/10\/document-cleaning\/cover.jpg",
+                    "",
+                    ".\/img\/2024\/10\/document-cleaning\/cover.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "After scanning documents, we often need to clean up and repair them to enhance their quality.",
+                    "扫描文档后，我们通常需要对其进行清理和修复，以优化其质量。",
+                    "After scanning documents, we often need to clean up and repair them to enhance their quality.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425149943,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "There are several ways to do this:",
+                    "有几种优化的方法：",
+                    " There are several ways to do this:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425176127,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Apply an image filter.",
+                    "应用图像滤镜。",
+                    "Apply an image filter.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425178661,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "We can convert the image to black and white to clean the background and improve the contrast.",
+                    "我们可以将图像转换为黑白，以清洁背景并提高对比度。",
+                    "We can convert the image to black and white to clean the background and improve the contrast.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425181540,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "In the following example, we can see that the noise and shadow can be removed.",
+                    "在下面的示例中，可以看到噪点和阴影都可以去除。",
+                    " In the following example, we can see that the noise and shadow can be removed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425201159,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Original image:",
+                    "原图：",
+                    "Original image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425207444,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<x1\/>scanned.jpg<x2\/>",
+                    "<x1\/>scanned.jpg<x2\/>",
+                    "<x1\/>scanned.jpg<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425210940,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Black and white image:",
+                    "黑白图：",
+                    "Black and white image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425215494,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<x1\/>scanned-bw.jpg<x2\/>",
+                    "<x1\/>scanned-bw.jpg<x2\/>",
+                    "<x1\/>scanned-bw.jpg<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425217516,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Besides, the image size can also be reduced by converting to black and white.",
+                    "此外，转换为黑白还可以减小图像大小。",
+                    "Besides, the image size can also be reduced by converting to black and white.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425230700,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Remove the unwanted objects using free drawing or inpainting.",
+                    "使用自由画笔或者图像修复来去除不想要的目标。",
+                    "Remove the unwanted objects using free drawing or inpainting.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425267205,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "If we need to restore the background, the inpainting is a better choice.",
+                    "如果我们需要还原背景，图像修复是更好的选择。",
+                    " If we need to restore the background, the inpainting is a better choice.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425275247,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "This technique is often used to repair old photos.",
+                    "这种技术通常用于修复旧照片。",
+                    " This technique is often used to repair old photos.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425279068,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "The inpainting process is illustrated below.",
+                    "修复过程如下所示。",
+                    "The inpainting process is illustrated below.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425286204,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Original image:",
+                    "原图：",
+                    "Original image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1730425207444,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<x1\/>src<x2\/>",
+                    "<x1\/>src<x2\/>",
+                    "<x1\/>src<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425291396,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Mask:",
+                    "掩膜：",
+                    "Mask:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425299549,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<x1\/>mask<x2\/>",
+                    "<x1\/>mask<x2\/>",
+                    "<x1\/>mask<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425301556,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Inpainted:",
+                    "修复的：",
+                    "Inpainted:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425308254,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "<x1\/>inpainted<x2\/>",
+                    "<x1\/>inpainted<x2\/>",
+                    "<x1\/>inpainted<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425310268,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "In this article, we are going to create a web app to clean up and repair scanned documents with the <g1>Dynamsoft Document Viewer<\/g1> SDK.",
+                    "在本文中，我们将创建一个前端应用，使用<g1>Dynamsoft Document Viewer<\/g1>SDK清理和修复扫描的文档。",
+                    "In this article, we are going to create a web app to clean up and repair scanned documents with the <g1>Dynamsoft Document Viewer<\/g1> SDK.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425325158,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following content:",
+                    "创建一个包含以下内容的新HTML文件：",
+                    "Create a new HTML file with the following content:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1704765701678,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Add the Dynamsoft Document Viewer SDK.",
+                    "添加Dynamsoft Document Viewer SDK。",
+                    "Add the Dynamsoft Document Viewer SDK.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1730425342085,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Add the <g1>inpaint<\/g1> library.",
+                    "添加<g1>inpaint<\/g1>库。",
+                    "Add the <g1>inpaint<\/g1> library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425348733,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Document Viewer",
+                    "初始化Dynamsoft Document Viewer",
+                    "Initialize Dynamsoft Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1727576218980,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Initialize the SDK with a license.",
+                    "使用证书初始化SDK。",
+                    "Initialize the SDK with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1730425357998,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "You can apply for one <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请一个证书。",
+                    " You can apply for one <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710149242858,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Create a document instance.",
+                    "创建一个文档实例。",
+                    "Create a document instance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1730425374158,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Create an EditViewer and open the document instance.",
+                    "创建一个新的Edit Viewer的实例并打开创建的文档实例。",
+                    "Create an EditViewer and open the document instance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1730425397458,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Choose an image or PDF file and load it.",
+                    "选择图像或PDF文件并加载。",
+                    "Choose an image or PDF file and load it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425402781,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Open the page and load a file and we can see the interface like the following:",
+                    "打开页面并加载一个文件，我们可以看到如下界面：",
+                    "Open the page and load a file and we can see the interface like the following:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425416702,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "<x1\/>screenshot<x2\/>",
+                    "<x1\/>屏幕截图<x2\/>",
+                    "<x1\/>screenshot<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619328925925,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Use Image Filter",
+                    "使用图像滤镜",
+                    "Use Image Filter",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425427685,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "We can use the icon on the toolbar to apply an image filter.",
+                    "我们可以使用工具栏上的图标应用图像滤镜。",
+                    "We can use the icon on the toolbar to apply an image filter.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425430484,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "<x1\/>image filter<x2\/>",
+                    "<x1\/>图像滤镜<x2\/>",
+                    "<x1\/>image filter<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425441937,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "There are three filters by default:",
+                    "默认有三个滤镜：",
+                    "There are three filters by default:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425452959,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "gray: convert the image to grayscale",
+                    "灰度：将图像转换为灰度",
+                    "gray: convert the image to grayscale",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425455533,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "black and white: convert the image to black and white",
+                    "黑白：将图像转换为黑白",
+                    "black and white: convert the image to black and white",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425458534,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "save toner: convert the image to black and white in a way that can save toner when printing",
+                    "省墨：以节省打印时墨水的方式将图像转换为黑白",
+                    "save toner: convert the image to black and white in a way that can save toner when printing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425492133,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "You can also apply the filter via code and even add your own filters.",
+                    "也可以通过代码应用滤镜，甚至定义自己的滤镜。",
+                    "You can also apply the filter via code and even add your own filters.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425511488,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Check out the <g1>docs<\/g1> to learn more.",
+                    "查看<g1>文档<\/g1>以了解更多信息。",
+                    " Check out the <g1>docs<\/g1> to learn more.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1726710798258,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Free Drawing",
+                    "自由画笔",
+                    "Free Drawing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425524975,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Using the ink annotation icon, we can draw shapes freely to cover objects.",
+                    "点击墨水批注图标，我们可以自由绘制形状来覆盖对象。",
+                    "Using the ink annotation icon, we can draw shapes freely to cover objects.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425533935,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "<x1\/>ink annotation<x2\/>",
+                    "<x1\/>墨水批注<x2\/>",
+                    "<x1\/>ink annotation<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425548152,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Image Inpainting",
+                    "图像修复",
+                    "Image Inpainting",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425550180,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Next, we can use the ink annotation to draw the mask for inpainting.",
+                    "接下来，我们可以使用墨水批注来绘制用于图像修复的掩膜。",
+                    "Next, we can use the ink annotation to draw the mask for inpainting.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425565231,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Add a checkbox to enable inpainting using the ink annotation tool.",
+                    "添加一个复选框，以启用使用墨水批注工具进行图像修复。",
+                    "Add a checkbox to enable inpainting using the ink annotation tool.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425578910,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Monitor whether there is a new annotation added.",
+                    "监听是否添加了新批注。",
+                    "Monitor whether there is a new annotation added.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425585815,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "If it is an ink annotation, then do the inpainting.",
+                    "如果是墨水批注，则进行图像修复。",
+                    " If it is an ink annotation, then do the inpainting.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425595407,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "We'll discuss the inpainting part in the following steps.",
+                    "我们将在下面的步骤中讨论如何实现图像修复。",
+                    " We'll discuss the inpainting part in the following steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425615473,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Get the bounding rect of the ink annotation.",
+                    "获取墨水批注的外接矩形。",
+                    "Get the bounding rect of the ink annotation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425626254,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Add some padding to it.",
+                    "为它添加一些边距。",
+                    " Add some padding to it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425635663,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "We'll use it to crop the image for inpainting.",
+                    "我们将以它为单位裁剪和修复图像。",
+                    " We'll use it to crop the image for inpainting.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425663195,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "The default coordinate unit is point.",
+                    "默认坐标单位是点。",
+                    "The default coordinate unit is point.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425667372,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "We have to convert the values using pixel.",
+                    "我们需要转换值为像素。",
+                    " We have to convert the values using pixel.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425678319,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Get the cropped source image into a canvas.",
+                    "将裁剪后的原图放入一个canvas中。",
+                    "Get the cropped source image into a canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425689396,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Draw the mask using canvas.",
+                    "使用canvas绘制掩膜。",
+                    "Draw the mask using canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425701559,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Perform inpainting.",
+                    "执行修复。",
+                    "Perform inpainting.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425708758,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Insert the inpainted part as an annotation to the document.",
+                    "将修复的部分作为批注插入文档。",
+                    "Insert the inpainted part as an annotation to the document.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730425711940,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "All right, we've now completed the demo.",
+                    "好了，我们已经完成了这个demo。",
+                    "All right, we've now completed the demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1730425718036,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "Check out the source code of the demo to have a try.",
+                    "查看demo的源代码并尝试使用：",
+                    "Check out the source code of the demo to have a try.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/clean-repair-scanned-document-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604948138,
+                        "id": "tu54"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
