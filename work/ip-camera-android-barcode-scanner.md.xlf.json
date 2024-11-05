@@ -1,0 +1,529 @@
+{
+    "filename": "ip-camera-android-barcode-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Android Barcode Scanner using IP Camera",
+                    "安卓使用网络摄像头扫码",
+                    "Android Barcode Scanner using IP Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730794761758,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-11-05 10:52:53 +0800",
+                    "",
+                    "2024-11-05 10:52:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-11-05 10:52:53 +0800",
+                    "",
+                    "2024-11-05 10:52:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Mobile Barcode Scanner",
+                    "",
+                    "Mobile Barcode Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode Reader",
+                    "",
+                    "Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Mobile",
+                    "",
+                    "Mobile",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "RTSP",
+                    "",
+                    "RTSP",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "This article shares about how to create an Android barcode scanner using an IP camera.",
+                    "本文介绍了如何创建一个使用网络摄像头进行扫码的Android应用。",
+                    "This article shares about how to create an Android barcode scanner using an IP camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795081947,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/11\/ip-camera\/cover.jpg",
+                    "",
+                    ".\/img\/2024\/11\/ip-camera\/cover.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "An IP camera, also known as a network camera, is a digital video tool that sends and receives data via the internet.",
+                    "网络摄像头，是一种可以通过网络发送视频数据的视频设备，",
+                    "An IP camera, also known as a network camera, is a digital video tool that sends and receives data via the internet.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795348436,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Unlike its analogue predecessor, the CCTV (Closed Circuit TV), it offers the functionality to view live or recorded footage from anywhere, anytime using a web-based platform or mobile application.",
+                    "与基于模拟信号的CCTV摄像头不同，我们可以在我们的应用中接受它的数字信号。",
+                    " Unlike its analogue predecessor, the CCTV (Closed Circuit TV), it offers the functionality to view live or recorded footage from anywhere, anytime using a web-based platform or mobile application.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795236979,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "IP cameras are widely used in surveillance.",
+                    "网络摄像机广泛用于监控。",
+                    "IP cameras are widely used in surveillance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795254711,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "They can also be used for inventory management or serve as an extra camera for devices like Android tablets and kiosks.",
+                    "它们还可以用于库存管理，也可以用作Android平板电脑和自动售货机等设备的额外摄像头。",
+                    " They can also be used for inventory management or serve as an extra camera for devices like Android tablets and kiosks.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795256912,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to create an Android barcode scanner using an IP camera.",
+                    "在本文中，我们将使用创建一个使用网络摄像头进行扫码的Android应用。",
+                    "In this article, we are going to create an Android barcode scanner using an IP camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795291860,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "ExoPlayer is used to play the camera stream of IP cameras via RTSP and <g1>Dynamsoft Barcode Reader<\/g1> is used for barcode scanning.",
+                    "使用ExoPlayer通过RTSP播放网络摄像头的视频流， <g1>Dynamsoft Barcode Reader<\/g1>用于识别条码。",
+                    " ExoPlayer is used to play the camera stream of IP cameras via RTSP and <g1>Dynamsoft Barcode Reader<\/g1> is used for barcode scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795338578,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "{% include cta.md %}",
+                    "",
+                    "{% include cta.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Use Android Studio to create an app project with an empty activity.",
+                    "使用Android Studio创建一个空的activity的应用项目。",
+                    "Use Android Studio to create an app project with an empty activity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795397812,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Add ExoPlayer in your app's <g1>build.gradle<\/g1>.",
+                    "在应用的<g1>build.gradle<\/g1>中添加ExoPlayer。",
+                    "Add ExoPlayer in your app's <g1>build.gradle<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795409714,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Add Dynamsoft Barcode Reader.",
+                    "添加Dynamsoft Barcode Reader。",
+                    "Add Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1730795416379,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Open <g1>settings.gradle<\/g1> to add Dynamsoft's maven repo.",
+                    "打开<g1>settings.gradle<\/g1>添加Dynamsoft的maven仓库。",
+                    "Open <g1>settings.gradle<\/g1> to add Dynamsoft's maven repo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604481153,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Declare the dependency in the app's <g1>build.gradle<\/g1>.",
+                    "在应用的<g1>build.gradle<\/g1>中声明依赖。",
+                    "Declare the dependency in the app's <g1>build.gradle<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795432130,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Add Permissions",
+                    "添加权限",
+                    "Add Permissions",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1720593869861,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Open <g1>AndroidManifest.xml<\/g1> to add the Internet permission.",
+                    "打开<g1>AndroidManifest.xml<\/g1>以添加Internet权限。",
+                    "Open <g1>AndroidManifest.xml<\/g1> to add the Internet permission.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795437895,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Use ExoPlayer to Play the IP Camera's RTSP Stream",
+                    "使用ExoPlayer播放网络摄像头的RTSP流",
+                    "Use ExoPlayer to Play the IP Camera's RTSP Stream",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795455906,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Open <g1>activity_main.xml<\/g1> to add the PlayerView.",
+                    "打开<g1>activity_main.xml<\/g1>，添加PlayerView。",
+                    "Open <g1>activity_main.xml<\/g1> to add the PlayerView.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795466333,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Get the view in <g1>MainActivity.java<\/g1>.",
+                    "在<g1>MainActivity.java<\/g1>中，获取该视图。",
+                    "Get the view in <g1>MainActivity.java<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795493860,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Create an instance of ExoPlayer and set it as PlayerView's player.",
+                    "创建ExoPlayer的实例并将其设置为PlayerView的播放器。",
+                    "Create an instance of ExoPlayer and set it as PlayerView's player.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795500112,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Set the RTSP stream as the media source for the player.",
+                    "将RTSP流设置为播放器的媒体源。",
+                    "Set the RTSP stream as the media source for the player.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795504424,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "You can start a local RTSP server using <g1>mediamtx<\/g1> for testing.",
+                    "可以使用<g1>mediamtx<\/g1>启动一个本地RTSP服务器进行测试。",
+                    " You can start a local RTSP server using <g1>mediamtx<\/g1> for testing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795533252,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Prepare the player and play the stream when it is ready.",
+                    "准备播放器，并在准备就绪后进行播放。",
+                    "Prepare the player and play the stream when it is ready.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795544643,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Read Barcodes from the IP Camera",
+                    "从网络摄像头读取条码",
+                    "Read Barcodes from the IP Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795554226,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Initialize the license for Dynamsoft Barcode Reader.",
+                    "初始化Dynamsoft Barcode Reader的许可证。",
+                    "Initialize the license for Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795561728,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在此处申请<g1>许可证<\/g1>。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725333053319,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Create an instance of capture vision router to perform the barcode reading.",
+                    "创建capture vision router实例以调用Dynamsoft Barcode Reader来解码。",
+                    "Create an instance of capture vision router to perform the barcode reading.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1730795576978,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Start a timer to capture frames of the IP camera stream and read barcodes from them.",
+                    "启动一个计时器以捕获网络摄像头的视频帧并从中读取条形码。",
+                    "Start a timer to capture frames of the IP camera stream and read barcodes from them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795590716,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Display the result in a TextView.",
+                    "在TextView中显示结果。",
+                    " Display the result in a TextView.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795597888,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "We can check whether the video is playing by adding a listener for the player.",
+                    "为播放器添加监听器来检查视频是否正在播放。",
+                    "We can check whether the video is playing by adding a listener for the player.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1730795607139,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "All right, we've now completed the demo.",
+                    "好了，我们已经完成了这个demo。",
+                    "All right, we've now completed the demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1730425718036,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Check out the source code of the demo to have a try:",
+                    "查看demo的源代码并尝试使用：",
+                    "Check out the source code of the demo to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/ip-camera-android-barcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1726710816009,
+                        "id": "tu27"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
