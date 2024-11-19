@@ -1,0 +1,800 @@
+{
+    "filename": "camera-focus-control-on-web.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Control Camera Focus with JavaScript",
+                    "如何使用JavaScript控制摄像头对焦",
+                    "How to Control Camera Focus with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1731982390685,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-11-18 14:40:53 +0800",
+                    "",
+                    "2024-11-18 14:40:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-11-18 14:40:53 +0800",
+                    "",
+                    "2024-11-18 14:40:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Focus",
+                    "",
+                    "Focus",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Tap to focus",
+                    "",
+                    "Tap to focus",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to control camera focus with JavaScript using getUserMedia in a web application.",
+                    "文章介绍了如何在一个网页程序中使用JavaScript通过getUserMedia接口控制摄像头对焦。",
+                    "The article talks about how to control camera focus with JavaScript using getUserMedia in a web application.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982436283,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "It can adjust the focus mode, the focus distance and support tap to focus.",
+                    "它可以调整对焦模式、对焦距离，并支持触摸对焦。",
+                    " It can adjust the focus mode, the focus distance and support tap to focus.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982488595,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/11\/focus\/diagram.jpg",
+                    "",
+                    ".\/img\/2024\/11\/focus\/diagram.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Using the <g1>getUserMedia<\/g1> API, we can open cameras on the web with JavaScript.",
+                    "使用<g1>getUserMedia<\/g1> API ，我们可以使用JavaScript在Web应用中调用摄像头。",
+                    "Using the <g1>getUserMedia<\/g1> API, we can open cameras on the web with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716345714009,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It is supported on most browsers and Chrome for Android has additional support for controlling the camera's <g2>zoom<\/g2>, <g3>torch<\/g3>, <g4>focus<\/g4>, and so on, giving more possibilities for making a camera web app.",
+                    "大多数浏览器都支持此功能， Chrome Android还额外支持控制摄像头的<g2>缩放<\/g2>、<g3>手电筒<\/g3>、<g4>对焦<\/g4>等能力，为制作摄像头网页应用提供了更多可能性。",
+                    " It is supported on most browsers and Chrome for Android has additional support for controlling the camera's <g2>zoom<\/g2>, <g3>torch<\/g3>, <g4>focus<\/g4>, and so on, giving more possibilities for making a camera web app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982527013,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about how to control camera focus on the web.",
+                    "在本文中，我们将讨论如何在Web应用中控制摄像头对焦。",
+                    "In this article, we are going to talk about how to control camera focus on the web.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1731982558666,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "We will create a demo directly using <g1>getUserMedia<\/g1> and another demo using <g2>Dynamsoft Camera Enhancer<\/g2>.",
+                    "会编写两个demo，一个直接调用<g1>getUserMedia<\/g1>，一个使用<g2>Dynamsoft Camera Enhancer<\/g2>。",
+                    " We will create a demo directly using <g1>getUserMedia<\/g1> and another demo using <g2>Dynamsoft Camera Enhancer<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716345929433,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<g1>getUserMedia<\/g1> can control the focus mode and the focus distance, but it does not provide the \"tap to focus\" ability.",
+                    "<g1>getUserMedia<\/g1> 可以控制对焦模式和对焦距离，但不提供“触摸对焦”功能。",
+                    "<g1>getUserMedia<\/g1> can control the focus mode and the focus distance, but it does not provide the \"tap to focus\" ability.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982626548,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Dynamsoft Camera Enhancer has this ability by calculating the contrast of the image.",
+                    "Dynamsoft Camera Enhancer可通过计算图像对比度来实现“触摸对焦”。",
+                    " Dynamsoft Camera Enhancer has this ability by calculating the contrast of the image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982710195,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "How Focus Works",
+                    "对焦的工作原理",
+                    "How Focus Works",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1731982722072,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Lights are reflected through the Camera's lens to enter the sensor so that we can capture a view which is much larger than the sensor.",
+                    "光线通过摄像头的镜头反射进入传感器，这样我们就可以捕捉到比传感器大得多的景物。",
+                    "Lights are reflected through the Camera's lens to enter the sensor so that we can capture a view which is much larger than the sensor.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982751354,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<x1\/>diagram<x2\/>",
+                    "<x1\/>图<x2\/>",
+                    "<x1\/>diagram<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1718352080420,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Focus distance is the distance between the lens and the object.",
+                    "对焦距离是镜头与物体之间的距离。",
+                    "Focus distance is the distance between the lens and the object.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982758424,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "We can adjust the position of the lens to modify the focus distance so that we can have a clear image of the target.",
+                    "我们可以调整镜头的位置以修改对焦距离，从而获得清晰的目标图像。",
+                    " We can adjust the position of the lens to modify the focus distance so that we can have a clear image of the target.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982766496,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "The process of calculating a suitable focus distance is called autofocus.",
+                    "计算合适的对焦距离的过程叫做自动对焦。",
+                    "The process of calculating a suitable focus distance is called autofocus.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982785764,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "There are many ways to do this, like sensoring the distance and calculating the contrast.",
+                    "有很多方法可以做到这一点，比如感应距离和计算对比度。",
+                    " There are many ways to do this, like sensoring the distance and calculating the contrast.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982794120,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "The Need for Controlling the Focus",
+                    "控制对焦的必要性",
+                    "The Need for Controlling the Focus",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982802116,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "When we open the camera in the browser, autofocus is enabled by default.",
+                    "当我们在浏览器中打开摄像头时，默认情况下会启用自动对焦。",
+                    "When we open the camera in the browser, autofocus is enabled by default.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982805608,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "We can control the focus if it fails to work or we need to turn off autofocus and keep the focus distance.",
+                    "如果对焦失败或需要关闭自动对焦并保持对焦距离，我们可以手动控制对焦。",
+                    " We can control the focus if it fails to work or we need to turn off autofocus and keep the focus distance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982818823,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Out-of-focus image:",
+                    "失焦图像：",
+                    "Out-of-focus image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982823456,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<x1\/>out of focus and blurry<x2\/>",
+                    "<x1\/>失焦和模糊<x2\/>",
+                    "<x1\/>out of focus and blurry<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982826168,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "In-focus image:",
+                    "对焦图像：",
+                    "In-focus image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982828968,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "<x1\/>infocus<x2\/>",
+                    "<x1\/>对焦<x2\/>",
+                    "<x1\/>infocus<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982835003,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Control Camera Focus in a Web App",
+                    "在Web应用中控制摄像头对焦",
+                    "Control Camera Focus in a Web App",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1731982842137,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Let's do this in steps.",
+                    "下面是分步实现过程。",
+                    "Let's do this in steps.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614050804494,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Open the Camera with getUserMedia",
+                    "使用getUserMedia打开摄像头",
+                    "Open the Camera with getUserMedia",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716346020102,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Request camera permission.",
+                    "请求摄像头权限。",
+                    "Request camera permission.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716346041406,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "List cameras.",
+                    "列出摄像头。",
+                    "List cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716346038857,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Start the selected camera with the desired resolution.",
+                    "以所需的分辨率打开所选摄像头。",
+                    "Start the selected camera with the desired resolution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716346054896,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Control Camera Focus",
+                    "控制摄像头对焦",
+                    "Control Camera Focus",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982854769,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "First, check whether the browser supports the focus feature.",
+                    "首先，检查浏览器是否支持对焦功能。",
+                    "First, check whether the browser supports the focus feature.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1731982864170,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Check whether the selected camera supports focus.",
+                    "检查所选摄像头是否支持对焦。",
+                    "Check whether the selected camera supports focus.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1731982871610,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "If it is supported, load the range of focus distance.",
+                    "如果支持，加载对焦距离范围。",
+                    " If it is supported, load the range of focus distance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982874992,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "The distance is measured in meters.",
+                    "距离以米为单位。",
+                    " The distance is measured in meters.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982881448,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "A <g1>select<\/g1> element is added to set the focus mode and an <g2>input<\/g2> element is added to set the focus distance of the camera.",
+                    "添加一个<g1>select<\/g1>元素用于设置对焦模式，添加一个<g2>input<\/g2>元素用于设置对焦距离。",
+                    "A <g1>select<\/g1> element is added to set the focus mode and an <g2>input<\/g2> element is added to set the focus distance of the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982895578,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Set focus if the <g1>input<\/g1> element's value is changed.",
+                    "如果<g1>input<\/g1>元素的值发生变化，则设置对焦距离。",
+                    "Set focus if the <g1>input<\/g1> element's value is changed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982912466,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Using Dynamsoft Camera Enhancer",
+                    "使用Dynamsoft Camera Enhancer",
+                    "Using Dynamsoft Camera Enhancer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716346203945,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Dynamsoft Camera Enhancer is a library which makes it easier to control the camera and has features to enhance the camera.",
+                    "Dynamsoft Camera Enhancer是一个使调用摄像头更方便并加强摄像头功能的库。",
+                    "Dynamsoft Camera Enhancer is a library which makes it easier to control the camera and has features to enhance the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716346317688,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "It is based on getUserMedia internally.",
+                    "内部基于getUserMedia API实现。",
+                    " It is based on getUserMedia internally.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716346330048,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Here are the equivalent functions using Dynamsoft Camera Enhancer v4:",
+                    "以下是使用Dynamsoft Camera Enhancer v4的进行摄像头控制的相关函数：",
+                    "Here are the equivalent functions using Dynamsoft Camera Enhancer v4:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716346349128,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "List the cameras.",
+                    "列出摄像头。",
+                    "List the cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1716346038857,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Open the selected camera with the desired resolution.",
+                    "以期望的分辨率打开所选摄像头。",
+                    "Open the selected camera with the desired resolution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713508154555,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Get focus distance's range and step.",
+                    "获取对焦距离的范围和步长。",
+                    "Get focus distance's range and step.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982940153,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Set focus.",
+                    "设置对焦。",
+                    "Set focus.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982959908,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "We can set the focus mode and the focus distance:",
+                    "我们可以设置对焦模式和对焦距离：",
+                    "We can set the focus mode and the focus distance:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982956768,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "We can also specify an area to focus, which makes it possible to enable the \"tap to focus\" feature.",
+                    "我们还可以指定要对焦的区域，这样就可以实现“触摸聚焦”的功能。",
+                    "We can also specify an area to focus, which makes it possible to enable the \"tap to focus\" feature.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982976410,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "The unit can be in pixels or percentages, such as \"500px\" or \"50%\".",
+                    "单位可以是像素或百分比，例如“500px”或“50%”。",
+                    " The unit can be in pixels or percentages, such as \"500px\" or \"50%\".",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982978808,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Draw the area tapped.",
+                    "绘制被点击的区域。",
+                    "Draw the area tapped.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731982989391,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "We can draw a rect around the point tapped to give the user some feedback.",
+                    "我们可以在点击的点周围画一个矩形，为用户提供一些反馈。",
+                    " We can draw a rect around the point tapped to give the user some feedback.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731983000977,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "There may be some offset between the container and the actual video content:",
+                    "容器和实际视频内容之间可能存在一些偏移：",
+                    "There may be some offset between the container and the actual video content:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731983023992,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "<x1\/>offset<x2\/>",
+                    "<x1\/>偏移<x2\/>",
+                    "<x1\/>offset<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731983036912,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "We can calculate the offset values in <g1>object-fit:contain<\/g1> mode with the following code:",
+                    "我们可以使用以下代码在<g1>object-fit: contain<\/g1>模式中计算偏移值：",
+                    "We can calculate the offset values in <g1>object-fit:contain<\/g1> mode with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1731983042256,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Get the source code of the demos to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demos to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Camera\/camera-focus-control-on-web.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu44"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
