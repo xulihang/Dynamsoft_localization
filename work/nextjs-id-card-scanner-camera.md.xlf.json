@@ -1,0 +1,1086 @@
+{
+    "filename": "nextjs-id-card-scanner-camera.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a Next.js App to Scan an ID Card via Camera",
+                    "编写一个从摄像头扫描身份证件的Next.js应用",
+                    "How to Build a Next.js App to Scan an ID Card via Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732518813907,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-11-22 09:40:53 +0800",
+                    "",
+                    "2024-11-22 09:40:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-11-22 09:40:53 +0800",
+                    "",
+                    "2024-11-22 09:40:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Capture Vision",
+                    "",
+                    "Capture Vision",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Web ID Card Scanner",
+                    "",
+                    "Web ID Card Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Next.js",
+                    "",
+                    "Next.js",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "React",
+                    "",
+                    "React",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf16_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf17_tu1"
+                    }
+                ],
+                [
+                    "MRZ",
+                    "",
+                    "MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf18_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a Next.js app to scan ID cards via cameras.",
+                    "文章讨论了如何构建一个Next.js应用程序，通过摄像头扫描身份证件。",
+                    "The article talks about how to build a Next.js app to scan ID cards via cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732518858121,
+                        "id": "sd1_sf1_sg1_sf19_tu1"
+                    }
+                ],
+                [
+                    "It can read the MRZ and barcodes on identity documents, passports and driver's licenses to extract the holder's info.",
+                    "它可以读取身份证、护照和驾照上的MRZ和条形码，提取持有人的信息。",
+                    " It can read the MRZ and barcodes on identity documents, passports and driver's licenses to extract the holder's info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713507900066,
+                        "id": "sd1_sf1_sg1_sf19_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/11\/nextjs\/home.jpg",
+                    "",
+                    ".\/img\/2024\/11\/nextjs\/home.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf20_tu1"
+                    }
+                ],
+                [
+                    "An identity document or ID card is any document that may be used to prove a person's identity.",
+                    "身份证件是可用于证明个人身份的证件。",
+                    "An identity document or ID card is any document that may be used to prove a person's identity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886889238,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "There are various forms of identity documents: driver's license, passport and formal identity card.",
+                    "身份证件有多种形式：驾驶证、护照和身份证。",
+                    " There are various forms of identity documents: driver's license, passport and formal identity card.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886903584,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Barcodes and MRZ (machine-readable zones) are often printed on an ID card so that its info can be extracted using a machine.",
+                    "条形码和MRZ（机器可读区）通常印在身份证件上，以便用机器提取信息。",
+                    "Barcodes and MRZ (machine-readable zones) are often printed on an ID card so that its info can be extracted using a machine.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713507911683,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Driver's license example:",
+                    "加拿大驾照示例：",
+                    "Driver's license example:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886951749,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>driver's license<x2\/>",
+                    "<x1\/>驾驶执照<x2\/>",
+                    "<x1\/>driver's license<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1707293500444,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Formal ID Card example:",
+                    "荷兰身份证示例：",
+                    "Formal ID Card example:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886953708,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "<x1\/>id card<x2\/>",
+                    "<x1\/>身份证<x2\/>",
+                    "<x1\/>id card<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886957731,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "ID cards are often scanned through a camera or a flatbed scanner.",
+                    "身份证通常通过摄像头或平板扫描仪进行扫描。",
+                    "ID cards are often scanned through a camera or a flatbed scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712886960627,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a Next.js app to scan ID cards via cameras.",
+                    "在本文中，我们将创建一个Next.js应用，用于从摄像头扫描身份证。",
+                    " In this article, we are going to build a Next.js app to scan ID cards via cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732518896720,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Next.js is a full-stack React framework which lets you create web apps of any size.",
+                    "Next.js是一个全栈React框架，允许我们创建任何大小的Web应用程序。",
+                    " Next.js is a full-stack React framework which lets you create web apps of any size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519012713,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "{% include series.html %}",
+                    "",
+                    "{% include series.html %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "The following SDKs by Dynamsoft are used:",
+                    "使用Dynamsoft的以下SDK：",
+                    "The following SDKs by Dynamsoft are used:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519025299,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Camera Enhancer<\/g1>: access cameras and capture frames.",
+                    "<g1>Dynamsoft Camera Enhancer<\/g1>：访问摄像头并捕捉帧。",
+                    "<g1>Dynamsoft Camera Enhancer<\/g1>: access cameras and capture frames.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713507950176,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Normalizer<\/g1>: crop ID cards in scanned document images.",
+                    "<g1>Dynamsoft Document Normalizer<\/g1>：裁剪扫描文档图像中的证件。",
+                    "<g1>Dynamsoft Document Normalizer<\/g1>: crop ID cards in scanned document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887008034,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1>: read PDF417 on driver's licenses.",
+                    "<g1>Dynamsoft Barcode Reader<\/g1>：读取驾照上的PDF417。",
+                    "<g1>Dynamsoft Barcode Reader<\/g1>: read PDF417 on driver's licenses.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887025564,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Label Recognizer<\/g1>: recognize MRZ on ID cards.",
+                    "<g1>Dynamsoft Label Recognizer<\/g1>：识别身份证件上的MRZ。",
+                    "<g1>Dynamsoft Label Recognizer<\/g1>: recognize MRZ on ID cards.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887044461,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Code Parser<\/g1>: parse MRZ and barcodes to get meaningful data.",
+                    "<g1>Dynamsoft Code Parser<\/g1>：解析MRZ和条形码以获取有意义的数据。",
+                    "<g1>Dynamsoft Code Parser<\/g1>: parse MRZ and barcodes to get meaningful data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713507974937,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Overview",
+                    "概览",
+                    "Overview",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732519048080,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "The app is straightforward.",
+                    "这个应用比较简单。",
+                    "The app is straightforward.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519436479,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "You can trigger the scanner by pressing the scan button on the home page and after scanning, the scanned image and the card holder's info are displayed.",
+                    "通过主页的扫描按钮触发扫描，完成后显示扫描的图像和卡的持有者的信息。",
+                    " You can trigger the scanner by pressing the scan button on the home page and after scanning, the scanned image and the card holder's info are displayed.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519475350,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "The capture is triggered automatically if the image is stable by checking the IoUs of detected results.",
+                    "通过检查连续几次检测到的边框之间的IoU，判断图像是否稳定。稳定后则自动进行捕获。",
+                    " The capture is triggered automatically if the image is stable by checking the IoUs of detected results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519537200,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "<x1\/>home<x2\/>",
+                    "<x1\/>主页<x2\/>",
+                    "<x1\/>home<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648027423410,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "<x1\/>scanner<x2\/>",
+                    "<x1\/>扫描<x2\/>",
+                    "<x1\/>scanner<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519547975,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "New Next.js Project",
+                    "新的Next.js项目",
+                    "New Next.js Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519555479,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Create a new Next.js project with the following command:",
+                    "使用以下命令创建新的Next.js项目：",
+                    "Create a new Next.js project with the following command:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519559576,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Install Dependencies",
+                    "安装依赖项",
+                    "Install Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026742097,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Install all the SDKs by Dynamsoft by installing the Dynamsoft Capture Vision bundle:",
+                    "通过安装Dynamsoft Capture Vision bundle来安装Dynamsoft所有的视觉SDK：",
+                    "Install all the SDKs by Dynamsoft by installing the Dynamsoft Capture Vision bundle:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519609390,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Configure Dynamsoft SDKs",
+                    "配置Dynamsoft SDK",
+                    "Configure Dynamsoft SDKs",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519613789,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Create a file named <g1>dcv.ts<\/g1> with the following content which is used to configure the Dynamsoft SDKs.",
+                    "创建名为<g1>dcv.ts<\/g1>的文件，文件内容如下，用于配置Dynamsoft SDK。",
+                    "Create a file named <g1>dcv.ts<\/g1> with the following content which is used to configure the Dynamsoft SDKs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519626880,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "It will set the license, load Web Assembly files, OCR models and specs for parsing.",
+                    "它将设置许可证，加载Web Assembly文件，OCR模型和解析规范。",
+                    " It will set the license, load Web Assembly files, OCR models and specs for parsing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519638554,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "You can apply for a license <g2>here<\/g2>.",
+                    "可以在此处申请<g1>许可证<\/g1>。",
+                    " You can apply for a license <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725333053319,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Then in <g1>page.tsx<\/g1>, import it and run the initialization.",
+                    "然后在<g1>page.tsx<\/g1>中导入并执行初始化。",
+                    "Then in <g1>page.tsx<\/g1>, import it and run the initialization.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519653473,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Since the module imported is a singleton, the initialization will not be executed twice.",
+                    "由于导入的模块是单例，因此初始化不会执行两次。",
+                    " Since the module imported is a singleton, the initialization will not be executed twice.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519659637,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Create an ID Card Scanner Component",
+                    "创建身份证件扫描组件",
+                    "Create an ID Card Scanner Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519673694,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Next, create an ID card scanner component which captures the image of the ID card and extracts its holder's info.",
+                    "接下来，创建一个身份证件扫描组件，该组件会捕获身份证件的图像并提取其持有人的信息。",
+                    "Next, create an ID card scanner component which captures the image of the ID card and extracts its holder's info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519687816,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Create <g1>Scanner.css<\/g1> and <g2>Scanner.tsx<\/g2> under <g3>app\/components<\/g3>",
+                    "在<g3>app\/components<\/g3>下创建 <g1>Scanner.css<\/g1>和<g2>Scanner.tsx<\/g2>文件。",
+                    "Create <g1>Scanner.css<\/g1> and <g2>Scanner.tsx<\/g2> under <g3>app\/components<\/g3>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519711472,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Scanner.tsx:",
+                    "Scanner.tsx：",
+                    "Scanner.tsx:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519715576,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Scanner.css:",
+                    "Scanner.css：",
+                    "Scanner.css:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519719149,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "We will talk about how to implement it in the following parts.",
+                    "我们将在以下部分讨论如何实现它。",
+                    "We will talk about how to implement it in the following parts.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519724101,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Access Camera",
+                    "访问摄像头",
+                    "Access Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1717663112454,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Add a container for the camera preview.",
+                    "为相机画面添加一个容器。",
+                    "Add a container for the camera preview.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519765961,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "CSS:",
+                    "CSS：",
+                    "CSS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123449396,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Camera Enhancer.",
+                    "初始化Dynamsoft Camera Enhancer。",
+                    "Initialize Dynamsoft Camera Enhancer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732519802835,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Bind the container and start the camera.",
+                    "绑定容器并启动摄像头。",
+                    " Bind the container and start the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519809095,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Add a header toolbar to switch the camera and stop the scanner.",
+                    "添加位于头部的工具栏，用于切换摄像头和停止扫描。",
+                    "Add a header toolbar to switch the camera and stop the scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519825568,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "JSX:",
+                    "JSX：",
+                    "JSX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123531882,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "CSS:",
+                    "CSS：",
+                    "CSS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123449396,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Detect Document",
+                    "检测文件",
+                    "Detect Document",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519832949,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Create an instance of capture vision router to perform image processing using the SDKs.",
+                    "创建capture vision router的实例，以使用SDK执行图像处理。",
+                    "Create an instance of capture vision router to perform image processing using the SDKs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519849002,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Start an interval to capture a frame and detect documents in it if the camera is opened.",
+                    "相机打开后，设置一个interval以捕获帧，并检测其中的文档。",
+                    "Start an interval to capture a frame and detect documents in it if the camera is opened.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519885233,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "If the detected document is steady, capture and crop it, stop scanning and extract the info.",
+                    "如果检测到的文档稳定，对其进行捕获和裁剪，停止扫描并提取信息。",
+                    "If the detected document is steady, capture and crop it, stop scanning and extract the info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519899731,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Whether the detected document is steady is decided by checking the IoUs of three consecutive results.",
+                    "通过检查三个连续结果的IoU来确定检测到的文档是否稳定。",
+                    "Whether the detected document is steady is decided by checking the IoUs of three consecutive results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519907446,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Helper functions:",
+                    "辅助函数：",
+                    "Helper functions:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519921561,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Read Barcodes",
+                    "读取条形码",
+                    "Read Barcodes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519925670,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Read the barcodes on the image using the barcode template.",
+                    "使用条形码模板读取图像上的条形码。",
+                    "Read the barcodes on the image using the barcode template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519946560,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "OCR of MRZ",
+                    "MRZ的OCR",
+                    "OCR of MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519953366,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Perform OCR to read the MRZ (machine-readable zone) on the image using the MRZ template.",
+                    "使用MRZ模板执行OCR以读取图像上的MRZ（机器可读区域）。",
+                    "Perform OCR to read the MRZ (machine-readable zone) on the image using the MRZ template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519961687,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Since the MRZ template is not built-in, we have to init the settings with a JSON template.",
+                    "由于MRZ模板不是内置的，我们需要使用JSON模板进行初始化。",
+                    " Since the MRZ template is not built-in, we have to init the settings with a JSON template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519973392,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Parse the Result",
+                    "解析结果",
+                    "Parse the Result",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519979025,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "After reading the barcodes and MRZ, use Dynamsoft Code Parser to parse them.",
+                    "读取条形码和MRZ后，使用Dynamsoft Code Parser对其进行解析。",
+                    "After reading the barcodes and MRZ, use Dynamsoft Code Parser to parse them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732519984566,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "Create an instance of Code Parser.",
+                    "创建一个Code Parser实例",
+                    "Create an instance of Code Parser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887415795,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "Parse the detected barcodes.",
+                    "解析检测到的条形码结果。",
+                    "Parse the detected barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732519998499,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "Parse MRZ.",
+                    "解析MRZ。",
+                    "Parse MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732520003160,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Use the ID Card Scanner Component",
+                    "使用身份证件扫描组件",
+                    "Use the ID Card Scanner Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732520010275,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "After the completion of the component, let's use it in the home page.",
+                    "组件完成后，让我们在主页中使用它。",
+                    "After the completion of the component, let's use it in the home page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732520014533,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Import the component using <g1>next\/dynamic<\/g1>.",
+                    "使用<g1>next\/dynamic<\/g1>导入组件。",
+                    "Import the component using <g1>next\/dynamic<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732520018365,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "Add <g1>'use client';<\/g1> in the head of the file.",
+                    "在文件头部添加<g1>'use client';<\/g1>。",
+                    "Add <g1>'use client';<\/g1> in the head of the file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732520025193,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Use the component to scan ID cards.",
+                    "使用该组件扫描身份证件。",
+                    "Use the component to scan ID cards.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732520048440,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "JSX:",
+                    "JSX：",
+                    "JSX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123531882,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "The results are displayed using the following JSX:",
+                    "使用以下JSX显示结果：",
+                    "The results are displayed using the following JSX:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732520060410,
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "All right, we've now completed the demo.",
+                    "好了，我们已经完成了demo的编写。",
+                    "All right, we've now completed the demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732520073671,
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "You can find the source code of the demo in the following repo:",
+                    "可以在以下软件仓库中找到该demo的源代码：",
+                    "You can find the source code of the demo in the following repo: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/nextjs-id-card-scanner-camera.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887447681,
+                        "id": "tu67"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
