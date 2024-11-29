@@ -1,0 +1,577 @@
+{
+    "filename": "drag-and-drop-scanned-document-html5.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Drag and Drop to Reorder Scanned Document Images with JavaScript",
+                    "JS通过拖放调整扫描的文档图像",
+                    "How to Drag and Drop to Reorder Scanned Document Images with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869492193,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-11-28 14:18:53 +0800",
+                    "",
+                    "2024-11-28 14:18:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-11-28 14:18:53 +0800",
+                    "",
+                    "2024-11-28 14:18:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to drag and drop to reorder scanned document image with JavaScript.",
+                    "本文介绍了如何通过JavaScript实现拖放以重新排序扫描的文档图像。",
+                    "The article shares how to drag and drop to reorder scanned document image with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869508854,
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    "It uses Dynamsoft Document Viewer's Browse Viewer and talks about the implementation details.",
+                    "使用了Dynamsoft Document Viewer的Browse Viewer，并讨论了实现细节。",
+                    " It uses Dynamsoft Document Viewer's Browse Viewer and talks about the implementation details.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732869519215,
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/11\/drag-and-drop\/browse-viewer.jpg",
+                    "",
+                    ".\/img\/2024\/11\/drag-and-drop\/browse-viewer.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "Drag and drop is a useful feature for managing scanned document images.",
+                    "拖放是管理扫描文档图像的一项有用的功能。",
+                    "Drag and drop is a useful feature for managing scanned document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869535136,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It allows users to move items from one location to another using a mouse or touch gesture.",
+                    "它允许用户使用鼠标或触摸将项目从一个位置移动到另一个位置。",
+                    " It allows users to move items from one location to another using a mouse or touch gesture.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869556165,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Viewer<\/g1> is an SDK which provides a set of viewers for document images.",
+                    "<g1>Dynamsoft Document Viewer<\/g1>是为文档图像提供查看、管理功能的SDK。",
+                    "<g1>Dynamsoft Document Viewer<\/g1> is an SDK which provides a set of viewers for document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725332627256,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In this article, we are going to demonstrate how to use it to display images and use drag and drop to reorder images.",
+                    "在本文中，我们将演示如何使用它来拖放图像以调整其顺序。",
+                    " In this article, we are going to demonstrate how to use it to display images and use drag and drop to reorder images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732869595287,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "In addition, we will also explore how to implement it from scratch with JavaScript using the drag and drop API.",
+                    "此外，我们还将探讨如何使用JavaScript的Drag and Drop API从头实现这一功能。",
+                    " In addition, we will also explore how to implement it from scratch with JavaScript using the drag and drop API.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732869618146,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Use Dynamsoft Document Viewer to Drag and Drop Images",
+                    "使用Dynamsoft Document Viewer拖放图像",
+                    "Use Dynamsoft Document Viewer to Drag and Drop Images",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732869627460,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template.",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Include Dynamsoft Document Viewer's files.",
+                    "在页面中包含Dynamsoft Document Viewer的文件。",
+                    "Include Dynamsoft Document Viewer's files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723088023598,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "使用许可证初始化Dynamsoft Document Viewer。",
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1719822702610,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "You can apply for one <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请一个证书。",
+                    " You can apply for one <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710149242858,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Create a new document instance.",
+                    "创建一个新的文档实例。",
+                    "Create a new document instance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869655853,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Create an instance of browse viewer, bind it to a container and use it to view the document we just created.",
+                    "创建一个Browse Viewer实例，将其绑定到一个容器，然后用它来查看我们刚刚创建的文档。",
+                    "Create an instance of browse viewer, bind it to a container and use it to view the document we just created.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723088051207,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "CSS:",
+                    "CSS：",
+                    "CSS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123449396,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Use <g1>input<\/g1> to select image or PDF files and load them into the document instance so that we can use the browse viewer to view the files.",
+                    "使用<g1>input<\/g1>选择多个图像或者PDF文件并将其加载到文档实例中，然后可以用Browse Viewer进行查看。",
+                    "Use <g1>input<\/g1> to select image or PDF files and load them into the document instance so that we can use the browse viewer to view the files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732869684663,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "We can then drap and drop to reorder the images in the viewer.",
+                    "然后，我们可以在查看器中拖放以重新排序图像。",
+                    "We can then drap and drop to reorder the images in the viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869700388,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Implement Drag and Drop from Scratch",
+                    "从头开始实现拖放",
+                    "Implement Drag and Drop from Scratch",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732869715982,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "HTML5 has the Drag and Drop API out of the box.",
+                    "HTML5自带了拖放API。",
+                    "HTML5 has the Drag and Drop API out of the box.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869726176,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "In the <g1>previous article<\/g1>, we've written a page to view and select multiple images.",
+                    "<g1>在上一篇文章<\/g1>中，我们编写了一个页面，用于查看和选择多张图片。",
+                    "In the <g1>previous article<\/g1>, we've written a page to view and select multiple images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869730323,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "We are now going to add the drap and drop feature to it.",
+                    "我们现在给它添加拖放功能。",
+                    "We are now going to add the drap and drop feature to it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869750948,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "It works by dragging the selected images into another image to adjust the image order.",
+                    "将所选图像拖动到另一个图像上，从而调整图像顺序。",
+                    " It works by dragging the selected images into another image to adjust the image order.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869776423,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Set the draggable attribute to true for the selected image elements.",
+                    "将所选图像元素的draggable属性设置为true。",
+                    "Set the draggable attribute to true for the selected image elements.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869787734,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Add <g1>dragenter<\/g1> and <g2>dragleave<\/g2> events to add effects to the image dragged into.",
+                    "添加<g1>dragenter<\/g1>和<g2>dragleave<\/g2>事件，为拖入的图像添加效果。",
+                    "Add <g1>dragenter<\/g1> and <g2>dragleave<\/g2> events to add effects to the image dragged into.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869802230,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Meanwhile, keep track of the image dragged into as <g3>targetImg<\/g3>.",
+                    "同时，记录拖入的图像为<g3>targetImg<\/g3>变量。",
+                    " Meanwhile, keep track of the image dragged into as <g3>targetImg<\/g3>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869831206,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "CSS:",
+                    "CSS：",
+                    "CSS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123449396,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Add the <g1>dragover<\/g1> event to set the drop effect.",
+                    "添加<g1>dragover<\/g1>事件以设置拖放效果。",
+                    "Add the <g1>dragover<\/g1> event to set the drop effect.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869848599,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Add the <g1>dragend<\/g1> event to remove the dragging effect and perform reordering.",
+                    "添加<g1>dragend<\/g1>事件，该事件发生时移除拖放效果并执行重新排序。",
+                    "Add the <g1>dragend<\/g1> event to remove the dragging effect and perform reordering.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869873856,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "First, we get all the selected images, the first selected image's index and the target image's index.",
+                    "首先，我们得到所有选定的图像，第一个选定的图像的索引和目标图像的索引。",
+                    " First, we get all the selected images, the first selected image's index and the target image's index.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869885204,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Then, if the target index is bigger than the selected index, use <g2>insertBefore<\/g2> to insert the images before the next image of the target image.",
+                    "然后，如果目标索引大于所选索引，则使用<g2>insertBefore<\/g2>在目标图像的下一个图像之前插入图像。",
+                    " Then, if the target index is bigger than the selected index, use <g2>insertBefore<\/g2> to insert the images before the next image of the target image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869901949,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Othersize, insert  the images right before the target image.",
+                    "不是的话，在目标图像的正前方插入图像。",
+                    " Othersize, insert  the images right before the target image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869923998,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "The drag and drop API does not work on touch devices.",
+                    "拖放API不适用于触摸设备。",
+                    "The drag and drop API does not work on touch devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869939508,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "We can enable it using a polyfill by including the following line in our page.",
+                    "我们可以通过在我们的页面中包含以下行来使用polyfill来启用它。",
+                    " We can enable it using a polyfill by including the following line in our page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869944659,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "All right, we've implemented the drag and drop feature with JavaScript.",
+                    "好了，我们已经用JavaScript实现了拖放功能。",
+                    "All right, we've implemented the drag and drop feature with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1732869949067,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/drag-and-drop-scanned-document-html5.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu27"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
