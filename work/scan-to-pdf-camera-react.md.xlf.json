@@ -1,0 +1,621 @@
+{
+    "filename": "scan-to-pdf-camera-react.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "React App to Scan Documents to PDF via Camera",
+                    "基于React的用摄像头扫描文档并存为PDF的Web应用",
+                    "React App to Scan Documents to PDF via Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733277682479,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-12-02 13:57:53 +0800",
+                    "",
+                    "2024-12-02 13:57:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-12-02 13:57:53 +0800",
+                    "",
+                    "2024-12-02 13:57:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Mobile Web Capture",
+                    "",
+                    "Mobile Web Capture",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a React.js app to scan documents using a camera and save them into a PDF file.",
+                    "本文讨论了如何编写一个React.js应用，以使用摄像头扫描文档并将其保存为PDF文件。",
+                    "The article talks about how to build a React.js app to scan documents using a camera and save them into a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733277709921,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Dynamsoft Mobile Web Capture is used as the SDK.",
+                    "使用了Dynamsoft Mobile Web Capture SDK。",
+                    " Dynamsoft Mobile Web Capture is used as the SDK.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733277802488,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/12\/react-document-scanner\/capture.jpg",
+                    "",
+                    ".\/img\/2024\/12\/react-document-scanner\/capture.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Modern browsers can now access the camera and run image processing to do various computer vision tasks.",
+                    "现代浏览器现在可以访问摄像头并运行图像处理来执行各种计算机视觉任务。",
+                    "Modern browsers can now access the camera and run image processing to do various computer vision tasks.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733277807781,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a React.js app to scan document images from a camera and save them into a PDF file.",
+                    "在本文中，我们将基于React.js编写一个网页应用，用于从摄像头扫描文档图像并将其保存为PDF文件。",
+                    " In this article, we are going to build a React.js app to scan document images from a camera and save them into a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733277846338,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Dynamsoft <g1>Mobile Web Capture<\/g1> is used to provide the UI and image processing ability.",
+                    "使用了Dynamsoft <g1>Mobile Web Capture<\/g1>用于提供UI界面和图像处理能力。",
+                    "Dynamsoft <g1>Mobile Web Capture<\/g1> is used to provide the UI and image processing ability.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733277866233,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Overview of the App",
+                    "应用概览",
+                    "Overview of the App",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733277881944,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "The app contains one page with a document scanner component in the center.",
+                    "该应用主要含一个页面，页面中央有一个文档扫描组件。",
+                    "The app contains one page with a document scanner component in the center.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733277949866,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "The document scanner component have three pages for the document capturing:",
+                    "文档扫描组件有三个用于文档捕获的界面：",
+                    "The document scanner component have three pages for the document capturing:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733277985054,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Camera page with border detection and auto capture features:",
+                    "具有边框检测和自动拍照功能的相机界面：",
+                    "Camera page with border detection and auto capture features:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278004409,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "<x1\/>capture viewer<x2\/>",
+                    "<x1\/>capture viewer<x2\/>",
+                    "<x1\/>capture viewer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278008487,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Polygon editing page:",
+                    "文档边界编辑界面：",
+                    "Polygon editing page:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278047720,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<x1\/>capture viewer<x2\/>",
+                    "<x1\/>perspective viewer<x2\/>",
+                    "<x1\/>capture viewer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278037790,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Image editing page (for tasks like rotating, image filtering, saving as PDF, etc):",
+                    "图像编辑界面（用于旋转、图像滤镜、另存为PDF等任务）：",
+                    "Image editing page (for tasks like rotating, image filtering, saving as PDF, etc):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278062007,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<x1\/>edit viewer<x2\/>",
+                    "<x1\/>edit viewer<x2\/>",
+                    "<x1\/>edit viewer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278066199,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Create a new React TypeScript project using Vite:",
+                    "使用Vite创建一个新的React + TypeScript项目：",
+                    "Create a new React TypeScript project using Vite:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1728611805195,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Install the Dynamsoft SDKs:",
+                    "安装Dynamsoft SDK：",
+                    "Install the Dynamsoft SDKs:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278087398,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "In addition, copy the resources of Dynamsoft Document Viewer to <g1>public\/assets\/ddv-resources<\/g1>",
+                    "此外，将Dynamsoft Document Viewer的资源复制到<g1>public\/assets\/ddv-resources<\/g1>目录里。",
+                    "In addition, copy the resources of Dynamsoft Document Viewer to <g1>public\/assets\/ddv-resources<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278099559,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Install <g1>ncp<\/g1> as a dev dependency.",
+                    "将<g1>ncp<\/g1>安装为开发依赖项。",
+                    "Install <g1>ncp<\/g1> as a dev dependency.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278111518,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Update <g1>package.json<\/g1> to use ncp to copy the resources.",
+                    "更新<g1>package.json<\/g1>以使用ncp复制资源。",
+                    "Update <g1>package.json<\/g1> to use ncp to copy the resources.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278118022,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Configure Dynamsoft SDKs",
+                    "配置Dynamsoft SDK",
+                    "Configure Dynamsoft SDKs",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732519613789,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Create a file named <g1>dynamsoft.config.ts<\/g1> with the following content to initialize the license and resources.",
+                    "创建名为<g1>dynamsoft.config.ts<\/g1>的文件，文件内容如下，用于初始化许可证和资源。",
+                    "Create a file named <g1>dynamsoft.config.ts<\/g1> with the following content to initialize the license and resources.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1733278160216,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "You can apply for a license <g2>here<\/g2>.",
+                    "可以在此处申请<g1>许可证<\/g1>。",
+                    " You can apply for a license <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725333053319,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Then use it in <g1>App.tsx<\/g1>:",
+                    "然后在<g1>App.tsx<\/g1>中使用它：",
+                    "Then use it in <g1>App.tsx<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278164502,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Create a Document Scanner Component",
+                    "创建文档扫描组件",
+                    "Create a Document Scanner Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278172022,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Next, create a document scanner component under <g1>src\/components\/Scanner.tsx<\/g1>.",
+                    "接下来，在<g1>src\/components\/Scanner.tsx<\/g1>路径创建一个文档扫描组件。",
+                    "Next, create a document scanner component under <g1>src\/components\/Scanner.tsx<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278199279,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Add the template content to it:",
+                    "将以下模板内容添加到其中：",
+                    "Add the template content to it:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278207050,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Import the CSS of Dynamsoft Document Viewer.",
+                    "导入Dynamsoft Document Viewer的CSS。",
+                    "Import the CSS of Dynamsoft Document Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1728612844539,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Create an instance of capture viewer.",
+                    "创建Capture Viewer的实例。",
+                    "Create an instance of capture viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278220439,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Create an instance of perspective viewer to edit the detected document polygon.",
+                    "创建Perspective Viewer的实例，以编辑检测到的文档边界。",
+                    "Create an instance of perspective viewer to edit the detected document polygon.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278239007,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Create an instance of edit viewer.",
+                    "创建Edit Viewer的实例。",
+                    "Create an instance of edit viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278252631,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Register events so that the viewers can work together.",
+                    "注册事件，让以上viewer可以协同工作。",
+                    "Register events so that the viewers can work together.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278296071,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Setup the Document Detection Handler",
+                    "配置文档检测",
+                    "Setup the Document Detection Handler",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278375351,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Next, we need to use Dynamsoft Document Normalizer to provide the document boundary detection ability by defining a document detection handler for Dynamsoft Document Viewer.",
+                    "接下来，我们需要定义一个文档检测的Handler，让Dynamsoft Document Viewer能使用Dynamsoft Document Normalizer的文档边界检测功能。",
+                    "Next, we need to use Dynamsoft Document Normalizer to provide the document boundary detection ability by defining a document detection handler for Dynamsoft Document Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278424664,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "The camera frames are compressed to improve the efficiency with the following function:",
+                    "用以下方法对视频帧进行压缩以提高效率：",
+                    "The camera frames are compressed to improve the efficiency with the following function:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278450886,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Use the Document Scanner Component",
+                    "使用文档扫描组件",
+                    "Use the Document Scanner Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699254813302,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Next, in <g1>App.tsx<\/g1> use the document scanner with the following code:",
+                    "接下来，在<g1>App.tsx<\/g1>中使用文档扫描组件，代码如下：",
+                    "Next, in <g1>App.tsx<\/g1> use the document scanner with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733278475607,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "All right, we've now completed the demo.",
+                    "好了，我们已经完成了demo的编写。",
+                    "All right, we've now completed the demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732520073671,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Get the source code of the demos to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demos to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Mobile Web Capture\/scan-to-pdf-camera-react.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu38"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
