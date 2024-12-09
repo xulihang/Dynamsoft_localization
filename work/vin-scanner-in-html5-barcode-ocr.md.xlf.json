@@ -1,0 +1,679 @@
+{
+    "filename": "vin-scanner-in-html5-barcode-ocr.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a VIN Scanner in HTML5",
+                    "扫描车辆VIN码的网页应用",
+                    "How to Build a VIN Scanner in HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727029327,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-12-09 10:40:53 +0800",
+                    "",
+                    "2024-12-09 10:40:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-12-09 10:40:53 +0800",
+                    "",
+                    "2024-12-09 10:40:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Capture Vision",
+                    "",
+                    "Capture Vision",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "VIN",
+                    "",
+                    "VIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Barcode Reader",
+                    "",
+                    "Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "OCR",
+                    "",
+                    "OCR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a VIN scanner in HTML5 to read VIN via the barcode or the text.",
+                    "",
+                    "The article talks about how to build a VIN scanner in HTML5 to read VIN via the barcode or the text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/12\/vin\/VINcode39.jpg",
+                    "",
+                    ".\/img\/2024\/12\/vin\/VINcode39.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "VIN stands for vehicle identification number.",
+                    "VIN是车辆识别号码的英文的缩写。",
+                    "VIN stands for vehicle identification number.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727064454,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It is a unique 17-character code to identify individual vehicles.",
+                    "这是一个独特的17个字符的代码，用于识别车辆。",
+                    " It is a unique 17-character code to identify individual vehicles.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727073990,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "The VIN contains information about your car’s make, model, and year, as well as the country where it was manufactured and other important details.",
+                    "车辆识别码包含汽车品牌、型号、年份、制造国家\/地区等信息。",
+                    " The VIN contains information about your car’s make, model, and year, as well as the country where it was manufactured and other important details.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727104311,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<x1\/>VIN code39<x2\/>",
+                    "<x1\/>VIN code39<x2\/>",
+                    "<x1\/>VIN code39<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727115647,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "You may find the VIN label on your car’s dashboard, near the windshield on the driver’s side or on your car’s chassis.",
+                    "可以驾驶员侧挡风玻璃附近或汽车底盘上找到VIN标签。",
+                    "You may find the VIN label on your car’s dashboard, near the windshield on the driver’s side or on your car’s chassis.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727125014,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Most VIN labels only contain the text.",
+                    "大多数VIN标签仅包含文本。",
+                    "Most VIN labels only contain the text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727133894,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Some labels also have a barcode in the following format:",
+                    "有些标签还具有以下格式的条形码：",
+                    " Some labels also have a barcode in the following format:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727143161,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Code 39, QR code and Data Matrix.",
+                    "Code 39、QR码、Data Matrix码。",
+                    " Code 39, QR code and Data Matrix.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727162629,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a VIN scanner in HTML5 to scan the barcode or the text to read the VIN code using the <g1>Dynamsoft Capture Vision<\/g1> SDK.",
+                    "在本文中，我们将构建一个HTML5应用，使用<g1>Dynamsoft Capture Vision<\/g1> SDK扫描条形码或文本以读取VIN码。",
+                    "In this article, we are going to build a VIN scanner in HTML5 to scan the barcode or the text to read the VIN code using the <g1>Dynamsoft Capture Vision<\/g1> SDK.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727197179,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "New HTML Page",
+                    "新建HTML页面",
+                    "New HTML Page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1733727209532,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Create a new HTML page with the following content:",
+                    "创建包含以下内容的新的HTML页面：",
+                    "Create a new HTML page with the following content:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1733727218664,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Include the Dynamsoft Capture Vision SDK with the following line of code:",
+                    "用以下代码引入Dynamsoft Capture Vision SDK：",
+                    "Include the Dynamsoft Capture Vision SDK with the following line of code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727231800,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Initialize the SDK",
+                    "初始化SDK",
+                    "Initialize the SDK",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727235788,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Set the license.",
+                    "设置许可证。",
+                    "Set the license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727238251,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在此处申请<g1>许可证<\/g1>。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725333053319,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Load resources.",
+                    "加载资源。",
+                    "Load resources.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727243518,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Create an instance of Capture Vision Router to call various image processing tasks like barcode reading and OCR.",
+                    "创建Capture Vision Router实例以调用条形码读取和OCR等各种图像处理任务。",
+                    "Create an instance of Capture Vision Router to call various image processing tasks like barcode reading and OCR.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727246652,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Open the Camera",
+                    "打开摄像头",
+                    "Open the Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721904020,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Next, let's use Dynamsoft Camera Enhancer to open the camera.",
+                    "接下来，让我们使用Dynamsoft Camera Enhancer打开摄像头。",
+                    "Next, let's use Dynamsoft Camera Enhancer to open the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1713508094232,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Add a container for the camera.",
+                    "为相机添加一个容器。",
+                    "Add a container for the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1733727268780,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Create an instance of Camera Enhancer and bind it to the container.",
+                    "创建一个Camera Enhancer的实例，并将其和容器绑定。",
+                    "Create an instance of Camera Enhancer and bind it to the container.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1733727301811,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Add a button to open or close the camera.",
+                    "添加一个按钮，用于打开或关闭摄像头。",
+                    "Add a button to open or close the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727305748,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Read Barcodes",
+                    "读取条形码",
+                    "Read Barcodes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732519925670,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Next, read the barcode on the VIN label.",
+                    "接下来，读取VIN标签上的条形码。",
+                    "Next, read the barcode on the VIN label.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727314686,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Create a new JSON template to configure the router to read barcodes in the Code 39, QR code and Data Matrix formats.",
+                    "创建一个新的JSON模板文件，用来配置router以读取Code 39、QR code和Data Matrix格式的条形码。",
+                    "Create a new JSON template to configure the router to read barcodes in the Code 39, QR code and Data Matrix formats.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727348583,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Save it as <g1>VINBarcodeTemplate.json<\/g1>.",
+                    "将其存为<g1>VINBarcodeTemplate.json<\/g1>。",
+                    " Save it as <g1>VINBarcodeTemplate.json<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727340600,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Load the template using the <g1>initSettings<\/g1> function:",
+                    "使用<g1>initSettings<\/g1>函数加载模板：",
+                    "Load the template using the <g1>initSettings<\/g1> function:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727355728,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Create a result receiver to retrieve the results.",
+                    "创建一个结果接收器来获取结果。",
+                    "Create a result receiver to retrieve the results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727360342,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Set the camera as the input for the router.",
+                    "将camera enhancer设置为router的输入源。",
+                    "Set the camera as the input for the router.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727383864,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Start processing the camera frames to read barcodes after the camera is opened.",
+                    "打开摄像头后，开始处理视频帧以读取条形码。",
+                    "Start processing the camera frames to read barcodes after the camera is opened.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727399489,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Read the Text",
+                    "识别文本",
+                    "Read the Text",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727405614,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Next, read the text on the VIN label.",
+                    "接下来，识别VIN标签上的文本。",
+                    "Next, read the text on the VIN label.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727413090,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Create a new JSON template to configure the router to read 17-character text.",
+                    "创建一个新的JSON模板文件，用来配置router以读取17个字符的文本。",
+                    "Create a new JSON template to configure the router to read 17-character text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1733727425719,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Save it as <g1>VINTextTemplate.json<\/g1>.",
+                    "将其存为<g1>VINTextTemplate.json<\/g1>。",
+                    " Save it as <g1>VINTextTemplate.json<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1733727435798,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "We need to specify the VIN model and image processing parameters.",
+                    "我们需要指定VIN模型和图像处理参数。",
+                    " We need to specify the VIN model and image processing parameters.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727440349,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "For example, the text is often inverted (white text on blackground), we need to configure <g2>GrayscaleTransformationModes<\/g2> to read inverted images.",
+                    "例如，VIN的文本通常是反色的（黑底白字），我们需要配置<g2>GrayscaleTransformationModes<\/g2>来反转颜色。",
+                    " For example, the text is often inverted (white text on blackground), we need to configure <g2>GrayscaleTransformationModes<\/g2> to read inverted images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727477088,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Pass the name <g1>ReadVINText<\/g1> for the router to recognize the text.",
+                    "使用<g1>ReadVINText<\/g1>模板名调用router识别文本。",
+                    "Pass the name <g1>ReadVINText<\/g1> for the router to recognize the text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727504072,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Parse the Result",
+                    "解析结果",
+                    "Parse the Result",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732519979025,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Next, after getting the VIN code, we can extract the info from it using Dynamsoft Code Parser.",
+                    "接下来，在获取VIN代码后，我们可以使用Dynamsoft Code Parser从中提取信息。",
+                    "Next, after getting the VIN code, we can extract the info from it using Dynamsoft Code Parser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727516230,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Create an instance of Code Parser.",
+                    "创建一个Code Parser实例",
+                    "Create an instance of Code Parser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887415795,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Parse the VIN code when the VIN is recognized.",
+                    "识别到VIN码后，解析VIN码。",
+                    "Parse the VIN code when the VIN is recognized.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1733727538950,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "You can find the source code of the demo in the following repo:",
+                    "可以在以下软件仓库中找到该demo的源代码：",
+                    "You can find the source code of the demo in the following repo: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/DCV\/vin-scanner-in-html5-barcode-ocr.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1712887447681,
+                        "id": "tu37"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
