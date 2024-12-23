@@ -1,0 +1,556 @@
+{
+    "filename": "nuxtjs-barcode-qr-code-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a Barcode and QR Code Scanner in Nuxt.js",
+                    "基于Nuxt.js构建一个二维码扫描网页应用",
+                    "How to Build a Barcode and QR Code Scanner in Nuxt.js",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1734937497330,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-12-23 11:10:53 +0800",
+                    "",
+                    "2024-12-23 11:10:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-12-23 11:10:53 +0800",
+                    "",
+                    "2024-12-23 11:10:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode Reader",
+                    "",
+                    "Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Vue",
+                    "",
+                    "Vue",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Nuxt.js",
+                    "",
+                    "Nuxt.js",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "Web",
+                    "",
+                    "Web",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf16_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a barcode and QR code scanner using Dynamsoft Barcode Reader and Nuxt.js.",
+                    "文章讲述了如何使用Dynamsoft Barcode Reader和Nuxt.js构建一个扫描条码\/二维码的网页应用。",
+                    "The article talks about how to build a barcode and QR code scanner using Dynamsoft Barcode Reader and Nuxt.js.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734937665550,
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/12\/nuxtjs\/barcode-scanner.jpg",
+                    "",
+                    ".\/img\/2024\/12\/nuxtjs\/barcode-scanner.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf18_tu1"
+                    }
+                ],
+                [
+                    "Nuxt is a free and open-source framework with an intuitive and extendable way to create type-safe, performant and production-grade full-stack web applications and websites with Vue.js.",
+                    "Nuxt是一个免费的开源框架，可以直观和可扩展的方式使用Vue.js创建类型安全、高性能和生产级的全栈Web应用程序和网站。",
+                    "Nuxt is a free and open-source framework with an intuitive and extendable way to create type-safe, performant and production-grade full-stack web applications and websites with Vue.js.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734937622051,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a barcode and QR code scanner using Nuxt.js.",
+                    "在本文中，我们将使用Nuxt.js构建一个条码\/二维码扫描网页应用。",
+                    "In this article, we are going to build a barcode and QR code scanner using Nuxt.js.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1734937682482,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Camera Enhancer<\/g1> is used to access the camera in browsers and <g2>Dynamsoft Barcode Reader<\/g2> is used to read barcodes from the camera video frames.",
+                    "使用<g1>Dynamsoft Camera Enhancer<\/g1>在浏览器中访问相机，<g2>Dynamsoft Barcode Reader<\/g2>从相机视频帧中读取条形码。",
+                    " <g1>Dynamsoft Camera Enhancer<\/g1> is used to access the camera in browsers and <g2>Dynamsoft Barcode Reader<\/g2> is used to read barcodes from the camera video frames.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700122979481,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "{% include cta.md %}",
+                    "",
+                    "{% include cta.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Create a new Nuxt.js project named <g1>barcode-scanner<\/g1>:",
+                    "创建一个名为<g1>barcode-scanner<\/g1>的新的Nuxt项目：",
+                    "Create a new Nuxt.js project named <g1>barcode-scanner<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1734937696316,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Install Dependencies",
+                    "安装依赖项",
+                    "Install Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026742097,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Install the Dynamsoft Barcode Reader bundle.",
+                    "安装Dynamsoft Barcode Reader bundle。",
+                    "Install the Dynamsoft Barcode Reader bundle.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1734937710088,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Configure the SDK",
+                    "配置SDK",
+                    "Configure the SDK",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722393478841,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Create a file named <g1>dynamsoft.config.ts<\/g1> with the following content to initialize the license and resources.",
+                    "创建名为<g1>dynamsoft.config.ts<\/g1>的文件，文件内容如下，用于初始化许可证和资源。",
+                    "Create a file named <g1>dynamsoft.config.ts<\/g1> with the following content to initialize the license and resources.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1733278160216,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "You can apply for a license <g2>here<\/g2>.",
+                    "可以在此处申请<g1>许可证<\/g1>。",
+                    " You can apply for a license <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725333053319,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Create a Barcode Scanner Vue Component",
+                    "新建一个条码扫描Vue组件",
+                    "Create a Barcode Scanner Vue Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1734937722706,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Next, let's create a barcode scanner component under <g1>src\/components\/BarcodeScanner.vue<\/g1> that can open the camera and scan barcodes from the camera video frames.",
+                    "接下来，在<g1>src\/components\/BarcodeScanner.vue<\/g1>路径下创建一个条形扫描组件，该组件可以打开相机并扫描相机视频帧中的条形码。",
+                    "Next, let's create a barcode scanner component under <g1>src\/components\/BarcodeScanner.vue<\/g1> that can open the camera and scan barcodes from the camera video frames.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1734937744164,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Write the basic content of the component:",
+                    "组件的基本内容：",
+                    "Write the basic content of the component:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123229651,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "It has an element which serves as the container of the camera.",
+                    "它有一个用作相机的容器的元素。",
+                    "It has an element which serves as the container of the camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734937769171,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Run the init method defined in <g1>dynamsoft.config.ts<\/g1> after the component is mounted.",
+                    "在挂载组件后运行<g1>dynamsoft.config.ts<\/g1>中定义的init方法。",
+                    "Run the init method defined in <g1>dynamsoft.config.ts<\/g1> after the component is mounted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734937774607,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Initialize Camera Enhancer and bind it to the UI element after the component is mounted.",
+                    "初始化Camera Enhancer并将其组件绑定到一个容器。",
+                    "Initialize Camera Enhancer and bind it to the UI element after the component is mounted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129168351,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Create a Capture Vision Router instance to process the camera frames to read barcodes.",
+                    "创建Capture Vision Router实例以处理相机帧以读取条形码。",
+                    "Create a Capture Vision Router instance to process the camera frames to read barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734937796305,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Define two emit events.",
+                    "定义两个emit事件。",
+                    "Define two emit events.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734937815384,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "One is to emit the detected barcode results and the other is to emit the initialized event.",
+                    "一个是在获取到条码结果触发，另一个是在初始化完成后触发。",
+                    " One is to emit the detected barcode results and the other is to emit the initialized event.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734937859091,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Add a result receiver to get the detected barcode results and emit them.",
+                    "添加结果接收器以接收扫描到的条码结果并触发事件。",
+                    "Add a result receiver to get the detected barcode results and emit them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1734937934923,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Emit <g1>initialized<\/g1> after the instances are created.",
+                    "创建实例后，发出触发<g1>initialized<\/g1>事件。",
+                    "Emit <g1>initialized<\/g1> after the instances are created.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734937929456,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Expose two methods to control the scanning status of the component.",
+                    "暴露两个方法来控制组件的扫描状态。",
+                    "Expose two methods to control the scanning status of the component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734937943099,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Release resources before the component is unmounted.",
+                    "在卸载组件之前释放资源。",
+                    "Release resources before the component is unmounted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734937948753,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Use the Barcode Scanner Component in the App",
+                    "在应用中使用扫码组件",
+                    "Use the Barcode Scanner Component in the App",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123477041,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Switch to <g1>app.vue<\/g1>.",
+                    "切换到<g1>app.vue<\/g1>。",
+                    "Switch to <g1>app.vue<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734937953592,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Let's use the scanner component in the app.",
+                    "在应用中使用这个扫码组件。",
+                    " Let's use the scanner component in the app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123492448,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Import the scanner component and add a button to control its scanning status.",
+                    "导入扫码组件并添加一个按钮来控制其扫描状态。",
+                    "Import the scanner component and add a button to control its scanning status.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734937967101,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Since the SDK has to modify the DOM, we need to wrap the scanner with <g1>ClientOnly<\/g1>.",
+                    "由于SDK需要修改DOM ，我们需要用<g1>ClientOnly<\/g1>包裹扫码组件。",
+                    " Since the SDK has to modify the DOM, we need to wrap the scanner with <g1>ClientOnly<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734938010364,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Display the scanned results.",
+                    "显示扫描结果。",
+                    "Display the scanned results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734938021040,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "All right, we've now finished the barcode and QR code scanner with Nuxt.js.",
+                    "好了，我们现在已经用Nuxt.js完成了这一条码\\二维码扫描应用。",
+                    "All right, we've now finished the barcode and QR code scanner with Nuxt.js.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1734938039372,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "You can check out the <g1>online demo<\/g1> to have a try.",
+                    "可以访问<g1>在线演示<\/g1>进行试用。",
+                    " You can check out the <g1>online demo<\/g1> to have a try.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710999485567,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/nuxtjs-barcode-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu27"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
