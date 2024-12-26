@@ -1,0 +1,464 @@
+{
+    "filename": "pdf-encrypt-decrypt-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Encrypt and Decrypt a PDF File with JavaScript",
+                    "前端实现PDF加解密",
+                    "How to Encrypt and Decrypt a PDF File with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735176984216,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2024-12-25 14:01:53 +0800",
+                    "",
+                    "2024-12-25 14:01:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2024-12-25 14:01:53 +0800",
+                    "",
+                    "2024-12-25 14:01:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "PDF",
+                    "",
+                    "PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to encrypt and decrypt a PDF file with JavaScript using Dynamsoft Document Viewer.",
+                    "文章分享了如何使用 Dynamsoft Document Viewer在前端实现加密和解密PDF文件。",
+                    "The article shares how to encrypt and decrypt a PDF file with JavaScript using Dynamsoft Document Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735177022180,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2024\/12\/pdf-password.jpg",
+                    "",
+                    ".\/img\/2024\/12\/pdf-password.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "A PDF file can be encrypted, for security, in which case a password is needed to view or edit the contents.",
+                    "我们可以对PDF文件加密以保护其内容。在这种情况下，需要输入密码才能查看或编辑内容。",
+                    "A PDF file can be encrypted, for security, in which case a password is needed to view or edit the contents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735177130364,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Viewer<\/g1> is a JavaScript SDK for document scanning and viewing, which can encrypt and decrypt a PDF file.",
+                    "<g1>Dynamsoft Document Viewer<\/g1>是一个用于文档扫描和查看的JavaScript SDK，可以对PDF文件进行加密和解密。",
+                    " <g1>Dynamsoft Document Viewer<\/g1> is a JavaScript SDK for document scanning and viewing, which can encrypt and decrypt a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735177147765,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In article, we are going to explore how to use it.",
+                    "在本文中，我们将探讨如何使用它。",
+                    " In article, we are going to explore how to use it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735177171306,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Use Dynamsoft Document Viewer to Open a PDF File",
+                    "使用Dynamsoft Document Viewer打开一个PDF文件",
+                    "Use Dynamsoft Document Viewer to Open a PDF File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1735177194057,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template.",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Include Dynamsoft Document Viewer's files.",
+                    "在页面中包含Dynamsoft Document Viewer的文件。",
+                    "Include Dynamsoft Document Viewer's files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723088023598,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "使用许可证初始化Dynamsoft Document Viewer。",
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1719822702610,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "You can apply for one <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请一个证书。",
+                    " You can apply for one <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710149242858,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Create a new document instance.",
+                    "创建一个新的文档实例。",
+                    "Create a new document instance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723088034412,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Create an instance of browse viewer, bind it to a container and use it to view the document we just created.",
+                    "创建一个Browse Viewer实例，将其绑定到一个容器，然后用它来查看我们刚刚创建的文档。",
+                    "Create an instance of browse viewer, bind it to a container and use it to view the document we just created.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723088051207,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "CSS:",
+                    "CSS：",
+                    "CSS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123449396,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Use <g1>input<\/g1> to select a PDF file and load it into the document instance so that we can use the browse viewer to view the file.",
+                    "使用<g1>input<\/g1>选择一个PDF文件并将其加载到文档实例中，然后可以用Browse Viewer进行查看。",
+                    "Use <g1>input<\/g1> to select a PDF file and load it into the document instance so that we can use the browse viewer to view the file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1735177236333,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Open a Password-Protected PDF",
+                    "打开受密码保护的PDF文件",
+                    "Open a Password-Protected PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735177249426,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "If the PDF is password-protected, it will fail to open the PDF and throw an error, which indicates that we need to enter a password to open it.",
+                    "如果PDF受密码保护，使用默认配置打开时会抛出错误，提示我们需要输入密码才能打开它。",
+                    "If the PDF is password-protected, it will fail to open the PDF and throw an error, which indicates that we need to enter a password to open it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735177285510,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "We can catch the error and ask the user to enter a password.",
+                    "我们可以捕获该错误并要求用户输入密码。",
+                    "We can catch the error and ask the user to enter a password.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735177299652,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "CSS:",
+                    "CSS：",
+                    "CSS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123449396,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "We have to pass the password info to the <g1>loadSource<\/g1> method:",
+                    "需要将密码传入<g1>loadSource<\/g1>方法：",
+                    "We have to pass the password info to the <g1>loadSource<\/g1> method:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735177321239,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Save a Password-Protected PDF",
+                    "保存为受密码保护的PDF文件",
+                    "Save a Password-Protected PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735177337112,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "We can save the PDF without password to create a decrypted PDF or set a password to create an encrypted PDF.",
+                    "不设密码保存文档为PDF，可以创建一个解密的PDF文件。设了密码的话，则创建一个加密的PDF文件。",
+                    "We can save the PDF without password to create a decrypted PDF or set a password to create an encrypted PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735177396506,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Get the source code of the demo to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demo to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/pdf-encrypt-decrypt-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu24"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
