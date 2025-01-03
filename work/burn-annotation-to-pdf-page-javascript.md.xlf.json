@@ -1,0 +1,636 @@
+{
+    "filename": "burn-annotation-to-pdf-page-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Burn Annotations to a PDF Page with JavaScript",
+                    "如何使用JavaScript将PDF页面中的标注扁平化",
+                    "How to Burn Annotations to a PDF Page with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735867680290,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-01-02 13:53:53 +0800",
+                    "",
+                    "2025-01-02 13:53:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-01-02 13:53:53 +0800",
+                    "",
+                    "2025-01-02 13:53:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "PDF",
+                    "",
+                    "PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Annotation",
+                    "",
+                    "Annotation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to burn annotations to a PDF page with JavaScript using Dynamsoft Document Viewer.",
+                    "本文介绍了如何使用Dynamsoft Document Viewer在前端将PDF页面的标注扁平化。",
+                    "The article shares how to burn annotations to a PDF page with JavaScript using Dynamsoft Document Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735867714081,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/01\/annotation-flatten.jpg",
+                    "",
+                    ".\/img\/2025\/01\/annotation-flatten.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Burning (flattening) annotations means including them as vector graphics in the content of a PDF page, leaving them uneditable.",
+                    "扁平化(flatten)操作可以将标注作为矢量图形包含在PDF页面的内容中，使其不可编辑。",
+                    "Burning (flattening) annotations means including them as vector graphics in the content of a PDF page, leaving them uneditable.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735867756905,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Viewer<\/g1> is a JavaScript SDK for document scanning and viewing, which can add annotations and export PDF files.",
+                    "<g1>Dynamsoft Document Viewer<\/g1>是一个用于文档扫描和查看的JavaScript SDK，可以添加标注、导出PDF。",
+                    " <g1>Dynamsoft Document Viewer<\/g1> is a JavaScript SDK for document scanning and viewing, which can add annotations and export PDF files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1735867877024,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to explore how to use it.",
+                    "在本文中，我们将探讨如何使用它。",
+                    " In this article, we are going to explore how to use it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1735177171306,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Use Dynamsoft Document Viewer to Open a PDF File with Annotations Support",
+                    "使用Dynamsoft Document Viewer打开一个PDF文件并启用标注添加功能",
+                    "Use Dynamsoft Document Viewer to Open a PDF File with Annotations Support",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1735867977227,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template.",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Include Dynamsoft Document Viewer's files.",
+                    "在页面中包含Dynamsoft Document Viewer的文件。",
+                    "Include Dynamsoft Document Viewer's files.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723088023598,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "使用许可证初始化Dynamsoft Document Viewer。",
+                    "Initialize Dynamsoft Document Viewer with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1719822702610,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "You can apply for one <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>申请一个证书。",
+                    " You can apply for one <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1710149242858,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Create a new document instance.",
+                    "创建一个新的文档实例。",
+                    "Create a new document instance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723088034412,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Create an instance of edit viewer, bind it to a container and use it to view the document we just created.",
+                    "创建一个Edit Viewer实例，将其绑定到一个容器，然后用它来查看我们刚刚创建的文档。",
+                    "Create an instance of edit viewer, bind it to a container and use it to view the document we just created.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1723599432308,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "The buttons on it can be configured using a <g1>UIConfig<\/g1> object.",
+                    "其上的按钮可以使用<g1>UIConfig<\/g1>对象进行配置。",
+                    " The buttons on it can be configured using a <g1>UIConfig<\/g1> object.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735867938371,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Here, we add the annotation button to enable adding annotations.",
+                    "添加标注按钮以添加创建标注的操作入口。",
+                    " Here, we add the annotation button to enable adding annotations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868020106,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "CSS:",
+                    "CSS：",
+                    "CSS:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123449396,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Use <g1>input<\/g1> to select an image or PDF file and load it into the document instance.",
+                    "使用<g1>input<\/g1>选择图像或PDF文件，并将其加载到文档实例中。",
+                    "Use <g1>input<\/g1> to select an image or PDF file and load it into the document instance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868046356,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "We'll be able to see a viewer like the following:",
+                    "我们将能够看到如下查看器：",
+                    "We'll be able to see a viewer like the following:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868057638,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "<x1\/>editviewer<x2\/>",
+                    "<x1\/>editviewer<x2\/>",
+                    "<x1\/>editviewer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868065631,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Burn the Annotations and Save the PDF",
+                    "扁平化标注并保存PDF",
+                    "Burn the Annotations and Save the PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868082631,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Dynamsoft Document Viewer supports four ways to handle the PDF annotations:",
+                    "Dynamsoft Document Viewer支持四种处理PDF标注的方式：",
+                    "Dynamsoft Document Viewer supports four ways to handle the PDF annotations:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868094625,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "<g1>none<\/g1>:",
+                    "<g1>none<\/g1>:",
+                    "<g1>none<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868098342,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Discard all the annotations",
+                    "丢弃所有标注",
+                    " Discard all the annotations",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868104736,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "<g1>image<\/g1>:",
+                    "<g1>image<\/g1>:",
+                    "<g1>image<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868109134,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Merge all the content into a raster image",
+                    "将所有内容合并到光栅图像中",
+                    " Merge all the content into a raster image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868112502,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "<g1>flatten<\/g1>:",
+                    "<g1>扁平化<\/g1>：",
+                    "<g1>flatten<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868125986,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Flatten all the annotations",
+                    "扁平化所有标注",
+                    " Flatten all the annotations",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868132944,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "<g1>annotation<\/g1>:",
+                    "<g1>annotation<\/g1>:",
+                    "<g1>annotation<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868135671,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Save the annotations in an editable form.",
+                    "以可编辑的形式保存标注",
+                    " Save the annotations in an editable form.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868141608,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Individual annotations marked as flattened will still be flattened",
+                    "标记为扁平化的单个注释仍将被扁平化",
+                    " Individual annotations marked as flattened will still be flattened",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868146958,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "We can save the PDF file and burn the annotations using the <g1>flatten<\/g1> option.",
+                    "我们可以使用<g1>flatten<\/g1>选项保存PDF文件来扁平化所有标注。",
+                    "We can save the PDF file and burn the annotations using the <g1>flatten<\/g1> option.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868223112,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "If we want to keep some annotations editable while making some annotations flattened, we can use the flatten attribute of annotations and save the PDF using the <g1>annotation<\/g1> option.",
+                    "如果我们想在使某些标注扁平化的同时保留某些标注的可编辑性，我们可以使用标注的扁平化属性，并使用<g1>annotation<\/g1>选项保存 PDF。",
+                    "If we want to keep some annotations editable while making some annotations flattened, we can use the flatten attribute of annotations and save the PDF using the <g1>annotation<\/g1> option.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868250308,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "How Does it Work Internally",
+                    "内部是如何运作的",
+                    "How Does it Work Internally",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868259417,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "PDF files are described using PostScript.",
+                    "PDF文件使用PostScript语言描述。",
+                    "PDF files are described using PostScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868266657,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "We are going to use some examples to show how the flattening works internally.",
+                    "我们将使用一些示例来展示扁平化的内部操作细节。",
+                    " We are going to use some examples to show how the flattening works internally.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868285919,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "A PDF file contains a list of dictionaries and here is an example of a page dictionary:",
+                    "PDF文件会包含许多字典，下面是一个页面字典的示例：",
+                    "A PDF file contains a list of dictionaries and here is an example of a page dictionary:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868306154,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "The above page has a reference to the following annotation dictionary:",
+                    "以上页面引用了以下标注字典：",
+                    "The above page has a reference to the following annotation dictionary:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868321961,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "After flattening, the page dictionary will become the following.",
+                    "扁平化后，页面字典将变为以下内容。",
+                    "After flattening, the page dictionary will become the following.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868324487,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "It no longer has the annotation node and a node of the converted annotation graphics is appended to its content.",
+                    "它不再具有标注节点，并将转换成图形的标注的节点附加到其正文中。",
+                    " It no longer has the annotation node and a node of the converted annotation graphics is appended to its content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1735868375017,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Get the source code of the demo to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demo to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu30"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
