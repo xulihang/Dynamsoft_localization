@@ -497,12 +497,12 @@
                 ],
                 [
                     "Individual annotations marked as flattened will still be flattened",
-                    "标记为扁平化的单个注释仍将被扁平化",
+                    "标记为扁平化的单个标注仍将被扁平化",
                     " Individual annotations marked as flattened will still be flattened",
                     "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/burn-annotation-to-pdf-page-javascript.md",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1735868146958,
+                        "createdTime": 1735868767936,
                         "id": "tu21"
                     }
                 ],
