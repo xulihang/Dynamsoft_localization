@@ -1,0 +1,603 @@
+{
+    "filename": "html-dotcode-scanner-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build an HTML Page to Scan DotCode",
+                    "在浏览器中扫描DotCode",
+                    "How to Build an HTML Page to Scan DotCode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237540944,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-01-07 10:39:53 +0800",
+                    "",
+                    "2025-01-07 10:39:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-01-07 10:39:53 +0800",
+                    "",
+                    "2025-01-07 10:39:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode Reader",
+                    "",
+                    "Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "DotCode",
+                    "",
+                    "DotCode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build an HTML page to scan DotCode using Dynamsoft Barcode Reader.",
+                    "本文讨论了如何使用Dynamsoft Barcode Reader构建一个HTML页面以在浏览器中扫描DotCode。",
+                    "The article talks about how to build an HTML page to scan DotCode using Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237560733,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/01\/dotcode\/decoding-result.jpg",
+                    "",
+                    ".\/img\/2025\/01\/dotcode\/decoding-result.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "DotCode is two-dimensional (2D) matrix barcode mainly used in the tobacco industry with advantages like the ability to apply the barcode by high-speed industrial printers and other methods like laser engraving.",
+                    "DotCode 是一种二维（2D）矩阵条形码，主要用于烟草行业，其优点是可以通过高速工业打印机和激光雕刻等方式打印。",
+                    "DotCode is two-dimensional (2D) matrix barcode mainly used in the tobacco industry with advantages like the ability to apply the barcode by high-speed industrial printers and other methods like laser engraving.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237608509,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Below is a pack of cigarettes with a DotCode representing its unique identifier.",
+                    "下面是一包香烟，上面的DotCode代表着其唯一标识符。",
+                    "Below is a pack of cigarettes with a DotCode representing its unique identifier.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237628041,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<x1\/>cigarette pack<x2\/>",
+                    "<x1\/>烟盒<x2\/>",
+                    "<x1\/>cigarette pack<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237642387,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "In this article, we are going to build an HTML page to scan DotCode using the JavaScript edition of <g1>Dynamsoft Barcode Reader<\/g1>.",
+                    "在本文中，我们将使用<g1>Dynamsoft Barcode Reader<\/g1>的JavaScript版本创建一个HTML页面，以在浏览器中扫描DotCode。",
+                    "In this article, we are going to build an HTML page to scan DotCode using the JavaScript edition of <g1>Dynamsoft Barcode Reader<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237675159,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Prerequisites",
+                    "",
+                    "Prerequisites",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Get your trial key.",
+                    "",
+                    "Get your trial key.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "",
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following template:",
+                    "创建一个包含以下模板的新HTML文件。",
+                    "Create a new HTML file with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1703140459633,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Add Dynamsoft Barcode Reader",
+                    "添加Dynamsoft Barcode Reader",
+                    "Add Dynamsoft Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129034621,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Include the library of Dynamsoft Barcode Reader with the following line of code:",
+                    "添加下面的代码以引入Dynamsoft Barcode Reader：",
+                    "Include the library of Dynamsoft Barcode Reader with the following line of code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1736237692705,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Initialize Dynamsoft Barcode Reader",
+                    "初始化Dynamsoft Barcode Reader",
+                    "Initialize Dynamsoft Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129071345,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Initialize the license.",
+                    "初始化许可证。",
+                    "Initialize the license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129076278,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在此处申请<g1>许可证<\/g1>。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725333053319,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Load the WASM file.",
+                    "加载WASM文件。",
+                    "Load the WASM file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129093142,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Create an instance of Capture Vision Router to call Dynamsoft Barcode Reader.",
+                    "创建capture vision router实例以调用Dynamsoft Barcode Reader。",
+                    "Create an instance of Capture Vision Router to call Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129108238,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Update the Settings to Scan DotCode",
+                    "更新设置以扫描DotCode",
+                    "Update the Settings to Scan DotCode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237709660,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Create a new JSON file named <g1>dotcode-template.json<\/g1> with the following content.",
+                    "创建一个名为<g1>dotcode-template.json<\/g1>的新的JSON文件，内容如下。",
+                    "Create a new JSON file named <g1>dotcode-template.json<\/g1> with the following content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1736237725615,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "It contains the configuration to scan DotCode.",
+                    "它包含用于扫描DotCode的配置。",
+                    " It contains the configuration to scan DotCode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237731547,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "We can see that it is related to image processing.",
+                    "我们可以看到它与图像处理有关。",
+                    "We can see that it is related to image processing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237735931,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "For example, the DotCode on cigarettes is often inverted, so we can set <g1>GrayscaleTransformationModes<\/g1> to read the inverted image first.",
+                    "例如，香烟上的DotCode通常是黑底白码的，因此我们可以通过设置<g1>GrayscaleTransformationModes<\/g1>，首先处理反转颜色的图像。",
+                    " For example, the DotCode on cigarettes is often inverted, so we can set <g1>GrayscaleTransformationModes<\/g1> to read the inverted image first.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237801096,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "You can learn more about how Dynamsoft Barcode Reader handles DotCode on <g2>this page<\/g2>.",
+                    "可以在<g2>此页面<\/g2>上了解有关Dynamsoft Barcode Reader如何处理DotCode的更多信息。",
+                    " You can learn more about how Dynamsoft Barcode Reader handles DotCode on <g2>this page<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237816863,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Use the template file.",
+                    "使用模板文件。",
+                    "Use the template file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237819739,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Set up a scan region so that the barcode reader will only process a part of the frame.",
+                    "设置扫描区域，以便条码库仅处理视频帧的一部分。",
+                    "Set up a scan region so that the barcode reader will only process a part of the frame.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237842415,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "It can improve the success rate of barcode localization.",
+                    "它可以提高条码定位的成功率。",
+                    " It can improve the success rate of barcode localization.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237849342,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "The code to initialize Camera Enhancer is in the next part.",
+                    "用于初始化Camera Enhancer的代码将在下一部分中给出。",
+                    " The code to initialize Camera Enhancer is in the next part.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237856805,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Start Scanning from the Camera",
+                    "打开摄像头扫描",
+                    "Start Scanning from the Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129188365,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Initialize Camera Enhancer and bind its viewer to a container.",
+                    "初始化Camera Enhancer并将其组件绑定到一个容器。",
+                    "Initialize Camera Enhancer and bind its viewer to a container.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129168351,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Use Camera Enhancer as the input of the capture vision router so that it can fetch frames from the cameras for reading barcodes.",
+                    "使用Camera Enhancer作为capture vision router的输入，这样它就可以从摄像头获取帧来读取条形码。",
+                    "Use Camera Enhancer as the input of the capture vision router so that it can fetch frames from the cameras for reading barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129182051,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Add a filter to enable multiple frames verification to make sure that the barcode result is correct and to avoid reading the same barcodes too quickly.",
+                    "添加一个过滤器，启用多帧验证，以确保条形码结果正确，并避免过快读取相同的条形码。",
+                    "Add a filter to enable multiple frames verification to make sure that the barcode result is correct and to avoid reading the same barcodes too quickly.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129192749,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "(Optional)",
+                    "（可选）",
+                    " (Optional)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129200509,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Add a result receiver to receive the scanning results.",
+                    "添加结果接收器以接收扫描结果。",
+                    "Add a result receiver to receive the scanning results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129205157,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Start scanning after the scan button is clicked.",
+                    "单击扫描按钮后开始扫描。",
+                    "Start scanning after the scan button is clicked.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129209805,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Read DotCode in an Image",
+                    "读取图像中的DotCode",
+                    "Read DotCode in an Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237880300,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Apart from live scanning, we can also read DotCode in an image.",
+                    "除了实时扫描，我们还可以读取图像中的DotCode。",
+                    "Apart from live scanning, we can also read DotCode in an image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237887349,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Add events for selecting an image file.",
+                    "添加用于选择图像文件的事件。",
+                    "Add events for selecting an image file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237889931,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "After the image is selected, read the barcodes in it using the <g1>capture<\/g1> method.",
+                    "选择图像后，使用<g1>capture<\/g1>方法识别其中的条码。",
+                    " After the image is selected, read the barcodes in it using the <g1>capture<\/g1> method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1736237904757,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "All right, we've finished the demo.",
+                    "好了，demo已经编写好了。",
+                    "All right, we've finished the demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700124113493,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Check out the source code to have a try:",
+                    "获取源代码来自己试用一下吧：",
+                    "Check out the source code to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/html-dotcode-scanner-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1701744728242,
+                        "id": "tu32"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
