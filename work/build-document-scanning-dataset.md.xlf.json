@@ -1,0 +1,787 @@
+{
+    "filename": "build-document-scanning-dataset.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Build a Document Scanning Dataset",
+                    "构建文档扫描数据集",
+                    "Build a Document Scanning Dataset",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426096312,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-01-20 11:14:53 +0800",
+                    "",
+                    "2025-01-20 11:14:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-01-20 11:14:53 +0800",
+                    "",
+                    "2025-01-20 11:14:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Dataset",
+                    "",
+                    "Dataset",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Data science",
+                    "",
+                    "Data science",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Edge detection",
+                    "",
+                    "Edge detection",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Image processing",
+                    "",
+                    "Image processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Python",
+                    "",
+                    "Python",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "OpenCV",
+                    "",
+                    "OpenCV",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article talks about build a document scanning image dataset for edge detection.",
+                    "本文讨论了如何构建用于边缘检测的文档扫描图像数据集。",
+                    "The article talks about build a document scanning image dataset for edge detection.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426101340,
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/01\/document-scanning-dataset\/a4-on-dark-background.jpg",
+                    "",
+                    ".\/img\/2025\/01\/document-scanning-dataset\/a4-on-dark-background.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "Handheld camera devices play a big part in the document scanning process as they are more portable, powerful and affordable.",
+                    "手持式摄像头设备在文档扫描过程中发挥着重要作用，因为它们更便携、功能更强大、价格更实惠。",
+                    "Handheld camera devices play a big part in the document scanning process as they are more portable, powerful and affordable.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426112462,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "However, different from using a document scanner, using a camera imposes challenges like complex backgrounds, variations in light, and perspective distortions.",
+                    "然而，与使用文档扫描仪不同，使用相机会面临复杂背景、光线变化和透视变形等挑战，影响扫描质量。",
+                    " However, different from using a document scanner, using a camera imposes challenges like complex backgrounds, variations in light, and perspective distortions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426188711,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Thus, it is necessary to use a document scanning algorithm to detect the document boundaries and crop the document images.",
+                    "因此，有必要使用专门的文档扫描算法来检测文档边界并裁剪文档图像。",
+                    " Thus, it is necessary to use a document scanning algorithm to detect the document boundaries and crop the document images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426244136,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "To test the performance of the algorithm or train a deep learning model, it is necessary to build a document scanning dataset.",
+                    "为了测试算法性能或训练深度学习模型，有必要建立一个文档扫描数据集。",
+                    "To test the performance of the algorithm or train a deep learning model, it is necessary to build a document scanning dataset.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426255196,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "There are some existing datasets:",
+                    "有一些现有的数据集：",
+                    " There are some existing datasets:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426262740,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<g1>SmartDoc 2015 – Challenge 1<\/g1>.",
+                    "<g1>SmartDoc 2015 – Challenge 1<\/g1>。",
+                    "<g1>SmartDoc 2015 – Challenge 1<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426273678,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "The dataset contains camera frames in 1920x1080 and the corresponding mask images.",
+                    "这个数据集包含1920x1080分辨率的视频帧图像和相应的掩膜图像。",
+                    " The dataset contains camera frames in 1920x1080 and the corresponding mask images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426300637,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>smartdoc sample<x2\/>",
+                    "<x1\/>smartdoc示例<x2\/>",
+                    "<x1\/>smartdoc sample<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426304572,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<g1>MIDV-500<\/g1>.",
+                    "<g1>MIDV-500<\/g1>。",
+                    "<g1>MIDV-500<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426310093,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "This is a dataset of 50 types of ID documents.",
+                    "这是一个包含50种身份证件的数据集。",
+                    " This is a dataset of 50 types of ID documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426312196,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "<x1\/>midv500 sample<x2\/>",
+                    "<x1\/>midv500示例<x2\/>",
+                    "<x1\/>midv500 sample<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426320169,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "The two datasets have some limitations.",
+                    "这两个数据集有一些局限性。",
+                    "The two datasets have some limitations.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426325459,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "They lack richness in document contents and backgrounds.",
+                    "它们的文档内容和背景多样性不足。",
+                    " They lack richness in document contents and backgrounds.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426353589,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Some photos are too distorted and not suitable for capturing a high-quality document image.",
+                    "有些照片过于扭曲，不适合提取高质量的文件图像。",
+                    " Some photos are too distorted and not suitable for capturing a high-quality document image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426364438,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "A document scanning process via cameras can be defined in the following steps:",
+                    "通过摄像头进行文档扫描的过程可以通过以下步骤来定义：",
+                    "A document scanning process via cameras can be defined in the following steps:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426380772,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "detect the document boundaries in the camera preview.",
+                    "在相机预览中检测文档边界。",
+                    "detect the document boundaries in the camera preview.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426387405,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "assess the quality of the capture conditions and help the user improve them.",
+                    "评估拍摄条件，帮助用户改善拍摄效果。",
+                    "assess the quality of the capture conditions and help the user improve them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426424311,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "take a photo when the capture conditions are good.",
+                    "在拍摄条件良好时拍一张照。",
+                    "take a photo when the capture conditions are good.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426433677,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "produce a document image cropped from the photo using methods like perspective transformation.",
+                    "使用透视变换等方法从照片中裁剪文档图像。",
+                    "produce a document image cropped from the photo using methods like perspective transformation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426441332,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a document scanning dataset which contains various photos taken in good conditions (step 3) on different backgrounds.",
+                    "在本文中，我们将建立一个文档扫描数据集，其中包含在良好条件下（步骤 3）在不同背景上拍摄的各种照片。",
+                    "In this article, we are going to build a document scanning dataset which contains various photos taken in good conditions (step 3) on different backgrounds.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426445892,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "It can be used to examine the performance of the document scanning algorithm in real scenarios.",
+                    "它可用于检查文档扫描算法在实际场景中的性能。",
+                    " It can be used to examine the performance of the document scanning algorithm in real scenarios.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426458323,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Take Photos in Real Scenes",
+                    "在真实场景中拍照",
+                    "Take Photos in Real Scenes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426462470,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "First, we can take photos in real scenes.",
+                    "首先，我们可以在真实场景中拍照。",
+                    "First, we can take photos in real scenes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426465900,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "There are several factors to consider:",
+                    "有几个因素需要考虑：",
+                    " There are several factors to consider:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426469580,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Document type (A4 paper, ID cards, receipts, etc)",
+                    "文件类型（A4纸张、身份证、收据等）",
+                    "Document type (A4 paper, ID cards, receipts, etc)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426475593,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Document content (whether it contains inner tables and graphics)",
+                    "文档内容（是否包含表格和图形）",
+                    "Document content (whether it contains inner tables and graphics)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426488231,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Background (simple or complex, whether has a contrasting color)",
+                    "背景（简单或复杂，是否和文档形成对比）",
+                    "Background (simple or complex, whether has a contrasting color)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426507936,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Sample documents taken:",
+                    "一些拍摄的照片：",
+                    "Sample documents taken:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426524437,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "<x1\/>sample documents taken<x2\/>",
+                    "<x1\/>拍摄的照片示例<x2\/>",
+                    "<x1\/>sample documents taken<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426537214,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Save Annotations",
+                    "保存标注",
+                    "Save Annotations",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426543085,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Save the quadrilateral of the document in the following annotaion format:",
+                    "将文档的四边形保存为以下标注格式：",
+                    "Save the quadrilateral of the document in the following annotaion format:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426549725,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "We can use <g1>Dynamsoft Document Normalizer<\/g1> to detect the documents first and then verify the results manually.",
+                    "我们可以先使用<g1>Dynamsoft Document Normalizer<\/g1>检测文档，然后手动校对结果。",
+                    "We can use <g1>Dynamsoft Document Normalizer<\/g1> to detect the documents first and then verify the results manually.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426561958,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Synthesize Images to Enhance the Dataset",
+                    "合成图像以增强数据集",
+                    "Synthesize Images to Enhance the Dataset",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426566060,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "To enrich the dataset, we can synthesize images by blending different document images and background images.",
+                    "为了丰富数据集，我们可以通过混合不同的文档图像和背景图像来合成图像。",
+                    "To enrich the dataset, we can synthesize images by blending different document images and background images.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426568355,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Use a document taken in a real scene.",
+                    "使用在真实场景中拍摄的文档。",
+                    "Use a document taken in a real scene.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426581636,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "We have a background image, a document image and the mask image of the document.",
+                    "我们有一张背景图像、一张文档图像和文档的掩膜图像。",
+                    "We have a background image, a document image and the mask image of the document.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426597701,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "<x1\/>images to blend<x2\/>",
+                    "<x1\/>要混合的图像<x2\/>",
+                    "<x1\/>images to blend<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426599940,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "To blend the document image and a background image, create masked images using OpenCV's <g1>bitwise_and<\/g1> method and join the two images using OpenCV's <g2>addWeighted<\/g2> method.",
+                    "要混合文档图像和背景图像，可以使用OpenCV的<g1>bitwise_and<\/g1>方法抠图，并使用OpenCV的<g2>addWeighted<\/g2>方法合并这两个图像。",
+                    "To blend the document image and a background image, create masked images using OpenCV's <g1>bitwise_and<\/g1> method and join the two images using OpenCV's <g2>addWeighted<\/g2> method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426665687,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Code:",
+                    "代码：",
+                    "Code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123971771,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Sample masked images and the blended image:",
+                    "抠好的图像和合并后的图像的示例：",
+                    "Sample masked images and the blended image:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426671583,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "<x1\/>sample images<x2\/>",
+                    "<x1\/>示例图像<x2\/>",
+                    "<x1\/>sample images<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426676259,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Use a document in a dataset.",
+                    "使用数据集中的文档。",
+                    "Use a document in a dataset.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426680580,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "There are many document datasets, like <g1>DocBank<\/g1>.",
+                    "有许多文档数据集，如<g1>DocBank<\/g1>。",
+                    "There are many document datasets, like <g1>DocBank<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426683302,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "They may only contain clean document images without any background.",
+                    "它们可能只包含无任何背景的干净的文件图像。",
+                    " They may only contain clean document images without any background.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426694270,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "But we can still use them to enrich the dataset.",
+                    "但我们仍然可以使用它们来丰富数据集。",
+                    " But we can still use them to enrich the dataset.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426696196,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Make the document image look like being taken in a real scene using OpenCV's <g1>seamlessClone<\/g1> method and a background image.",
+                    "使用OpenCV的<g1>seamlessClone<\/g1>方法和一张背景图片，让文档图像看起来像是在真实场景中拍摄的。",
+                    "Make the document image look like being taken in a real scene using OpenCV's <g1>seamlessClone<\/g1> method and a background image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426717137,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "The method is using the Poisson Image Editing.",
+                    "该方法使用泊松图像编辑。",
+                    " The method is using the Poisson Image Editing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426720196,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Sample images (the doc, the background and the result):",
+                    "示例图像（文档、背景和结果） ：",
+                    "Sample images (the doc, the background and the result):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426723284,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "<x1\/>sample images<x2\/>",
+                    "<x1\/>示例图像<x2\/>",
+                    "<x1\/>sample images<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737426676259,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Code:",
+                    "代码：",
+                    "Code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700123971771,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Rotate the image with a random degree and add padding to make it match the background image.",
+                    "随机旋转图片并添加填充，使其与背景图片相匹配。",
+                    "Rotate the image with a random degree and add padding to make it match the background image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426731052,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "<x1\/>rotated image<x2\/>",
+                    "<x1\/>旋转的图像<x2\/>",
+                    "<x1\/>rotated image<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426741028,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Do similar steps in the previous document image type to blend the two images together.",
+                    "执行前一个文档图像类型的类似步骤，将两个图像混合在一起。",
+                    "Do similar steps in the previous document image type to blend the two images together.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426744452,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "<x1\/>blended image<x2\/>",
+                    "<x1\/>混合的图像<x2\/>",
+                    "<x1\/>blended image<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426752341,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Get the source code of the generator to have a try:",
+                    "获取生成器的源码并尝试使用：",
+                    "Get the source code of the generator to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/image-processing\/build-document-scanning-dataset.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737426761350,
+                        "id": "tu44"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
