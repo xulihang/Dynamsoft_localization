@@ -1,0 +1,535 @@
+{
+    "filename": "react-native-dotcode-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a React Native App to Scan DotCode",
+                    "编写React Native DotCode扫描应用",
+                    "How to Build a React Native App to Scan DotCode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737598909153,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-01-22 16:31:53 +0800",
+                    "",
+                    "2025-01-22 16:31:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-01-22 16:31:53 +0800",
+                    "",
+                    "2025-01-22 16:31:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode Reader",
+                    "",
+                    "Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "DotCode",
+                    "",
+                    "DotCode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "React Native",
+                    "",
+                    "React Native",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a React Native app to scan DotCode using Dynamsoft Barcode Reader.",
+                    "文章讲述了如何使用Dynamsoft Barcode Reader构建一个React Native DotCode扫描应用。",
+                    "The article talks about how to build a React Native app to scan DotCode using Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737598954248,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/01\/dotcode\/react-native.jpg",
+                    "",
+                    ".\/img\/2025\/01\/dotcode\/react-native.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "DotCode is a two-dimensional (2D) matrix barcode mainly used in the tobacco industry with advantages like the ability to apply the barcode by high-speed industrial printers and other methods like laser engraving.",
+                    "DotCode（点阵码）是一种二维（2D）矩阵条形码，主要用于烟草行业，其优点是可以通过高速工业打印机和激光雕刻等方式打印。",
+                    "DotCode is a two-dimensional (2D) matrix barcode mainly used in the tobacco industry with advantages like the ability to apply the barcode by high-speed industrial printers and other methods like laser engraving.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599380256,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Below is a pack of cigarettes with a DotCode representing its unique identifier.",
+                    "下面是一包香烟，上面的DotCode代表着其唯一标识符。",
+                    "Below is a pack of cigarettes with a DotCode representing its unique identifier.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1736237628041,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<x1\/>cigarette pack<x2\/>",
+                    "<x1\/>烟盒<x2\/>",
+                    "<x1\/>cigarette pack<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1736237642387,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a React Native app to scan DotCode using <g1>Dynamsoft Barcode Reader<\/g1>.",
+                    "在本文中，我们将使用<g1>Dynamsoft Barcode Reader<\/g1>创建一个React Native DotCode扫描应用。",
+                    "In this article, we are going to build a React Native app to scan DotCode using <g1>Dynamsoft Barcode Reader<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737598999793,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Prerequisites",
+                    "准备工作",
+                    "Prerequisites",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706580476781,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Get your trial key.",
+                    "获取试用密钥",
+                    "Get your trial key.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599018550,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "",
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "New React Native Project",
+                    "创建新的React Native项目",
+                    "New React Native Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599033803,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Create a new React Native project with a specific version:",
+                    "使用特定版本创建新的React Native项目：",
+                    "Create a new React Native project with a specific version:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599038429,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Add Dynamsoft Barcode Reader",
+                    "添加Dynamsoft Barcode Reader",
+                    "Add Dynamsoft Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129034621,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Install the Dynamsoft Capture Vision package which has Dynamsoft Barcode Reader included:",
+                    "安装Dynamsoft Capture Vision（内含Dynamsoft Barcode Reader）：",
+                    "Install the Dynamsoft Capture Vision package which has Dynamsoft Barcode Reader included:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599077384,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Set the License",
+                    "设置许可证",
+                    "Set the License",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599087679,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Set the license in <g1>App.tsx<\/g1> when the app starts.",
+                    "在<g1>App.tsx<\/g1>添加以下代码以在应用启动时设置许可证。",
+                    "Set the license in <g1>App.tsx<\/g1> when the app starts.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599120871,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Request Camera Permission",
+                    "请求相机权限",
+                    "Request Camera Permission",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604505530,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Declare the camera usage for iOS by adding the following lines to <g1>Info.plist<\/g1>.",
+                    "将以下行添加到<g1>Info.plist<\/g1>来声明iOS端相机的用途。",
+                    "Declare the camera usage for iOS by adding the following lines to <g1>Info.plist<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599258018,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "When the app starts, request camera permission.",
+                    "应用启动后，请求相机权限。",
+                    "When the app starts, request camera permission.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599171176,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Create a DotCode Scanning Component",
+                    "编写DotCode扫描组件",
+                    "Create a DotCode Scanning Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599185911,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Create a new file under <g1>components\/BarcodeScanner.tsx<\/g1> with the following template:",
+                    "使用以下模板在<g1>components\/BarcodeScanner.tsx<\/g1>下创建新文件：",
+                    "Create a new file under <g1>components\/BarcodeScanner.tsx<\/g1> with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599190341,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Add a <g1>CameraView<\/g1> component.",
+                    "添加一个<g1>CameraView<\/g1>组件。",
+                    "Add a <g1>CameraView<\/g1> component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599202814,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Get the instance of Camera to open the camera and display the camera preview in the <g1>CameraView<\/g1> component.",
+                    "获取Camera实例以打开相机，并在<g1>CameraView<\/g1>组件中显示视频流。",
+                    "Get the instance of Camera to open the camera and display the camera preview in the <g1>CameraView<\/g1> component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599231769,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Set up a scan region so that only part of the camera frame will be processed to improve the location and recognition of DotCode.",
+                    "设置扫描区域，以便只处理相机画面的一部分，从而提高DotCode的定位效果和识别率。",
+                    "Set up a scan region so that only part of the camera frame will be processed to improve the location and recognition of DotCode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599287289,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Get the instance of Capture Vision Router to call the Barcode Reader to read the barcodes from the camera frames.",
+                    "获取Capture Vision Router的实例，以调用Barcode Reader从视频流读取条形码。",
+                    "Get the instance of Capture Vision Router to call the Barcode Reader to read the barcodes from the camera frames.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599307091,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "We have to use a JSON template to update the settings for reading DotCode.",
+                    "我们需要使用JSON模板来更新设置，以支持读取DotCode。",
+                    "We have to use a JSON template to update the settings for reading DotCode.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599325783,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "The template:",
+                    "模板：",
+                    "The template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599328782,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "We can see that it is related to image processing.",
+                    "我们可以看到它与图像处理有关。",
+                    "We can see that it is related to image processing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1736237735931,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "For example, the DotCode on cigarettes is often inverted, so we can set <g1>GrayscaleTransformationModes<\/g1> to read the inverted image first.",
+                    "例如，香烟上的DotCode通常是黑底白码的，因此我们可以通过设置<g1>GrayscaleTransformationModes<\/g1>，首先处理反转颜色的图像。",
+                    " For example, the DotCode on cigarettes is often inverted, so we can set <g1>GrayscaleTransformationModes<\/g1> to read the inverted image first.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1736237801096,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "You can learn more about how Dynamsoft Barcode Reader handles DotCode on <g2>this page<\/g2>.",
+                    "可以在<g2>此页面<\/g2>上了解有关Dynamsoft Barcode Reader如何处理DotCode的更多信息。",
+                    " You can learn more about how Dynamsoft Barcode Reader handles DotCode on <g2>this page<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1736237816863,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "The code to use it:",
+                    "代码：",
+                    "The code to use it:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599342951,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Use the DotCode Scanner Component",
+                    "使用DotCode扫描组件",
+                    "Use the DotCode Scanner Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599349295,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Update <g1>App.tsx<\/g1> to use the DotCode scanner component to scan a DotCode and display the result.",
+                    "更新<g1>App.tsx<\/g1>以使用DotCode扫描组件扫描DotCode并显示结果。",
+                    "Update <g1>App.tsx<\/g1> to use the DotCode scanner component to scan a DotCode and display the result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1737599355041,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Check out the source code to have a try:",
+                    "获取源代码来自己试用一下吧：",
+                    "Check out the source code to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/mobile native\/react-native-dotcode-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1701744728242,
+                        "id": "tu31"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
