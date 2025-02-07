@@ -1,0 +1,499 @@
+{
+    "filename": "react-native-isbn-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "React Native ISBN Scanner",
+                    "React Native扫描图书ISBN码",
+                    "React Native ISBN Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738918426287,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-02-07 11:21:53 +0800",
+                    "",
+                    "2025-02-07 11:21:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-02-07 11:21:53 +0800",
+                    "",
+                    "2025-02-07 11:21:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode Reader",
+                    "",
+                    "Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "ISBN",
+                    "",
+                    "ISBN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "EAN13",
+                    "",
+                    "EAN13",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "React Native",
+                    "",
+                    "React Native",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a React Native app to scan ISBN barcodes using Dynamsoft Barcode Reader and log the books.",
+                    "文章讲述了如何构建一个React Native应用程序，使用 Dynamsoft Barcode Reader扫描 图书的ISBN条码并记录书籍信息。",
+                    "The article talks about how to build a React Native app to scan ISBN barcodes using Dynamsoft Barcode Reader and log the books.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1738918466451,
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/02\/react-native\/isbn-scanner.jpg",
+                    "",
+                    ".\/img\/2025\/02\/react-native\/isbn-scanner.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "The International Standard Book Number (ISBN) is a numeric commercial book identifier.",
+                    "国际标准书号(ISBN)是一种商业图书的数字标识符。",
+                    "The International Standard Book Number (ISBN) is a numeric commercial book identifier.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738918507128,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "We can find it on the back cover of a book.",
+                    "我们可以在书的背面找到它。",
+                    " We can find it on the back cover of a book.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738918525567,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "An EAN-13 barcode is usually printed to be read by machines.",
+                    "一个EAN-13格式的条码通常会被打印着，以供机器进行扫描。",
+                    " An EAN-13 barcode is usually printed to be read by machines.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738918561908,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a React Native app to scan ISBN using <g1>Dynamsoft Barcode Reader<\/g1> and get its info using the Google Book API.",
+                    "在本文中，我们将构建一个React Native应用，使用<g1>Dynamsoft Barcode Reader<\/g1>扫描ISBN并使用Google Book API获取图书信息。",
+                    "In this article, we are going to build a React Native app to scan ISBN using <g1>Dynamsoft Barcode Reader<\/g1> and get its info using the Google Book API.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738918582548,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Prerequisites",
+                    "",
+                    "Prerequisites",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Get your trial key.",
+                    "",
+                    "Get your trial key.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "",
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "New React Native Project",
+                    "创建新的React Native项目",
+                    "New React Native Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599033803,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Create a new React Native project with a specific version:",
+                    "使用特定版本创建新的React Native项目：",
+                    "Create a new React Native project with a specific version:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599038429,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Add Dynamsoft Barcode Reader",
+                    "添加Dynamsoft Barcode Reader",
+                    "Add Dynamsoft Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129034621,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Install the Dynamsoft Capture Vision package which has Dynamsoft Barcode Reader included:",
+                    "安装Dynamsoft Capture Vision（内含Dynamsoft Barcode Reader）：",
+                    "Install the Dynamsoft Capture Vision package which has Dynamsoft Barcode Reader included:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599077384,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Set the License",
+                    "设置许可证",
+                    "Set the License",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599087679,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Set the license in <g1>App.tsx<\/g1> when the app starts.",
+                    "在<g1>App.tsx<\/g1>添加以下代码以在应用启动时设置许可证。",
+                    "Set the license in <g1>App.tsx<\/g1> when the app starts.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599120871,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Request Camera Permission",
+                    "请求相机权限",
+                    "Request Camera Permission",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604505530,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Declare the camera usage for iOS by adding the following lines to <g1>Info.plist<\/g1>.",
+                    "将以下行添加到<g1>Info.plist<\/g1>来声明iOS端相机的用途。",
+                    "Declare the camera usage for iOS by adding the following lines to <g1>Info.plist<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599258018,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "When the app starts, request camera permission.",
+                    "应用启动后，请求相机权限。",
+                    "When the app starts, request camera permission.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599171176,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Create an ISBN Scanning Component",
+                    "编写ISBN扫描组件",
+                    "Create an ISBN Scanning Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1738918621135,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Create a new file under <g1>components\/BarcodeScanner.tsx<\/g1> with the following template:",
+                    "使用以下模板在<g1>components\/BarcodeScanner.tsx<\/g1>下创建新文件：",
+                    "Create a new file under <g1>components\/BarcodeScanner.tsx<\/g1> with the following template:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599190341,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Add a <g1>CameraView<\/g1> component.",
+                    "添加一个<g1>CameraView<\/g1>组件。",
+                    "Add a <g1>CameraView<\/g1> component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599202814,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Get the instance of Camera to open the camera and display the camera preview in the <g1>CameraView<\/g1> component.",
+                    "获取Camera实例以打开相机，并在<g1>CameraView<\/g1>组件中显示视频流。",
+                    "Get the instance of Camera to open the camera and display the camera preview in the <g1>CameraView<\/g1> component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599231769,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Get the instance of Capture Vision Router to call the Barcode Reader to read the barcodes from the camera frames.",
+                    "获取Capture Vision Router的实例，以调用Barcode Reader从视频流读取条形码。",
+                    "Get the instance of Capture Vision Router to call the Barcode Reader to read the barcodes from the camera frames.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1737599307091,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Specify the barcode format to EAN-13 so that it will not read other barcode formats.",
+                    "将条形码格式指定为EAN-13，避免错误地读取其它格式的条码。",
+                    "Specify the barcode format to EAN-13 so that it will not read other barcode formats.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738918662943,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Use the ISBN Scanner Component",
+                    "使用ISBN扫描组件",
+                    "Use the ISBN Scanner Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738918671799,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Update <g1>App.tsx<\/g1> to use the ISBN scanner component to scan an ISBN and display the result.",
+                    "更新<g1>App.tsx<\/g1>以使用ISBN扫描组件扫描并显示结果。",
+                    "Update <g1>App.tsx<\/g1> to use the ISBN scanner component to scan an ISBN and display the result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1738918682676,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Get the Book Info via the Google Book API",
+                    "通过Google Book API获取图书信息",
+                    "Get the Book Info via the Google Book API",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738918685765,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "We can take a step further to retrieve the book info like its author, title, publisher and cover image.",
+                    "我们可以更进一步,检索图书信息，如作者、标题、出版商和封面图片。",
+                    "We can take a step further to retrieve the book info like its author, title, publisher and cover image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738918689728,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Check out the source code to have a try:",
+                    "获取源代码来自己试用一下吧：",
+                    "Check out the source code to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/React native\/react-native-isbn-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1701744728242,
+                        "id": "tu27"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
