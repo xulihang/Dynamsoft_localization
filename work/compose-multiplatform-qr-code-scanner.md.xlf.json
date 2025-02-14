@@ -1,0 +1,776 @@
+{
+    "filename": "compose-multiplatform-qr-code-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a Compose Multiplatform QR Code Scanner",
+                    "Compose Multiplatform二维码扫描",
+                    "How to Build a Compose Multiplatform QR Code Scanner",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739498904969,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-02-13 11:10:53 +0800",
+                    "",
+                    "2025-02-13 11:10:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-02-13 11:10:53 +0800",
+                    "",
+                    "2025-02-13 11:10:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "iOS",
+                    "",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Kotlin",
+                    "",
+                    "Kotlin",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "Compose",
+                    "",
+                    "Compose",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Barcode Reader",
+                    "",
+                    "Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build a Compose Multiplatform app to scan QR codes with Dynamsoft Barcode Reader.",
+                    "文章讲述了如何基于Dynamsoft Barcode Reader编写一个Compose Multiplatform应用以扫描二维码。",
+                    "The article talks about how to build a Compose Multiplatform app to scan QR codes with Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739498960238,
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/02\/compose-multiplatform\/app.jpg",
+                    "",
+                    ".\/img\/2025\/02\/compose-multiplatform\/app.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "Compose Multiplatform is a declarative UI framework that allows you to develop shared UIs for Android, iOS, desktop, and web.",
+                    "Compose Multiplatform是一个声明式UI框架，编写的UI可以运行在Android、iOS、桌面和Web平台。",
+                    "Compose Multiplatform is a declarative UI framework that allows you to develop shared UIs for Android, iOS, desktop, and web.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499004126,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "You can reuse code across platforms while retaining the benefits of native programming (based on Kotlin Multiplatform, KMP).",
+                    "支持跨平台重用代码，同时保留原生编程的优势（基于Kotlin Multiplatform，KMP）。",
+                    " You can reuse code across platforms while retaining the benefits of native programming (based on Kotlin Multiplatform, KMP).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499028623,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a mobile QR code scanner using Compose Multiplatform and <g1>Dynamsoft Barcode Reader<\/g1>.",
+                    "在本文中，我们将使用Compose Multiplatform和<g1>Dynamsoft Barcode Reader<\/g1>编写一个二维码扫描移动应用。",
+                    "In this article, we are going to build a mobile QR code scanner using Compose Multiplatform and <g1>Dynamsoft Barcode Reader<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499048376,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Prerequisites",
+                    "",
+                    "Prerequisites",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Get your trial key.",
+                    "",
+                    "Get your trial key.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "",
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Create a New Compose Multiplatform Project",
+                    "创建一个新的Compose Multiplatform项目",
+                    "Create a New Compose Multiplatform Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1739499074923,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Goto <g1>Kotlin Multiplatform Wizard<\/g1> to create a new Compose Multiplatform project for Android and iOS.",
+                    "前往<g1>Kotlin多平台向导<\/g1>，创建一个新的Compose Multiplatform项目，启用Android和iOS。",
+                    "Goto <g1>Kotlin Multiplatform Wizard<\/g1> to create a new Compose Multiplatform project for Android and iOS.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499109832,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<x1\/>wizard<x2\/>",
+                    "<x1\/>向导<x2\/>",
+                    "<x1\/>wizard<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499114507,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Declare Camera Permission",
+                    "声明相机权限",
+                    "Declare Camera Permission",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1739499118741,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "For Android, add the following to <g1>AndroidManifest.xml<\/g1>:",
+                    "对于Android，将以下内容添加到<g1>AndroidManifest.xml<\/g1>。",
+                    "For Android, add the following to <g1>AndroidManifest.xml<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1739499166382,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "For iOS, add the following to <g1>Info.plist<\/g1>",
+                    "对于iOS，将以下内容添加到<g1>Info.plist<\/g1>。",
+                    "For iOS, add the following to <g1>Info.plist<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1709111268491,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Next, let's add dependencies related to QR code scanning.",
+                    "接下来，让我们添加与二维码扫描相关的依赖项。",
+                    "Next, let's add dependencies related to QR code scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499174299,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Android",
+                    "Android",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499180515,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "We need to add CameraX, Accompanist and Dynamsoft Barcode Reader.",
+                    "我们需要添加CameraX、Accompanist和Dynamsoft Barcode Reader。",
+                    "We need to add CameraX, Accompanist and Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499189757,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Add the following to <g1>libs.versions.toml<\/g1>:",
+                    "将以下内容添加到<g1>libs.versions.toml<\/g1>：",
+                    "Add the following to <g1>libs.versions.toml<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499195406,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Add the following to <g1>composeApp\/build.gradle.kts<\/g1>:",
+                    "将以下内容添加到<g1>composeApp\/build.gradle.kts<\/g1>：",
+                    "Add the following to <g1>composeApp\/build.gradle.kts<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499201150,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "iOS",
+                    "iOS",
+                    "iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499202922,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "We are going to integrate Dynamsoft Barcode Reader via Cocoapods.",
+                    "我们将通过Cocoapods集成Dynamsoft Barcode Reader。",
+                    "We are going to integrate Dynamsoft Barcode Reader via Cocoapods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499205429,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Add the Kotlin CocoaPods Gradle plugin.",
+                    "添加Kotlin CocoaPods Gradle插件。",
+                    "Add the Kotlin CocoaPods Gradle plugin.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499212300,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Add the following to <g1>libs.versions.toml<\/g1>:",
+                    "将以下内容添加到<g1>libs.versions.toml<\/g1>：",
+                    "Add the following to <g1>libs.versions.toml<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1739499195406,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Add the following alias to your root folder’s <g1>build.gradle.kts<\/g1> file:",
+                    "将以下别名添加到根文件夹的<g1>build.gradle.kts<\/g1>文件：",
+                    "Add the following alias to your root folder’s <g1>build.gradle.kts<\/g1> file:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499222851,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Also add the following to the app's <g1>build.gradle.kts<\/g1> file:",
+                    "将以下内容添加到应用的<g1>build.gradle.kts<\/g1>文件中：",
+                    "Also add the following to the app's <g1>build.gradle.kts<\/g1> file:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499244581,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Add the following to the app's <g1>build.gradle.kts<\/g1>:",
+                    "将以下内容添加到应用的<g1>build.gradle.kts<\/g1> ：",
+                    "Add the following to the app's <g1>build.gradle.kts<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499248570,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Sync your project to create the required <g1>composeApp.podspec<\/g1> file.",
+                    "同步项目以创建所需的<g1>composeApp.podspec<\/g1>文件。",
+                    "Sync your project to create the required <g1>composeApp.podspec<\/g1> file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499266874,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "In addition, init the pod project under <g1>iosApp<\/g1> using <g2>pod init<\/g2>.",
+                    "此外，使用<g2>pod init<\/g2>命令在 <g1>iosApp<\/g1>目录下生成一个pod项目。",
+                    "In addition, init the pod project under <g1>iosApp<\/g1> using <g2>pod init<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499295310,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Use the following as the content for the Podfile.",
+                    "Podfile中使用以下内容。",
+                    " Use the following as the content for the Podfile.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499309798,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "You may also meet the following error when compiling:",
+                    "编译时也可能遇到以下错误：",
+                    "You may also meet the following error when compiling:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499312562,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "In this case, add the following to <g1>gradle.properties<\/g1>:",
+                    "碰到这种问题时，将以下内容添加到<g1>gradle.properties<\/g1>：",
+                    "In this case, add the following to <g1>gradle.properties<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499329295,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Create a Scanner Component",
+                    "创建扫描组件",
+                    "Create a Scanner Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499334547,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Let's first define the component in the common code and then implement it in the native code.",
+                    "让我们首先在通用代码中定义组件，然后在原生代码中实现它。",
+                    "Let's first define the component in the common code and then implement it in the native code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499344710,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Define the Component",
+                    "定义组件",
+                    "Define the Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499348130,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Add <g1>CameraPermissionState.kt<\/g1> for camera permission states.",
+                    "添加用于管理摄像头权限状态的 <g1>CameraPermissionState.kt<\/g1>。",
+                    "Add <g1>CameraPermissionState.kt<\/g1> for camera permission states.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499362774,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Define the scanner component which has a callback to return the scanned QR code.",
+                    "定义扫描组件，该组件有一个回调，用于返回扫描的二维码。",
+                    "Define the scanner component which has a callback to return the scanned QR code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499369109,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Define the <g1>ScannerWithPermissions<\/g1> component to deal with permission.",
+                    "定义<g1>ScannerWithPermissions<\/g1>组件来处理权限。",
+                    "Define the <g1>ScannerWithPermissions<\/g1> component to deal with permission.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499377636,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Android Implementation",
+                    "Android实现",
+                    "Android Implementation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499381026,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Initialize the license in <g1>MainActivity.kt<\/g1>:",
+                    "在<g1>MainActivity.kt<\/g1>中初始化许可证：",
+                    "Initialize the license in <g1>MainActivity.kt<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499387947,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Add a <g1>BarcodeAnalyzer.kt<\/g1> file which implements CameraX's image analyzer.",
+                    "添加实现CameraX图像分析器的<g1>BarcodeAnalyzer.kt<\/g1>文件。",
+                    "Add a <g1>BarcodeAnalyzer.kt<\/g1> file which implements CameraX's image analyzer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499401705,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "It gets the camera frames and use Dynamsoft Barcode Reader to read barcodes from them.",
+                    "它能获取相机帧，并使用Dynamsoft Barcode Reader读取其中的条码。",
+                    " It gets the camera frames and use Dynamsoft Barcode Reader to read barcodes from them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499412311,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Add a <g1>ScannerView.kt<\/g1> file to hold the camera preview.",
+                    "添加<g1>ScannerView.kt<\/g1>文件以显示相机预览。",
+                    "Add a <g1>ScannerView.kt<\/g1> file to hold the camera preview.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499447003,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Add a <g1>Scanner.android.kt<\/g1> file to contain the implementation of the scanner component.",
+                    "添加<g1>Scanner.android.kt<\/g1>文件以包含扫描组件的具体实现。",
+                    "Add a <g1>Scanner.android.kt<\/g1> file to contain the implementation of the scanner component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499457360,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "iOS Implementation",
+                    "iOS实现",
+                    "iOS Implementation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499465603,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Create a <g1>OrientationListener.kt<\/g1> file to listen to the orientation changes.",
+                    "创建<g1>OrientationListener.kt<\/g1>文件以侦听方向更改。",
+                    "Create a <g1>OrientationListener.kt<\/g1> file to listen to the orientation changes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499467858,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Create a new <g1>Scanner.kt<\/g1> file to hold several classes for the scanner.",
+                    "创建一个新的<g1>Scanner.kt<\/g1>文件，包含扫描相关的多个类。",
+                    "Create a new <g1>Scanner.kt<\/g1> file to hold several classes for the scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499493035,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "A <g1>ScannerPreviewView<\/g1> class to as the container of the camera preview.",
+                    "<g1>ScannerPreviewView<\/g1>类作为相机预览的容器。",
+                    "A <g1>ScannerPreviewView<\/g1> class to as the container of the camera preview.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499509006,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "A <g1>ScannerCameraCoordinator<\/g1> class to open the camera using AVFoudation and read barcodes using Dynamsoft Barcode Reader:",
+                    "<g1>ScannerCameraCoordinator<\/g1>类，用于使用AVFoudation打开摄像头，并使用Dynamsoft Barcode Reader读取条码：",
+                    "A <g1>ScannerCameraCoordinator<\/g1> class to open the camera using AVFoudation and read barcodes using Dynamsoft Barcode Reader:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499789427,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "A <g1>UiScannerView<\/g1> class using the above classes together.",
+                    "使用上述类的<g1>UiScannerView<\/g1>类。",
+                    "A <g1>UiScannerView<\/g1> class using the above classes together.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499799764,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Create a <g1>Scanner.ios.kt<\/g1> file to contain the implementation of the scanner component.",
+                    "创建<g1>Scanner.ios.kt<\/g1>文件以包含扫描组件的实现。",
+                    "Create a <g1>Scanner.ios.kt<\/g1> file to contain the implementation of the scanner component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499806940,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Use the Scanner Component",
+                    "使用扫描组件",
+                    "Use the Scanner Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499815165,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "In <g1>App.kt<\/g1>, use the component and display the barcode text.",
+                    "在<g1>App.kt<\/g1>中，使用组件并显示条码文本。",
+                    "In <g1>App.kt<\/g1>, use the component and display the barcode text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739499822622,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "All right, we've completed the demo.",
+                    "好了，我们已经完成了demo的编写。",
+                    "All right, we've completed the demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1732520073671,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Check out the source code to have a try:",
+                    "获取源代码来自己试用一下吧：",
+                    "Check out the source code to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/framework\/KMP\/compose-multiplatform-qr-code-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1701744728242,
+                        "id": "tu52"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
