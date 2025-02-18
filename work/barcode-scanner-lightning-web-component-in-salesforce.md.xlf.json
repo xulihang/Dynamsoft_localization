@@ -1,0 +1,510 @@
+{
+    "filename": "barcode-scanner-lightning-web-component-in-salesforce.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Build a Lightning Web Component to Scan Barcodes in Salesforce",
+                    "如何编写一个Lightning Web Component在Salesforce中扫描条码",
+                    "How to Build a Lightning Web Component to Scan Barcodes in Salesforce",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1739864125372,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-02-18 10:29:53 +0800",
+                    "",
+                    "2025-02-18 10:29:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-02-18 10:29:53 +0800",
+                    "",
+                    "2025-02-18 10:29:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode Reader",
+                    "",
+                    "Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR Code",
+                    "",
+                    "QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Salesforce",
+                    "",
+                    "Salesforce",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to build a salesforce lightning web component to scan barcodes.",
+                    "文章分享了如何编写一个用于扫描条码的Salesforce Lightning Web Component。",
+                    "The article shares how to build a salesforce lightning web component to scan barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864180256,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/02\/salesforce-barcode-scanner.png",
+                    "",
+                    ".\/img\/2025\/02\/salesforce-barcode-scanner.png",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to create a lightning web component to scan barcodes in Salesforce, the famous CRM system, so that we can quickly input data.",
+                    "在本文中，我们将创建一个 Lightning Web Component（LWC），用于在著名的CRM系统Salesforce中扫描条码，以便快速输入数据。",
+                    "In this article, we are going to create a lightning web component to scan barcodes in Salesforce, the famous CRM system, so that we can quickly input data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1739864279481,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Barcode Reader<\/g1> is used for barcode scanning.",
+                    "",
+                    " <g1>Dynamsoft Barcode Reader<\/g1> is used for barcode scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Because Dynamsoft Barcode Reader uses WASM, which cannot run in Salesforce LWC by default, we need to use <g1>iframe<\/g1> to embed a barcode scanning web page and use <g2>postMessage<\/g2> to communicate between the page and the component.",
+                    "由于Dynamsoft Barcode Reader使用 WASM，而WASM默认情况下无法在Salesforce LWC中运行，我们需要使用<g1>iframe<\/g1>嵌入一个条码扫描网页，使用<g2>postMessage<\/g2>在网页和组件之间进行通信。",
+                    "Because Dynamsoft Barcode Reader uses WASM, which cannot run in Salesforce LWC by default, we need to use <g1>iframe<\/g1> to embed a barcode scanning web page and use <g2>postMessage<\/g2> to communicate between the page and the component.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864267888,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Environment Setup",
+                    "环境配置",
+                    "Environment Setup",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1625737295686,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Install Salesforce CLI.",
+                    "安装Salesforce CLI。",
+                    "Install Salesforce CLI.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1717662967587,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Install Visual Studio Code and extensions for Salesforce DX.",
+                    "安装Visual Studio Code和Salesforce DX扩展。",
+                    "Install Visual Studio Code and extensions for Salesforce DX.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1717662971163,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "You can find the detailed guide <g1>here<\/g1>.",
+                    "可以在<g1>这里<\/g1>找到详细的指南。",
+                    "You can find the detailed guide <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1717662978446,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "New Salesforce DX Project",
+                    "新建Salesforce DX项目",
+                    "New Salesforce DX Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1717662981451,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Open Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Windows) or Cmd+Shift+P (macOS) and input SFDX to select the <g1>Create Project<\/g1> operation.",
+                    "打开Visual Studio Code，按Ctrl + Shift + P（ Windows ）或Cmd + Shift + P（ macOS ）打开命令面板，然后输入SFDX，选择<g1>Create Project<\/g1>操作。",
+                    "Open Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Windows) or Cmd+Shift+P (macOS) and input SFDX to select the <g1>Create Project<\/g1> operation.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1717663014868,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<x1\/>new project<x2\/>",
+                    "<x1\/>新项目<x2\/>",
+                    "<x1\/>new project<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1621927697786,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Here, we use the standard option.",
+                    "在这里，我们使用标准选项。",
+                    "Here, we use the standard option.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864303862,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Then, run <g1>SFDX: Create Lightning Web Component<\/g1> to create a component named <g2>barcodeScanner<\/g2>.",
+                    "然后，运行<g1>SFDX: Create Lightning Web Component<\/g1>，创建名为<g2>barcodeScanner<\/g2>的组件。",
+                    "Then, run <g1>SFDX: Create Lightning Web Component<\/g1> to create a component named <g2>barcodeScanner<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864348728,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Build a Barcode Scanning Web Page",
+                    "创建条码扫描网页",
+                    "Build a Barcode Scanning Web Page",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864354565,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Create a new HTML file named <g1>barcode-scanner.html<\/g1> with the following content.",
+                    "创建一个新的HTML文件，命名为<g1>barcode-scanner.html<\/g1>并包含以下内容。",
+                    "Create a new HTML file named <g1>barcode-scanner.html<\/g1> with the following content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864371463,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "You can apply for a license <g2>here<\/g2>.",
+                    "可以在此处申请<g1>许可证<\/g1>。",
+                    " You can apply for a license <g2>here<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725333053319,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "It can open the camera to scan barcodes.",
+                    "它可以打开相机扫描条码。",
+                    "It can open the camera to scan barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864389655,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "It can receive messages to control the scanning status and send the barcode result back to the parent.",
+                    "可以接收消息来控制扫描状态，并将条码结果发送回父级页面。",
+                    " It can receive messages to control the scanning status and send the barcode result back to the parent.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864415238,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Add Static Resources",
+                    "添加静态资源",
+                    "Add Static Resources",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864419909,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Create a folder under the <g1>staticresources<\/g1> folder.",
+                    "在<g1>staticresources<\/g1>文件夹下新建一个文件夹。",
+                    "Create a folder under the <g1>staticresources<\/g1> folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864431903,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Put the <g1>barcode-scanner.html<\/g1> into the folder.",
+                    "将<g1>barcode-scanner.html<\/g1>放入这个文件夹。",
+                    "Put the <g1>barcode-scanner.html<\/g1> into the folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864440208,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Create a metadata file named <g1>foldername.resource-meta.xml<\/g1> in the <g2>staticresources<\/g2> folder with the following content to describe the resource.",
+                    "在<g2>staticresources<\/g2>文件夹中创建一个名为<g1>foldername.resource-meta.xml<\/g1>的元数据文件，并用以下内容描述资源。",
+                    "Create a metadata file named <g1>foldername.resource-meta.xml<\/g1> in the <g2>staticresources<\/g2> folder with the following content to describe the resource.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864451351,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Implement the Lightning Web Component",
+                    "实现Lightning Web Component",
+                    "Implement the Lightning Web Component",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864461046,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Now, go to the lightning web component we created.",
+                    "现在，转到我们创建的Lightning Web Component。",
+                    "Now, go to the lightning web component we created.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864472536,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Add elements in the HTML file.",
+                    "在HTML文件中添加元素。",
+                    "Add elements in the HTML file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864475669,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "When the component is mounted, append the iframe.",
+                    "组件挂载后，添加iframe。",
+                    "When the component is mounted, append the iframe.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864488464,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Toggle scanning when the button is clicked by posting the message to the iframe.",
+                    "单击切换扫描按钮时，通过postMessage控制iframe中页面的扫描状态。",
+                    "Toggle scanning when the button is clicked by posting the message to the iframe.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864529838,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Receive the barcode result.",
+                    "接收条码结果。",
+                    "Receive the barcode result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864533536,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Display the barcode text.",
+                    "显示条码文本。",
+                    "Display the barcode text.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1739864537808,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Get the source code to have a try:",
+                    "下载源代码并尝试使用：",
+                    "Get the source code to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/integration\/barcode-scanner-lightning-web-component-in-salesforce.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699582032112,
+                        "id": "tu28"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
