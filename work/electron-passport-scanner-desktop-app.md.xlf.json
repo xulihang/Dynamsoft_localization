@@ -1,0 +1,635 @@
+{
+    "filename": "electron-passport-scanner-desktop-app.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Electron Passport Scanner Desktop App",
+                    "Electron护照扫描桌面应用",
+                    "Electron Passport Scanner Desktop App",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128050564,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-02-20 16:14:53 +0800",
+                    "",
+                    "2025-02-20 16:14:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-02-20 16:14:53 +0800",
+                    "",
+                    "2025-02-20 16:14:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "OCR",
+                    "",
+                    "OCR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Label Recognizer",
+                    "",
+                    "Label Recognizer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Node.js",
+                    "",
+                    "Node.js",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Electron",
+                    "",
+                    "Electron",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "MRZ",
+                    "",
+                    "MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to create an Electron desktop app to scan passports.",
+                    "文章介绍了如何创建一个Electron桌面应用程序来扫描护照。",
+                    "The article shares how to create an Electron desktop app to scan passports.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128066085,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/02\/electron\/passport-scanner.jpg",
+                    "",
+                    ".\/img\/2025\/02\/electron\/passport-scanner.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Electron is a framework for building desktop applications using JavaScript, HTML, and CSS.",
+                    "Electron是一个使用JavaScript、HTML和CSS构建桌面应用程序的框架。",
+                    "Electron is a framework for building desktop applications using JavaScript, HTML, and CSS.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128071800,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "As web technologies have emerged as the best choice for building user interfaces, more and more developers are adopting Electron to build their applications.",
+                    "随着Web技术成为构建用户界面的最佳选择，越来越多的开发人员正在采用Electron来构建他们的应用程序。",
+                    " As web technologies have emerged as the best choice for building user interfaces, more and more developers are adopting Electron to build their applications.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128076904,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to create an Electron desktop app to scan passports with <g1>Dynamsoft Label Recognizer<\/g1> to showcase the technologies.",
+                    "在本文中，我们将使用Electron和<g1>Dynamsoft Label Recognizer<\/g1>创建一个护照扫描桌面应用程序来展示相关技术。",
+                    "In this article, we are going to create an Electron desktop app to scan passports with <g1>Dynamsoft Label Recognizer<\/g1> to showcase the technologies.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128141356,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Screenshot:",
+                    "屏幕截图：",
+                    "Screenshot:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581565878,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>passport scanner screenshot<x2\/>",
+                    "<x1\/>护照扫描应用截图<x2\/>",
+                    "<x1\/>passport scanner screenshot<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128153930,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "We can see the MRZ (machine-readable zone) is recognized and the owner's info like name and nationality is extracted.",
+                    "我们可以看到MRZ（机器可读区域）被识别了出来，并提取了所有者的信息，如姓名和国籍。",
+                    "We can see the MRZ (machine-readable zone) is recognized and the owner's info like name and nationality is extracted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128174348,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Prerequisites",
+                    "",
+                    "Prerequisites",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Get your trial key.",
+                    "",
+                    "Get your trial key.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "",
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Create a new project.",
+                    "创建一个新项目。",
+                    "Create a new project.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1740128190779,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Install Electron.",
+                    "安装Electron。",
+                    "Install Electron.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128192847,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Create an <g1>index.html<\/g1> file:",
+                    "创建<g1>index.html<\/g1>文件：",
+                    "Create an <g1>index.html<\/g1> file:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128201201,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Create a <g1>main.js<\/g1> file as the entry of the project to start the Electron application.",
+                    "创建<g1>main.js<\/g1>文件作为项目的入口以用Electron启动。",
+                    "Create a <g1>main.js<\/g1> file as the entry of the project to start the Electron application.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128234386,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Run <g1>npx electron .<\/g1> to start the program.",
+                    "运行<g1>npx electron.<\/g1>启动程序。",
+                    "Run <g1>npx electron .<\/g1> to start the program.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128222671,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Add Dependencies",
+                    "添加依赖项",
+                    "Add Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Install the node package of Dynamsoft to add the ability to recognize the MRZ text from the passport image.",
+                    "安装Dynamsoft的node包，以添加从护照图像中识别MRZ文本的功能。",
+                    "Install the node package of Dynamsoft to add the ability to recognize the MRZ text from the passport image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128247178,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Open the Camera",
+                    "打开摄像头",
+                    "Open the Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721904020,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Next, open the connected camera using <g1>getUserMedia<\/g1>.",
+                    "接下来，使用<g1>getUserMedia<\/g1>打开连接的摄像头。",
+                    "Next, open the connected camera using <g1>getUserMedia<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128261493,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Add elements in the HTML file.",
+                    "在HTML文件中添加元素。",
+                    "Add elements in the HTML file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1739864475669,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Ask for camera permission.",
+                    "请求摄像头权限。",
+                    "Ask for camera permission.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128271231,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "List camera devices.",
+                    "列出摄像头设备。",
+                    "List camera devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128276592,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Start the selected camera.",
+                    "打开所选摄像头。",
+                    "Start the selected camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128282514,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Capture a Frame as DataURL",
+                    "捕获帧为DataURL",
+                    "Capture a Frame as DataURL",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128285271,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Use Canvas to capture a frame as DataURL, which will later be used for MRZ recognition.",
+                    "使用Canvas将帧捕获为DataURL，以便之后用于识别MRZ。",
+                    "Use Canvas to capture a frame as DataURL, which will later be used for MRZ recognition.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128304669,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Recognize the MRZ",
+                    "识别MRZ",
+                    "Recognize the MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128312568,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Inter-process communication (IPC) is a key part of building feature-rich desktop applications in Electron.",
+                    "进程间通信（IPC）是在Electron中构建功能丰富的桌面应用程序的关键部分。",
+                    "Inter-process communication (IPC) is a key part of building feature-rich desktop applications in Electron.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128324555,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "In Electron, processes communicate by passing messages through developer-defined \"channels\" with the ipcMain and ipcRenderer modules.",
+                    "在Electron中，进程通过开发者定义的“通道”与ipcMain和ipcRenderer模块传递信息进行通信。",
+                    " In Electron, processes communicate by passing messages through developer-defined \"channels\" with the ipcMain and ipcRenderer modules.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128349681,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "The node edition of the Dynamsoft SDK works in the main process.",
+                    "Dynamsoft SDK的node版在main进程中运行。",
+                    "The node edition of the Dynamsoft SDK works in the main process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128366950,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "We have to pass the DataURL from the renderer to the main and then pass the recognized result from the main to the renderer.",
+                    "我们需要将DataURL从renderer传递到main，然后将识别的结果从main传递到renderer。",
+                    " We have to pass the DataURL from the renderer to the main and then pass the recognized result from the main to the renderer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128395595,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Let's add functions to <g1>main.js<\/g1> first.",
+                    "先在<g1>main.js<\/g1>中添加相关函数。",
+                    "Let's add functions to <g1>main.js<\/g1> first.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128407777,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Initialize the license of the Dynamsoft SDK.",
+                    "初始化Dynamsoft SDK的许可证。",
+                    "Initialize the license of the Dynamsoft SDK.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128412426,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Update the runtime settings for MRZ recognition.",
+                    "更新运行时设置以支持识别MRZ。",
+                    "Update the runtime settings for MRZ recognition.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128424755,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Add a function to recognize the MRZ from the image encoded as DataURL.",
+                    "添加一个函数，用于从编码为DataURL的图像中识别MRZ。",
+                    "Add a function to recognize the MRZ from the image encoded as DataURL.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128434274,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Receive the DataURL message from the renderer and send the parsed result back to it.",
+                    "从renderer接收DataURL消息，并将解析结果发送回给它。",
+                    "Receive the DataURL message from the renderer and send the parsed result back to it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128473362,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "In <g1>preload.js<\/g1>, define the functions.",
+                    "在<g1>preload.js<\/g1>中，定义相关函数。",
+                    "In <g1>preload.js<\/g1>, define the functions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128480217,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "In <g1>index.js<\/g1> (the renderer process), use the following function to send the DataURL message:",
+                    "在<g1>index.js<\/g1>（renderer）中，使用以下函数发送DataURL消息：",
+                    "In <g1>index.js<\/g1> (the renderer process), use the following function to send the DataURL message:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128503043,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Then, receive the parsed result with the following function:",
+                    "然后，使用以下函数接收解析结果：",
+                    "Then, receive the parsed result with the following function:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128524418,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "All right, we've covered the key parts of the demo.",
+                    "好的，我们已经介绍了demo的关键部分。",
+                    "All right, we've covered the key parts of the demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740128532778,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "The source code of the project is available here:",
+                    "该项目的源代码可在此处获得：",
+                    "The source code of the project is available here: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/electron-passport-scanner-desktop-app.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1717490431226,
+                        "id": "tu40"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
