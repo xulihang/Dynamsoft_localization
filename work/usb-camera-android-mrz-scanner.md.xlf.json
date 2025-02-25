@@ -1,0 +1,710 @@
+{
+    "filename": "usb-camera-android-mrz-scanner.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Android MRZ Scanner using USB Camera",
+                    "安卓使用USB摄像头识别护照MRZ",
+                    "Android MRZ Scanner using USB Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463695717,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-02-25 10:29:53 +0800",
+                    "",
+                    "2025-02-25 10:29:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-02-25 10:29:53 +0800",
+                    "",
+                    "2025-02-25 10:29:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "OCR",
+                    "",
+                    "OCR",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Label Recognizer",
+                    "",
+                    "Label Recognizer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Android",
+                    "",
+                    "Android",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "MRZ",
+                    "",
+                    "MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "This article shares about how to create an Android MRZ scanner using a USB camera.",
+                    "本文介绍了如何编写一个使用USB摄像头扫描护照MRZ的安卓应用。",
+                    "This article shares about how to create an Android MRZ scanner using a USB camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463725534,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/02\/usb-camera-mrz-scanner.jpg",
+                    "",
+                    ".\/img\/2025\/02\/usb-camera-mrz-scanner.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "In the <g1>previous article<\/g1>, we talked about how to scan barcodes using a USB camera on an Android device.",
+                    "在<g1>上一篇文章<\/g1>中，我们讨论了如何在安卓设备上使用USB摄像头扫描条形码。",
+                    "In the <g1>previous article<\/g1>, we talked about how to scan barcodes using a USB camera on an Android device.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463749981,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to scan MRZ (machine-readable zone) on passports and ID cards with <g2>Dynamsoft Label Recognizer<\/g2>.",
+                    "在本文中，我们将使用<g2>Dynamsoft Label Recognizer<\/g2>扫描护照或者身份证上的MRZ（机器可读区域）。",
+                    " In this article, we are going to scan MRZ (machine-readable zone) on passports and ID cards with <g2>Dynamsoft Label Recognizer<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463793422,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Here is a video of the result:",
+                    "演示视频",
+                    "Here is a video of the result:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463806069,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "New Project",
+                    "新建项目",
+                    "New Project",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1648026566331,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Open Android Studio to create a new Java project.",
+                    "打开Android Studio，创建一个Java语言的新项目。",
+                    "Open Android Studio to create a new Java project.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1740463814965,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Add dependencies",
+                    "添加依赖项",
+                    "Add dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Add the UVCCamera library.",
+                    "添加UVCCamera库。",
+                    "Add the UVCCamera library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463820210,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Download the following AARs and put them in the <g1>app\/libs<\/g1> folder.",
+                    "下载以下aar，并将其放在<g1>app\/libs<\/g1>文件夹中。",
+                    "Download the following AARs and put them in the <g1>app\/libs<\/g1> folder.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463827421,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "libuvccamera.aar",
+                    "libuvccamera.aar",
+                    "<g1>libuvccamera.aar<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463833411,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "usbCameraCommon.aar",
+                    "usbCameraCommon.aar",
+                    "<g1>usbCameraCommon.aar<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463834059,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "In <g1>settings.gradle<\/g1>, add the following lines:",
+                    "在<g1>settings.gradle<\/g1>中，添加以下行：",
+                    "In <g1>settings.gradle<\/g1>, add the following lines:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463836627,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "In the app's <g1>build.gradle<\/g1>, add the following lines:",
+                    "在应用的<g1>build.gradle<\/g1>中，添加以下几行：",
+                    "In the app's <g1>build.gradle<\/g1>, add the following lines:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463848142,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "You may also need to enable Jetifier in <g1>gradle.properties<\/g1>.",
+                    "此外可能还需要在<g1>gradle.properties<\/g1>中启用Jetifier。",
+                    "You may also need to enable Jetifier in <g1>gradle.properties<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463867173,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Add the Dynamsoft SDK.",
+                    "添加Dynamsoft SDK。",
+                    "Add the Dynamsoft SDK.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463874829,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "In <g1>settings.gradle<\/g1>, add the following lines:",
+                    "在<g1>settings.gradle<\/g1>中，添加以下行：",
+                    "In <g1>settings.gradle<\/g1>, add the following lines:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1740463836627,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "In the app's <g1>build.gradle<\/g1>, add the following lines:",
+                    "在应用的<g1>build.gradle<\/g1>中，添加以下几行：",
+                    "In the app's <g1>build.gradle<\/g1>, add the following lines:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1740463848142,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Open the USB Camera",
+                    "打开USB摄像头",
+                    "Open the USB Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463883813,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Let's do the following to open the connected USB camera.",
+                    "让我们执行以下操作以打开连接的USB摄像头。",
+                    "Let's do the following to open the connected USB camera.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463886234,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Add Controls",
+                    "添加控件",
+                    "Add Controls",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463899453,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Add a <g1>UVCCameraTextureView<\/g1> for camera preview and an <g2>ImageButton<\/g2> to select and open cameras.",
+                    "添加用于预览相机的<g1>UVCCameraTextureView<\/g1>和用于选择和打开相机的<g2>ImageButton<\/g2>。",
+                    "Add a <g1>UVCCameraTextureView<\/g1> for camera preview and an <g2>ImageButton<\/g2> to select and open cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463912789,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "XML:",
+                    "XML：",
+                    "XML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463915482,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "In MainActivity:",
+                    "在MainActivity中：",
+                    "In MainActivity:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463917961,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Monitor USB Events",
+                    "监控USB事件",
+                    "Monitor USB Events",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463921131,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Initialize a USBMonitor instance.",
+                    "初始化USBMonitor实例。",
+                    "Initialize a USBMonitor instance.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463923676,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Manage the life cycle.",
+                    "管理生命周期。",
+                    "Manage the life cycle.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463925898,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Start the Camera",
+                    "启动摄像头",
+                    "Start the Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463928370,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "The <g1>UVCCameraHandler<\/g1> class is used to handle USB cameras.",
+                    "<g1>UVCCameraHandler<\/g1>类用于处理USB摄像头。",
+                    "The <g1>UVCCameraHandler<\/g1> class is used to handle USB cameras.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463937605,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Initialize the handler.",
+                    "初始化。",
+                    "Initialize the handler.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463950963,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Add an <g1>OnClickListener<\/g1> for the image button to start a camera selection dialog.",
+                    "为图像按钮添加<g1>OnClickListener<\/g1>事件以启动摄像头选择对话框。",
+                    "Add an <g1>OnClickListener<\/g1> for the image button to start a camera selection dialog.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463972868,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "The preview will be started after a camera is chosen.",
+                    "选择摄像头后将开始视频流预览。",
+                    " The preview will be started after a camera is chosen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463975405,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "The activity has to be modified as well to implements the library's <g1>CameraDialogParent<\/g1>:",
+                    "还需要修改Activity以实现UVCCamera库的<g1>CameraDialogParent<\/g1>接口：",
+                    "The activity has to be modified as well to implements the library's <g1>CameraDialogParent<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740463999085,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "You may find that the preview is distorted to fill the screen.",
+                    "预览填充屏幕时画面会变形。",
+                    "You may find that the preview is distorted to fill the screen.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464031813,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "You can keep its aspect ratio using the following code:",
+                    "可以使用以下代码保持其纵横比：",
+                    " You can keep its aspect ratio using the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464036348,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Read MRZ from USB Camera Preview",
+                    "从USB摄像头预览读取MRZ",
+                    "Read MRZ from USB Camera Preview",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464040107,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Now that we can show camera preview, we can use Dynamsoft Label Recognizer to scan MRZ.",
+                    "现在我们可以显示摄像头预览了，接着使用Dynamsoft Label Recognizer识别MRZ。",
+                    "Now that we can show camera preview, we can use Dynamsoft Label Recognizer to scan MRZ.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464066005,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Initialize the SDK",
+                    "初始化SDK",
+                    "Initialize the SDK",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1733727235788,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Initialize the SDK with a license.",
+                    "使用许可证初始化SDK。",
+                    "Initialize the SDK with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1740464085239,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "You can apply for a 30-day free trial license <g1>here<\/g1>.",
+                    "可以在<g1>此处<\/g1>申请一个30天试用许可证。",
+                    " You can apply for a 30-day free trial license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1740464078444,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Update the Setting to Recognize MRZ",
+                    "更新设置以识别MRZ。",
+                    "Update the Setting to Recognize MRZ",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1740464094069,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "We need to update the default settings for MRZ recognition with the following JSON template.",
+                    "我们需要使用以下JSON模板更新默认设置以支持识别MRZ。",
+                    "We need to update the default settings for MRZ recognition with the following JSON template.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464110564,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "We can also update the USB camera's resolution by changing the <g1>PREVIEW_WIDTH<\/g1> and <g2>PREVIEW_HEIGHT<\/g2>.",
+                    "我们还可以更改<g1>PREVIEW_WIDTH<\/g1>和<g2>PREVIEW_HEIGHT<\/g2>来更新要使用的USB 摄像头的分辨率。",
+                    "We can also update the USB camera's resolution by changing the <g1>PREVIEW_WIDTH<\/g1> and <g2>PREVIEW_HEIGHT<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464139351,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "OCR requires a higher resolution.",
+                    "OCR通常要求较高的分辨率。",
+                    " OCR requires a higher resolution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464148398,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Create a Timer to Process Frames",
+                    "创建计时器来处理帧",
+                    "Create a Timer to Process Frames",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464161847,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "When a camera is connected, start processing using a timer.",
+                    "连接摄像头后，使用Timer计时器不断获取视频帧进行处理。",
+                    "When a camera is connected, start processing using a timer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464180070,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "The preview is captured as bitmap for the Dynamsoft SDK to process.",
+                    "预览将捕获为bitmap，供Dynamsoft SDK处理。",
+                    "The preview is captured as bitmap for the Dynamsoft SDK to process.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464189508,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "The result will be displayed in a TextView.",
+                    "结果将显示在TextView中。",
+                    " The result will be displayed in a TextView.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464197971,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Compatibility issue",
+                    "兼容问题",
+                    "Compatibility issue",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464201210,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "On Android 9+, the library may not work if the <g1>targetSdkVersion<\/g1> is set larger than 27.",
+                    "在Android 9+上，如果<g1>targetSdkVersion<\/g1>大于27，则库可能无法工作。",
+                    "On Android 9+, the library may not work if the <g1>targetSdkVersion<\/g1> is set larger than 27.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740464213022,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "You can check out <g2>this post<\/g2> to learn more.",
+                    "可以查看此<g2>博客<\/g2>以了解更多信息。",
+                    " You can check out <g2>this post<\/g2> to learn more.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1740464234314,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/OCR\/usb-camera-android-mrz-scanner.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu43"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
