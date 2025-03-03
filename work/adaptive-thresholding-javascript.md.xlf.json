@@ -1,0 +1,492 @@
+{
+    "filename": "adaptive-thresholding-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "Adaptive Thresholding in JavaScript",
+                    "JavaScript自适应阈值图像二值化",
+                    "Adaptive Thresholding in JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992301327,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-03-03 11:14:53 +0800",
+                    "",
+                    "2025-03-03 11:14:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-03-03 11:14:53 +0800",
+                    "",
+                    "2025-03-03 11:14:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode Reader",
+                    "",
+                    "Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Image Processing",
+                    "",
+                    "Image Processing",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to perform adaptive thresholding in JavaScript.",
+                    "文章分享了如何在JavaScript中对图像执行自适应阈值二值化处理。",
+                    "The article shares how to perform adaptive thresholding in JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992323586,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/03\/image-processing\/adaptive-thresholding.jpg",
+                    "",
+                    ".\/img\/2025\/03\/image-processing\/adaptive-thresholding.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "In the <g1>previous article<\/g1>, we talked about how to convert an image to black and white with a threshold.",
+                    "在<g1>上一篇文章<\/g1>中，我们谈到了如何使用固定阈值将图像转换为黑白图像。",
+                    "In the <g1>previous article<\/g1>, we talked about how to convert an image to black and white with a threshold.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992337065,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It may not work well with images having uneven lighting in tasks like barcode reading.",
+                    "对于在条码识别等任务中可能出现的光照不均的图像，它的效果并不理想。",
+                    " It may not work well with images having uneven lighting in tasks like barcode reading.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992384391,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "For example, if we convert the following QR code with shadow to black and white with a threshold for all the pixels, part of the QR code will get lost, making it unreadable.",
+                    "例如，如果我们将以下带阴影的二维码用固定阈值进行二值化，部分二维码内容将丢失，导致无法读取。",
+                    "For example, if we convert the following QR code with shadow to black and white with a threshold for all the pixels, part of the QR code will get lost, making it unreadable.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992423657,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<x1\/>barcode-with-shadow<x2\/>",
+                    "<x1\/>带阴影的条形码<x2\/>",
+                    "<x1\/>barcode-with-shadow<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992437408,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>barcode-with-shadow-simple-thresholding<x2\/>",
+                    "<x1\/>带有阴影的条形码-简单阈值处理<x2\/>",
+                    "<x1\/>barcode-with-shadow-simple-thresholding<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992440445,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "In such cases, we can use adaptive thresholding to achieve a good result.",
+                    "对于这种情况，我们可以使用自适应阈值二值化来获得理想的结果。",
+                    "In such cases, we can use adaptive thresholding to achieve a good result.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992460374,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "This technique calculates the threshold for each pixel based on its neighbouring pixels.",
+                    "这种方法会根据像素的邻近像素来计算每个像素的阈值。",
+                    " This technique calculates the threshold for each pixel based on its neighbouring pixels.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992482063,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "<x1\/>barcode-with-shadow-adaptive-thresholding<x2\/>",
+                    "<x1\/>自适应阈值处理的带阴影条形码<x2\/>",
+                    "<x1\/>barcode-with-shadow-adaptive-thresholding<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992493681,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "In this article, we will implement adaptive thresholding in JavaScript using HTML5's Canvas.",
+                    "在本文中，我们将基于HTML5 Canvas使用JavaScript中实现自适应阈值图像二值化。",
+                    "In this article, we will implement adaptive thresholding in JavaScript using HTML5's Canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992519789,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "We will also explore how to do this using <g1>Dynamsoft Barcode Reader<\/g1>.",
+                    "我们还将探讨如何使用<g1>Dynamsoft Barcode Reader<\/g1>执行此操作。",
+                    " We will also explore how to do this using <g1>Dynamsoft Barcode Reader<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992527623,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following content which can select a local image and display it.",
+                    "使用以下内容创建一个新的HTML文件，该文件可以选择本地图像并显示。",
+                    "Create a new HTML file with the following content which can select a local image and display it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992540887,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Convert an Image to Black and White with Adaptive Thresholding",
+                    "使用自适应阈值将图像转换为黑白",
+                    "Convert an Image to Black and White with Adaptive Thresholding",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992544156,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Next, let's convert the image to black and white with adaptive thresholding.",
+                    "接下来，用自适应阈值将图像转换为黑白图像。",
+                    "Next, let's convert the image to black and white with adaptive thresholding.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992554321,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Draw the image onto the canvas and get its image data.",
+                    "将图像绘制到Canvas上并获取其图像数据。",
+                    "Draw the image onto the canvas and get its image data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992564703,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Iterate over the pixels to calculate their threshold based on the neighbouring pixels.",
+                    "遍历像素，根据相邻像素计算阈值，并据此修改其像素值。",
+                    "Iterate over the pixels to calculate their threshold based on the neighbouring pixels.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992598760,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "It takes two extra arguments: block size and a constant C.",
+                    "它需要两个额外的参数：块大小和一个常量C。",
+                    " It takes two extra arguments: block size and a constant C.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992602636,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Put the updated image data back into the canvas and display the processed image.",
+                    "将更新后的图像数据放回Canvas中，并显示处理后的图像。",
+                    "Put the updated image data back into the canvas and display the processed image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992615832,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Improve the Efficiency",
+                    "提高运行效率",
+                    "Improve the Efficiency",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992622437,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "The above implementation's computation complexity is <g1>O(N*k*k)<\/g1>.",
+                    "上述实现的计算复杂度为<g1>O(N*k *k)<\/g1>。",
+                    "The above implementation's computation complexity is <g1>O(N*k*k)<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992631401,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "N stands for the number of pixels and k stands for the block size.",
+                    "N代表像素数，k代表块大小。",
+                    " N stands for the number of pixels and k stands for the block size.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992636969,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "We can use Integral Image to reduce the complexity to <g1>O(N)<\/g1> with the following code:",
+                    "我们可以使用积分图将复杂度降低到<g1>O(N)<\/g1>，代码如下：",
+                    "We can use Integral Image to reduce the complexity to <g1>O(N)<\/g1> with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992652432,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "The time for processing the above sample image can be reduced from 2000ms to 8ms.",
+                    "处理上面的示例图像的时间可以从2000ms缩短到8ms。",
+                    "The time for processing the above sample image can be reduced from 2000ms to 8ms.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992666305,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Adaptive Thresholding in Dynamsoft Barcode Reader",
+                    "Dynamsoft Barcode Reader中的自适应阈值处理",
+                    "Adaptive Thresholding in Dynamsoft Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992676358,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Dynamsoft Barcode Reader uses adaptive thresholding to process the images for barcode reading.",
+                    "Dynamsoft Barcode Reader会使用自适应阈值法处理图像来读取条码。",
+                    "Dynamsoft Barcode Reader uses adaptive thresholding to process the images for barcode reading.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992704305,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Here is the code to get the binary image via its intermediate result receiver.",
+                    "以下是通过它的中间结果接收器获取二值化图像的代码。",
+                    "Here is the code to get the binary image via its intermediate result receiver.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992718770,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "We can modify the parameters for adaptive thresholding by updating its JSON template's <g1>BinarizationMode<\/g1> section.",
+                    "我们可以通过更新它的JSON模板的<g1>BinarizationMode<\/g1>部分来修改自适应阈值的参数。",
+                    "We can modify the parameters for adaptive thresholding by updating its JSON template's <g1>BinarizationMode<\/g1> section.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740992744215,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "{% include cta.md %}",
+                    "",
+                    "{% include cta.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "You can find all the code and an online demo in the following repo:",
+                    "可以在以下仓库中找到所有代码和在线演示：",
+                    "You can find all the code and an online demo in the following repo:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/image_processing\/adaptive-thresholding-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698735433512,
+                        "id": "tu26"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
