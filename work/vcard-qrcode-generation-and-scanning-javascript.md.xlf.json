@@ -1,0 +1,767 @@
+{
+    "filename": "vcard-qrcode-generation-and-scanning-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "vCard QR Code Generation and Scanning with JavaScript",
+                    "vCard名片二维码在前端的生成与扫描",
+                    "vCard QR Code Generation and Scanning with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760358622,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-03-12 09:31:53 +0800",
+                    "",
+                    "2025-03-12 09:31:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-03-12 09:31:53 +0800",
+                    "",
+                    "2025-03-12 09:31:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Barcode",
+                    "",
+                    "Barcode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Barcode Reader",
+                    "",
+                    "Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "QR code",
+                    "",
+                    "QR code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "vCard",
+                    "",
+                    "vCard",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "CRM",
+                    "",
+                    "CRM",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf15_tu1"
+                    }
+                ],
+                [
+                    "The article talks about how to build an HTML page to generate and scan vCard QR codes with JavaScript.",
+                    "本文讨论了如何使用JavaScript构建HTML页面以生成和扫描vCard二维码。",
+                    "The article talks about how to build an HTML page to generate and scan vCard QR codes with JavaScript.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760366800,
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/03\/business-card.jpg",
+                    "",
+                    ".\/img\/2025\/03\/business-card.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf17_tu1"
+                    }
+                ],
+                [
+                    "vCard, also known as VCF (\"Virtual Contact File\"), is a file format standard for electronic business cards.",
+                    "vCard又名VCF（“虚拟联系人文件”），是电子名片的文件格式标准。",
+                    "vCard, also known as VCF (\"Virtual Contact File\"), is a file format standard for electronic business cards.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760406436,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "The following is an example of the content of a vCard file:",
+                    "以下是vCard文件内容的一个示例：",
+                    " The following is an example of the content of a vCard file:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760414937,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Widely used in business and personal networking, vCards can be shared via email, messaging apps, NFC, or cloud links.",
+                    "vCard可通过电子邮件、聊天应用、NFC或网络链接等方式进行分享。",
+                    "Widely used in business and personal networking, vCards can be shared via email, messaging apps, NFC, or cloud links.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760782150,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "One of the most convenient and modern methods is QR codes, which allow instant contact exchange with a simple scan.",
+                    "不过更方便的方法是扫描二维码。",
+                    " One of the most convenient and modern methods is QR codes, which allow instant contact exchange with a simple scan.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760798233,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "If you scan the following QR code with your iPhone's camera, you will be prompted to add a contact.",
+                    "例如用iPhone的相机应用扫描以下二维码，会提示添加联系人。",
+                    " If you scan the following QR code with your iPhone's camera, you will be prompted to add a contact.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760827460,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<x1\/>vcard qr code<x2\/>",
+                    "<x1\/>vcard二维码<x2\/>",
+                    "<x1\/>vcard qr code<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760833640,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>vcard-qr-code-scanning-with-ios-camera<x2\/>",
+                    "<x1\/>vcard二维码iOS摄像头扫描<x2\/>",
+                    "<x1\/>vcard-qr-code-scanning-with-ios-camera<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760851683,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "In this article, we are going to build an HTML page to generate vCard QR codes and another page to scan the QR code based on the <g1>Dynamsoft Barcode Reader<\/g1> SDK.",
+                    "在本文中，我们将构建一个用于生成vCard二维码码的HTML页面，以及另一个基于<g1>Dynamsoft Barcode Reader<\/g1> SDK扫描二维码的页面。",
+                    "In this article, we are going to build an HTML page to generate vCard QR codes and another page to scan the QR code based on the <g1>Dynamsoft Barcode Reader<\/g1> SDK.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760869836,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "An advantage of having our own web app to scan the vCard is that we can integrate with CRM systems like Salesforce and Dynamics 365 to facilitate contact management.",
+                    "我们自己编写一个扫描vCard的应用的好处是，可以与Salesforce和Dynamics 365等CRM系统集成，方便管理联系人。",
+                    " An advantage of having our own web app to scan the vCard is that we can integrate with CRM systems like Salesforce and Dynamics 365 to facilitate contact management.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760926132,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Demo video:",
+                    "演示视频：",
+                    "Demo video:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1699581028608,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Prerequisites",
+                    "",
+                    "Prerequisites",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Get your trial key.",
+                    "",
+                    "Get your trial key.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "",
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Generate vCard QR Code",
+                    "生成vCard二维码",
+                    "Generate vCard QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1741760943809,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "We are going to use two third-party libraries:",
+                    "我们将使用两个第三方库：",
+                    "We are going to use two third-party libraries:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760946409,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<g1>vcard creator<\/g1> for vCard generation",
+                    "<g1>vCard creator<\/g1>，用于vCard生成",
+                    "<g1>vcard creator<\/g1> for vCard generation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760957842,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<g1>qrcode generator<\/g1> for QR code generation",
+                    "<g1>qrcode generator<\/g1>用于生成二维码",
+                    "<g1>qrcode generator<\/g1> for QR code generation",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760968694,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Create a new HTML file and include the above libraries.",
+                    "创建一个新的HTML文件并引用上述库。",
+                    "Create a new HTML file and include the above libraries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760979538,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Create a form to enter the contact info.",
+                    "创建一个表单来输入联系人信息。",
+                    "Create a form to enter the contact info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760985778,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Generate the QR code using the entered contact info.",
+                    "使用输入的信息生成二维码。",
+                    "Generate the QR code using the entered contact info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760992114,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "We can also generate the QR code using an existing vcf file.",
+                    "我们还可以使用现有的vcf文件生成二维码。",
+                    "We can also generate the QR code using an existing vcf file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741760995816,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Please note that a QR code can only contain about 2 KBs of data.",
+                    "请注意，一个二维码只能包含约2KB的数据。",
+                    "Please note that a QR code can only contain about 2 KBs of data.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741761011796,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "If you need to transfer more data, you can try the <g1>animated QR codes<\/g1> approach.",
+                    "如果需要传输更多数据，可以尝试<g1>动态二维码<\/g1>的方法。",
+                    " If you need to transfer more data, you can try the <g1>animated QR codes<\/g1> approach.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741761024888,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Scan vCard QR Code",
+                    "扫描vCard二维码",
+                    "Scan vCard QR Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741761027832,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Next, let's create a page to scan the vCard QR code.",
+                    "接下来，创建一个页面来扫描vCard二维码。",
+                    "Next, let's create a page to scan the vCard QR code.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741761035164,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Create a new HTML file with the following content:",
+                    "创建一个包含以下内容的新HTML文件：",
+                    "Create a new HTML file with the following content:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1704765701678,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Add Dynamsoft Barcode Reader",
+                    "添加Dynamsoft Barcode Reader",
+                    "Add Dynamsoft Barcode Reader",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129034621,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Include the library of Dynamsoft Barcode Reader with the following line of code:",
+                    "添加下面的代码以引入Dynamsoft Barcode Reader：",
+                    "Include the library of Dynamsoft Barcode Reader with the following line of code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1736237692705,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Then, initialize Dynamsoft Barcode Reader.",
+                    "然后，初始化Dynamsoft Barcode Reader",
+                    "Then, initialize Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1741761049795,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Initialize the license.",
+                    "初始化许可证。",
+                    "Initialize the license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129076278,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在此处申请<g1>许可证<\/g1>。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725333053319,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Load the WASM file.",
+                    "加载WASM文件。",
+                    "Load the WASM file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129093142,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Create an instance of Capture Vision Router to call Dynamsoft Barcode Reader.",
+                    "创建capture vision router实例以调用Dynamsoft Barcode Reader。",
+                    "Create an instance of Capture Vision Router to call Dynamsoft Barcode Reader.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129108238,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Start Scanning from the Camera",
+                    "打开摄像头扫描",
+                    "Start Scanning from the Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129188365,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Initialize Camera Enhancer and bind its viewer to a container.",
+                    "初始化Camera Enhancer并将其组件绑定到一个容器。",
+                    "Initialize Camera Enhancer and bind its viewer to a container.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129168351,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Use Camera Enhancer as the input of the capture vision router so that it can fetch frames from the cameras for reading barcodes.",
+                    "使用Camera Enhancer作为capture vision router的输入，这样它就可以从摄像头获取帧来读取条形码。",
+                    "Use Camera Enhancer as the input of the capture vision router so that it can fetch frames from the cameras for reading barcodes.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129182051,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Add a result receiver to receive the scanning results.",
+                    "添加结果接收器以接收扫描结果。",
+                    "Add a result receiver to receive the scanning results.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129205157,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Start scanning after the scan button is clicked.",
+                    "单击扫描按钮后开始扫描。",
+                    "Start scanning after the scan button is clicked.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1729129209805,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Parse vCard Content",
+                    "解析vCard",
+                    "Parse vCard Content",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741761089328,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Next, parse the vCard content and display the contact info.",
+                    "接下来，解析vCard的文本并显示联系人信息。",
+                    "Next, parse the vCard content and display the contact info.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741761098586,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Download as a VCF File",
+                    "下载为VCF文件",
+                    "Download as a VCF File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741761100840,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "We can download the vCard as a <g1>.vcf<\/g1> file.",
+                    "我们可以将vCard下载为<g1>.vcf<\/g1>文件。",
+                    "We can download the vCard as a <g1>.vcf<\/g1> file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741761103999,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "It can be opened by the system's contact app.",
+                    "它可以通过系统的联系人应用程序打开。",
+                    " It can be opened by the system's contact app.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741761109528,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Read QR Code in an Image",
+                    "读取图像中的二维码",
+                    "Read QR Code in an Image",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1741761117827,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Apart from live scanning, we can also read vCard QR codes in an image.",
+                    "除了实时扫描，我们还可以读取图像中的vCard二维码。",
+                    "Apart from live scanning, we can also read vCard QR codes in an image.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1741761124954,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Add events for selecting an image file.",
+                    "添加用于选择图像文件的事件。",
+                    "Add events for selecting an image file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1736237889931,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "After the image is selected, read the barcodes in it using the <g1>capture<\/g1> method.",
+                    "选择图像后，使用<g1>capture<\/g1>方法识别其中的条码。",
+                    " After the image is selected, read the barcodes in it using the <g1>capture<\/g1> method.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1736237904757,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "All right, we've finished the demo.",
+                    "好了，demo已经编写好了。",
+                    "All right, we've finished the demo.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1700124113493,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Check out the source code to have a try:",
+                    "获取源代码来自己试用一下吧：",
+                    "Check out the source code to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1701744728242,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Generator:",
+                    "生成器：",
+                    "Generator: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741761135952,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Scanner:",
+                    "扫描器：",
+                    "Scanner: <x1\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Barcode\/javascript web\/vcard-qrcode-generation-and-scanning-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741761140163,
+                        "id": "tu45"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
