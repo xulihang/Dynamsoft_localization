@@ -1,0 +1,906 @@
+{
+    "filename": "scan-and-print-document-phone-javascript.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Scan and Print a Document on Your Phone with JavaScript",
+                    "在手机浏览器上扫描文档并打印",
+                    "How to Scan and Print a Document on Your Phone with JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278294898,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-03-17 09:58:53 +0800",
+                    "",
+                    "2025-03-17 09:58:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-03-17 09:58:53 +0800",
+                    "",
+                    "2025-03-17 09:58:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "Document Normalizer",
+                    "",
+                    "Document Normalizer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Camera",
+                    "",
+                    "Camera",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "Print",
+                    "",
+                    "Print",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf14_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to build a web app to scan and print a document on a mobile phone.",
+                    "本文介绍了如何构建一个网页应用，在手机上扫描和打印文档。",
+                    "The article shares how to build a web app to scan and print a document on a mobile phone.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278318772,
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/03\/scan-and-print\/mopria.jpg",
+                    "",
+                    ".\/img\/2025\/03\/scan-and-print\/mopria.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf16_tu1"
+                    }
+                ],
+                [
+                    "Using a phone to scan and print (copy) documents is ideal for convenience, portability, and quick tasks, making it a versatile and practical choice for many users.",
+                    "使用手机扫描文档并打印方便快捷。",
+                    "Using a phone to scan and print (copy) documents is ideal for convenience, portability, and quick tasks, making it a versatile and practical choice for many users.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278403264,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to build a web app to scan and print a document on a mobile phone.",
+                    "在本文中，我们将编写一个支持在手机浏览器中扫描和打印文档的网页应用。",
+                    " In this article, we are going to build a web app to scan and print a document on a mobile phone.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278430345,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "The following SDKs by Dynamsoft are used:",
+                    "使用Dynamsoft的以下SDK：",
+                    "The following SDKs by Dynamsoft are used:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278435833,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Viewer<\/g1>: it provides a set of viewers for document capturing, editing and saving as PDFs.",
+                    "<g1>Dynamsoft Document Viewer<\/g1>：它提供了一套用于文档捕获、编辑和保存为PDF的查看器。",
+                    "<g1>Dynamsoft Document Viewer<\/g1>: it provides a set of viewers for document capturing, editing and saving as PDFs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1742278475180,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Normalizer<\/g1>: it provides the edge detection ability.",
+                    "<g1>Dynamsoft Document Normalizer<\/g1>：提供文档边缘检测功能。",
+                    "<g1>Dynamsoft Document Normalizer<\/g1>: it provides the edge detection ability.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278520835,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "The web app can capture a document image, resize it, and make it black-white for printing.",
+                    "这个Web应用可以捕获文档图像，调整图像大小，并进行漂白以供打印。",
+                    "The web app can capture a document image, resize it, and make it black-white for printing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278572128,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Capturing:",
+                    "图像捕获：",
+                    "Capturing:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278585377,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<x1\/>capture viewer<x2\/>",
+                    "<x1\/>捕获查看器<x2\/>",
+                    "<x1\/>capture viewer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278587775,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Scanned image (cropped):",
+                    "扫描的图像（裁剪的）：",
+                    "Scanned image (cropped):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278596698,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<x1\/>scanned<x2\/>",
+                    "<x1\/>已扫描<x2\/>",
+                    "<x1\/>scanned<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278602984,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Black and white image for printing:",
+                    "用于打印的黑白图像：",
+                    "Black and white image for printing:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278605519,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<x1\/>black and white<x2\/>",
+                    "<x1\/>黑白图<x2\/>",
+                    "<x1\/>black and white<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278613330,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Online demo",
+                    "在线demo",
+                    "<g1>Online demo<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681366413669,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Prerequisites",
+                    "",
+                    "Prerequisites",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Get your trial key.",
+                    "",
+                    "Get your trial key.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "",
+                    "{% include trialLicense.html product=\"dcv\" package=\"cross-platform\" %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "New HTML File",
+                    "新建HTML文件",
+                    "New HTML File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1698721875172,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Create a new HTML with the following content.",
+                    "创建一个新的HTML文件，内容如下。",
+                    "Create a new HTML with the following content.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1742278831001,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Include Dependencies",
+                    "添加依赖项",
+                    "Include Dependencies",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1702604466274,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Add Dynamsoft Document Viewer.",
+                    "添加Dynamsoft Document Viewer。",
+                    "Add Dynamsoft Document Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1742278839168,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Add Dynamsoft Document Normalizer by including the Capture Vision bundle.",
+                    "添加Dynamsoft Document Normalizer（通过引入Capture Vision bundle）。",
+                    "Add Dynamsoft Document Normalizer by including the Capture Vision bundle.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1742278866066,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Initialize the SDKs",
+                    "初始化SDK",
+                    "Initialize the SDKs",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1733727235788,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Initialize the SDKs with a license.",
+                    "使用许可证初始化SDK。",
+                    "Initialize the SDKs with a license.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1740464085239,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Scan Documents",
+                    "扫描文档",
+                    "Scan Documents",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278877007,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Dynamsoft Document Viewer provides a set of viewers for document scanning.",
+                    "Dynamsoft Document Viewer为文档扫描提供了多个组件。",
+                    "Dynamsoft Document Viewer provides a set of viewers for document scanning.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1734053400241,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "We are going to use its <g1>Capture Viewer<\/g1> to capture documents via the camera, its <g2>Perspective Viewer<\/g2> to adjust the detected boundaries and its <g3>Edit Viewer<\/g3> to view, edit and save the scanned documents.",
+                    "我们将使用其<g1>Capture Viewer<\/g1>通过摄像头捕获文档，使用其<g2>Perspective Viewer<\/g2>调整检测到的边界，并使用其<g3>Edit Viewer<\/g3> 查看、编辑和保存扫描的文档。",
+                    "We are going to use its <g1>Capture Viewer<\/g1> to capture documents via the camera, its <g2>Perspective Viewer<\/g2> to adjust the detected boundaries and its <g3>Edit Viewer<\/g3> to view, edit and save the scanned documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278908882,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Capture Viewer:",
+                    "Capture Viewer：",
+                    "Capture Viewer:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278919008,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "<x1\/>capture viewer<x2\/>",
+                    "<x1\/>捕获查看器<x2\/>",
+                    "<x1\/>capture viewer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1742278587775,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Perspective Viewer:",
+                    "Perspective Viewer：",
+                    "Perspective Viewer:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278929000,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "<x1\/>perspective viewer<x2\/>",
+                    "<x1\/>透视查看器<x2\/>",
+                    "<x1\/>perspective viewer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278931887,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Edit Viewer:",
+                    "Edit Viewer：",
+                    "Edit Viewer:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278937258,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "<x1\/>edit viewer<x2\/>",
+                    "<x1\/>编辑查看器<x2\/>",
+                    "<x1\/>edit viewer<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278940527,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "The following is the code to set the viewers up.",
+                    "以下是用于设置这些组件的代码。",
+                    "The following is the code to set the viewers up.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278956917,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Initialize Capture Viewer and bind it to the container.",
+                    "初始化Capture Viewer并将其绑定到一个容器。",
+                    "Initialize Capture Viewer and bind it to the container.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278982491,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Initialize Perspective Viewer and bind it to the container.",
+                    "初始化Perspective Viewer并将其绑定到一个容器。",
+                    "Initialize Perspective Viewer and bind it to the container.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278979914,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Initialize Edit Viewer and bind it to the container.",
+                    "初始化Edit Viewer并将其绑定到一个容器。",
+                    "Initialize Edit Viewer and bind it to the container.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278987169,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Configure the UIs of the viewers using config objects.",
+                    "使用config对象配置UI。",
+                    "Configure the UIs of the viewers using config objects.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742278993642,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Add a helper function to switch the viewers.",
+                    "添加一个辅助函数来切换这些Viewer。",
+                    "Add a helper function to switch the viewers.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279004466,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Register events for the buttons defined to control the workflow.",
+                    "为用来控制工作流的按钮注册事件。",
+                    "Register events for the buttons defined to control the workflow.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279068992,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Use Dynamsoft Document Normalizer for edge detection by defining the detection handler.",
+                    "定义文档检测处理程序，使用Dynamsoft Document Normalizer进行边缘检测。",
+                    "Use Dynamsoft Document Normalizer for edge detection by defining the detection handler.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279079188,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Start the document scanning workflow using a selected camera and a specified resolution.",
+                    "使用所选摄像头和指定的分辨率启动文档扫描工作流。",
+                    "Start the document scanning workflow using a selected camera and a specified resolution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279089582,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Adjust the Image Size",
+                    "调整图像大小",
+                    "Adjust the Image Size",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279099759,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "The size of the scanned document image may not conform to the ratio of a standard like A4 (210 x 297 mm).",
+                    "扫描的文档图像的尺寸可能不符合标准比例，例如A4的210毫米x297毫米。",
+                    "The size of the scanned document image may not conform to the ratio of a standard like A4 (210 x 297 mm).",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279136387,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "We can resize the image with canvas.",
+                    "可以使用Canvas调整图像的大小。",
+                    "We can resize the image with canvas.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279147776,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "In some cases, the scanned document is small, like a business card and we want to print it on a piece of A4 paper.",
+                    "在某些情况下，扫描的文件较小，比如名片，然后我们希望将其打印在一张A4纸上。",
+                    "In some cases, the scanned document is small, like a business card and we want to print it on a piece of A4 paper.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279163180,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Then, we can create an empty page first and then add the resized document image on it.",
+                    "这时，我们可以先创建一个空白页面，然后在其上添加调整好大小的文档图像。",
+                    " Then, we can create an empty page first and then add the resized document image on it.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279179651,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "<x1\/>resized image<x2\/>",
+                    "<x1\/>调整后的图像<x2\/>",
+                    "<x1\/>resized image<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279183639,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Apply an Image Filter",
+                    "应用图像滤镜",
+                    "Apply an Image Filter",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279192703,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "We have to whiten the image for printing.",
+                    "还需要漂白图像以便打印。",
+                    "We have to whiten the image for printing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279207719,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "We can apply filters using Dynamsoft Document Viewer's Edit Viewer.",
+                    "我们可以使用Dynamsoft Document Viewer的Edit Viewer应用图像滤镜。",
+                    " We can apply filters using Dynamsoft Document Viewer's Edit Viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279229419,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "<x1\/>image filters<x2\/>",
+                    "<x1\/>图像滤镜<x2\/>",
+                    "<x1\/>image filters<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279238777,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Here is the code to set up the image filter:",
+                    "下面是设置图像滤镜的代码：",
+                    "Here is the code to set up the image filter:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279248291,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "You can also define your own image filters.",
+                    "还可以定义自己的图像滤镜。",
+                    "You can also define your own image filters.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279255034,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Check out <g1>this blog<\/g1> to learn more.",
+                    "可以查看<g1>此博客<\/g1>以了解更多信息。",
+                    " Check out <g1>this blog<\/g1> to learn more.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1742279262482,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Save as PDF",
+                    "保存为PDF",
+                    "Save as PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725333217804,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "Save the document as PDF with a specified page type:",
+                    "使用指定的页面类型将文档另存为PDF：",
+                    "Save the document as PDF with a specified page type:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279271481,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "HTML:",
+                    "HTML：",
+                    "HTML:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145625127,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "JavaScript:",
+                    "JavaScript：",
+                    "JavaScript:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619145627326,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "Print the Document",
+                    "打印文档",
+                    "Print the Document",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279278121,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "Print the PDF document using a connected printer.",
+                    "使用连接的打印机打印PDF文档。",
+                    "Print the PDF document using a connected printer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279280455,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "On mobile phones, we mostly use wireless printing.",
+                    "在手机上，我们主要使用无线打印。",
+                    "On mobile phones, we mostly use wireless printing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279283815,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "On iOS, we can use AirPrint.",
+                    "在iOS设备上，我们可以使用AirPrint。",
+                    "On iOS, we can use AirPrint.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279297291,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "<x1\/>airprint<x2\/>",
+                    "<x1\/>airprint<x2\/>",
+                    "<x1\/>airprint<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279291591,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "On Android, we can use Mopria.",
+                    "在安卓设备上，我们可以使用Mopria。",
+                    "On Android, we can use Mopria.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279300682,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "<x1\/>mopria<x2\/>",
+                    "<x1\/>mopria<x2\/>",
+                    "<x1\/>mopria<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1742279304328,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "Get the source code and have a try!",
+                    "欢迎下载源代码并尝试使用。",
+                    "Get the source code and have a try!",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/scan-and-print-document-phone-javascript.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057900558,
+                        "id": "tu63"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
