@@ -1,0 +1,1091 @@
+{
+    "filename": "scan-documents-from-command-line.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Scan Documents from the Command Line",
+                    "命令行调用扫描仪扫描文档",
+                    "How to Scan Documents from the Command Line",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930541450,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-07-30 14:46:53 +0800",
+                    "",
+                    "2025-07-30 14:46:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-07-30 14:46:53 +0800",
+                    "",
+                    "2025-07-30 14:46:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "REST API",
+                    "",
+                    "REST API",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Python",
+                    "",
+                    "Python",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to scan documents from the command line using APIs like TWAIN, WIA, ICA, SANE and eSCL on Windows, macOS and Linux.",
+                    "本文分享了如何在Windows、macOS和Linux上使用TWAIN、WIA、ICA、SANE和eSCL等API从命令行调用扫描仪扫描文档。",
+                    "The article shares how to scan documents from the command line using APIs like TWAIN, WIA, ICA, SANE and eSCL on Windows, macOS and Linux.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930558736,
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/07\/document-scanning-cli.jpg",
+                    "",
+                    ".\/img\/2025\/07\/document-scanning-cli.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about how to scan documents from the command line (CLI), which allows scanning and saving documents to be automated and\/or scripted.",
+                    "在本文中，我们将讨论如何从命令行（CLI）扫描文档，以便自动化文档扫描工作或者集成扫描功能到其它应用中。",
+                    "In this article, we are going to talk about how to scan documents from the command line (CLI), which allows scanning and saving documents to be automated and\/or scripted.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930616368,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "There are different APIs to access document scanners and here is a table about them.",
+                    "有不同的API可以访问文档扫描仪，下面是一张对比表格。",
+                    "There are different APIs to access document scanners and here is a table about them.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930644053,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Feature",
+                    "特点",
+                    "Feature",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930656390,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "TWAIN",
+                    "",
+                    "TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "WIA (Windows Image Acquisition)",
+                    "",
+                    "WIA (Windows Image Acquisition)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "SANE (Scanner Access Now Easy)",
+                    "",
+                    "SANE (Scanner Access Now Easy)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "ICA (Image Capture Architecture)",
+                    "",
+                    "ICA (Image Capture Architecture)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "eSCL",
+                    "",
+                    "eSCL",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Developer",
+                    "开发者",
+                    "Developer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930663013,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "TWAIN Working Group",
+                    "",
+                    "TWAIN Working Group",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Microsoft",
+                    "",
+                    "Microsoft",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "SANE Open-Source Community",
+                    "",
+                    "SANE Open-Source Community",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Apple",
+                    "",
+                    "Apple",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Mopria",
+                    "",
+                    "Mopria",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Operating Systems",
+                    "操作系统",
+                    "Operating Systems",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930670534,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "Windows, macOS, Linux (partial)",
+                    "Windows、macOS、Linux（部分）",
+                    "Windows, macOS, Linux (partial)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930673597,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Windows",
+                    "",
+                    "Windows",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Linux, macOS, Unix-like",
+                    "Linux、macOS、类Unix",
+                    "Linux, macOS, Unix-like",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930681013,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "macOS, iOS",
+                    "macOS、iOS",
+                    "macOS, iOS",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930683509,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Cross-platform (Windows\/macOS\/Linux\/mobile)",
+                    "跨平台（Windows\/macOS\/Linux\/mobile）",
+                    "Cross-platform (Windows\/macOS\/Linux\/mobile)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930698791,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Supported Scanners",
+                    "支持的扫描仪",
+                    "Supported Scanners",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930706429,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Broad",
+                    "广泛",
+                    "Broad",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930710062,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "Less broad",
+                    "较广泛",
+                    "Less broad",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930719879,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Less broad (community support)",
+                    "较广泛（社区支持）",
+                    "Less broad (community support)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930729354,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Less broad",
+                    "较广泛",
+                    "Less broad",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1753930719879,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "Only modern network scanners\/MFPs",
+                    "仅网络扫描仪\/MFP",
+                    "Only modern network scanners\/MFPs",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930737454,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Functionality",
+                    "功能",
+                    "Functionality",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930744909,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Advanced controls (ADF, barcode detection, etc)",
+                    "高级控制（ADF、条形码检测等）",
+                    "Advanced controls (ADF, barcode detection, etc)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930748109,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Basic controls like color mode",
+                    "颜色模式等基本控制",
+                    "Basic controls like color mode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930755966,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Medium-to-advanced controls",
+                    "中级控制",
+                    "Medium-to-advanced controls",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930770191,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Basic controls like color mode",
+                    "颜色模式等基本控制",
+                    "Basic controls like color mode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930761244,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Basic controls like color mode",
+                    "颜色模式等基本控制",
+                    "Basic controls like color mode",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930765110,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "We are going to use all the APIs to scan documents from the command line.",
+                    "我们将使用这些API从命令行扫描文档。",
+                    "We are going to use all the APIs to scan documents from the command line.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930779241,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Since only SANE provides a command-line tool and the others do not, we need to write command-line tools to use the other APIs.",
+                    "由于只有SANE提供了命令行工具，而其他没有，因此我们需要编写命令行工具来使用其他API。",
+                    " Since only SANE provides a command-line tool and the others do not, we need to write command-line tools to use the other APIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930800360,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "SANE",
+                    "",
+                    "SANE",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "SANE has a command-line tool <g1>scanimage<\/g1>.",
+                    "SANE有一个命令行工具<g1>scanimage<\/g1>。",
+                    "SANE has a command-line tool <g1>scanimage<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930805684,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Here is its basic usage:",
+                    "以下是它的基本用法：",
+                    " Here is its basic usage:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930808413,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "List connected scanners.",
+                    "列出连接的扫描仪。",
+                    "List connected scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1715845177137,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Acquire an image with a specified scanner.",
+                    "使用指定的扫描仪获取图像。",
+                    "Acquire an image with a specified scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930813101,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Command line tools of the other APIs we are going to write will have the same usage.",
+                    "我们将要编写的其他API的命令行工具将具有相同的用法。",
+                    "Command line tools of the other APIs we are going to write will have the same usage.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930817805,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "TWAIN",
+                    "",
+                    "TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "The TWAIN interface is implemented with C++ and has a Python library.",
+                    "TWAIN接口是用C++实现的，并有一个Python库。",
+                    "The TWAIN interface is implemented with C++ and has a Python library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930824694,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "We are going to use Python to write the command-line tool.",
+                    "我们将使用Python编写命令行工具。",
+                    " We are going to use Python to write the command-line tool.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930833374,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Here are the key parts:",
+                    "以下是关键部分的代码：",
+                    "Here are the key parts:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753938721839,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Import the library.",
+                    "导入库。",
+                    "Import the library.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930840214,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "List scanners.",
+                    "列出扫描仪。",
+                    "List scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706580640244,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Scan with a scanner.",
+                    "用扫描仪扫描。",
+                    "Scan with a scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930845357,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "WIA",
+                    "",
+                    "WIA",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "WIA provides APIs as well as a COM layer.",
+                    "WIA提供API和COM的调用方式。",
+                    "WIA provides APIs as well as a COM layer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930869615,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "We are going to use Python and COM to use WIA.",
+                    "我们将使用Python和COM来使用WIA。",
+                    " We are going to use Python and COM to use WIA.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930872341,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Here are the key parts:",
+                    "以下是关键部分的代码：",
+                    "Here are the key parts:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1753938719465,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Import libraries.",
+                    "导入库。",
+                    "Import libraries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1720594504134,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "List scanners.",
+                    "列出扫描仪。",
+                    "List scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706580640244,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "Scan with a scanner.",
+                    "用扫描仪扫描。",
+                    "Scan with a scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1753930845357,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "eSCL",
+                    "",
+                    "eSCL",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "eSCL is a RESTful interface.",
+                    "eSCL是一个RESTful接口。",
+                    "eSCL is a RESTful interface.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930885477,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "The network scanners broadcast themselves via Bonjour and the client can find them and send HTTP requests to scan documents.",
+                    "网络扫描仪通过Bonjour进行广播，客户端可以找到它们并发送HTTP请求来扫描文档。",
+                    " The network scanners broadcast themselves via Bonjour and the client can find them and send HTTP requests to scan documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930888429,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "We are going to use Python as well to write the scanning tool.",
+                    "我们也将使用Python编写扫描工具。",
+                    " We are going to use Python as well to write the scanning tool.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930894847,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "Import the libraries.",
+                    "导入库。",
+                    "Import the libraries.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1753930840214,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "List scanners by detecting Bonjour services whose type is <g1>_uscan._tcp.local.<\/g1>.",
+                    "通过检测类型为<g1>_uscan_tcp.local.<\/g1>的Bonjour服务来列出扫描仪。",
+                    "List scanners by detecting Bonjour services whose type is <g1>_uscan._tcp.local.<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930925687,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "Scan with a scanner.",
+                    "用扫描仪扫描。",
+                    "Scan with a scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1753930845357,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "The scanning configuration is expressed in XML.",
+                    "扫描配置以XML表示。",
+                    " The scanning configuration is expressed in XML.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930932629,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "ICA",
+                    "",
+                    "ICA",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "Using the Image Capture API is a bit complicated, we are going to create a Swift command-line project to implement the tool.",
+                    "使用Image Capture API稍微复杂点，我们将创建一个Swift命令行项目来实现该工具。",
+                    "Using the Image Capture API is a bit complicated, we are going to create a Swift command-line project to implement the tool.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753930943096,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Here are the key parts:",
+                    "以下是关键部分的代码：",
+                    "Here are the key parts:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1753938714793,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "Create a scanner manager class to list the scanners.",
+                    "创建叫ScannerManager的类以列出扫描仪。",
+                    "Create a scanner manager class to list the scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753931207404,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "Let the manager class inherit <g1>ICScannerDeviceDelegate<\/g1> and add the scanning-related functions.",
+                    "让这个类继承<g1>ICScannerDeviceDelegate<\/g1>并添加与扫描相关的函数。",
+                    "Let the manager class inherit <g1>ICScannerDeviceDelegate<\/g1> and add the scanning-related functions.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753931227850,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "Dynamic Web TWAIN RESTful API",
+                    "Dynamic Web TWAIN RESTful API",
+                    "Dynamic Web TWAIN RESTful API",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753931251753,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "<g1>Dynamic Web TWAIN<\/g1> provides a RESTful API feature for scanning documents using TWAIN, WIA, SANE, ICA or eSCL.",
+                    "<g1>Dynamic Web TWAIN<\/g1>提供RESTful API功能，支持使用TWAIN、WIA、SANE、ICA和eSCL等API扫描文档。",
+                    "<g1>Dynamic Web TWAIN<\/g1> provides a RESTful API feature for scanning documents using TWAIN, WIA, SANE, ICA or eSCL.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753938570674,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "You can find its details on <g2>this page<\/g2>.",
+                    "您可以在<g2>这个页面<\/g2>上找到它的详细信息。",
+                    " You can find its details on <g2>this page<\/g2>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753938576014,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "Here are the benefits of using Dynamic Web TWAIN's RESTful API:",
+                    "以下是使用Dynamic Web TWAIN的RESTful API的好处：",
+                    "Here are the benefits of using Dynamic Web TWAIN's RESTful API:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753938580478,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "One unified interface to use all the mainstream document scanning APIs with complete scanner controls on different platforms.",
+                    "提供了调用主流的扫描API的统一接口，支持控制扫描仪的各种功能，支持不同平台。",
+                    "One unified interface to use all the mainstream document scanning APIs with complete scanner controls on different platforms.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753938645093,
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "Share scanners via the network so that mobile devices can also access document scanners.",
+                    "通过网络共享扫描仪，这样移动设备也可以访问文档扫描仪。",
+                    "Share scanners via the network so that mobile devices can also access document scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753938655458,
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "We can use programming languages we like to use the document scanning APIs.",
+                    "支持各种编程语言去使用文档扫描功能。",
+                    "We can use programming languages we like to use the document scanning APIs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753938686410,
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "Here are the key parts using the <g1>Python wrapper<\/g1>:",
+                    "以下是使用<g1>Python版封装<\/g1>的关键部分的代码：",
+                    "Here are the key parts using the <g1>Python wrapper<\/g1>:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753938706121,
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "Import the library and declare several variables.",
+                    "导入库并声明有关变量。",
+                    "Import the library and declare several variables.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753938971434,
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "You can apply for a license <g1>here<\/g1>.",
+                    "可以在此处申请<g1>许可证<\/g1>。",
+                    " You can apply for a license <g1>here<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725333053319,
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "List scanners.",
+                    "列出扫描仪。",
+                    "List scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1706580640244,
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "Scan with a scanner.",
+                    "用扫描仪扫描。",
+                    "Scan with a scanner.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1753930845357,
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "Apart from the RESTful API, Dynamic Web TWAIN also provides a JavaScript library with a dedicated viewer, complete wrapping of the document scanning APIs, local cache and various supplementary APIs to provide a browser-based document scanning solution.",
+                    "除了RESTful API，Dynamic Web TWAIN还提供了一个JavaScript库，该库具有专用的文档查看器、完整的文档扫描API包装、本地缓存和各种补充API，以提供基于浏览器的文档扫描解决方案。",
+                    "Apart from the RESTful API, Dynamic Web TWAIN also provides a JavaScript library with a dedicated viewer, complete wrapping of the document scanning APIs, local cache and various supplementary APIs to provide a browser-based document scanning solution.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753938990084,
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "<g1>Visit its online demo<\/g1> to have a try.",
+                    "<g1>访问其在线demo<\/g1>进行试用。",
+                    " <g1>Visit its online demo<\/g1> to have a try.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753939015934,
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu72"
+                    }
+                ],
+                [
+                    "Get the source code on GitHub and learn about how to use the command line tools:",
+                    "可以在GitHub上获取源代码，了解命令行工具的具体使用说明：",
+                    "Get the source code on GitHub and learn about how to use the command line tools:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753939040600,
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "External Links",
+                    "外部链接",
+                    "External Links",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1753939042550,
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "TWAIN",
+                    "",
+                    "<g1>TWAIN<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu75"
+                    }
+                ],
+                [
+                    "Windows Image Acquisition (WIA)",
+                    "",
+                    "<g1>Windows Image Acquisition (WIA)<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu76"
+                    }
+                ],
+                [
+                    "SANE",
+                    "",
+                    "<g1>SANE<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu77"
+                    }
+                ],
+                [
+                    "Image Capture",
+                    "",
+                    "<g1>Image Capture<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu78"
+                    }
+                ],
+                [
+                    "Mopria eSCL",
+                    "",
+                    "<g1>Mopria eSCL<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/general\/scan-documents-from-command-line.md",
+                    {
+                        "id": "tu79"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
