@@ -1,0 +1,1026 @@
+{
+    "filename": "how-to-embed-pdf-in-html.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Embed PDF in HTML",
+                    "如何在网页中嵌入PDF",
+                    "How to Embed PDF in HTML",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756865014393,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-09-01 16:25:53 +0800",
+                    "",
+                    "2025-09-01 16:25:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-09-01 16:25:53 +0800",
+                    "",
+                    "2025-09-01 16:25:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "JavaScript",
+                    "",
+                    "JavaScript",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "HTML5",
+                    "",
+                    "HTML5",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Document Viewer",
+                    "",
+                    "Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "PDF",
+                    "",
+                    "PDF",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf13_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to embed PDF in HTML.",
+                    "本文分享了如何在网页中嵌入PDF。",
+                    "The article shares how to embed PDF in HTML.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876722010,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "It lists all the possible methods.",
+                    "讨论了所有可能的方法。",
+                    " It lists all the possible methods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876734755,
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/09\/embed-pdf-in-html.jpg",
+                    "",
+                    ".\/img\/2025\/09\/embed-pdf-in-html.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf15_tu1"
+                    }
+                ],
+                [
+                    "Embedding a PDF file in HTML is useful since the user can view and edit PDF files right in the browser.",
+                    "在网页中直接嵌入PDF文件是个有用的操作，用户可以在浏览器中查看和编辑PDF文件。",
+                    "Embedding a PDF file in HTML is useful since the user can view and edit PDF files right in the browser.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876764402,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "In this article, we are going to talk about different ways to do this.",
+                    "在本文中，我们将讨论不同的嵌入方法。",
+                    " In this article, we are going to talk about different ways to do this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876792251,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Use HTML's Elements to Embed a PDF File",
+                    "使用HTML元素嵌入PDF文件",
+                    "Use HTML's Elements to Embed a PDF File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876795231,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "We can use HTML's built-in elements to embed a PDF file by specifying the URL of the PDF.",
+                    "我们可以使用HTML的内置元素通过指定PDF的URL来嵌入PDF文件。",
+                    "We can use HTML's built-in elements to embed a PDF file by specifying the URL of the PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876798415,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Use <g1>iframe<\/g1>.",
+                    "使用<g1>iframe<\/g1>。",
+                    "Use <g1>iframe<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876807144,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "(<g2>online demo<\/g2>)",
+                    "（<g2>在线演示<\/g2>）",
+                    " (<g2>online demo<\/g2>)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876811296,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Use <g1>embed<\/g1>.",
+                    "使用<g1>embed<\/g1>。",
+                    "Use <g1>embed<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876823630,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "(<g2>online demo<\/g2>)",
+                    "（<g2>在线演示<\/g2>）",
+                    " (<g2>online demo<\/g2>)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1756876811296,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Use <g1>object<\/g1>.",
+                    "使用<g1>object<\/g1>。",
+                    "Use <g1>object<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876833931,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "(<g2>online demo<\/g2>)",
+                    "（<g2>在线演示<\/g2>）",
+                    " (<g2>online demo<\/g2>)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1756876811296,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<g1>iframe<\/g1> is the recommended way to use.",
+                    "推荐使用<g1>iframe<\/g1>。",
+                    "<g1>iframe<\/g1> is the recommended way to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876839593,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "It has the best compatibility.",
+                    "它的兼容性最好。",
+                    " It has the best compatibility.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876848435,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Tag",
+                    "标签",
+                    "Tag",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876852288,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Recommended",
+                    "推荐",
+                    "Recommended",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876854401,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Fallback Support",
+                    "支持后备",
+                    "Fallback Support",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876966146,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Issues",
+                    "问题",
+                    "Issues",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876967520,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "recommended",
+                    "推荐",
+                    "recommended",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1756876854401,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "no",
+                    "不支持",
+                    "no",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876975849,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "will have border by default",
+                    "默认情况会有边框",
+                    "will have border by default",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876983523,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "more semantic",
+                    "更语义化",
+                    "more semantic",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876986273,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "yes",
+                    "支持",
+                    "yes",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876989873,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "may not work for old and mobile browsers",
+                    "可能不适用于旧版和移动浏览器",
+                    "may not work for old and mobile browsers",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876992239,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Less recommended",
+                    "不太推荐",
+                    "Less recommended",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756876995952,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "no",
+                    "不支持",
+                    "no",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1756876975849,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "may not work for old browsers",
+                    "可能不适用于旧版浏览器",
+                    "may not work for old browsers",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877004967,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "On the desktop, the browser's built-in PDF viewer will be used to open the PDF using the three tags.",
+                    "在桌面上，以上三个标签都会使用浏览器的内置PDF查看器打开PDF。",
+                    "On the desktop, the browser's built-in PDF viewer will be used to open the PDF using the three tags.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877023827,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "While on the mobile browsers, the behavior varies.",
+                    "在移动浏览器上，行为各不相同。",
+                    " While on the mobile browsers, the behavior varies.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877030656,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "On Android, the browsers will give a download link.",
+                    "在Android上，浏览器会提供下载链接。",
+                    " On Android, the browsers will give a download link.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877034007,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "On iOS, the browsers will render the first page of the PDF.",
+                    "在iOS上，浏览器将呈现PDF的第一页。",
+                    " On iOS, the browsers will render the first page of the PDF.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877037697,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "Convert the PDF to Images or HTML for Embedding",
+                    "将PDF转换为图像或HTML以嵌入PDF文件",
+                    "Convert the PDF to Images or HTML for Embedding",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877067467,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "We can use libraries like Apache PDFBox to convert PDF files to images or use pdf2htmlex to convert them to HTML beforehand to embed the PDF in HTML.",
+                    "我们可以使用Apache PDFBox等库预先将PDF文件转换为图像，或者使用pdf2htmlex转换PDF为HTML，以将其嵌入网页中。",
+                    "We can use libraries like Apache PDFBox to convert PDF files to images or use pdf2htmlex to convert them to HTML beforehand to embed the PDF in HTML.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877098490,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "Converting to images produces either blurred text or monster sized files\/network cost.",
+                    "转换成图像质量可能会下降，也可能增大体积，带来更高的网络开销。",
+                    "Converting to images produces either blurred text or monster sized files\/network cost.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877166979,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Also, text are logically lost, readers cannot perform searching or copying.",
+                    "此外，文本也无法进行搜索或复制。",
+                    " Also, text are logically lost, readers cannot perform searching or copying.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877188163,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "Converting to HTML is better.",
+                    "转换为HTML效果更好。",
+                    "Converting to HTML is better.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877193120,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "It can make viewing PDF just like viewing a normal web page.",
+                    "它可以使查看PDF就像查看普通网页一样。",
+                    " It can make viewing PDF just like viewing a normal web page.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877196544,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "But if you need to edit and annotate the PDF, it is not possible.",
+                    "但无法进行PDF编辑和注释等操作。",
+                    " But if you need to edit and annotate the PDF, it is not possible.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877227762,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "(<g1>the converted sample<\/g1>)",
+                    "（<g1>转换后的示例<\/g1>）",
+                    " (<g1>the converted sample<\/g1>)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877236970,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "Use PDF JavaScript Libraries to Embed a PDF File",
+                    "使用PDF JavaScript库嵌入PDF文件",
+                    "Use PDF JavaScript Libraries to Embed a PDF File",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877239432,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "We can use third-party PDF libraries to embed a PDF file.",
+                    "我们可以使用第三方PDF库来嵌入PDF文件。",
+                    "We can use third-party PDF libraries to embed a PDF file.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877244103,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "It has the following benefits:",
+                    "它有以下好处：",
+                    " It has the following benefits:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877249096,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "We can provide a unified experience for different browsers and platforms.",
+                    "我们可以为不同的浏览器和平台提供统一的体验。",
+                    "We can provide a unified experience for different browsers and platforms.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877252336,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "We can customize the user interface.",
+                    "我们可以定制用户界面。",
+                    "We can customize the user interface.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877256488,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "We can use more features like PDF annotation and PDF editing.",
+                    "我们可以使用更多功能，如PDF注释和PDF编辑。",
+                    "We can use more features like PDF annotation and PDF editing.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877258464,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "We can prevent the PDF file from being downloaded for security.",
+                    "出于安全考虑，我们可以阻止下载PDF文件。",
+                    "We can prevent the PDF file from being downloaded for security.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877263640,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Of course, since the rendering happens on the client side, it has higher requirements for the client.",
+                    "当然，由于渲染发生在客户端，因此对客户端有更高的要求。",
+                    "Of course, since the rendering happens on the client side, it has higher requirements for the client.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877268176,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "There are several libraries to use:",
+                    "有几个库可供使用：",
+                    "There are several libraries to use:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877272041,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "PDF.js.",
+                    "PDF.js。",
+                    "PDF.js.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877273752,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "(<g1>online demo<\/g1>)",
+                    "（<g1>在线演示<\/g1>）",
+                    " (<g1>online demo<\/g1>)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1756877281242,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "PDFium.js.",
+                    "PDFium.js。",
+                    "PDFium.js.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877283000,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "(<g1>online demo<\/g1>)",
+                    "（<g1>在线演示<\/g1>）",
+                    " (<g1>online demo<\/g1>)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1756877281242,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "<g1>PDF.js<\/g1> and <g2>PDFium.js<\/g2> provides PDF rendering functions, but they do not have a decent viewer.",
+                    "<g1>PDF.js<\/g1>和<g2>PDFium.js<\/g2>提供了PDF渲染功能，但它们没有一个像样的查看器。",
+                    "<g1>PDF.js<\/g1> and <g2>PDFium.js<\/g2> provides PDF rendering functions, but they do not have a decent viewer.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877293936,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "<g1>Dynamsoft Document Viewer<\/g1> uses PDFium as the engine and provides full-featured UI to view and edit PDFs.",
+                    "<g1>Dynamsoft Document Viewer<\/g1>使用PDFium作为引擎，并提供功能齐全的UI来查看和编辑PDF。",
+                    "<g1>Dynamsoft Document Viewer<\/g1> uses PDFium as the engine and provides full-featured UI to view and edit PDFs.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877308651,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "It is the more recommended library to use.",
+                    "更推荐使用它来嵌入PDF。",
+                    " It is the more recommended library to use.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877327208,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Try the online demo of Dynamsoft Document Viewer",
+                    "Dynamsoft Document Viewer的在线演示",
+                    "<g1>Try the online demo of Dynamsoft Document Viewer<\/g1>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877337211,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "Summary",
+                    "总结",
+                    "Summary",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877340112,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Here is a summary of the three methods.",
+                    "以下是对这三种方法的总结。",
+                    "Here is a summary of the three methods.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877342128,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Method",
+                    "方法",
+                    "Method",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877344600,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "Technology",
+                    "技术",
+                    "Technology",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877348401,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "Pros",
+                    "优点",
+                    "Pros",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877349905,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "Cons",
+                    "缺点",
+                    "Cons",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877351648,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "Best For",
+                    "适用于",
+                    "Best For",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877425715,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "Native HTML Elements",
+                    "原生HTML元素",
+                    "Native HTML Elements",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877356920,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "iframe, object, embed",
+                    "iframe、object、embed",
+                    "iframe, object, embed",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877442148,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "• Simple to implement<x1\/>• Utilizes browser's built-in viewer",
+                    "•易于实现<x1\/>•利用浏览器的内置查看器",
+                    "• Simple to implement<x1\/>• Utilizes browser's built-in viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877376456,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "• Inconsistent user experience (especially on mobile)<x1\/>• Limited control over UI and functionality<x2\/>• No ability to prevent download",
+                    "•用户体验不一致（尤其是在移动设备上）<x1\/>•对UI和功能的控制有限<x2\/>•无法阻止下载",
+                    "• Inconsistent user experience (especially on mobile)<x1\/>• Limited control over UI and functionality<x2\/>• No ability to prevent download",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877385880,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "Quick integration where basic viewing is sufficient and consistency across devices is not critical.",
+                    "快速集成基本的PDF查看功能的情况",
+                    "Quick integration where basic viewing is sufficient and consistency across devices is not critical.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877419921,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "Conversion to Images or HTML",
+                    "转换为图像或HTML",
+                    "Conversion to Images or HTML",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877429879,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "PDFBox, pdf2htmlEX",
+                    "PDFBox、pdf2htmlEX",
+                    "PDFBox, pdf2htmlEX",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877435418,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "• Consistent rendering across all browsers<x1\/>• Feels like a native web page when converted to HTML",
+                    "•统一的查看体验<x1\/>•转换为HTML时感觉就像原生网页",
+                    "• Consistent rendering across all browsers<x1\/>• Feels like a native web page when converted to HTML",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877493250,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "• Loss of functionality (search, copy, edit)<x1\/>• Can create large files (images) or complex HTML",
+                    "•功能缺失（搜索、复制、编辑）<x1\/>•可能生成较大的文件（图像）或复杂的HTML",
+                    "• Loss of functionality (search, copy, edit)<x1\/>• Can create large files (images) or complex HTML",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877510957,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "Archival documents where preserving visual layout is more important than interactivity.",
+                    "不需要怎么编辑的档案文件。",
+                    "Archival documents where preserving visual layout is more important than interactivity.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877540851,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "JavaScript Libraries",
+                    "JavaScript库",
+                    "JavaScript Libraries",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877552264,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "PDF.js, PDFium.js,<x1\/>Dynamsoft Document Viewer",
+                    "PDF.js、PDFium.js、<x1\/>Dynamsoft Document Viewer",
+                    "PDF.js, PDFium.js,<x1\/>Dynamsoft Document Viewer",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877571410,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "• Most uniform experience across platforms<x1\/>• Full feature set (annotation, editing, etc.)<x2\/>• Customizable UI<x3\/>• Security controls (e.g., disable download)",
+                    "•跨平台最统一的体验<x1\/>•完整的功能集（注释、编辑等）<x2\/>•可定制的UI<x3\/>•安全控制（例如禁用下载）",
+                    "• Most uniform experience across platforms<x1\/>• Full feature set (annotation, editing, etc.)<x2\/>• Customizable UI<x3\/>• Security controls (e.g., disable download)",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877581426,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "• Higher client-side requirements (JavaScript, processing power)<x1\/>• More complex implementation<x2\/>• Larger initial page load",
+                    "•更高的客户端要求（JavaScript、处理能力）<x1\/>•更复杂的实现<x2\/>•较大的初始页面加载量",
+                    "• Higher client-side requirements (JavaScript, processing power)<x1\/>• More complex implementation<x2\/>• Larger initial page load",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877615210,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "Professional applications requiring a reliable, feature-rich, and customizable PDF viewer with a consistent interface for all users.",
+                    "专业应用程序，需要一个可靠、功能丰富、可定制的PDF查看器，并为所有用户提供一致的界面。",
+                    "Professional applications requiring a reliable, feature-rich, and customizable PDF viewer with a consistent interface for all users.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1756877623211,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "Get the source code of the demos to have a try:",
+                    "欢迎下载源代码并尝试使用：",
+                    "Get the source code of the demos to have a try:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/ddv\/how-to-embed-pdf-in-html.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1681367250345,
+                        "id": "tu65"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
