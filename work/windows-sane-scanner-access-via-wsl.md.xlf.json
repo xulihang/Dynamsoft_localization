@@ -1,0 +1,511 @@
+{
+    "filename": "windows-sane-scanner-access-via-wsl.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md": [
+                [
+                    "post",
+                    "",
+                    "post",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf1_tu1"
+                    }
+                ],
+                [
+                    "publish",
+                    "",
+                    "publish",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf2_tu1"
+                    }
+                ],
+                [
+                    "true",
+                    "",
+                    "true",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf3_tu1"
+                    }
+                ],
+                [
+                    "How to Use SANE to Scan Documents on Windows",
+                    "如何在Windows上使用SANE扫描文档",
+                    "How to Use SANE to Scan Documents on Windows",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763083156615,
+                        "id": "sd1_sf1_sg1_sf4_tu1"
+                    }
+                ],
+                [
+                    "Lihang Xu",
+                    "",
+                    "Lihang Xu",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf5_tu1"
+                    }
+                ],
+                [
+                    "tony@dynamsoft.com",
+                    "",
+                    "tony@dynamsoft.com",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg2_sf6_tu1"
+                    }
+                ],
+                [
+                    "2025-11-13 15:28:53 +0800",
+                    "",
+                    "2025-11-13 15:28:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf7_tu1"
+                    }
+                ],
+                [
+                    "2025-11-13 15:28:53 +0800",
+                    "",
+                    "2025-11-13 15:28:53 +0800",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf8_tu1"
+                    }
+                ],
+                [
+                    "Document Scanning",
+                    "",
+                    "Document Scanning",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg3_sf9_tu1"
+                    }
+                ],
+                [
+                    "SANE",
+                    "",
+                    "SANE",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf10_tu1"
+                    }
+                ],
+                [
+                    "Linux",
+                    "",
+                    "Linux",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf11_tu1"
+                    }
+                ],
+                [
+                    "Web TWAIN",
+                    "",
+                    "Web TWAIN",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg4_sf12_tu1"
+                    }
+                ],
+                [
+                    "The article shares how to use BlazorWebView to build a Windows Forms document scanning desktop app using Dynamic Web TWAIN.",
+                    "",
+                    "The article shares how to use BlazorWebView to build a Windows Forms document scanning desktop app using Dynamic Web TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf13_tu1"
+                    }
+                ],
+                [
+                    ".\/img\/2025\/11\/wsl-sane.jpg",
+                    "",
+                    ".\/img\/2025\/11\/wsl-sane.jpg",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "sd1_sf1_sg1_sf14_tu1"
+                    }
+                ],
+                [
+                    "SANE is an API to access document scanners, which is mainly used in UNIX systems.",
+                    "SANE是用于连接文档扫描仪的一套API，主要用于UNIX系统。",
+                    "SANE is an API to access document scanners, which is mainly used in UNIX systems.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763083423787,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "It has several advantages over TWAIN (another document scanning API that is mainly for Windows):",
+                    "与TWAIN（另一种主要用于Windows的文档扫描API）相比，它有几个优点：",
+                    " It has several advantages over TWAIN (another document scanning API that is mainly for Windows):",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763083426745,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "TWAIN does not separate the user-interface from the driver of a device.",
+                    "TWAIN不会将用户界面与设备的驱动程序分开。",
+                    "TWAIN does not separate the user-interface from the driver of a device.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763083432678,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "This, unfortunately, makes it difficult, if not impossible, to provide network transparent access to image acquisition devices.",
+                    "这样很难通过网络访问图像捕获设备。",
+                    " This, unfortunately, makes it difficult, if not impossible, to provide network transparent access to image acquisition devices.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763083630805,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "SANE, on the other hand, can be used in a command-line environment without a problem.",
+                    "而SANE则可以轻松地在纯命令行环境中使用。",
+                    " SANE, on the other hand, can be used in a command-line environment without a problem.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763083714641,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "SANE has built-in support for a wide range of scanners while we have to download and install separate drivers to use TWAIN.",
+                    "SANE内置了对各种扫描仪的支持，而使用TWAIN必须下载并安装单独的驱动程序。",
+                    "SANE has built-in support for a wide range of scanners while we have to download and install separate drivers to use TWAIN.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763083739386,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "There were attempts to make SANE run on Windows.",
+                    "有一些在Windows上运行SANE的尝试。",
+                    "There were attempts to make SANE run on Windows.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763083763944,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "But most of them still require a Linux host.",
+                    "但大多数做法仍然需要Linux环境。",
+                    " But most of them still require a Linux host.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090468114,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "With Windows Subsystem for Linux (WSL), this process has been made easier.",
+                    "借助Windows的Linux子系统（WSL），这一过程变得更加容易。",
+                    " With Windows Subsystem for Linux (WSL), this process has been made easier.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090478035,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Read on to learn about how to do this.",
+                    "继续阅读以了解如何做到这一点。",
+                    "Read on to learn about how to do this.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090486256,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Connect USB Devices to WSL",
+                    "将USB设备连接到WSL",
+                    "Connect USB Devices to WSL",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090490312,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "After installation of a Linux WSL distribution, set its version to 2 to use WSL 2.",
+                    "安装Linux WSL发行版后，将其版本设置为2以使用WSL 2。",
+                    "After installation of a Linux WSL distribution, set its version to 2 to use WSL 2.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090493175,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "Install USBIPD on Windows.",
+                    "在Windows上安装USBIPD。",
+                    "Install USBIPD on Windows.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090501775,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "You can find its installers on <g1>GitHub<\/g1>.",
+                    "可以在<g1>GitHub<\/g1>上找到它的安装程序。",
+                    " You can find its installers on <g1>GitHub<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090506618,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Use USBIPD to connect an USB device to WSL.",
+                    "使用USBIPD将USB设备连接到WSL。",
+                    "Use USBIPD to connect an USB device to WSL.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090510607,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Run <g1>lsusb<\/g1> in Linux and you can find the USB device in the list.",
+                    "在Linux中运行<g1>lsusb<\/g1>，可以在列表中找到USB设备。",
+                    "Run <g1>lsusb<\/g1> in Linux and you can find the USB device in the list.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090520116,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "Use SANE to Scan Documents",
+                    "使用SANE扫描文档",
+                    "Use SANE to Scan Documents",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090545776,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Install SANE.",
+                    "安装SANE。",
+                    "Install SANE.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090549071,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Here, we are installing for Debian.",
+                    "这里，我们的系统是Debian。",
+                    " Here, we are installing for Debian.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090563466,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Use the <g1>scanimage<\/g1> command-line tool to list scanners and scan documents.",
+                    "使用<g1>scanimage<\/g1>命令行工具列出扫描仪和扫描文档。",
+                    "Use the <g1>scanimage<\/g1> command-line tool to list scanners and scan documents.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090565599,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Scan Documents in the Browser",
+                    "在浏览器中扫描文档",
+                    "Scan Documents in the Browser",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090571336,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "Next, we are going to use Dynamic Web TWAIN SDK to create a web page to scan documents in a browser on Windows and uses the SANE backend running in the WSL.",
+                    "接下来，我们将使用Dynamic Web TWAIN SDK创建一个网页，在Windows上的浏览器中扫描文档，并使用WSL中运行的SANE后端。",
+                    "Next, we are going to use Dynamic Web TWAIN SDK to create a web page to scan documents in a browser on Windows and uses the SANE backend running in the WSL.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090573986,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "On WSL, install Dynamic Web TWAIN Service.",
+                    "在WSL上，安装Dynamic Web TWAIN服务。",
+                    "On WSL, install Dynamic Web TWAIN Service.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090602370,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "You can find the installers on its <g1>npm package<\/g1>.",
+                    "可以在它的<g1>npm包<\/g1>上找到安装程序。",
+                    " You can find the installers on its <g1>npm package<\/g1>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090615416,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "The service will work as an HTTP server to communicate between web pages and scanners.",
+                    "该服务将作为HTTP服务器在网页和扫描仪之间进行通信。",
+                    "The service will work as an HTTP server to communicate between web pages and scanners.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090621129,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "You can check if it is installed by visiting <x1\/>.",
+                    "您可以通过访问<x1\/>来检查它是否已安装。",
+                    " You can check if it is installed by visiting <x1\/>.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090632888,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "You also need to start two processes when the system boots.",
+                    "每次系统启动时，还需要启动两个进程。",
+                    "You also need to start two processes when the system boots.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090660746,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Here is the command to launch them:",
+                    "以下是启动它们的命令：",
+                    " Here is the command to launch them:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090664007,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "You can create a service to start them by yourself.",
+                    "可以自己创建一个服务来启动它们。",
+                    "You can create a service to start them by yourself.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090675337,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Write a web page to scan documents and save as PDF with the following code:",
+                    "使用以下代码编写一个网页来扫描文档并另存为PDF：",
+                    "Write a web page to scan documents and save as PDF with the following code:",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090678190,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Now, we can use SANE to scan documents on Windows.",
+                    "现在，我们可以使用SANE在Windows上扫描文档了。",
+                    "Now, we can use SANE to scan documents on Windows.",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090687660,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "<x1\/>demo page<x2\/>",
+                    "<x1\/>演示页面<x2\/>",
+                    "<x1\/>demo page<x2\/>",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763090690336,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "{% include cta_dwt.md %}",
+                    "",
+                    "{% include cta_dwt.md %}",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "Source Code",
+                    "源代码",
+                    "Source Code",
+                    "\/C:\/Users\/admin\/Desktop\/codepool\/_blogs\/Document Scanning\/OS\/windows-sane-scanner-access-via-wsl.md",
+                    {
+                        "note": "",
+                        "creator": "admin",
+                        "createdTime": 1614057850550,
+                        "id": "tu24"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
